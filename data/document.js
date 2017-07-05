@@ -87,7 +87,83 @@
         "children":[{
             "pageName":"充值成功",
             "type":"Wireframe",
-            "url":"充值成功.html"}]}]},
+            "url":"充值成功.html"}]},
+{
+        "pageName":"360",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"主页",
+            "type":"Wireframe",
+            "url":"主页_1.html",
+            "children":[{
+                "pageName":"商品列表",
+                "type":"Wireframe",
+                "url":"商品列表_1.html",
+                "children":[{
+                    "pageName":"选择配送农场",
+                    "type":"Wireframe",
+                    "url":"选择配送农场_1.html"},
+{
+                    "pageName":"商品详情",
+                    "type":"Wireframe",
+                    "url":"商品详情_1.html"}]},
+{
+                "pageName":"农场列表",
+                "type":"Wireframe",
+                "url":"农场列表_1.html",
+                "children":[{
+                    "pageName":"农场详情",
+                    "type":"Wireframe",
+                    "url":"农场详情_1.html"},
+{
+                    "pageName":"农旅产品详情",
+                    "type":"Wireframe",
+                    "url":"农旅产品详情_1.html"}]}]},
+{
+            "pageName":"订单确认页",
+            "type":"Wireframe",
+            "url":"订单确认页_1.html",
+            "children":[{
+                "pageName":"确认预约时间",
+                "type":"Wireframe",
+                "url":"确认预约时间_1.html"},
+{
+                "pageName":"订单支付页（农旅）",
+                "type":"Wireframe",
+                "url":"订单支付页（农旅）_1.html"},
+{
+                "pageName":"订单支付页（蔬果）",
+                "type":"Wireframe",
+                "url":"订单支付页（蔬果）_1.html"},
+{
+                "pageName":"支付成功（农旅）",
+                "type":"Wireframe",
+                "url":"支付成功（农旅）_1.html"},
+{
+                "pageName":"支付成功（蔬果）",
+                "type":"Wireframe",
+                "url":"支付成功（蔬果）_1.html"}]},
+{
+            "pageName":"订单列表",
+            "type":"Wireframe",
+            "url":"订单列表_1.html",
+            "children":[{
+                "pageName":"农旅订单详情",
+                "type":"Wireframe",
+                "url":"农旅订单详情_1.html"},
+{
+                "pageName":"蔬果订单详情",
+                "type":"Wireframe",
+                "url":"蔬果订单详情_1.html"}]},
+{
+            "pageName":"会员充值",
+            "type":"Wireframe",
+            "url":"会员充值_1.html",
+            "children":[{
+                "pageName":"充值成功",
+                "type":"Wireframe",
+                "url":"充值成功_1.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

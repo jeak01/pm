@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1499239739277.28),
+  "generationDate":new Date(1499241015361.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1567,7 +1567,7 @@
                 "fillType":"solid",
                 "color":0xFFCCCCCC},
               "size":{
-                "width":375,
+                "width":360,
                 "height":40}},
             "adaptiveStyles":{
 },
@@ -1583,7 +1583,7 @@
                     "fillType":"solid",
                     "color":0xFFCCCCCC},
                   "size":{
-                    "width":375,
+                    "width":360,
                     "height":40}},
                 "adaptiveStyles":{
 }}],
@@ -1600,10 +1600,10 @@
                 "fillType":"solid",
                 "color":0xFFFFFF},
               "location":{
-                "x":46,
+                "x":44,
                 "y":3},
               "size":{
-                "width":20,
+                "width":19,
                 "height":20},
               "cornerRadiusTopLeft":"20"},
             "adaptiveStyles":{
@@ -1620,10 +1620,10 @@
                     "fillType":"solid",
                     "color":0xFFFFFF},
                   "location":{
-                    "x":46,
+                    "x":44,
                     "y":3},
                   "size":{
-                    "width":20,
+                    "width":19,
                     "height":20},
                   "cornerRadiusTopLeft":"20"},
                 "adaptiveStyles":{
@@ -1639,7 +1639,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":46,
+                "x":44,
                 "y":24},
               "size":{
                 "width":21,
@@ -1656,7 +1656,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":46,
+                    "x":44,
                     "y":24},
                   "size":{
                     "width":21,
@@ -1676,10 +1676,10 @@
                 "fillType":"solid",
                 "color":0xFFFFFF},
               "location":{
-                "x":135,
+                "x":130,
                 "y":3},
               "size":{
-                "width":20,
+                "width":19,
                 "height":20},
               "cornerRadiusTopLeft":"20"},
             "adaptiveStyles":{
@@ -1696,10 +1696,10 @@
                     "fillType":"solid",
                     "color":0xFFFFFF},
                   "location":{
-                    "x":135,
+                    "x":130,
                     "y":3},
                   "size":{
-                    "width":20,
+                    "width":19,
                     "height":20},
                   "cornerRadiusTopLeft":"20"},
                 "adaptiveStyles":{
@@ -1715,7 +1715,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":135,
+                "x":130,
                 "y":24},
               "size":{
                 "width":21,
@@ -1732,7 +1732,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":135,
+                    "x":130,
                     "y":24},
                   "size":{
                     "width":21,
@@ -1752,10 +1752,10 @@
                 "fillType":"solid",
                 "color":0xFFFFFF},
               "location":{
-                "x":220,
+                "x":211,
                 "y":3},
               "size":{
-                "width":20,
+                "width":19,
                 "height":20},
               "cornerRadiusTopLeft":"20"},
             "adaptiveStyles":{
@@ -1772,10 +1772,10 @@
                     "fillType":"solid",
                     "color":0xFFFFFF},
                   "location":{
-                    "x":220,
+                    "x":211,
                     "y":3},
                   "size":{
-                    "width":20,
+                    "width":19,
                     "height":20},
                   "cornerRadiusTopLeft":"20"},
                 "adaptiveStyles":{
@@ -1791,7 +1791,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":216,
+                "x":207,
                 "y":24},
               "size":{
                 "width":31,
@@ -1808,7 +1808,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":216,
+                    "x":207,
                     "y":24},
                   "size":{
                     "width":31,
@@ -1828,10 +1828,10 @@
                 "fillType":"solid",
                 "color":0xFFFFFF},
               "location":{
-                "x":303,
+                "x":291,
                 "y":3},
               "size":{
-                "width":20,
+                "width":19,
                 "height":20},
               "cornerRadiusTopLeft":"20"},
             "adaptiveStyles":{
@@ -1848,10 +1848,10 @@
                     "fillType":"solid",
                     "color":0xFFFFFF},
                   "location":{
-                    "x":303,
+                    "x":291,
                     "y":3},
                   "size":{
-                    "width":20,
+                    "width":19,
                     "height":20},
                   "cornerRadiusTopLeft":"20"},
                 "adaptiveStyles":{
@@ -1867,7 +1867,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":293,
+                "x":281,
                 "y":24},
               "size":{
                 "width":41,
@@ -1884,7 +1884,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":293,
+                    "x":281,
                     "y":24},
                   "size":{
                     "width":41,
