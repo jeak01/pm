@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情_1.html",
-  "generationDate":new Date(1499241265652.39),
+  "generationDate":new Date(1499242405420.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u0.png"}},
+            "normal~":"images/商品列表_1/配送设置面板_u142.png"}},
 {
           "id":"a1dbc8a8240e420d81e16f921fdbb770",
           "label":"",
@@ -387,7 +387,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"2d7697c083134cf28f5953864517ddad",
           "label":"",
@@ -444,7 +444,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"b4d4fa4356fe493d92d14f8dc262ddf6",
           "label":"",
@@ -698,7 +698,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"1db02059858a47ef8ff3d86465c1bdcd",
           "label":"",
@@ -786,7 +786,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"7f4ad804baee4a46bb7673f928b7919a",
           "label":"",
@@ -1102,7 +1102,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"c28f4718f393456caca7bcf7b3e68eb1",
           "label":"",
@@ -1144,7 +1144,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":11,
+              "x":5,
               "y":487},
             "size":{
               "width":349,
@@ -1160,7 +1160,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":11,
+                  "x":5,
                   "y":487},
                 "size":{
                   "width":349,
@@ -1169,47 +1169,6 @@
 }}],
           "images":{
             "normal~":"images/农场详情/u59.png"}},
-{
-          "id":"ef61600a6ada4e069537fc16f8414140",
-          "label":"",
-          "type":"dynamicPanel",
-          "styleType":"dynamicPanel",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":627},
-            "size":{
-              "width":10,
-              "height":10}},
-          "adaptiveStyles":{
-},
-          "fixedHorizontal":"left",
-          "fixedMarginHorizontal":0,
-          "fixedVertical":"bottom",
-          "fixedMarginVertical":0,
-          "fixedKeepInFront":true,
-          "scrollbars":"none",
-          "fitToContent":true,
-          "propagate":false,
-          "diagrams":[{
-              "id":"fd708662904a4b69953c89daa46780d9",
-              "label":"状态1",
-              "type":"Axure:PanelDiagram",
-              "objects":[{
-                  "id":"d7f19f1252b144a1a529bf65e3d5b5a8",
-                  "label":"",
-                  "parentDynamicPanel":"ef61600a6ada4e069537fc16f8414140",
-                  "type":"referenceDiagramObject",
-                  "styleType":"referenceDiagramObject",
-                  "visible":true,
-                  "style":{
-                    "size":{
-                      "width":375,
-                      "height":40}},
-                  "adaptiveStyles":{
-},
-                  "masterId":"c6f7133f0f3d4b358ae2860c736c4901"}]}]},
 {
           "id":"926367154230442599e1dedddbf0927f",
           "label":"",
@@ -1328,7 +1287,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"3a5e0a8d222047d8bb3d5f1e3ba6f6f2",
           "label":"",
@@ -1488,7 +1447,7 @@
                       "description":"在 当前窗口 打开 确认预约时间",
                       "target":{
                         "targetType":"page",
-                        "url":"确认预约时间.html",
+                        "url":"确认预约时间_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1528,12 +1487,53 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u94.png"}}]}},
+            "normal~":"images/农场详情/u94.png"}},
+{
+          "id":"9c7d632cedad4b649dfdf82f782401ca",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":627},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":0,
+          "fixedVertical":"bottom",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"7e7183dc66ee4218810b4a9749e930b4",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"04456248fc8245468902f87b4896021d",
+                  "label":"",
+                  "parentDynamicPanel":"9c7d632cedad4b649dfdf82f782401ca",
+                  "type":"referenceDiagramObject",
+                  "styleType":"referenceDiagramObject",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":360,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "masterId":"9c8d789cd9ea4344a50ed483251cd481"}]}]}]}},
   "masters":{
-    "c6f7133f0f3d4b358ae2860c736c4901":{
-      "packageId":"c6f7133f0f3d4b358ae2860c736c4901",
+    "9c8d789cd9ea4344a50ed483251cd481":{
+      "packageId":"9c8d789cd9ea4344a50ed483251cd481",
       "type":"Axure:Master",
-      "name":"底部菜单",
+      "name":"底部菜单_1",
       "notes":{
 },
       "style":{
@@ -1919,7 +1919,7 @@
                         "description":"在 当前窗口 打开 商品列表",
                         "target":{
                           "targetType":"page",
-                          "url":"商品列表.html",
+                          "url":"商品列表_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},
@@ -1949,7 +1949,7 @@
                         "description":"在 当前窗口 打开 主页",
                         "target":{
                           "targetType":"page",
-                          "url":"主页.html",
+                          "url":"主页_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true}]}}},
@@ -2076,77 +2076,77 @@
       "scriptId":"u59"},
     "aea6dbc9c3cf413b9fff30019c194df5":{
       "scriptId":"u60"},
-    "ef61600a6ada4e069537fc16f8414140":{
-      "scriptId":"u61"},
-    "d7f19f1252b144a1a529bf65e3d5b5a8":{
-      "scriptId":"u62",
-      "87500d8b8b844c309601540b4619d68c":{
-        "scriptId":"u63"},
-      "08515cc118c040c3999f325ab93566f2":{
-        "scriptId":"u64"},
-      "c969752f566a49a6a203e49df35fab25":{
-        "scriptId":"u65"},
-      "325af96594fe47e187b0c48c8466ada8":{
-        "scriptId":"u66"},
-      "506791ca29ed45d4a2ce7c6554b086f0":{
-        "scriptId":"u67"},
-      "2095c2f0c9424993952f697a18668ec6":{
-        "scriptId":"u68"},
-      "b01f71406add42228a7c6d6eee864c12":{
-        "scriptId":"u69"},
-      "2a9a97f3cf084f5d8e9c58efa99246e4":{
-        "scriptId":"u70"},
-      "3df70097703244faa1527a5a494c8c42":{
-        "scriptId":"u71"},
-      "f7f494690f7647dba3345b464317963a":{
-        "scriptId":"u72"},
-      "7b6f02963717457387f89b9f67fcafd8":{
-        "scriptId":"u73"},
-      "3b49bb4a854648309a5eacee1c6f6550":{
-        "scriptId":"u74"},
-      "042cb23104d742f2ae2b63e077e1712d":{
-        "scriptId":"u75"},
-      "a93b06fed9a846fcbebd845a157d74d3":{
-        "scriptId":"u76"},
-      "0a65b7584c6c43f187543b1bed0f9620":{
-        "scriptId":"u77"},
-      "a061bd47263944abac34483694e25ef7":{
-        "scriptId":"u78"},
-      "7059bc5e155a401bac0768cc3d613ce5":{
-        "scriptId":"u79"},
-      "c7a87c87752f49fba0d0cb8e99c88f4a":{
-        "scriptId":"u80"},
-      "947fc150c84545bc959a65c3c98bf4d6":{
-        "scriptId":"u81"},
-      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
-        "scriptId":"u82"}},
     "926367154230442599e1dedddbf0927f":{
-      "scriptId":"u83"},
+      "scriptId":"u61"},
     "a1dc1fc14bd240e3979108acf290a745":{
-      "scriptId":"u84"},
+      "scriptId":"u62"},
     "a7c92ee445cc4b15bc707f56470cebb8":{
-      "scriptId":"u85"},
+      "scriptId":"u63"},
     "430789f3c79c48e09494719dc27ad2dd":{
-      "scriptId":"u86"},
+      "scriptId":"u64"},
     "b6da74773c5c4e6b8b624ecb10fd70dc":{
-      "scriptId":"u87"},
+      "scriptId":"u65"},
     "3a5e0a8d222047d8bb3d5f1e3ba6f6f2":{
-      "scriptId":"u88"},
+      "scriptId":"u66"},
     "582c32414e064d1499caea14bb28545f":{
-      "scriptId":"u89"},
+      "scriptId":"u67"},
     "fa523b58609d4e33a28207420d927e8d":{
-      "scriptId":"u90"},
+      "scriptId":"u68"},
     "feec3c1ee6be4e6fb3f2a1754c6ed7c7":{
-      "scriptId":"u91"},
+      "scriptId":"u69"},
     "df2a257608854f2b870bbe71e397ab30":{
-      "scriptId":"u92"},
+      "scriptId":"u70"},
     "f11454e26a9a4f31874425b2573a570e":{
-      "scriptId":"u93"},
+      "scriptId":"u71"},
     "2222bebc9332481fac41a3995748eff7":{
-      "scriptId":"u94"},
+      "scriptId":"u72"},
     "6d778d5c81ee4c14a472c9a2f8d8a9b0":{
-      "scriptId":"u95"},
+      "scriptId":"u73"},
     "ae76070e267045a5933e8f8bbd1a5bd0":{
-      "scriptId":"u96"},
+      "scriptId":"u74"},
     "e9eab0d1656b4a3ca40e3d53fa845930":{
-      "scriptId":"u97"}}});
+      "scriptId":"u75"},
+    "9c7d632cedad4b649dfdf82f782401ca":{
+      "scriptId":"u76"},
+    "04456248fc8245468902f87b4896021d":{
+      "scriptId":"u77",
+      "87500d8b8b844c309601540b4619d68c":{
+        "scriptId":"u78"},
+      "08515cc118c040c3999f325ab93566f2":{
+        "scriptId":"u79"},
+      "c969752f566a49a6a203e49df35fab25":{
+        "scriptId":"u80"},
+      "325af96594fe47e187b0c48c8466ada8":{
+        "scriptId":"u81"},
+      "506791ca29ed45d4a2ce7c6554b086f0":{
+        "scriptId":"u82"},
+      "2095c2f0c9424993952f697a18668ec6":{
+        "scriptId":"u83"},
+      "b01f71406add42228a7c6d6eee864c12":{
+        "scriptId":"u84"},
+      "2a9a97f3cf084f5d8e9c58efa99246e4":{
+        "scriptId":"u85"},
+      "3df70097703244faa1527a5a494c8c42":{
+        "scriptId":"u86"},
+      "f7f494690f7647dba3345b464317963a":{
+        "scriptId":"u87"},
+      "7b6f02963717457387f89b9f67fcafd8":{
+        "scriptId":"u88"},
+      "3b49bb4a854648309a5eacee1c6f6550":{
+        "scriptId":"u89"},
+      "042cb23104d742f2ae2b63e077e1712d":{
+        "scriptId":"u90"},
+      "a93b06fed9a846fcbebd845a157d74d3":{
+        "scriptId":"u91"},
+      "0a65b7584c6c43f187543b1bed0f9620":{
+        "scriptId":"u92"},
+      "a061bd47263944abac34483694e25ef7":{
+        "scriptId":"u93"},
+      "7059bc5e155a401bac0768cc3d613ce5":{
+        "scriptId":"u94"},
+      "c7a87c87752f49fba0d0cb8e99c88f4a":{
+        "scriptId":"u95"},
+      "947fc150c84545bc959a65c3c98bf4d6":{
+        "scriptId":"u96"},
+      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
+        "scriptId":"u97"}}}});

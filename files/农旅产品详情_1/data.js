@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅产品详情_1.html",
-  "generationDate":new Date(1499241265833.51),
+  "generationDate":new Date(1499242405559.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -547,7 +547,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"16882a03adbc42498bbe79586f3d05b9",
           "label":"",
@@ -641,7 +641,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"d99648621d8c4b8e91eb346c6aec293b",
           "label":"",
@@ -830,7 +830,7 @@
                               "description":"在 当前窗口 打开 确认预约时间",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认预约时间.html",
+                                "url":"确认预约时间_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

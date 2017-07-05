@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认预约时间_1.html",
-  "generationDate":new Date(1499241266357.86),
+  "generationDate":new Date(1499242405909.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u0.png"}},
+            "normal~":"images/商品列表_1/配送设置面板_u142.png"}},
 {
           "id":"1c9753e476004273ba182c8c8d600768",
           "label":"",
@@ -303,7 +303,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"8563c54b03694184a6e61894f18c5a07",
           "label":"",
@@ -385,7 +385,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"bc043ae5ad894e2488cd3e61313c58ef",
           "label":"",
@@ -531,7 +531,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"9c3194cd455d45ffac95b35be52e2891",
           "label":"",
@@ -712,7 +712,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"131df429c53b40d38beec2ee1f35274f",
           "label":"",
@@ -799,7 +799,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"44a03531d242448d9a499b1e724bf007",
           "label":"",
@@ -1037,7 +1037,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"dbbcf5af320842a3be64abad9de671c5",
           "label":"",
@@ -1150,7 +1150,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"714e424ea7ad4787a9367cd827f238c3",
           "label":"",
@@ -1263,7 +1263,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"49d965514d0c4731b45ef4368ebfa86e",
           "label":"",
@@ -1376,7 +1376,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"cea66fa3d07349d79578ba53ec988a8c",
           "label":"",
@@ -1522,7 +1522,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u86.png"}},
+            "normal~":"images/农场详情_1/u64.png"}},
 {
           "id":"9a7952f0d4b34765bbe2668a8b256845",
           "label":"",

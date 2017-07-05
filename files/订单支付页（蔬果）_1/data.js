@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（蔬果）_1.html",
-  "generationDate":new Date(1499241266604.02),
+  "generationDate":new Date(1499242406224.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u0.png"}},
+            "normal~":"images/商品列表_1/配送设置面板_u142.png"}},
 {
           "id":"3d730967bb3547f6b4438449fe3e6f95",
           "label":"",
@@ -276,7 +276,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"83d14489f468442992c212f6aeab4bf7",
           "label":"",
@@ -331,7 +331,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"69aa5017cec04afb8d7cfeb1f4eac63e",
           "label":"",

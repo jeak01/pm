@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情_1.html",
-  "generationDate":new Date(1499241267198.42),
+  "generationDate":new Date(1499242406684.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u0.png"}},
+            "normal~":"images/商品列表_1/配送设置面板_u142.png"}},
 {
           "id":"95463b67a8194076af9add9814e29a27",
           "label":"",
@@ -1314,7 +1314,7 @@
                               "description":"在 当前窗口 打开 农场列表",
                               "target":{
                                 "targetType":"page",
-                                "url":"农场列表.html",
+                                "url":"农场列表_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

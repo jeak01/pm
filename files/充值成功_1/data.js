@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功_1.html",
-  "generationDate":new Date(1499241267528.64),
+  "generationDate":new Date(1499242407090.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u0.png"}},
+            "normal~":"images/商品列表_1/配送设置面板_u142.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -334,7 +334,7 @@
                       "description":"在 当前窗口 打开 主页",
                       "target":{
                         "targetType":"page",
-                        "url":"主页.html",
+                        "url":"主页_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

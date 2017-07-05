@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表_1.html",
-  "generationDate":new Date(1499241265423.24),
+  "generationDate":new Date(1499242405126.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1449,47 +1449,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"249cbee3fb5e4c26a3910b55920511de",
-          "label":"",
-          "type":"dynamicPanel",
-          "styleType":"dynamicPanel",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":627},
-            "size":{
-              "width":10,
-              "height":10}},
-          "adaptiveStyles":{
-},
-          "fixedHorizontal":"left",
-          "fixedMarginHorizontal":0,
-          "fixedVertical":"bottom",
-          "fixedMarginVertical":0,
-          "fixedKeepInFront":true,
-          "scrollbars":"none",
-          "fitToContent":true,
-          "propagate":false,
-          "diagrams":[{
-              "id":"257a15d3d967428bae43e5b9a55f82b6",
-              "label":"状态1",
-              "type":"Axure:PanelDiagram",
-              "objects":[{
-                  "id":"6a3976a441ce433986eab88dc9cd8a5c",
-                  "label":"",
-                  "parentDynamicPanel":"249cbee3fb5e4c26a3910b55920511de",
-                  "type":"referenceDiagramObject",
-                  "styleType":"referenceDiagramObject",
-                  "visible":true,
-                  "style":{
-                    "size":{
-                      "width":375,
-                      "height":40}},
-                  "adaptiveStyles":{
-},
-                  "masterId":"c6f7133f0f3d4b358ae2860c736c4901"}]}]},
-{
           "id":"98f12138c6ab4d54a44f41123cde1b5e",
           "label":"",
           "type":"buttonShape",
@@ -1523,7 +1482,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u100.png"}},
+            "normal~":"images/农场列表_1/u78.png"}},
 {
           "id":"ea3405894a3d469cbe5400c1ce697cec",
           "label":"",
@@ -1638,12 +1597,53 @@
                         "url":"农场详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
-          "tabbable":true}]}},
+          "tabbable":true},
+{
+          "id":"31c1bba379724ac6b3b53c839aba1726",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":627},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":0,
+          "fixedVertical":"bottom",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"f6f4c23310a5434ea0266e9ed8d8668f",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"fcef3b12c95c45f8bf3c8fa12c41e49a",
+                  "label":"",
+                  "parentDynamicPanel":"31c1bba379724ac6b3b53c839aba1726",
+                  "type":"referenceDiagramObject",
+                  "styleType":"referenceDiagramObject",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":360,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "masterId":"9c8d789cd9ea4344a50ed483251cd481"}]}]}]}},
   "masters":{
-    "c6f7133f0f3d4b358ae2860c736c4901":{
-      "packageId":"c6f7133f0f3d4b358ae2860c736c4901",
+    "9c8d789cd9ea4344a50ed483251cd481":{
+      "packageId":"9c8d789cd9ea4344a50ed483251cd481",
       "type":"Axure:Master",
-      "name":"底部菜单",
+      "name":"底部菜单_1",
       "notes":{
 },
       "style":{
@@ -2029,7 +2029,7 @@
                         "description":"在 当前窗口 打开 商品列表",
                         "target":{
                           "targetType":"page",
-                          "url":"商品列表.html",
+                          "url":"商品列表_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},
@@ -2059,7 +2059,7 @@
                         "description":"在 当前窗口 打开 主页",
                         "target":{
                           "targetType":"page",
-                          "url":"主页.html",
+                          "url":"主页_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true}]}}},
@@ -2220,61 +2220,61 @@
       "scriptId":"u76"},
     "39b583a210e14a58b9aab42047b4e5d6":{
       "scriptId":"u77"},
-    "249cbee3fb5e4c26a3910b55920511de":{
-      "scriptId":"u78"},
-    "6a3976a441ce433986eab88dc9cd8a5c":{
-      "scriptId":"u79",
-      "87500d8b8b844c309601540b4619d68c":{
-        "scriptId":"u80"},
-      "08515cc118c040c3999f325ab93566f2":{
-        "scriptId":"u81"},
-      "c969752f566a49a6a203e49df35fab25":{
-        "scriptId":"u82"},
-      "325af96594fe47e187b0c48c8466ada8":{
-        "scriptId":"u83"},
-      "506791ca29ed45d4a2ce7c6554b086f0":{
-        "scriptId":"u84"},
-      "2095c2f0c9424993952f697a18668ec6":{
-        "scriptId":"u85"},
-      "b01f71406add42228a7c6d6eee864c12":{
-        "scriptId":"u86"},
-      "2a9a97f3cf084f5d8e9c58efa99246e4":{
-        "scriptId":"u87"},
-      "3df70097703244faa1527a5a494c8c42":{
-        "scriptId":"u88"},
-      "f7f494690f7647dba3345b464317963a":{
-        "scriptId":"u89"},
-      "7b6f02963717457387f89b9f67fcafd8":{
-        "scriptId":"u90"},
-      "3b49bb4a854648309a5eacee1c6f6550":{
-        "scriptId":"u91"},
-      "042cb23104d742f2ae2b63e077e1712d":{
-        "scriptId":"u92"},
-      "a93b06fed9a846fcbebd845a157d74d3":{
-        "scriptId":"u93"},
-      "0a65b7584c6c43f187543b1bed0f9620":{
-        "scriptId":"u94"},
-      "a061bd47263944abac34483694e25ef7":{
-        "scriptId":"u95"},
-      "7059bc5e155a401bac0768cc3d613ce5":{
-        "scriptId":"u96"},
-      "c7a87c87752f49fba0d0cb8e99c88f4a":{
-        "scriptId":"u97"},
-      "947fc150c84545bc959a65c3c98bf4d6":{
-        "scriptId":"u98"},
-      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
-        "scriptId":"u99"}},
     "98f12138c6ab4d54a44f41123cde1b5e":{
-      "scriptId":"u100"},
+      "scriptId":"u78"},
     "0564ac14ecd14e1494f38d4ed87621da":{
-      "scriptId":"u101"},
+      "scriptId":"u79"},
     "ea3405894a3d469cbe5400c1ce697cec":{
-      "scriptId":"u102"},
+      "scriptId":"u80"},
     "0d2b992171304ba9841ac0c41bc69131":{
-      "scriptId":"u103"},
+      "scriptId":"u81"},
     "ab0c8ad6430444f7be08c8cd3f55d865":{
-      "scriptId":"u104"},
+      "scriptId":"u82"},
     "6c037c5e39304095b372f1b3b81d1299":{
-      "scriptId":"u105"},
+      "scriptId":"u83"},
     "0616c076e43c4c93af9f2c2d9c254825":{
-      "scriptId":"u106"}}});
+      "scriptId":"u84"},
+    "31c1bba379724ac6b3b53c839aba1726":{
+      "scriptId":"u85"},
+    "fcef3b12c95c45f8bf3c8fa12c41e49a":{
+      "scriptId":"u86",
+      "87500d8b8b844c309601540b4619d68c":{
+        "scriptId":"u87"},
+      "08515cc118c040c3999f325ab93566f2":{
+        "scriptId":"u88"},
+      "c969752f566a49a6a203e49df35fab25":{
+        "scriptId":"u89"},
+      "325af96594fe47e187b0c48c8466ada8":{
+        "scriptId":"u90"},
+      "506791ca29ed45d4a2ce7c6554b086f0":{
+        "scriptId":"u91"},
+      "2095c2f0c9424993952f697a18668ec6":{
+        "scriptId":"u92"},
+      "b01f71406add42228a7c6d6eee864c12":{
+        "scriptId":"u93"},
+      "2a9a97f3cf084f5d8e9c58efa99246e4":{
+        "scriptId":"u94"},
+      "3df70097703244faa1527a5a494c8c42":{
+        "scriptId":"u95"},
+      "f7f494690f7647dba3345b464317963a":{
+        "scriptId":"u96"},
+      "7b6f02963717457387f89b9f67fcafd8":{
+        "scriptId":"u97"},
+      "3b49bb4a854648309a5eacee1c6f6550":{
+        "scriptId":"u98"},
+      "042cb23104d742f2ae2b63e077e1712d":{
+        "scriptId":"u99"},
+      "a93b06fed9a846fcbebd845a157d74d3":{
+        "scriptId":"u100"},
+      "0a65b7584c6c43f187543b1bed0f9620":{
+        "scriptId":"u101"},
+      "a061bd47263944abac34483694e25ef7":{
+        "scriptId":"u102"},
+      "7059bc5e155a401bac0768cc3d613ce5":{
+        "scriptId":"u103"},
+      "c7a87c87752f49fba0d0cb8e99c88f4a":{
+        "scriptId":"u104"},
+      "947fc150c84545bc959a65c3c98bf4d6":{
+        "scriptId":"u105"},
+      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
+        "scriptId":"u106"}}}});

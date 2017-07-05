@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情_1.html",
-  "generationDate":new Date(1499241267392.55),
+  "generationDate":new Date(1499242406868.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情_1/u0.png"}},
+            "normal~":"images/商品列表_1/配送设置面板_u142.png"}},
 {
           "id":"6514a15f0c164eed895ec10eae992464",
           "label":"",
@@ -996,10 +996,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 商品列表",
+                              "description":"在 当前窗口 打开 农场列表",
                               "target":{
                                 "targetType":"page",
-                                "url":"商品列表.html",
+                                "url":"农场列表_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1236,7 +1236,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场详情_1/u18_line.png"}},
+            "line~":"images/商品列表_1/u178_line.png"}},
 {
           "id":"2cb47ca650d24036a2b29189c50fe09c",
           "label":"",
