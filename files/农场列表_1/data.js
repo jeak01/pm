@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表_1.html",
-  "generationDate":new Date(1499242405126.94),
+  "generationDate":new Date(1499246122577.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -641,7 +641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u32.png"}},
+            "normal~":"images/主页_1/u57.jpg"}},
 {
           "id":"d5dac0d985634fa9a28c52d74e51635a",
           "label":"",
@@ -859,7 +859,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u32.png"}},
+            "normal~":"images/主页_1/u68.jpg"}},
 {
           "id":"162bf1ec31634b8ba26325bb9535f32a",
           "label":"",
@@ -1077,7 +1077,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u32.png"}},
+            "normal~":"images/主页_1/u79.jpg"}},
 {
           "id":"e32013581cc44590ae7cb8d49fd84580",
           "label":"",
@@ -1295,7 +1295,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u32.png"}},
+            "normal~":"images/商品详情_1/u2.jpg"}},
 {
           "id":"3bcf632c07314f039a0fe1ea0064673d",
           "label":"",
@@ -1547,7 +1547,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":69},
+              "y":68},
             "size":{
               "width":360,
               "height":99}},
@@ -1577,7 +1577,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":168},
+              "y":167},
             "size":{
               "width":360,
               "height":99}},

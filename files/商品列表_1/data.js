@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1499242404504.53),
+  "generationDate":new Date(1499246121913.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1027,7 +1027,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"54ab6949058b4c57b134b3d54e3516ac",
           "label":"",
@@ -1307,7 +1307,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"9f798f3129864cd58fc902718daef31b",
           "label":"",
@@ -1587,7 +1587,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"5960645844af4389933f79d8f9e22c6f",
           "label":"",
@@ -1867,7 +1867,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"668d6f0c78574625ae0742d33aac5585",
           "label":"",
@@ -2147,7 +2147,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"b3a250ca68704f25b802be57abff6a18",
           "label":"",

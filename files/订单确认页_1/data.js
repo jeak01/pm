@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认页_1.html",
-  "generationDate":new Date(1499242405726.34),
+  "generationDate":new Date(1499246123360.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -248,7 +248,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"0df50d94c07b48a6a85784ea1d1d5489",
           "label":"",
@@ -463,7 +463,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"9e9e857ca0164d06affa748e59a8f598",
           "label":"",
@@ -678,7 +678,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"d1f785dc9ece4b048fe2a41672bcc281",
           "label":"",
@@ -893,7 +893,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"8d7dd4fd2089443bbde854c4f6e904ad",
           "label":"",

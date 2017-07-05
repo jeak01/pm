@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_1.html",
-  "generationDate":new Date(1499242403936.15),
+  "generationDate":new Date(1499246120951.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_1/u2.png"}},
+            "normal~":"images/主页_1/u2.jpg"}},
 {
           "id":"672f55c10b294dcf82b1194b3b723afe",
           "label":"",
@@ -800,7 +800,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_1/u41.png"}},
+            "normal~":"images/主页_1/u41.jpg"}},
 {
           "id":"a95292abe8984b539739309463bf5061",
           "label":"",
@@ -833,7 +833,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_1/u41.png"}},
+            "normal~":"images/主页_1/u43.jpg"}},
 {
           "id":"b03e1c322d114a41a5f2b00ca044ebd2",
           "label":"",
@@ -1093,7 +1093,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页_1/u57.jpg"}},
 {
           "id":"dca972403f784963af10d6912d39b4d3",
           "label":"",
@@ -1310,7 +1310,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页_1/u68.jpg"}},
 {
           "id":"dad485e70eb5446c859e399c0f0a8a08",
           "label":"",
@@ -1527,7 +1527,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页_1/u79.jpg"}},
 {
           "id":"9e096c6b84e64c0f9fe196e9ff2d8b0b",
           "label":"",
@@ -1744,7 +1744,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页_1/u57.jpg"}},
 {
           "id":"b078f910d63a44358f61aec876a60665",
           "label":"",
@@ -1915,7 +1915,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":0,
+              "x":3,
               "y":730},
             "size":{
               "width":357,
@@ -1945,7 +1945,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":0,
+              "x":3,
               "y":816},
             "size":{
               "width":357,

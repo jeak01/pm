@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表_1.html",
-  "generationDate":new Date(1499242406534.88),
+  "generationDate":new Date(1499246124385.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -545,7 +545,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品详情_1/u2.jpg"}},
 {
           "id":"6e8e49a49319474288d45282a702cd1d",
           "label":"",
@@ -853,7 +853,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"5cfe18c6b25c40389ec2f4e159397ac1",
           "label":"",
@@ -1161,7 +1161,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u50.png"}},
+            "normal~":"images/商品列表_1/u50.jpg"}},
 {
           "id":"c22c421f8bbe4f85a16a9f3c189c4c0f",
           "label":"",
