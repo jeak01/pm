@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1499238278839.68),
+  "generationDate":new Date(1499239280624.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1008,47 +1008,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"b3678a2d67d54284b443663b4b0df9d7",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":841,
-              "y":268},
-            "size":{
-              "width":14,
-              "height":14},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF000000}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"3d60fe00abab4d14b2771f95d5e4b301",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":841,
-                  "y":268},
-                "size":{
-                  "width":14,
-                  "height":14},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/商品列表/u35.png"}},
-{
           "id":"9c197e0d04e04a9d9d660ad7510ce57c",
           "label":"",
           "type":"buttonShape",
@@ -1083,47 +1042,6 @@
 }}],
           "images":{
             "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"358f1db143db4d17a2079b8b1b98070a",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":841,
-              "y":338},
-            "size":{
-              "width":14,
-              "height":14},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF000000}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"28c3a81bdfc34877a8853f9bf8a3f0e4",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":841,
-                  "y":338},
-                "size":{
-                  "width":14,
-                  "height":14},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/商品列表/u35.png"}},
 {
           "id":"2961021a3ebb4340bcbe6f2bbb283e68",
           "label":"",
@@ -1162,7 +1080,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u58.png"}},
+            "normal~":"images/农场详情/u54.png"}},
 {
           "id":"37ea3d2b1a734404aa4c2fc2c5a847aa",
           "label":"",
@@ -1250,7 +1168,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u63.png"}},
+            "normal~":"images/农场详情/u59.png"}},
 {
           "id":"ef61600a6ada4e069537fc16f8414140",
           "label":"",
@@ -1356,7 +1274,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u84.png"}},
 {
           "id":"430789f3c79c48e09494719dc27ad2dd",
           "label":"",
@@ -1410,7 +1328,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农场详情/u90.png"}},
+            "normal~":"images/农场详情/u86.png"}},
 {
           "id":"3a5e0a8d222047d8bb3d5f1e3ba6f6f2",
           "label":"",
@@ -1451,7 +1369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u92.png"}},
+            "normal~":"images/农场详情/u88.png"}},
 {
           "id":"fa523b58609d4e33a28207420d927e8d",
           "label":"",
@@ -1575,7 +1493,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农场详情/u98.png"}},
+            "normal~":"images/农场详情/u94.png"}},
 {
           "id":"ae76070e267045a5933e8f8bbd1a5bd0",
           "label":"",
@@ -1610,7 +1528,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u98.png"}}]}},
+            "normal~":"images/农场详情/u94.png"}}]}},
   "masters":{
     "c6f7133f0f3d4b358ae2860c736c4901":{
       "packageId":"c6f7133f0f3d4b358ae2860c736c4901",
@@ -2140,103 +2058,95 @@
       "scriptId":"u50"},
     "22abd8adb4c548b783118ff9d8e915ec":{
       "scriptId":"u51"},
-    "b3678a2d67d54284b443663b4b0df9d7":{
-      "scriptId":"u52"},
-    "3d60fe00abab4d14b2771f95d5e4b301":{
-      "scriptId":"u53"},
     "9c197e0d04e04a9d9d660ad7510ce57c":{
-      "scriptId":"u54"},
+      "scriptId":"u52"},
     "9ec03a0169ba4de592abe497a41d5e9e":{
-      "scriptId":"u55"},
-    "358f1db143db4d17a2079b8b1b98070a":{
-      "scriptId":"u56"},
-    "28c3a81bdfc34877a8853f9bf8a3f0e4":{
-      "scriptId":"u57"},
+      "scriptId":"u53"},
     "2961021a3ebb4340bcbe6f2bbb283e68":{
-      "scriptId":"u58"},
+      "scriptId":"u54"},
     "6147336492484444b023efc2c21274e1":{
-      "scriptId":"u59"},
+      "scriptId":"u55"},
     "37ea3d2b1a734404aa4c2fc2c5a847aa":{
-      "scriptId":"u60"},
+      "scriptId":"u56"},
     "c28f4718f393456caca7bcf7b3e68eb1":{
-      "scriptId":"u61"},
+      "scriptId":"u57"},
     "d81be0fe967b424e90b763bc24da4bd8":{
-      "scriptId":"u62"},
+      "scriptId":"u58"},
     "6218259b6b2b485d8e0a5e91d62bbbbf":{
-      "scriptId":"u63"},
+      "scriptId":"u59"},
     "aea6dbc9c3cf413b9fff30019c194df5":{
-      "scriptId":"u64"},
+      "scriptId":"u60"},
     "ef61600a6ada4e069537fc16f8414140":{
-      "scriptId":"u65"},
+      "scriptId":"u61"},
     "d7f19f1252b144a1a529bf65e3d5b5a8":{
-      "scriptId":"u66",
+      "scriptId":"u62",
       "87500d8b8b844c309601540b4619d68c":{
-        "scriptId":"u67"},
+        "scriptId":"u63"},
       "08515cc118c040c3999f325ab93566f2":{
-        "scriptId":"u68"},
+        "scriptId":"u64"},
       "c969752f566a49a6a203e49df35fab25":{
-        "scriptId":"u69"},
+        "scriptId":"u65"},
       "325af96594fe47e187b0c48c8466ada8":{
-        "scriptId":"u70"},
+        "scriptId":"u66"},
       "506791ca29ed45d4a2ce7c6554b086f0":{
-        "scriptId":"u71"},
+        "scriptId":"u67"},
       "2095c2f0c9424993952f697a18668ec6":{
-        "scriptId":"u72"},
+        "scriptId":"u68"},
       "b01f71406add42228a7c6d6eee864c12":{
-        "scriptId":"u73"},
+        "scriptId":"u69"},
       "2a9a97f3cf084f5d8e9c58efa99246e4":{
-        "scriptId":"u74"},
+        "scriptId":"u70"},
       "3df70097703244faa1527a5a494c8c42":{
-        "scriptId":"u75"},
+        "scriptId":"u71"},
       "f7f494690f7647dba3345b464317963a":{
-        "scriptId":"u76"},
+        "scriptId":"u72"},
       "7b6f02963717457387f89b9f67fcafd8":{
-        "scriptId":"u77"},
+        "scriptId":"u73"},
       "3b49bb4a854648309a5eacee1c6f6550":{
-        "scriptId":"u78"},
+        "scriptId":"u74"},
       "042cb23104d742f2ae2b63e077e1712d":{
-        "scriptId":"u79"},
+        "scriptId":"u75"},
       "a93b06fed9a846fcbebd845a157d74d3":{
-        "scriptId":"u80"},
+        "scriptId":"u76"},
       "0a65b7584c6c43f187543b1bed0f9620":{
-        "scriptId":"u81"},
+        "scriptId":"u77"},
       "a061bd47263944abac34483694e25ef7":{
-        "scriptId":"u82"},
+        "scriptId":"u78"},
       "7059bc5e155a401bac0768cc3d613ce5":{
-        "scriptId":"u83"},
+        "scriptId":"u79"},
       "c7a87c87752f49fba0d0cb8e99c88f4a":{
-        "scriptId":"u84"},
+        "scriptId":"u80"},
       "947fc150c84545bc959a65c3c98bf4d6":{
-        "scriptId":"u85"},
+        "scriptId":"u81"},
       "8ea57a5b3f8e48fb8d26368b9cd9484c":{
-        "scriptId":"u86"}},
+        "scriptId":"u82"}},
     "926367154230442599e1dedddbf0927f":{
-      "scriptId":"u87"},
+      "scriptId":"u83"},
     "a1dc1fc14bd240e3979108acf290a745":{
-      "scriptId":"u88"},
+      "scriptId":"u84"},
     "a7c92ee445cc4b15bc707f56470cebb8":{
-      "scriptId":"u89"},
+      "scriptId":"u85"},
     "430789f3c79c48e09494719dc27ad2dd":{
-      "scriptId":"u90"},
+      "scriptId":"u86"},
     "b6da74773c5c4e6b8b624ecb10fd70dc":{
-      "scriptId":"u91"},
+      "scriptId":"u87"},
     "3a5e0a8d222047d8bb3d5f1e3ba6f6f2":{
-      "scriptId":"u92"},
+      "scriptId":"u88"},
     "582c32414e064d1499caea14bb28545f":{
-      "scriptId":"u93"},
+      "scriptId":"u89"},
     "fa523b58609d4e33a28207420d927e8d":{
-      "scriptId":"u94"},
+      "scriptId":"u90"},
     "feec3c1ee6be4e6fb3f2a1754c6ed7c7":{
-      "scriptId":"u95"},
+      "scriptId":"u91"},
     "df2a257608854f2b870bbe71e397ab30":{
-      "scriptId":"u96"},
+      "scriptId":"u92"},
     "f11454e26a9a4f31874425b2573a570e":{
-      "scriptId":"u97"},
+      "scriptId":"u93"},
     "2222bebc9332481fac41a3995748eff7":{
-      "scriptId":"u98"},
+      "scriptId":"u94"},
     "6d778d5c81ee4c14a472c9a2f8d8a9b0":{
-      "scriptId":"u99"},
+      "scriptId":"u95"},
     "ae76070e267045a5933e8f8bbd1a5bd0":{
-      "scriptId":"u100"},
+      "scriptId":"u96"},
     "e9eab0d1656b4a3ca40e3d53fa845930":{
-      "scriptId":"u101"}}});
+      "scriptId":"u97"}}});
