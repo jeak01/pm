@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1499246116546.07),
+  "generationDate":new Date(1499304914576.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u2.png"}},
+            "normal~":"images/主页/u2.jpg"}},
 {
           "id":"672f55c10b294dcf82b1194b3b723afe",
           "label":"",
@@ -800,7 +800,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u41.png"}},
+            "normal~":"images/主页/u41.jpg"}},
 {
           "id":"a95292abe8984b539739309463bf5061",
           "label":"",
@@ -833,7 +833,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u41.png"}},
+            "normal~":"images/主页/u43.jpg"}},
 {
           "id":"33234259c995408c87b02b4d23f1fa36",
           "label":"",
@@ -1134,7 +1134,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页/u79.jpg"}},
 {
           "id":"dca972403f784963af10d6912d39b4d3",
           "label":"",
@@ -1351,7 +1351,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页/u90.jpg"}},
 {
           "id":"dad485e70eb5446c859e399c0f0a8a08",
           "label":"",
@@ -1568,7 +1568,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页/u101.jpg"}},
 {
           "id":"9e096c6b84e64c0f9fe196e9ff2d8b0b",
           "label":"",
@@ -1785,7 +1785,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.png"}},
+            "normal~":"images/主页/u112.jpg"}},
 {
           "id":"b078f910d63a44358f61aec876a60665",
           "label":"",
@@ -1987,7 +1987,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":816},
+              "y":815},
             "size":{
               "width":374,
               "height":85}},

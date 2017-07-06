@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（农旅）.html",
-  "generationDate":new Date(1499246119273.89),
+  "generationDate":new Date(1499304917008.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/配送设置面板_u148.png"}},
+            "normal~":"images/商品列表/配送设置面板_u136.png"}},
 {
           "id":"3d730967bb3547f6b4438449fe3e6f95",
           "label":"",
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -143,7 +143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u19.png"}},
+            "normal~":"images/商品列表/u17.png"}},
 {
           "id":"274b1989398e4cbf9e0b80ffb1e65608",
           "label":"",
@@ -221,7 +221,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u54.png"}},
+            "normal~":"images/订单确认页/u38.png"}},
 {
           "id":"8193c642abe44ced99265b5d135f8874",
           "label":"",
@@ -504,7 +504,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"cd62208dccff462bbf1207c31beb63f8",
           "label":"",
@@ -603,7 +603,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"dc00b780efd74ba8a01e4ffb06eec713",
           "label":"",
@@ -702,7 +702,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"eaf5a78d5382421ab89ced19afc0bdaa",
           "label":"",

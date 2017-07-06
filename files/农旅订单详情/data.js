@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情.html",
-  "generationDate":new Date(1499246120043.4),
+  "generationDate":new Date(1499304917655.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/配送设置面板_u148.png"}},
+            "normal~":"images/商品列表/配送设置面板_u136.png"}},
 {
           "id":"95463b67a8194076af9add9814e29a27",
           "label":"",
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -137,7 +137,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u19.png"}},
+            "normal~":"images/商品列表/u17.png"}},
 {
           "id":"c4448487167542c2a369b072d4da7484",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u23.png"}},
+            "normal~":"images/商品列表/u21.png"}},
 {
           "id":"5733a91159c34c24880fe534765d7e87",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u23.png"}},
+            "normal~":"images/商品列表/u21.png"}},
 {
           "id":"cb92d32048fe4d24b537b2bcb8a578c4",
           "label":"",
@@ -299,7 +299,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u23.png"}},
+            "normal~":"images/商品列表/u21.png"}},
 {
           "id":"a349da73f5574e9790e86be93ac672d7",
           "label":"",
@@ -758,7 +758,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u56.png"}},
+            "normal~":"images/商品列表/u54.png"}},
 {
           "id":"4ed723fd84814176b8728c57a64ef14b",
           "label":"",
@@ -1195,7 +1195,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表/u17.png"}},
+                    "normal~":"images/商品列表/u15.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",
