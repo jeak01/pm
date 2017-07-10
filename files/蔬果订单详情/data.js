@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情.html",
-  "generationDate":new Date(1499312882598.59),
+  "generationDate":new Date(1499653399778.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -618,7 +618,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅订单详情/u49.png"}},
+            "normal~":"images/农旅订单详情/u33.png"}},
 {
           "id":"12cbe6452eeb42efb2f189e4f60d4128",
           "label":"",
@@ -952,7 +952,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅订单详情/u68.png"}},
+                    "normal~":"images/农旅订单详情/u52.png"}},
 {
                   "id":"354fa69a013b4c5d845b7a123e5c2ee2",
                   "label":"",
@@ -1004,7 +1004,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅订单详情/u68.png"}}]}]},
+                    "normal~":"images/农旅订单详情/u52.png"}}]}]},
 {
           "id":"ae5e0e1696c54723832627145082dd0f",
           "label":"",
@@ -1236,7 +1236,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u75_line.png"}},
+            "line~":"images/主页/u77_line.png"}},
 {
           "id":"2cb47ca650d24036a2b29189c50fe09c",
           "label":"",

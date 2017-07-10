@@ -546,49 +546,49 @@
 #u42 {
   position:absolute;
   left:88px;
-  top:299px;
-  width:79px;
-  height:16px;
+  top:298px;
+  width:248px;
+  height:32px;
 }
 #u42_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:79px;
-  height:16px;
+  width:248px;
+  height:32px;
 }
 #u43 {
   position:absolute;
   left:0px;
   top:0px;
-  width:79px;
+  width:248px;
   white-space:nowrap;
 }
 #u44 {
   position:absolute;
   left:87px;
-  top:370px;
-  width:157px;
-  height:16px;
+  top:367px;
+  width:248px;
+  height:32px;
 }
 #u44_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:157px;
-  height:16px;
+  width:248px;
+  height:32px;
 }
 #u45 {
   position:absolute;
   left:0px;
   top:0px;
-  width:157px;
+  width:248px;
   white-space:nowrap;
 }
 #u46 {
   position:absolute;
   left:88px;
-  top:330px;
+  top:333px;
   width:41px;
   height:19px;
   font-size:16px;
@@ -634,7 +634,7 @@
 #u50 {
   position:absolute;
   left:139px;
-  top:335px;
+  top:338px;
   width:41px;
   height:14px;
   font-size:11px;
@@ -770,7 +770,7 @@
 #u61 {
   position:absolute;
   left:2px;
-  top:291px;
+  top:290px;
   width:358px;
   height:69px;
   overflow:hidden;
@@ -887,7 +887,7 @@
 #u72 {
   position:absolute;
   left:260px;
-  top:319px;
+  top:322px;
   width:80px;
   height:30px;
 }
@@ -908,7 +908,7 @@
 #u74 {
   position:absolute;
   left:260px;
-  top:389px;
+  top:392px;
   width:80px;
   height:30px;
 }
@@ -1078,9 +1078,9 @@
 }
 #u90 {
   position:absolute;
-  left:207px;
+  left:202px;
   top:24px;
-  width:31px;
+  width:41px;
   height:13px;
   font-size:10px;
 }
@@ -1088,14 +1088,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:41px;
   height:13px;
 }
 #u91 {
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:41px;
   white-space:nowrap;
 }
 #u92 {
@@ -1146,7 +1146,7 @@
   position:absolute;
   left:110px;
   top:0px;
-  width:70px;
+  width:60px;
   height:40px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
@@ -1155,8 +1155,26 @@
   position:absolute;
   left:17px;
   top:0px;
-  width:83px;
+  width:73px;
   height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u98 {
+  position:absolute;
+  left:270px;
+  top:0px;
+  width:60px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u99 {
+  position:absolute;
+  left:193px;
+  top:0px;
+  width:57px;
+  height:37px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }

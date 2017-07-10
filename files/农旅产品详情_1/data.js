@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅产品详情_1.html",
-  "generationDate":new Date(1499312884495.86),
+  "generationDate":new Date(1499653402854.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -378,7 +378,7 @@
               "x":18,
               "y":177},
             "size":{
-              "width":85,
+              "width":335,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -395,7 +395,7 @@
                   "x":18,
                   "y":177},
                 "size":{
-                  "width":85,
+                  "width":335,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -417,7 +417,7 @@
               "x":18,
               "y":200},
             "size":{
-              "width":89,
+              "width":67,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -438,7 +438,7 @@
                   "x":18,
                   "y":200},
                 "size":{
-                  "width":89,
+                  "width":67,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -496,10 +496,10 @@
           "style":{
             "location":{
               "x":1,
-              "y":239},
+              "y":280},
             "size":{
               "width":358,
-              "height":181},
+              "height":140},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFAAAAAA}},
@@ -515,10 +515,10 @@
               "style":{
                 "location":{
                   "x":1,
-                  "y":239},
+                  "y":280},
                 "size":{
                   "width":358,
-                  "height":181},
+                  "height":140},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFAAAAAA}},
@@ -535,7 +535,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":269},
+              "y":307},
             "size":{
               "width":360,
               "height":10},
@@ -557,7 +557,7 @@
           "style":{
             "location":{
               "x":8,
-              "y":253},
+              "y":290},
             "size":{
               "width":53,
               "height":16}},
@@ -573,7 +573,7 @@
               "style":{
                 "location":{
                   "x":8,
-                  "y":253},
+                  "y":290},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -619,7 +619,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅产品详情_1/u24.png"}},
+            "normal~":"images/农旅产品详情_1/u29.png"}},
 {
           "id":"415e049068cb4ef5be1e5772a44c7f68",
           "label":"",
@@ -907,7 +907,206 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/农旅产品详情/u43_line.png"}}]}]}]}},
+                    "line~":"images/农旅产品详情/u35_line.png"}}]}]},
+{
+          "id":"73475256d2134522b56b8c970eb53201",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":230},
+            "size":{
+              "width":358,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFAAAAAA}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f287cac7b0374c8893d2e32b8dd08047",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":230},
+                "size":{
+                  "width":358,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFAAAAAA}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品列表_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/农场详情_1/u64.png"}},
+{
+          "id":"4b54912016444821820f4469afcef3f2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":47,
+              "y":242},
+            "size":{
+              "width":66,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"389cacaeb096434e8b47096777d5d0b7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":47,
+                  "y":242},
+                "size":{
+                  "width":66,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8ca84628ec1a410686596a46860a39d7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":324,
+              "y":234},
+            "size":{
+              "width":29,
+              "height":30},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cc9d37cce358435c89bc92bcc5cef08d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":324,
+                  "y":234},
+                "size":{
+                  "width":29,
+                  "height":30},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/商品列表/u33.png"}},
+{
+          "id":"78baf9a4f28d4a919807a49ff7d9c157",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":8,
+              "y":235.5},
+            "size":{
+              "width":29,
+              "height":29},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c4e4c8bec39d49a1a9974fd48b6f787d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":8,
+                  "y":235.5},
+                "size":{
+                  "width":29,
+                  "height":29},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农旅产品详情/u50.png"}},
+{
+          "id":"ad959bb75a7c4270b054aac4c99b7248",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":230},
+            "size":{
+              "width":360,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -998,4 +1197,22 @@
     "7863a2233bc6461691a1ee8f36a5d27f":{
       "scriptId":"u42"},
     "b3514b79a9cc4714a92821f258c2aad9":{
-      "scriptId":"u43"}}});
+      "scriptId":"u43"},
+    "73475256d2134522b56b8c970eb53201":{
+      "scriptId":"u44"},
+    "f287cac7b0374c8893d2e32b8dd08047":{
+      "scriptId":"u45"},
+    "4b54912016444821820f4469afcef3f2":{
+      "scriptId":"u46"},
+    "389cacaeb096434e8b47096777d5d0b7":{
+      "scriptId":"u47"},
+    "8ca84628ec1a410686596a46860a39d7":{
+      "scriptId":"u48"},
+    "cc9d37cce358435c89bc92bcc5cef08d":{
+      "scriptId":"u49"},
+    "78baf9a4f28d4a919807a49ff7d9c157":{
+      "scriptId":"u50"},
+    "c4e4c8bec39d49a1a9974fd48b6f787d":{
+      "scriptId":"u51"},
+    "ad959bb75a7c4270b054aac4c99b7248":{
+      "scriptId":"u52"}}});

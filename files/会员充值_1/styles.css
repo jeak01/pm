@@ -376,25 +376,3 @@
   width:356px;
   word-wrap:break-word;
 }
-#u32 {
-  position:absolute;
-  left:324px;
-  top:3px;
-  width:33px;
-  height:34px;
-}
-#u32_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:33px;
-  height:34px;
-}
-#u33 {
-  position:absolute;
-  left:2px;
-  top:9px;
-  width:29px;
-  visibility:hidden;
-  word-wrap:break-word;
-}

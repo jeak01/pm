@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情_1.html",
-  "generationDate":new Date(1499312884316.74),
+  "generationDate":new Date(1499653402565.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -365,7 +365,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u79.jpg"}},
+            "normal~":"images/主页/u81.jpg"}},
 {
           "id":"51ce9cd3f47d47b6bf585ab2875640f4",
           "label":"",
@@ -764,7 +764,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u112.jpg"}},
+            "normal~":"images/主页/u114.jpg"}},
 {
           "id":"da635c8bb4574240b60641d153495524",
           "label":"",
@@ -819,7 +819,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u101.jpg"}},
+            "normal~":"images/主页/u103.jpg"}},
 {
           "id":"f88752d9d7734738811cdda2134aeb68",
           "label":"",
@@ -829,10 +829,10 @@
           "style":{
             "location":{
               "x":88,
-              "y":299},
+              "y":298},
             "size":{
-              "width":79,
-              "height":16}},
+              "width":248,
+              "height":32}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -845,10 +845,10 @@
               "style":{
                 "location":{
                   "x":88,
-                  "y":299},
+                  "y":298},
                 "size":{
-                  "width":79,
-                  "height":16}},
+                  "width":248,
+                  "height":32}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -862,10 +862,10 @@
           "style":{
             "location":{
               "x":87,
-              "y":370},
+              "y":367},
             "size":{
-              "width":157,
-              "height":16}},
+              "width":248,
+              "height":32}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -878,10 +878,10 @@
               "style":{
                 "location":{
                   "x":87,
-                  "y":370},
+                  "y":367},
                 "size":{
-                  "width":157,
-                  "height":16}},
+                  "width":248,
+                  "height":32}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -900,7 +900,7 @@
               "opacity":1},
             "location":{
               "x":88,
-              "y":330},
+              "y":333},
             "size":{
               "width":41,
               "height":19}},
@@ -921,7 +921,7 @@
                   "opacity":1},
                 "location":{
                   "x":88,
-                  "y":330},
+                  "y":333},
                 "size":{
                   "width":41,
                   "height":19}},
@@ -982,7 +982,7 @@
             "fontSize":"11px",
             "location":{
               "x":139,
-              "y":335},
+              "y":338},
             "size":{
               "width":41,
               "height":14}},
@@ -999,7 +999,7 @@
                 "fontSize":"11px",
                 "location":{
                   "x":139,
-                  "y":335},
+                  "y":338},
                 "size":{
                   "width":41,
                   "height":14}},
@@ -1178,7 +1178,7 @@
           "style":{
             "location":{
               "x":2,
-              "y":291},
+              "y":290},
             "size":{
               "width":358,
               "height":69}},
@@ -1233,7 +1233,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u84.png"}},
+            "normal~":"images/农场详情/u86.png"}},
 {
           "id":"430789f3c79c48e09494719dc27ad2dd",
           "label":"",
@@ -1328,7 +1328,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u90.png"}},
 {
           "id":"fa523b58609d4e33a28207420d927e8d",
           "label":"",
@@ -1412,7 +1412,7 @@
           "style":{
             "location":{
               "x":260,
-              "y":319},
+              "y":322},
             "size":{
               "width":80,
               "height":30},
@@ -1429,7 +1429,7 @@
               "style":{
                 "location":{
                   "x":260,
-                  "y":319},
+                  "y":322},
                 "size":{
                   "width":80,
                   "height":30},
@@ -1452,7 +1452,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农场详情/u94.png"}},
+            "normal~":"images/农场详情/u96.png"}},
 {
           "id":"ae76070e267045a5933e8f8bbd1a5bd0",
           "label":"",
@@ -1462,7 +1462,7 @@
           "style":{
             "location":{
               "x":260,
-              "y":389},
+              "y":392},
             "size":{
               "width":80,
               "height":30},
@@ -1479,7 +1479,7 @@
               "style":{
                 "location":{
                   "x":260,
-                  "y":389},
+                  "y":392},
                 "size":{
                   "width":80,
                   "height":30},
@@ -1487,7 +1487,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u94.png"}},
+            "normal~":"images/农场详情/u96.png"}},
 {
           "id":"9c7d632cedad4b649dfdf82f782401ca",
           "label":"",
@@ -1588,7 +1588,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u47.png"}},
+              "normal~":"images/主页_1/u104.png"}},
 {
             "id":"c969752f566a49a6a203e49df35fab25",
             "label":"",
@@ -1629,7 +1629,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u49.png"}},
+              "normal~":"images/主页_1/u106.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1705,7 +1705,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u49.png"}},
+              "normal~":"images/主页_1/u106.png"}},
 {
             "id":"3df70097703244faa1527a5a494c8c42",
             "label":"",
@@ -1781,7 +1781,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u49.png"}},
+              "normal~":"images/主页_1/u106.png"}},
 {
             "id":"042cb23104d742f2ae2b63e077e1712d",
             "label":"",
@@ -1791,10 +1791,10 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":207,
+                "x":202,
                 "y":24},
               "size":{
-                "width":31,
+                "width":41,
                 "height":13}},
             "adaptiveStyles":{
 },
@@ -1808,10 +1808,10 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":207,
+                    "x":202,
                     "y":24},
                   "size":{
-                    "width":31,
+                    "width":41,
                     "height":13}},
                 "adaptiveStyles":{
 }}],
@@ -1857,7 +1857,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u49.png"}},
+              "normal~":"images/主页_1/u106.png"}},
 {
             "id":"7059bc5e155a401bac0768cc3d613ce5",
             "label":"",
@@ -1904,7 +1904,7 @@
                 "x":110,
                 "y":0},
               "size":{
-                "width":70,
+                "width":60,
                 "height":40}},
             "adaptiveStyles":{
 },
@@ -1934,7 +1934,7 @@
                 "x":17,
                 "y":0},
               "size":{
-                "width":83,
+                "width":73,
                 "height":40}},
             "adaptiveStyles":{
 },
@@ -1950,6 +1950,66 @@
                         "target":{
                           "targetType":"page",
                           "url":"主页_1.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"9c7a13d46795479c92f0dc37c386aec1",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":270,
+                "y":0},
+              "size":{
+                "width":60,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 个人中心主页",
+                        "target":{
+                          "targetType":"page",
+                          "url":"个人中心主页_1.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"a2e97db8dcda4a3aac93c1c9b8657f23",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":193,
+                "y":0},
+              "size":{
+                "width":57,
+                "height":37}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 体验路线列表",
+                        "target":{
+                          "targetType":"page",
+                          "url":"体验路线列表_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true}]}}},
@@ -2149,4 +2209,8 @@
       "947fc150c84545bc959a65c3c98bf4d6":{
         "scriptId":"u96"},
       "8ea57a5b3f8e48fb8d26368b9cd9484c":{
-        "scriptId":"u97"}}}});
+        "scriptId":"u97"},
+      "9c7a13d46795479c92f0dc37c386aec1":{
+        "scriptId":"u98"},
+      "a2e97db8dcda4a3aac93c1c9b8657f23":{
+        "scriptId":"u99"}}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（农旅）.html",
-  "generationDate":new Date(1499312881881.11),
+  "generationDate":new Date(1499653399016.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -276,7 +276,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u75_line.png"}},
+            "line~":"images/主页/u77_line.png"}},
 {
           "id":"83d14489f468442992c212f6aeab4bf7",
           "label":"",
@@ -331,7 +331,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u75_line.png"}},
+            "line~":"images/主页/u77_line.png"}},
 {
           "id":"69aa5017cec04afb8d7cfeb1f4eac63e",
           "label":"",

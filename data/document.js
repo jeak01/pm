@@ -33,6 +33,10 @@
             "type":"Wireframe",
             "url":"农场列表.html",
             "children":[{
+                "pageName":"体验路线列表",
+                "type":"Wireframe",
+                "url":"体验路线列表.html"},
+{
                 "pageName":"农场详情",
                 "type":"Wireframe",
                 "url":"农场详情.html"},
@@ -89,6 +93,10 @@
             "type":"Wireframe",
             "url":"充值成功.html"}]},
 {
+        "pageName":"个人中心主页",
+        "type":"Wireframe",
+        "url":"个人中心主页.html"},
+{
         "pageName":"360",
         "type":"Folder",
         "url":"",
@@ -116,6 +124,10 @@
                     "pageName":"农场详情",
                     "type":"Wireframe",
                     "url":"农场详情_1.html"},
+{
+                    "pageName":"体验路线列表",
+                    "type":"Wireframe",
+                    "url":"体验路线列表_1.html"},
 {
                     "pageName":"农旅产品详情",
                     "type":"Wireframe",
@@ -163,7 +175,11 @@
             "children":[{
                 "pageName":"充值成功",
                 "type":"Wireframe",
-                "url":"充值成功_1.html"}]}]}]},
+                "url":"充值成功_1.html"}]},
+{
+            "pageName":"个人中心主页",
+            "type":"Wireframe",
+            "url":"个人中心主页_1.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

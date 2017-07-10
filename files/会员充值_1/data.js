@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_1.html",
-  "generationDate":new Date(1499312885713.67),
+  "generationDate":new Date(1499653404080.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -588,48 +588,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/商品列表_1/u15.png"}}]}]},
-{
-          "id":"9694237bff4145d09db77e19ef251936",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":324,
-              "y":3},
-            "size":{
-              "width":33,
-              "height":34},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF000000}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"23b144bfaf66431a81f84be04e050402",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":324,
-                  "y":3},
-                "size":{
-                  "width":33,
-                  "height":34},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/会员充值/u32.png"}}]}},
+                    "normal~":"images/商品列表_1/u15.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -696,8 +655,4 @@
     "b5a37126e0ab4698b251bddc0028ecc7":{
       "scriptId":"u30"},
     "bc8c70ae5482474d98f35de101aaa676":{
-      "scriptId":"u31"},
-    "9694237bff4145d09db77e19ef251936":{
-      "scriptId":"u32"},
-    "23b144bfaf66431a81f84be04e050402":{
-      "scriptId":"u33"}}});
+      "scriptId":"u31"}}});
