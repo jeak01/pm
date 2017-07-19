@@ -129,6 +129,10 @@
                     "type":"Wireframe",
                     "url":"选择配送农场_1.html"},
 {
+                    "pageName":"定时配送",
+                    "type":"Wireframe",
+                    "url":"定时配送.html"},
+{
                     "pageName":"商品详情",
                     "type":"Wireframe",
                     "url":"商品详情_1.html"}]},

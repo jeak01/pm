@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅产品详情_1.html",
-  "generationDate":new Date(1500451007490.18),
+  "generationDate":new Date(1500453292409.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -868,7 +868,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅产品详情_1/u41.png"}},
+                    "normal~":"images/定时配送/u63.png"}},
 {
                   "id":"e2bf6cb02f154ab4b766d4be385d22c7",
                   "label":"",

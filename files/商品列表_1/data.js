@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1500451006208.29),
+  "generationDate":new Date(1500453290952.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -406,10 +406,10 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":151,
-              "y":9},
+              "x":173,
+              "y":7},
             "size":{
-              "width":73,
+              "width":37,
               "height":22}},
           "adaptiveStyles":{
 },
@@ -425,10 +425,10 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":151,
-                  "y":9},
+                  "x":173,
+                  "y":7},
                 "size":{
-                  "width":73,
+                  "width":37,
                   "height":22}},
               "adaptiveStyles":{
 }}],
@@ -4436,6 +4436,9 @@
             "fill":{
               "fillType":"solid",
               "color":0xFF333333},
+            "location":{
+              "x":450,
+              "y":89.5},
             "size":{
               "width":360,
               "height":667},
@@ -4454,6 +4457,9 @@
                 "fill":{
                   "fillType":"solid",
                   "color":0xFF333333},
+                "location":{
+                  "x":450,
+                  "y":89.5},
                 "size":{
                   "width":360,
                   "height":667},
@@ -4559,7 +4565,74 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"85377602c05d45a083a37dc3db53ac0b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"10px",
+            "location":{
+              "x":320,
+              "y":5},
+            "size":{
+              "width":30,
+              "height":30},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b8df4ba5d1b7486594878923b86113db",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"10px",
+                "location":{
+                  "x":320,
+                  "y":5},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/商品列表_1/u222.png"}},
+{
+          "id":"06a8e9afe3484df5947b9e7ec39deb76",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":310,
+              "y":0},
+            "size":{
+              "width":50,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 定时配送",
+                      "target":{
+                        "targetType":"page",
+                        "url":"定时配送.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -5006,4 +5079,10 @@
     "95f15ad8983b4587bc1389a7db2bb179":{
       "scriptId":"u220"},
     "a72c2d64e6b24a0a8a722d31cc5d8992":{
-      "scriptId":"u221"}}});
+      "scriptId":"u221"},
+    "85377602c05d45a083a37dc3db53ac0b":{
+      "scriptId":"u222"},
+    "b8df4ba5d1b7486594878923b86113db":{
+      "scriptId":"u223"},
+    "06a8e9afe3484df5947b9e7ec39deb76":{
+      "scriptId":"u224"}}});
