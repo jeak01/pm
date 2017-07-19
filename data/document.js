@@ -101,9 +101,9 @@
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"主页(android）",
+            "pageName":"主页(安卓)",
             "type":"Wireframe",
-            "url":"___android_.html",
+            "url":"主页_安卓_.html",
             "children":[{
                 "pageName":"平台简介",
                 "type":"Wireframe",

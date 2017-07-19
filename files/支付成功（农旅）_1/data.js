@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功（农旅）_1.html",
-  "generationDate":new Date(1500453293059.17),
+  "generationDate":new Date(1500453772085.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -331,10 +331,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 主页(android）",
+                      "description":"在 当前窗口 打开 主页(安卓)",
                       "target":{
                         "targetType":"page",
-                        "url":"___android_.html",
+                        "url":"主页_安卓_.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

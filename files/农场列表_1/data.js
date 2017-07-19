@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表_1.html",
-  "generationDate":new Date(1500453291833.3),
+  "generationDate":new Date(1500453771079.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1698,7 +1698,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/___android_/u86.png"}},
+              "normal~":"images/主页_安卓_/u86.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1871,7 +1871,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/___android_/u96.png"}},
+              "normal~":"images/主页_安卓_/u96.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -1895,10 +1895,10 @@
                     "isNewIfGroup":false,
                     "actions":[{
                         "action":"linkWindow",
-                        "description":"在 当前窗口 打开 主页(android）",
+                        "description":"在 当前窗口 打开 主页(安卓)",
                         "target":{
                           "targetType":"page",
-                          "url":"___android_.html",
+                          "url":"主页_安卓_.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},
@@ -1934,7 +1934,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/___android_/u99.png"}},
+              "normal~":"images/主页_安卓_/u99.png"}},
 {
             "id":"a2e97db8dcda4a3aac93c1c9b8657f23",
             "label":"",
@@ -1997,7 +1997,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/___android_/u102.png"}},
+              "normal~":"images/主页_安卓_/u102.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",
@@ -2060,7 +2060,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/___android_/u105.png"}},
+              "normal~":"images/主页_安卓_/u105.png"}},
 {
             "id":"9c7a13d46795479c92f0dc37c386aec1",
             "label":"",

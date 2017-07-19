@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功_1.html",
-  "generationDate":new Date(1500453293752.63),
+  "generationDate":new Date(1500453772700.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -331,10 +331,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 主页(android）",
+                      "description":"在 当前窗口 打开 主页(安卓)",
                       "target":{
                         "targetType":"page",
-                        "url":"___android_.html",
+                        "url":"主页_安卓_.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
