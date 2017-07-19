@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台简介_1.html",
-  "generationDate":new Date(1500456172486.6),
+  "generationDate":new Date(1500456645377.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -394,18 +394,46 @@
           "images":{
             "normal~":"images/平台简介/u18.png"}},
 {
-          "id":"59b867ddcf7849638ec7ceb9e85c22c1",
+          "id":"851e42ba5cfc4b229c75b3321f254661",
           "label":"",
-          "type":"referenceDiagramObject",
-          "styleType":"referenceDiagramObject",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
           "visible":true,
           "style":{
             "location":{
               "x":0,
-              "y":750}},
+              "y":750},
+            "size":{
+              "width":10,
+              "height":10}},
           "adaptiveStyles":{
 },
-          "masterId":"9c8d789cd9ea4344a50ed483251cd481"}]}},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":0,
+          "fixedVertical":"bottom",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"8e08f5f866964bc5b09ab7656e4d0c36",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"59b867ddcf7849638ec7ceb9e85c22c1",
+                  "label":"",
+                  "parentDynamicPanel":"851e42ba5cfc4b229c75b3321f254661",
+                  "type":"referenceDiagramObject",
+                  "styleType":"referenceDiagramObject",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":360,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "masterId":"9c8d789cd9ea4344a50ed483251cd481"}]}]}]}},
   "masters":{
     "9c8d789cd9ea4344a50ed483251cd481":{
       "packageId":"9c8d789cd9ea4344a50ed483251cd481",
@@ -899,49 +927,51 @@
       "scriptId":"u18"},
     "92ea9067b71c4defb557080d21c1be55":{
       "scriptId":"u19"},
+    "851e42ba5cfc4b229c75b3321f254661":{
+      "scriptId":"u20"},
     "59b867ddcf7849638ec7ceb9e85c22c1":{
-      "scriptId":"u20",
+      "scriptId":"u21",
       "87500d8b8b844c309601540b4619d68c":{
-        "scriptId":"u21"},
-      "08515cc118c040c3999f325ab93566f2":{
         "scriptId":"u22"},
-      "506791ca29ed45d4a2ce7c6554b086f0":{
+      "08515cc118c040c3999f325ab93566f2":{
         "scriptId":"u23"},
-      "2095c2f0c9424993952f697a18668ec6":{
+      "506791ca29ed45d4a2ce7c6554b086f0":{
         "scriptId":"u24"},
-      "3df70097703244faa1527a5a494c8c42":{
+      "2095c2f0c9424993952f697a18668ec6":{
         "scriptId":"u25"},
-      "f7f494690f7647dba3345b464317963a":{
+      "3df70097703244faa1527a5a494c8c42":{
         "scriptId":"u26"},
-      "042cb23104d742f2ae2b63e077e1712d":{
+      "f7f494690f7647dba3345b464317963a":{
         "scriptId":"u27"},
-      "a93b06fed9a846fcbebd845a157d74d3":{
+      "042cb23104d742f2ae2b63e077e1712d":{
         "scriptId":"u28"},
-      "7059bc5e155a401bac0768cc3d613ce5":{
+      "a93b06fed9a846fcbebd845a157d74d3":{
         "scriptId":"u29"},
-      "c7a87c87752f49fba0d0cb8e99c88f4a":{
+      "7059bc5e155a401bac0768cc3d613ce5":{
         "scriptId":"u30"},
-      "6c17287b2bc14f99a5db67d039fd7863":{
+      "c7a87c87752f49fba0d0cb8e99c88f4a":{
         "scriptId":"u31"},
-      "e044ebdec77c42309e4dc2a65b371385":{
+      "6c17287b2bc14f99a5db67d039fd7863":{
         "scriptId":"u32"},
-      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
+      "e044ebdec77c42309e4dc2a65b371385":{
         "scriptId":"u33"},
-      "37d725101ff24d929d72070bb2e0c4d1":{
+      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
         "scriptId":"u34"},
-      "cf130d31e6be4d1cba8c1f0493a96875":{
+      "37d725101ff24d929d72070bb2e0c4d1":{
         "scriptId":"u35"},
-      "6b19b755d2b64fe283aaa9ac475df667":{
+      "cf130d31e6be4d1cba8c1f0493a96875":{
         "scriptId":"u36"},
-      "1759e02ed4374bd09389c79665947a6b":{
+      "6b19b755d2b64fe283aaa9ac475df667":{
         "scriptId":"u37"},
-      "03ed968a08da4a80bd7495c1bb6340a9":{
+      "1759e02ed4374bd09389c79665947a6b":{
         "scriptId":"u38"},
-      "d9067e01d94e48d0adc2237491b1d6a5":{
+      "03ed968a08da4a80bd7495c1bb6340a9":{
         "scriptId":"u39"},
-      "947fc150c84545bc959a65c3c98bf4d6":{
+      "d9067e01d94e48d0adc2237491b1d6a5":{
         "scriptId":"u40"},
-      "a2e97db8dcda4a3aac93c1c9b8657f23":{
+      "947fc150c84545bc959a65c3c98bf4d6":{
         "scriptId":"u41"},
+      "a2e97db8dcda4a3aac93c1c9b8657f23":{
+        "scriptId":"u42"},
       "9c7a13d46795479c92f0dc37c386aec1":{
-        "scriptId":"u42"}}}});
+        "scriptId":"u43"}}}});
