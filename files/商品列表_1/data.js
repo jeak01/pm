@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1499653401816.32),
+  "generationDate":new Date(1500451006208.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -318,7 +318,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u13.png"}},
+            "normal~":"images/文章列表/u0.png"}},
 {
           "id":"b61c21d81e2046798b6e8eeaa2c15469",
           "label":"",
@@ -345,7 +345,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u15.png"}},
+            "normal~":"images/平台简介/u2.png"}},
 {
           "id":"8033dee7b4b949389e0dc18951a6c5f0",
           "label":"",
@@ -930,19 +930,13 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 商品详情弹窗 灯箱效果",
-                      "objectsToFades":[{
-                          "objectPath":["1acf1e151ff0432ea137f2a53e5a1b6e"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"lightbox",
-                              "lightbox":{
-                                "r":47,
-                                "g":79,
-                                "b":79,
-                                "a":155}}}}]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/商品列表_1/u46.png"}},
@@ -1169,19 +1163,13 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 商品详情弹窗 灯箱效果",
-                      "objectsToFades":[{
-                          "objectPath":["1acf1e151ff0432ea137f2a53e5a1b6e"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"lightbox",
-                              "lightbox":{
-                                "r":47,
-                                "g":79,
-                                "b":79,
-                                "a":155}}}}]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/商品列表_1/u46.png"}},
@@ -1408,19 +1396,13 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 商品详情弹窗 灯箱效果",
-                      "objectsToFades":[{
-                          "objectPath":["1acf1e151ff0432ea137f2a53e5a1b6e"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"lightbox",
-                              "lightbox":{
-                                "r":47,
-                                "g":79,
-                                "b":79,
-                                "a":155}}}}]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/商品列表_1/u46.png"}},
@@ -1647,19 +1629,13 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 商品详情弹窗 灯箱效果",
-                      "objectsToFades":[{
-                          "objectPath":["1acf1e151ff0432ea137f2a53e5a1b6e"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"lightbox",
-                              "lightbox":{
-                                "r":47,
-                                "g":79,
-                                "b":79,
-                                "a":155}}}}]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/商品列表_1/u46.png"}},
@@ -1886,19 +1862,13 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 商品详情弹窗 灯箱效果",
-                      "objectsToFades":[{
-                          "objectPath":["1acf1e151ff0432ea137f2a53e5a1b6e"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"lightbox",
-                              "lightbox":{
-                                "r":47,
-                                "g":79,
-                                "b":79,
-                                "a":155}}}}]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/商品列表_1/u46.png"}},
@@ -2148,28 +2118,25 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/u107.png"}},
+                    "normal~":"images/蜜桃/u40.png"}},
 {
-                  "id":"61f148a8c8134615b8ff98cd3deeb064",
+                  "id":"af738bca63a34705bd7cdf4012f0bafc",
                   "label":"",
                   "parentDynamicPanel":"6244818eab7f43a381b8e9117086e541",
-                  "type":"buttonShape",
-                  "styleType":"buttonShape",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
                   "visible":true,
                   "style":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFFFFF},
                     "location":{
-                      "x":9,
+                      "x":8,
                       "y":10},
                     "size":{
-                      "width":25,
-                      "height":25}},
+                      "width":27,
+                      "height":27}},
                   "adaptiveStyles":{
 },
                   "objects":[{
-                      "id":"ab161e8b47e1467d8da2f916669df102",
+                      "id":"2625440e21fc4b5594edccd4adec6eb4",
                       "label":"",
                       "isContained":true,
                       "parentDynamicPanel":"6244818eab7f43a381b8e9117086e541",
@@ -2177,15 +2144,12 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFF},
                         "location":{
-                          "x":9,
+                          "x":8,
                           "y":10},
                         "size":{
-                          "width":25,
-                          "height":25}},
+                          "width":27,
+                          "height":27}},
                       "adaptiveStyles":{
 }}],
                   "images":{
@@ -2456,7 +2420,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/商品列表_1/u121.png"}},
+                    "normal~":"images/蜜桃/u42.png"}},
 {
                   "id":"4454fb2fc0cd42a7aaf1cf6188a8b9f8",
                   "label":"",
@@ -2796,7 +2760,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/u15.png"}},
+                    "normal~":"images/平台简介/u2.png"}},
 {
                   "id":"f661b9307bff4fbbb8dfeae515db3f77",
                   "label":"",
@@ -2887,7 +2851,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/商品列表_1/u138.png"}},
+                    "normal~":"images/蜜桃/u2.png"}},
 {
                   "id":"e237cbb628634c45a3cf63a2701d82a4",
                   "label":"",
@@ -3168,7 +3132,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/u138.png"}},
+                    "normal~":"images/蜜桃/u2.png"}},
 {
                   "id":"23afef4f43ea48c39b1b68d62e70599c",
                   "label":"",
@@ -4817,9 +4781,9 @@
       "scriptId":"u107"},
     "1ee5790386254a31a1615cfb217fb063":{
       "scriptId":"u108"},
-    "61f148a8c8134615b8ff98cd3deeb064":{
+    "af738bca63a34705bd7cdf4012f0bafc":{
       "scriptId":"u109"},
-    "ab161e8b47e1467d8da2f916669df102":{
+    "2625440e21fc4b5594edccd4adec6eb4":{
       "scriptId":"u110"},
     "ff22fcf1a4a04bfa8078ff22ccce4b3b":{
       "scriptId":"u111"},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情_1.html",
-  "generationDate":new Date(1499653404010.9),
+  "generationDate":new Date(1500451008908.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u15.png"}},
+            "normal~":"images/平台简介/u2.png"}},
 {
           "id":"54215657aa204d649cbe67344ec0084d",
           "label":"",
@@ -618,7 +618,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅订单详情_1/u49.png"}},
+            "normal~":"images/文章列表/u50.png"}},
 {
           "id":"12cbe6452eeb42efb2f189e4f60d4128",
           "label":"",
@@ -880,7 +880,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/u15.png"}},
+                    "normal~":"images/平台简介/u2.png"}},
 {
                   "id":"4bdaf3a37ac64ce390539e49e8b16206",
                   "label":"",
@@ -996,10 +996,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 农场列表",
+                              "description":"在 当前窗口 打开 商品列表",
                               "target":{
                                 "targetType":"page",
-                                "url":"农场列表_1.html",
+                                "url":"商品列表_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1541,7 +1541,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u15.png"}},
+            "normal~":"images/平台简介/u2.png"}},
 {
           "id":"b83fb0e072064b058c1609d19c308866",
           "label":"",

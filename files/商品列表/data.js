@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表.html",
-  "generationDate":new Date(1499653397480.28),
+  "generationDate":new Date(1500450999631.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2273,26 +2273,23 @@
                   "images":{
                     "normal~":"images/商品列表/u113.png"}},
 {
-                  "id":"61f148a8c8134615b8ff98cd3deeb064",
+                  "id":"4d78c7a8f4e64f299982fbd7666c5c82",
                   "label":"",
                   "parentDynamicPanel":"6244818eab7f43a381b8e9117086e541",
-                  "type":"buttonShape",
-                  "styleType":"buttonShape",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
                   "visible":true,
                   "style":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFFFFF},
                     "location":{
-                      "x":9,
+                      "x":5,
                       "y":10},
                     "size":{
-                      "width":25,
-                      "height":25}},
+                      "width":27,
+                      "height":27}},
                   "adaptiveStyles":{
 },
                   "objects":[{
-                      "id":"ab161e8b47e1467d8da2f916669df102",
+                      "id":"29697d9767e148c38278eead00113ff9",
                       "label":"",
                       "isContained":true,
                       "parentDynamicPanel":"6244818eab7f43a381b8e9117086e541",
@@ -2300,15 +2297,12 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFF},
                         "location":{
-                          "x":9,
+                          "x":5,
                           "y":10},
                         "size":{
-                          "width":25,
-                          "height":25}},
+                          "width":27,
+                          "height":27}},
                       "adaptiveStyles":{
 }}],
                   "images":{
@@ -4960,9 +4954,9 @@
       "scriptId":"u113"},
     "1ee5790386254a31a1615cfb217fb063":{
       "scriptId":"u114"},
-    "61f148a8c8134615b8ff98cd3deeb064":{
+    "4d78c7a8f4e64f299982fbd7666c5c82":{
       "scriptId":"u115"},
-    "ab161e8b47e1467d8da2f916669df102":{
+    "29697d9767e148c38278eead00113ff9":{
       "scriptId":"u116"},
     "ff22fcf1a4a04bfa8078ff22ccce4b3b":{
       "scriptId":"u117"},

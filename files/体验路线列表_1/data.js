@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表_1.html",
-  "generationDate":new Date(1499653402724.28),
+  "generationDate":new Date(1500451007349.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u13.png"}},
+            "normal~":"images/文章列表/u0.png"}},
 {
           "id":"4676b659d9984e72b2ae47ebdee0364e",
           "label":"",
@@ -82,7 +82,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u15.png"}},
+            "normal~":"images/平台简介/u2.png"}},
 {
           "id":"0d62b2a17a15404fb544a52017d90f50",
           "label":"",
@@ -353,7 +353,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u16.png"}},
+            "normal~":"images/特色活动/u16.png"}},
 {
           "id":"e03ad03a8e6849298ee168df9b69dc4f",
           "label":"",
@@ -830,7 +830,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u78.png"}},
+            "normal~":"images/文章列表/u12.png"}},
 {
           "id":"180a1d53c33e462db0de307a6232f457",
           "label":"",
@@ -1938,48 +1938,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_1/u104.png"}},
-{
-            "id":"c969752f566a49a6a203e49df35fab25",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "fill":{
-                "fillType":"solid",
-                "color":0xFFFFFF},
-              "location":{
-                "x":44,
-                "y":3},
-              "size":{
-                "width":19,
-                "height":20},
-              "cornerRadiusTopLeft":"20"},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"325af96594fe47e187b0c48c8466ada8",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "fill":{
-                    "fillType":"solid",
-                    "color":0xFFFFFF},
-                  "location":{
-                    "x":44,
-                    "y":3},
-                  "size":{
-                    "width":19,
-                    "height":20},
-                  "cornerRadiusTopLeft":"20"},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/主页_1/u106.png"}},
+              "normal~":"images/___android_/u86.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -2016,47 +1975,6 @@
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
-            "id":"b01f71406add42228a7c6d6eee864c12",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "fill":{
-                "fillType":"solid",
-                "color":0xFFFFFF},
-              "location":{
-                "x":130,
-                "y":3},
-              "size":{
-                "width":19,
-                "height":20},
-              "cornerRadiusTopLeft":"20"},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"2a9a97f3cf084f5d8e9c58efa99246e4",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "fill":{
-                    "fillType":"solid",
-                    "color":0xFFFFFF},
-                  "location":{
-                    "x":130,
-                    "y":3},
-                  "size":{
-                    "width":19,
-                    "height":20},
-                  "cornerRadiusTopLeft":"20"},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/主页_1/u106.png"}},
-{
             "id":"3df70097703244faa1527a5a494c8c42",
             "label":"",
             "type":"buttonShape",
@@ -2091,47 +2009,6 @@
 }}],
             "images":{
               "normal~":"resources/images/transparent.gif"}},
-{
-            "id":"7b6f02963717457387f89b9f67fcafd8",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "fill":{
-                "fillType":"solid",
-                "color":0xFFFFFF},
-              "location":{
-                "x":211,
-                "y":3},
-              "size":{
-                "width":19,
-                "height":20},
-              "cornerRadiusTopLeft":"20"},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"3b49bb4a854648309a5eacee1c6f6550",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "fill":{
-                    "fillType":"solid",
-                    "color":0xFFFFFF},
-                  "location":{
-                    "x":211,
-                    "y":3},
-                  "size":{
-                    "width":19,
-                    "height":20},
-                  "cornerRadiusTopLeft":"20"},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/主页_1/u106.png"}},
 {
             "id":"042cb23104d742f2ae2b63e077e1712d",
             "label":"",
@@ -2168,47 +2045,6 @@
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
-            "id":"0a65b7584c6c43f187543b1bed0f9620",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "fill":{
-                "fillType":"solid",
-                "color":0xFFFFFF},
-              "location":{
-                "x":291,
-                "y":3},
-              "size":{
-                "width":19,
-                "height":20},
-              "cornerRadiusTopLeft":"20"},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"a061bd47263944abac34483694e25ef7",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "fill":{
-                    "fillType":"solid",
-                    "color":0xFFFFFF},
-                  "location":{
-                    "x":291,
-                    "y":3},
-                  "size":{
-                    "width":19,
-                    "height":20},
-                  "cornerRadiusTopLeft":"20"},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/主页_1/u106.png"}},
-{
             "id":"7059bc5e155a401bac0768cc3d613ce5",
             "label":"",
             "type":"buttonShape",
@@ -2244,6 +2080,165 @@
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
+            "id":"6c17287b2bc14f99a5db67d039fd7863",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":44,
+                "y":4},
+              "size":{
+                "width":20,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e044ebdec77c42309e4dc2a65b371385",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":44,
+                    "y":4},
+                  "size":{
+                    "width":20,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/___android_/u96.png"}},
+{
+            "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":18,
+                "y":0},
+              "size":{
+                "width":73,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 主页(android）",
+                        "target":{
+                          "targetType":"page",
+                          "url":"___android_.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"37d725101ff24d929d72070bb2e0c4d1",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":212.5,
+                "y":4},
+              "size":{
+                "width":20,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"cf130d31e6be4d1cba8c1f0493a96875",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":212.5,
+                    "y":4},
+                  "size":{
+                    "width":20,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/___android_/u99.png"}},
+{
+            "id":"a2e97db8dcda4a3aac93c1c9b8657f23",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":194,
+                "y":1},
+              "size":{
+                "width":57,
+                "height":37}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 体验路线列表",
+                        "target":{
+                          "targetType":"page",
+                          "url":"体验路线列表_1.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"6b19b755d2b64fe283aaa9ac475df667",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":130,
+                "y":4},
+              "size":{
+                "width":20,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1759e02ed4374bd09389c79665947a6b",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":130,
+                    "y":4},
+                  "size":{
+                    "width":20,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/___android_/u102.png"}},
+{
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",
             "type":"imageMapRegion",
@@ -2274,35 +2269,38 @@
                         "linkType":"current"}]}]}},
             "tabbable":true},
 {
-            "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
+            "id":"03ed968a08da4a80bd7495c1bb6340a9",
             "label":"",
-            "type":"imageMapRegion",
-            "styleType":"imageMapRegion",
+            "type":"imageBox",
+            "styleType":"imageBox",
             "visible":true,
             "style":{
               "location":{
-                "x":17,
-                "y":0},
+                "x":291.5,
+                "y":4},
               "size":{
-                "width":73,
-                "height":40}},
+                "width":20,
+                "height":20}},
             "adaptiveStyles":{
 },
-            "interactionMap":{
-              "onClick":{
-                "description":"OnClick",
-                "cases":[{
-                    "description":"用例 1",
-                    "isNewIfGroup":false,
-                    "actions":[{
-                        "action":"linkWindow",
-                        "description":"在 当前窗口 打开 主页",
-                        "target":{
-                          "targetType":"page",
-                          "url":"主页_1.html",
-                          "includeVariables":true},
-                        "linkType":"current"}]}]}},
-            "tabbable":true},
+            "objects":[{
+                "id":"d9067e01d94e48d0adc2237491b1d6a5",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":291.5,
+                    "y":4},
+                  "size":{
+                    "width":20,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/___android_/u105.png"}},
 {
             "id":"9c7a13d46795479c92f0dc37c386aec1",
             "label":"",
@@ -2311,7 +2309,7 @@
             "visible":true,
             "style":{
               "location":{
-                "x":270,
+                "x":272,
                 "y":0},
               "size":{
                 "width":60,
@@ -2330,36 +2328,6 @@
                         "target":{
                           "targetType":"page",
                           "url":"个人中心主页_1.html",
-                          "includeVariables":true},
-                        "linkType":"current"}]}]}},
-            "tabbable":true},
-{
-            "id":"a2e97db8dcda4a3aac93c1c9b8657f23",
-            "label":"",
-            "type":"imageMapRegion",
-            "styleType":"imageMapRegion",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":193,
-                "y":0},
-              "size":{
-                "width":57,
-                "height":37}},
-            "adaptiveStyles":{
-},
-            "interactionMap":{
-              "onClick":{
-                "description":"OnClick",
-                "cases":[{
-                    "description":"用例 1",
-                    "isNewIfGroup":false,
-                    "actions":[{
-                        "action":"linkWindow",
-                        "description":"在 当前窗口 打开 体验路线列表",
-                        "target":{
-                          "targetType":"page",
-                          "url":"体验路线列表_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true}]}}},
@@ -2466,45 +2434,45 @@
         "scriptId":"u49"},
       "08515cc118c040c3999f325ab93566f2":{
         "scriptId":"u50"},
-      "c969752f566a49a6a203e49df35fab25":{
-        "scriptId":"u51"},
-      "325af96594fe47e187b0c48c8466ada8":{
-        "scriptId":"u52"},
       "506791ca29ed45d4a2ce7c6554b086f0":{
-        "scriptId":"u53"},
+        "scriptId":"u51"},
       "2095c2f0c9424993952f697a18668ec6":{
-        "scriptId":"u54"},
-      "b01f71406add42228a7c6d6eee864c12":{
-        "scriptId":"u55"},
-      "2a9a97f3cf084f5d8e9c58efa99246e4":{
-        "scriptId":"u56"},
+        "scriptId":"u52"},
       "3df70097703244faa1527a5a494c8c42":{
-        "scriptId":"u57"},
+        "scriptId":"u53"},
       "f7f494690f7647dba3345b464317963a":{
-        "scriptId":"u58"},
-      "7b6f02963717457387f89b9f67fcafd8":{
-        "scriptId":"u59"},
-      "3b49bb4a854648309a5eacee1c6f6550":{
-        "scriptId":"u60"},
+        "scriptId":"u54"},
       "042cb23104d742f2ae2b63e077e1712d":{
-        "scriptId":"u61"},
+        "scriptId":"u55"},
       "a93b06fed9a846fcbebd845a157d74d3":{
-        "scriptId":"u62"},
-      "0a65b7584c6c43f187543b1bed0f9620":{
-        "scriptId":"u63"},
-      "a061bd47263944abac34483694e25ef7":{
-        "scriptId":"u64"},
+        "scriptId":"u56"},
       "7059bc5e155a401bac0768cc3d613ce5":{
-        "scriptId":"u65"},
+        "scriptId":"u57"},
       "c7a87c87752f49fba0d0cb8e99c88f4a":{
+        "scriptId":"u58"},
+      "6c17287b2bc14f99a5db67d039fd7863":{
+        "scriptId":"u59"},
+      "e044ebdec77c42309e4dc2a65b371385":{
+        "scriptId":"u60"},
+      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
+        "scriptId":"u61"},
+      "37d725101ff24d929d72070bb2e0c4d1":{
+        "scriptId":"u62"},
+      "cf130d31e6be4d1cba8c1f0493a96875":{
+        "scriptId":"u63"},
+      "a2e97db8dcda4a3aac93c1c9b8657f23":{
+        "scriptId":"u64"},
+      "6b19b755d2b64fe283aaa9ac475df667":{
+        "scriptId":"u65"},
+      "1759e02ed4374bd09389c79665947a6b":{
         "scriptId":"u66"},
       "947fc150c84545bc959a65c3c98bf4d6":{
         "scriptId":"u67"},
-      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
+      "03ed968a08da4a80bd7495c1bb6340a9":{
         "scriptId":"u68"},
-      "9c7a13d46795479c92f0dc37c386aec1":{
+      "d9067e01d94e48d0adc2237491b1d6a5":{
         "scriptId":"u69"},
-      "a2e97db8dcda4a3aac93c1c9b8657f23":{
+      "9c7a13d46795479c92f0dc37c386aec1":{
         "scriptId":"u70"}},
     "0ba03846400b40b5852a93c473ae83b0":{
       "scriptId":"u71"},

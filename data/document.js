@@ -101,10 +101,26 @@
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"主页",
+            "pageName":"主页(android）",
             "type":"Wireframe",
-            "url":"主页_1.html",
+            "url":"___android_.html",
             "children":[{
+                "pageName":"平台简介",
+                "type":"Wireframe",
+                "url":"平台简介.html"},
+{
+                "pageName":"文章列表",
+                "type":"Wireframe",
+                "url":"文章列表.html"},
+{
+                "pageName":"蜜桃",
+                "type":"Wireframe",
+                "url":"蜜桃.html"},
+{
+                "pageName":"柠檬",
+                "type":"Wireframe",
+                "url":"柠檬.html"},
+{
                 "pageName":"商品列表",
                 "type":"Wireframe",
                 "url":"商品列表_1.html",
@@ -116,6 +132,10 @@
                     "pageName":"商品详情",
                     "type":"Wireframe",
                     "url":"商品详情_1.html"}]},
+{
+                "pageName":"特色活动",
+                "type":"Wireframe",
+                "url":"特色活动.html"},
 {
                 "pageName":"农场列表",
                 "type":"Wireframe",

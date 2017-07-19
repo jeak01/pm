@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功（农旅）_1.html",
-  "generationDate":new Date(1499653403459.54),
+  "generationDate":new Date(1500451008315.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u15.png"}},
+            "normal~":"images/平台简介/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -331,10 +331,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 主页",
+                      "description":"在 当前窗口 打开 主页(android）",
                       "target":{
                         "targetType":"page",
-                        "url":"主页_1.html",
+                        "url":"___android_.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

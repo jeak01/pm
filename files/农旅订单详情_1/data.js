@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情_1.html",
-  "generationDate":new Date(1499653403827.78),
+  "generationDate":new Date(1500451008713.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u15.png"}},
+            "normal~":"images/平台简介/u2.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -659,7 +659,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情_1/u4.png"}},
+            "normal~":"images/确认预约时间_1/u2.png"}},
 {
           "id":"18431b0fc5ae487e9dbcb2df4c1022b8",
           "label":"",
@@ -947,7 +947,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅订单详情_1/u49.png"}},
+            "normal~":"images/文章列表/u50.png"}},
 {
           "id":"e729fd452101464983deacb16ef6bc7d",
           "label":"",
@@ -1209,7 +1209,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/u15.png"}},
+                    "normal~":"images/平台简介/u2.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（蔬果）.html",
-  "generationDate":new Date(1499653399173.62),
+  "generationDate":new Date(1500451001373.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -506,39 +506,6 @@
           "images":{
             "normal~":"images/商品列表/u15.png"}},
 {
-          "id":"cd62208dccff462bbf1207c31beb63f8",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":45,
-              "y":175},
-            "size":{
-              "width":30,
-              "height":30}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"9326b0f489e040009d00b37ea8a6c438",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":45,
-                  "y":175},
-                "size":{
-                  "width":30,
-                  "height":30}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/商品详情/u30.png"}},
-{
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
           "type":"buttonShape",
@@ -605,39 +572,6 @@
           "images":{
             "normal~":"images/商品列表/u15.png"}},
 {
-          "id":"dc00b780efd74ba8a01e4ffb06eec713",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":45,
-              "y":136},
-            "size":{
-              "width":30,
-              "height":30}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"7ab8ae0f70e6456aa46531a2763b9887",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":45,
-                  "y":136},
-                "size":{
-                  "width":30,
-                  "height":30}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/商品详情/u30.png"}},
-{
           "id":"2c99f5ed755344b48c5d887f2120b1be",
           "label":"",
           "type":"buttonShape",
@@ -703,39 +637,6 @@
 }}],
           "images":{
             "normal~":"images/商品列表/u15.png"}},
-{
-          "id":"eaf5a78d5382421ab89ced19afc0bdaa",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":45,
-              "y":214},
-            "size":{
-              "width":30,
-              "height":30}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"b16284b0d2014c3aa9e5681fb08d618c",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":45,
-                  "y":214},
-                "size":{
-                  "width":30,
-                  "height":30}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/商品详情/u30.png"}},
 {
           "id":"042a4451b97f4f3db0e46ba0d276d9a5",
           "label":"",
@@ -839,7 +740,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/订单支付页（农旅）/u43.png"}}]}]},
+                    "normal~":"images/订单支付页（农旅）/u37.png"}}]}]},
 {
           "id":"8c4efd36ebd54d9dae2942e9f9d4ee3b",
           "label":"",
@@ -932,7 +833,106 @@
                   "width":20,
                   "height":16}},
               "adaptiveStyles":{
-}}]}]}},
+}}]},
+{
+          "id":"a0712199c6234d6699decefdb1efcfe2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":49,
+              "y":176},
+            "size":{
+              "width":25,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0436e7c2970a4ae8aea1224f8b03efe3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":49,
+                  "y":176},
+                "size":{
+                  "width":25,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/订单支付页（农旅）/u45.png"}},
+{
+          "id":"d54e43d07ab948798a824df058ce78f7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":45,
+              "y":211},
+            "size":{
+              "width":33,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"92a16bc932754517b56502ced3ffd892",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":45,
+                  "y":211},
+                "size":{
+                  "width":33,
+                  "height":33}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/订单支付页（农旅）/u47.png"}},
+{
+          "id":"fda05345449a4d52b5d1a7b8673fda90",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":47,
+              "y":136},
+            "size":{
+              "width":30,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5eb30cfc17154201a6bfd7a8f82d7927",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":47,
+                  "y":136},
+                "size":{
+                  "width":30,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/订单支付页（农旅）/u49.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -988,53 +988,53 @@
       "scriptId":"u24"},
     "118556308575470780855442261b00c5":{
       "scriptId":"u25"},
-    "cd62208dccff462bbf1207c31beb63f8":{
-      "scriptId":"u26"},
-    "9326b0f489e040009d00b37ea8a6c438":{
-      "scriptId":"u27"},
     "28e10a054860476b87baf08ec34d4791":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "c228f9743642424cbc805c170da19d5d":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "9f3462e1a5934acc9999dd4c69072912":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "2542d4356b874cc0bf52dff6d3c2fedd":{
-      "scriptId":"u31"},
-    "dc00b780efd74ba8a01e4ffb06eec713":{
-      "scriptId":"u32"},
-    "7ab8ae0f70e6456aa46531a2763b9887":{
-      "scriptId":"u33"},
+      "scriptId":"u29"},
     "2c99f5ed755344b48c5d887f2120b1be":{
-      "scriptId":"u34"},
+      "scriptId":"u30"},
     "5e20b880421a48ea87662ecbe053c8d4":{
-      "scriptId":"u35"},
+      "scriptId":"u31"},
     "469532def71d46cdb807e34ca6dbb66e":{
-      "scriptId":"u36"},
+      "scriptId":"u32"},
     "033b18f8e28940a285251be9b1f8793c":{
-      "scriptId":"u37"},
-    "eaf5a78d5382421ab89ced19afc0bdaa":{
-      "scriptId":"u38"},
-    "b16284b0d2014c3aa9e5681fb08d618c":{
-      "scriptId":"u39"},
+      "scriptId":"u33"},
     "042a4451b97f4f3db0e46ba0d276d9a5":{
-      "scriptId":"u40"},
+      "scriptId":"u34"},
     "57ef6a033c814b48a7480161f95336ea":{
-      "scriptId":"u41"},
+      "scriptId":"u35"},
     "9a7232a9764c4b81a91818b8c5531e75":{
-      "scriptId":"u42"},
+      "scriptId":"u36"},
     "f3f6693211754998b27eb8285860030a":{
-      "scriptId":"u43"},
+      "scriptId":"u37"},
     "db55f0e465e743a09184c68c5f230a1a":{
-      "scriptId":"u44"},
+      "scriptId":"u38"},
     "8c4efd36ebd54d9dae2942e9f9d4ee3b":{
-      "scriptId":"u45"},
+      "scriptId":"u39"},
     "c518232139434fdab84f49ecefd10feb":{
-      "scriptId":"u46"},
+      "scriptId":"u40"},
     "319696ae64af44628fb3478a274e41cd":{
-      "scriptId":"u47"},
+      "scriptId":"u41"},
     "ce918922b5f0463d9b7033e30e96dfd5":{
-      "scriptId":"u48"},
+      "scriptId":"u42"},
     "76e52d1640f34b44880a2f4101835b6c":{
-      "scriptId":"u49"},
+      "scriptId":"u43"},
     "af22bc92c1a3468a9b11b9045bd59e01":{
+      "scriptId":"u44"},
+    "a0712199c6234d6699decefdb1efcfe2":{
+      "scriptId":"u45"},
+    "0436e7c2970a4ae8aea1224f8b03efe3":{
+      "scriptId":"u46"},
+    "d54e43d07ab948798a824df058ce78f7":{
+      "scriptId":"u47"},
+    "92a16bc932754517b56502ced3ffd892":{
+      "scriptId":"u48"},
+    "fda05345449a4d52b5d1a7b8673fda90":{
+      "scriptId":"u49"},
+    "5eb30cfc17154201a6bfd7a8f82d7927":{
       "scriptId":"u50"}}});
