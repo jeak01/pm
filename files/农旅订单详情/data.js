@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情.html",
-  "generationDate":new Date(1500453767910.73),
+  "generationDate":new Date(1500456168854.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/配送设置面板_u138.png"}},
+            "normal~":"images/商品列表/配送设置面板_u132.png"}},
 {
           "id":"95463b67a8194076af9add9814e29a27",
           "label":"",
@@ -137,7 +137,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"c4448487167542c2a369b072d4da7484",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"5733a91159c34c24880fe534765d7e87",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"cb92d32048fe4d24b537b2bcb8a578c4",
           "label":"",
@@ -299,7 +299,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"a349da73f5574e9790e86be93ac672d7",
           "label":"",
@@ -1078,7 +1078,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u4.png"}},
+            "normal~":"images/确认预约时间/u2.png"}},
 {
           "id":"7fa78821bb1c42d4a3c4c973a4da1cd3",
           "label":"",
@@ -1177,7 +1177,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u114.jpg"}},
+            "normal~":"images/主页/u98.jpg"}},
 {
           "id":"5e1e7643aea0465c8d882d9b8196feac",
           "label":"",

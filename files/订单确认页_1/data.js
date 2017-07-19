@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认页_1.html",
-  "generationDate":new Date(1500453771740.29),
+  "generationDate":new Date(1500456176198.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -143,7 +143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"7c649206f5904d73b930a8ad1173c85e",
           "label":"",
@@ -248,7 +248,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u48.jpg"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"0df50d94c07b48a6a85784ea1d1d5489",
           "label":"",
@@ -379,7 +379,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u48.jpg"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"9e9e857ca0164d06affa748e59a8f598",
           "label":"",
@@ -510,7 +510,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u48.jpg"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"d1f785dc9ece4b048fe2a41672bcc281",
           "label":"",
@@ -641,7 +641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u48.jpg"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"8d7dd4fd2089443bbde854c4f6e904ad",
           "label":"",
@@ -1064,7 +1064,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"c97398ef12af4a0faf4bcdfc0d7a814d",
           "label":"",
@@ -1549,7 +1549,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"df862cc03401476586fb8a6c9cce680d",
           "label":"",
@@ -1695,7 +1695,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"5e903e77262342cf9c3cfefa24133ac9",
           "label":"",

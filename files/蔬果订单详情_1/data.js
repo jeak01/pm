@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情_1.html",
-  "generationDate":new Date(1500453772538.82),
+  "generationDate":new Date(1500456177207.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u2.png"}},
+            "normal~":"images/平台简介_1/u2.png"}},
 {
           "id":"54215657aa204d649cbe67344ec0084d",
           "label":"",
@@ -137,7 +137,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"0537fa734f214518b09113054f8164bd",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"332640cec9974f9092fcc0979115d641",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"2a79136dfde442deb01c2660eebfd5ac",
           "label":"",
@@ -299,7 +299,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"dc0da41b9d2e4dcd87a5f238cbc34c0d",
           "label":"",
@@ -618,7 +618,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章列表/u50.png"}},
+            "normal~":"images/文章列表_1/u50.png"}},
 {
           "id":"12cbe6452eeb42efb2f189e4f60d4128",
           "label":"",
@@ -880,7 +880,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/平台简介/u2.png"}},
+                    "normal~":"images/平台简介_1/u2.png"}},
 {
                   "id":"4bdaf3a37ac64ce390539e49e8b16206",
                   "label":"",
@@ -1541,7 +1541,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u2.png"}},
+            "normal~":"images/平台简介_1/u2.png"}},
 {
           "id":"b83fb0e072064b058c1609d19c308866",
           "label":"",
@@ -1582,7 +1582,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"2dad89276cf047f5950e59c421ff6886",
           "label":"",

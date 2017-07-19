@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅产品详情_1.html",
-  "generationDate":new Date(1500453771612.21),
+  "generationDate":new Date(1500456176004.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章列表/u0.png"}},
+            "normal~":"images/文章列表_1/u0.png"}},
 {
           "id":"a0d73aa0c2334190ba9e16dd229ec632",
           "label":"",
@@ -121,7 +121,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u2.png"}},
+            "normal~":"images/平台简介_1/u2.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -170,7 +170,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"5d461c2f6d804383a230526066d1af49",
           "label":"",
@@ -250,7 +250,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"1095b6aaa09a4e79b08c8cb1c8292c95",
           "label":"",
@@ -291,7 +291,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"c46432eebce64b69a48af648b4a0350e",
           "label":"",
@@ -332,7 +332,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"ac8d0a9515fd49b29df22399721702c1",
           "label":"",
@@ -868,7 +868,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/定时配送/u63.png"}},
+                    "normal~":"images/定时配送_1/u63.png"}},
 {
                   "id":"e2bf6cb02f154ab4b766d4be385d22c7",
                   "label":"",
@@ -940,7 +940,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/农旅产品详情/u35_line.png"}}]}]},
+                    "line~":"images/农旅产品详情/u56_line.png"}}]}]},
 {
           "id":"73475256d2134522b56b8c970eb53201",
           "label":"",
@@ -1068,7 +1068,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"78baf9a4f28d4a919807a49ff7d9c157",
           "label":"",
@@ -1109,7 +1109,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅产品详情/u50.png"}},
+            "normal~":"images/农旅产品详情/u40.png"}},
 {
           "id":"ad959bb75a7c4270b054aac4c99b7248",
           "label":"",

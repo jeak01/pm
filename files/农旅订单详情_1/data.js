@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情_1.html",
-  "generationDate":new Date(1500453772395.73),
+  "generationDate":new Date(1500456177072.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u2.png"}},
+            "normal~":"images/平台简介_1/u2.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -137,7 +137,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"c4448487167542c2a369b072d4da7484",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"5733a91159c34c24880fe534765d7e87",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"cb92d32048fe4d24b537b2bcb8a578c4",
           "label":"",
@@ -299,7 +299,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"a349da73f5574e9790e86be93ac672d7",
           "label":"",
@@ -758,7 +758,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u114.jpg"}},
+            "normal~":"images/主页/u98.jpg"}},
 {
           "id":"4ed723fd84814176b8728c57a64ef14b",
           "label":"",
@@ -947,7 +947,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章列表/u50.png"}},
+            "normal~":"images/文章列表_1/u50.png"}},
 {
           "id":"e729fd452101464983deacb16ef6bc7d",
           "label":"",
@@ -1209,7 +1209,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/平台简介/u2.png"}},
+                    "normal~":"images/平台简介_1/u2.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",

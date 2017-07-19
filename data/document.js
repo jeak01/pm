@@ -17,6 +17,26 @@
         "type":"Wireframe",
         "url":"主页.html",
         "children":[{
+            "pageName":"平台简介",
+            "type":"Wireframe",
+            "url":"平台简介.html"},
+{
+            "pageName":"文章列表",
+            "type":"Wireframe",
+            "url":"文章列表.html"},
+{
+            "pageName":"蜜桃",
+            "type":"Wireframe",
+            "url":"蜜桃.html"},
+{
+            "pageName":"柠檬",
+            "type":"Wireframe",
+            "url":"柠檬.html"},
+{
+            "pageName":"特色活动",
+            "type":"Wireframe",
+            "url":"特色活动.html"},
+{
             "pageName":"商品列表",
             "type":"Wireframe",
             "url":"商品列表.html",
@@ -24,6 +44,10 @@
                 "pageName":"选择配送农场",
                 "type":"Wireframe",
                 "url":"选择配送农场.html"},
+{
+                "pageName":"定时配送",
+                "type":"Wireframe",
+                "url":"定时配送.html"},
 {
                 "pageName":"商品详情",
                 "type":"Wireframe",
@@ -107,19 +131,19 @@
             "children":[{
                 "pageName":"平台简介",
                 "type":"Wireframe",
-                "url":"平台简介.html"},
+                "url":"平台简介_1.html"},
 {
                 "pageName":"文章列表",
                 "type":"Wireframe",
-                "url":"文章列表.html"},
+                "url":"文章列表_1.html"},
 {
                 "pageName":"蜜桃",
                 "type":"Wireframe",
-                "url":"蜜桃.html"},
+                "url":"蜜桃_1.html"},
 {
                 "pageName":"柠檬",
                 "type":"Wireframe",
-                "url":"柠檬.html"},
+                "url":"柠檬_1.html"},
 {
                 "pageName":"商品列表",
                 "type":"Wireframe",
@@ -131,7 +155,7 @@
 {
                     "pageName":"定时配送",
                     "type":"Wireframe",
-                    "url":"定时配送.html"},
+                    "url":"定时配送_1.html"},
 {
                     "pageName":"商品详情",
                     "type":"Wireframe",
@@ -139,7 +163,7 @@
 {
                 "pageName":"特色活动",
                 "type":"Wireframe",
-                "url":"特色活动.html"},
+                "url":"特色活动_1.html"},
 {
                 "pageName":"农场列表",
                 "type":"Wireframe",

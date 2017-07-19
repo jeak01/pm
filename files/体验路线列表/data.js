@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1500453766802.99),
+  "generationDate":new Date(1500456167266.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -131,7 +131,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"021fad75f90542e8b699f56d7d7f2671",
           "label":"",
@@ -172,7 +172,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"c6de04125e7d408e9d117072f7138636",
           "label":"",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"f18f47d8b945460f98de5e1f4b9182c4",
           "label":"",
@@ -254,7 +254,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"d2414ef6bbe340479493dab369a6c50b",
           "label":"",
@@ -427,7 +427,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u20.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"a848e210655b4b0093cab41c3d42a9b6",
           "label":"",
@@ -501,7 +501,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u20.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"6869c294c8cb473c8be0f8dbcafbd00a",
           "label":"",
@@ -575,7 +575,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u20.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"c5af0d3c2b6e47e7baae66d6be66e107",
           "label":"",
@@ -641,7 +641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u81.jpg"}},
+            "normal~":"images/主页/u65.jpg"}},
 {
           "id":"db8e13db22054720b5f8665cf4adbc18",
           "label":"",
@@ -852,7 +852,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u38_line.png"}},
+            "line~":"images/主页/u22_line.png"}},
 {
           "id":"789155ea4b4b4570981f04c6628bd28b",
           "label":"",
@@ -994,7 +994,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u103.jpg"}},
+            "normal~":"images/主页/u87.jpg"}},
 {
           "id":"78ca2b9413b34e21a8b885cb6218b47f",
           "label":"",
@@ -1257,7 +1257,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u92.jpg"}},
+            "normal~":"images/主页/u76.jpg"}},
 {
           "id":"60b79fc0c5ac4d9ea37179af85b8bcdb",
           "label":"",
@@ -1520,7 +1520,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u114.jpg"}},
+            "normal~":"images/主页/u98.jpg"}},
 {
           "id":"64545fc5270d479b95631900d15fd7ae",
           "label":"",

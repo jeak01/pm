@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认页.html",
-  "generationDate":new Date(1500453767227.27),
+  "generationDate":new Date(1500456167863.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/配送设置面板_u138.png"}},
+            "normal~":"images/商品列表/配送设置面板_u132.png"}},
 {
           "id":"0d5b9149b83148aca398a36e1b29ddde",
           "label":"",
@@ -143,7 +143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"7c649206f5904d73b930a8ad1173c85e",
           "label":"",
@@ -248,7 +248,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"0df50d94c07b48a6a85784ea1d1d5489",
           "label":"",
@@ -303,7 +303,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u77_line.png"}},
+            "line~":"images/主页/u61_line.png"}},
 {
           "id":"6f1743320a3043859539fe4aabc274da",
           "label":"",
@@ -379,7 +379,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"9e9e857ca0164d06affa748e59a8f598",
           "label":"",
@@ -434,7 +434,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u77_line.png"}},
+            "line~":"images/主页/u61_line.png"}},
 {
           "id":"2d70bce88f424c01a1222f2119ee1107",
           "label":"",
@@ -510,7 +510,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"d1f785dc9ece4b048fe2a41672bcc281",
           "label":"",
@@ -565,7 +565,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u77_line.png"}},
+            "line~":"images/主页/u61_line.png"}},
 {
           "id":"4502cef1ef7f483c92aadd7f16a44b1a",
           "label":"",
@@ -641,7 +641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单确认页/u10.png"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"8d7dd4fd2089443bbde854c4f6e904ad",
           "label":"",
@@ -696,7 +696,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u77_line.png"}},
+            "line~":"images/主页/u61_line.png"}},
 {
           "id":"1bc8c9d05be443e4a1d3b6a4731026dd",
           "label":"",
@@ -800,7 +800,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u77_line.png"}},
+            "line~":"images/主页/u61_line.png"}},
 {
           "id":"4b9f2ac11e4640c98d5c7e41702af00a",
           "label":"",
@@ -1012,7 +1012,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u62.png"}},
 {
           "id":"4d9172c522204d3293eb491a69ab472f",
           "label":"",
@@ -1086,7 +1086,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"c97398ef12af4a0faf4bcdfc0d7a814d",
           "label":"",
@@ -1158,7 +1158,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u62.png"}},
 {
           "id":"9e72d8fe84664c658950a6eedeb459ac",
           "label":"",
@@ -1271,7 +1271,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u62.png"}},
 {
           "id":"e5183e7d4d994e47a0f8c822970b2af6",
           "label":"",
@@ -1384,7 +1384,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u62.png"}},
 {
           "id":"58175deb72e545ddbf1818269cf61ebe",
           "label":"",
@@ -1497,7 +1497,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u62.png"}},
 {
           "id":"e5b1c5a75794478c9ffa6c4a927ad9a6",
           "label":"",
@@ -1571,7 +1571,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"df862cc03401476586fb8a6c9cce680d",
           "label":"",
@@ -1643,7 +1643,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u88.png"}},
+            "normal~":"images/农场详情/u62.png"}},
 {
           "id":"7db7367b57524a1888ccb210ac1bd369",
           "label":"",
@@ -1717,7 +1717,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"5e903e77262342cf9c3cfefa24133ac9",
           "label":"",
@@ -1812,7 +1812,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表/u113.png"}},
+                    "normal~":"images/商品列表/u107.png"}},
 {
                   "id":"6ac36212810b4201a39fbd335e24ee37",
                   "label":"",

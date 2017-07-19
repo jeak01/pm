@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表.html",
-  "generationDate":new Date(1500453767752.62),
+  "generationDate":new Date(1500456168666.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/配送设置面板_u138.png"}},
+            "normal~":"images/商品列表/配送设置面板_u132.png"}},
 {
           "id":"4b4656b338e140c4aa62f7b4a67b0b20",
           "label":"",
@@ -137,7 +137,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"c1edc8dbfc3b4c0685a75b40198906d1",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"fd52a68d6a274608b097c117535bbead",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"c1510f8dea5740acab80fe6a40f0c8f0",
           "label":"",
@@ -299,7 +299,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"15bfd199c91542e9a3e3ab16166e20c2",
           "label":"",
@@ -545,7 +545,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u54.png"}},
+            "normal~":"images/主页/u98.jpg"}},
 {
           "id":"6e8e49a49319474288d45282a702cd1d",
           "label":"",
@@ -853,7 +853,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u54.png"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"5cfe18c6b25c40389ec2f4e159397ac1",
           "label":"",
@@ -1161,7 +1161,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u54.png"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"c22c421f8bbe4f85a16a9f3c189c4c0f",
           "label":"",

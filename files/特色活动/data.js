@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动.html",
-  "generationDate":new Date(1500453770931.76),
+  "generationDate":new Date(1500456165974.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"75b773b64c86405f94bd2abe742bf5e8",
+    "packageId":"7500e0fcf1574673846200ebb2d65771",
     "type":"Axure:Page",
     "name":"特色活动",
     "notes":{
@@ -37,8 +37,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":360,
-              "height":690}},
+              "width":375,
+              "height":719}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -50,8 +50,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":360,
-                  "height":690}},
+                  "width":375,
+                  "height":719}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -64,8 +64,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":360,
-              "height":40}},
+              "width":375,
+              "height":42}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -77,12 +77,12 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":360,
-                  "height":40}},
+                  "width":375,
+                  "height":42}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u2.png"}},
+            "normal~":"images/文章列表/u2.png"}},
 {
           "id":"55299690e49545a192f0b731f464d86d",
           "label":"",
@@ -91,8 +91,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":41,
-              "height":41},
+              "width":43,
+              "height":43},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -108,8 +108,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":41,
-                  "height":41},
+                  "width":43,
+                  "height":43},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -131,7 +131,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"b3225c715f3949f99f446744bc77addb",
           "label":"",
@@ -143,7 +143,7 @@
               "fillType":"solid",
               "color":0xFF666666},
             "location":{
-              "x":335,
+              "x":349,
               "y":7},
             "size":{
               "width":6,
@@ -163,7 +163,7 @@
                   "fillType":"solid",
                   "color":0xFF666666},
                 "location":{
-                  "x":335,
+                  "x":349,
                   "y":7},
                 "size":{
                   "width":6,
@@ -172,7 +172,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -184,8 +184,8 @@
               "fillType":"solid",
               "color":0xFF666666},
             "location":{
-              "x":335,
-              "y":17},
+              "x":349,
+              "y":18},
             "size":{
               "width":6,
               "height":6},
@@ -204,8 +204,8 @@
                   "fillType":"solid",
                   "color":0xFF666666},
                 "location":{
-                  "x":335,
-                  "y":17},
+                  "x":349,
+                  "y":18},
                 "size":{
                   "width":6,
                   "height":6},
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -225,8 +225,8 @@
               "fillType":"solid",
               "color":0xFF666666},
             "location":{
-              "x":335,
-              "y":27},
+              "x":349,
+              "y":28},
             "size":{
               "width":6,
               "height":6},
@@ -245,8 +245,8 @@
                   "fillType":"solid",
                   "color":0xFF666666},
                 "location":{
-                  "x":335,
-                  "y":27},
+                  "x":349,
+                  "y":28},
                 "size":{
                   "width":6,
                   "height":6},
@@ -254,7 +254,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u21.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"1735d451609c461cbca800f807245f9e",
           "label":"",
@@ -264,10 +264,10 @@
           "style":{
             "location":{
               "x":1,
-              "y":39},
+              "y":41},
             "size":{
-              "width":125,
-              "height":30}},
+              "width":130,
+              "height":31}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -280,14 +280,14 @@
               "style":{
                 "location":{
                   "x":1,
-                  "y":39},
+                  "y":41},
                 "size":{
-                  "width":125,
-                  "height":30}},
+                  "width":130,
+                  "height":31}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u12.png"}},
+            "normal~":"images/特色活动/u12.png"}},
 {
           "id":"c9febc3da0dc4c878a4cc98d416d6d3c",
           "label":"",
@@ -296,11 +296,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":125,
-              "y":39},
+              "x":130,
+              "y":41},
             "size":{
-              "width":125,
-              "height":30}},
+              "width":130,
+              "height":31}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -312,15 +312,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":125,
-                  "y":39},
+                  "x":130,
+                  "y":41},
                 "size":{
-                  "width":125,
-                  "height":30}},
+                  "width":130,
+                  "height":31}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u12.png"}},
+            "normal~":"images/特色活动/u12.png"}},
 {
           "id":"a12e41862d354fe98be8a84b7412ceb2",
           "label":"",
@@ -329,11 +329,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":239,
-              "y":39},
+              "x":249,
+              "y":41},
             "size":{
-              "width":120,
-              "height":30}},
+              "width":125,
+              "height":31}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -345,11 +345,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":239,
-                  "y":39},
+                  "x":249,
+                  "y":41},
                 "size":{
-                  "width":120,
-                  "height":30}},
+                  "width":125,
+                  "height":31}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -362,11 +362,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":48,
-              "y":46},
+              "x":50,
+              "y":48},
             "size":{
               "width":27,
-              "height":16}},
+              "height":17}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -378,11 +378,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":48,
-                  "y":46},
+                  "x":50,
+                  "y":48},
                 "size":{
                   "width":27,
-                  "height":16}},
+                  "height":17}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -395,11 +395,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":93,
-              "y":43},
+              "x":97,
+              "y":45},
             "size":{
-              "width":22,
-              "height":22},
+              "width":23,
+              "height":23},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -415,11 +415,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":93,
-                  "y":43},
+                  "x":97,
+                  "y":45},
                 "size":{
-                  "width":22,
-                  "height":22},
+                  "width":23,
+                  "height":23},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -427,7 +427,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u20.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"a90c40a4bb394e539e718babdab0e6fb",
           "label":"",
@@ -436,11 +436,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":151,
-              "y":46},
+              "x":157,
+              "y":48},
             "size":{
               "width":53,
-              "height":16}},
+              "height":17}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -452,11 +452,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":151,
-                  "y":46},
+                  "x":157,
+                  "y":48},
                 "size":{
                   "width":53,
-                  "height":16}},
+                  "height":17}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -469,11 +469,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":217,
-              "y":43},
+              "x":226,
+              "y":45},
             "size":{
-              "width":22,
-              "height":22},
+              "width":23,
+              "height":23},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -489,11 +489,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":217,
-                  "y":43},
+                  "x":226,
+                  "y":45},
                 "size":{
-                  "width":22,
-                  "height":22},
+                  "width":23,
+                  "height":23},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -501,7 +501,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u20.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"0b524b61cc2f49628e03c4196c61e4c9",
           "label":"",
@@ -510,11 +510,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":283,
-              "y":46},
+              "x":295,
+              "y":48},
             "size":{
               "width":27,
-              "height":16}},
+              "height":17}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -526,11 +526,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":283,
-                  "y":46},
+                  "x":295,
+                  "y":48},
                 "size":{
                   "width":27,
-                  "height":16}},
+                  "height":17}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -543,11 +543,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":329,
-              "y":43},
+              "x":343,
+              "y":45},
             "size":{
-              "width":22,
-              "height":22},
+              "width":23,
+              "height":23},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -563,11 +563,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":329,
-                  "y":43},
+                  "x":343,
+                  "y":45},
                 "size":{
-                  "width":22,
-                  "height":22},
+                  "width":23,
+                  "height":23},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -575,7 +575,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u20.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"98f12138c6ab4d54a44f41123cde1b5e",
           "label":"",
@@ -584,11 +584,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":51,
+              "x":53,
               "y":5},
             "size":{
-              "width":269,
-              "height":30},
+              "width":280,
+              "height":31},
             "cornerRadiusTopLeft":"10"},
           "adaptiveStyles":{
 },
@@ -601,11 +601,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":51,
+                  "x":53,
                   "y":5},
                 "size":{
-                  "width":269,
-                  "height":30},
+                  "width":280,
+                  "height":31},
                 "cornerRadiusTopLeft":"10"},
               "adaptiveStyles":{
 }}],
@@ -619,11 +619,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":265,
+              "x":276,
               "y":8},
             "size":{
               "width":10,
-              "height":25},
+              "height":26},
             "borderFill":{
               "fillType":"solid",
               "color":0xFF666666}},
@@ -632,7 +632,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u38_line.png"}},
+            "line~":"images/文章列表/u14_line.png"}},
 {
           "id":"0d2b992171304ba9841ac0c41bc69131",
           "label":"",
@@ -641,11 +641,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":284,
+              "x":296,
               "y":11},
             "size":{
               "width":27,
-              "height":16}},
+              "height":17}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -657,11 +657,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":284,
+                  "x":296,
                   "y":11},
                 "size":{
                   "width":27,
-                  "height":16}},
+                  "height":17}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -675,10 +675,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":79},
+              "y":82},
             "size":{
-              "width":360,
-              "height":181}},
+              "width":375,
+              "height":189}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -691,10 +691,10 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":79},
+                  "y":82},
                 "size":{
-                  "width":360,
-                  "height":181}},
+                  "width":375,
+                  "height":189}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -708,10 +708,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":80},
+              "y":83},
             "size":{
-              "width":360,
-              "height":120}},
+              "width":375,
+              "height":125}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -724,10 +724,10 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":80},
+                  "y":83},
                 "size":{
-                  "width":360,
-                  "height":120}},
+                  "width":375,
+                  "height":125}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -741,16 +741,16 @@
           "style":{
             "location":{
               "x":0,
-              "y":195},
+              "y":203},
             "size":{
-              "width":360,
+              "width":375,
               "height":10}},
           "adaptiveStyles":{
 },
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/文章列表/u41_line.png"}},
+            "line~":"images/文章列表/u17_line.png"}},
 {
           "id":"f40f1ae5227042818a11014e6ccf7df1",
           "label":"",
@@ -760,7 +760,7 @@
           "style":{
             "location":{
               "x":9,
-              "y":210},
+              "y":219},
             "size":{
               "width":144,
               "height":16}},
@@ -776,7 +776,7 @@
               "style":{
                 "location":{
                   "x":9,
-                  "y":210},
+                  "y":219},
                 "size":{
                   "width":144,
                   "height":16}},
@@ -798,7 +798,7 @@
               "opacity":1},
             "location":{
               "x":9,
-              "y":236},
+              "y":246},
             "size":{
               "width":78,
               "height":14}},
@@ -819,7 +819,7 @@
                   "opacity":1},
                 "location":{
                   "x":9,
-                  "y":236},
+                  "y":246},
                 "size":{
                   "width":78,
                   "height":14}},
@@ -836,8 +836,8 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":141,
-              "y":236},
+              "x":147,
+              "y":246},
             "size":{
               "width":40,
               "height":14}},
@@ -853,8 +853,8 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":141,
-                  "y":236},
+                  "x":147,
+                  "y":246},
                 "size":{
                   "width":40,
                   "height":14}},
@@ -877,8 +877,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":183,
-              "y":231},
+              "x":191,
+              "y":241},
             "size":{
               "width":28,
               "height":19}},
@@ -900,8 +900,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":183,
-                  "y":231},
+                  "x":191,
+                  "y":241},
                 "size":{
                   "width":28,
                   "height":19}},
@@ -917,11 +917,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":271,
-              "y":220},
+              "x":282,
+              "y":229},
             "size":{
-              "width":80,
-              "height":30},
+              "width":83,
+              "height":31},
             "cornerRadiusTopLeft":"10"},
           "adaptiveStyles":{
 },
@@ -934,11 +934,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":271,
-                  "y":220},
+                  "x":282,
+                  "y":229},
                 "size":{
-                  "width":80,
-                  "height":30},
+                  "width":83,
+                  "height":31},
                 "cornerRadiusTopLeft":"10"},
               "adaptiveStyles":{
 }}],
@@ -953,10 +953,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":270},
+              "y":281},
             "size":{
-              "width":360,
-              "height":181}},
+              "width":375,
+              "height":189}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -969,10 +969,10 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":270},
+                  "y":281},
                 "size":{
-                  "width":360,
-                  "height":181}},
+                  "width":375,
+                  "height":189}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -986,10 +986,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":271},
+              "y":282},
             "size":{
-              "width":360,
-              "height":120}},
+              "width":375,
+              "height":125}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1002,10 +1002,10 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":271},
+                  "y":282},
                 "size":{
-                  "width":360,
-                  "height":120}},
+                  "width":375,
+                  "height":125}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1019,16 +1019,16 @@
           "style":{
             "location":{
               "x":0,
-              "y":386},
+              "y":402},
             "size":{
-              "width":360,
+              "width":375,
               "height":10}},
           "adaptiveStyles":{
 },
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/文章列表/u41_line.png"}},
+            "line~":"images/文章列表/u17_line.png"}},
 {
           "id":"42f2bdd9931b4d7a8dfeafc8212ed180",
           "label":"",
@@ -1038,7 +1038,7 @@
           "style":{
             "location":{
               "x":9,
-              "y":401},
+              "y":418},
             "size":{
               "width":79,
               "height":16}},
@@ -1054,7 +1054,7 @@
               "style":{
                 "location":{
                   "x":9,
-                  "y":401},
+                  "y":418},
                 "size":{
                   "width":79,
                   "height":16}},
@@ -1076,7 +1076,7 @@
               "opacity":1},
             "location":{
               "x":9,
-              "y":427},
+              "y":445},
             "size":{
               "width":78,
               "height":14}},
@@ -1097,7 +1097,7 @@
                   "opacity":1},
                 "location":{
                   "x":9,
-                  "y":427},
+                  "y":445},
                 "size":{
                   "width":78,
                   "height":14}},
@@ -1114,8 +1114,8 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":141,
-              "y":427},
+              "x":147,
+              "y":445},
             "size":{
               "width":40,
               "height":14}},
@@ -1131,8 +1131,8 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":141,
-                  "y":427},
+                  "x":147,
+                  "y":445},
                 "size":{
                   "width":40,
                   "height":14}},
@@ -1155,8 +1155,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":183,
-              "y":422},
+              "x":191,
+              "y":440},
             "size":{
               "width":19,
               "height":19}},
@@ -1178,8 +1178,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":183,
-                  "y":422},
+                  "x":191,
+                  "y":440},
                 "size":{
                   "width":19,
                   "height":19}},
@@ -1195,11 +1195,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":271,
-              "y":411},
+              "x":282,
+              "y":428},
             "size":{
-              "width":80,
-              "height":30},
+              "width":83,
+              "height":31},
             "cornerRadiusTopLeft":"10"},
           "adaptiveStyles":{
 },
@@ -1212,11 +1212,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":271,
-                  "y":411},
+                  "x":282,
+                  "y":428},
                 "size":{
-                  "width":80,
-                  "height":30},
+                  "width":83,
+                  "height":31},
                 "cornerRadiusTopLeft":"10"},
               "adaptiveStyles":{
 }}],
@@ -1231,10 +1231,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":461},
+              "y":480},
             "size":{
-              "width":360,
-              "height":181}},
+              "width":375,
+              "height":189}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1247,10 +1247,10 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":461},
+                  "y":480},
                 "size":{
-                  "width":360,
-                  "height":181}},
+                  "width":375,
+                  "height":189}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1264,10 +1264,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":462},
+              "y":481},
             "size":{
-              "width":360,
-              "height":120}},
+              "width":375,
+              "height":125}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1280,10 +1280,10 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":462},
+                  "y":481},
                 "size":{
-                  "width":360,
-                  "height":120}},
+                  "width":375,
+                  "height":125}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1297,16 +1297,16 @@
           "style":{
             "location":{
               "x":0,
-              "y":577},
+              "y":601},
             "size":{
-              "width":360,
+              "width":375,
               "height":10}},
           "adaptiveStyles":{
 },
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/文章列表/u41_line.png"}},
+            "line~":"images/文章列表/u17_line.png"}},
 {
           "id":"f5ed464e0e004d659ee5a7b4a3356245",
           "label":"",
@@ -1316,7 +1316,7 @@
           "style":{
             "location":{
               "x":8,
-              "y":592},
+              "y":617},
             "size":{
               "width":131,
               "height":16}},
@@ -1332,7 +1332,7 @@
               "style":{
                 "location":{
                   "x":8,
-                  "y":592},
+                  "y":617},
                 "size":{
                   "width":131,
                   "height":16}},
@@ -1354,7 +1354,7 @@
               "opacity":1},
             "location":{
               "x":8,
-              "y":618},
+              "y":644},
             "size":{
               "width":78,
               "height":14}},
@@ -1375,7 +1375,7 @@
                   "opacity":1},
                 "location":{
                   "x":8,
-                  "y":618},
+                  "y":644},
                 "size":{
                   "width":78,
                   "height":14}},
@@ -1396,8 +1396,8 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":140,
-              "y":618},
+              "x":146,
+              "y":644},
             "size":{
               "width":34,
               "height":14}},
@@ -1417,8 +1417,8 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":140,
-                  "y":618},
+                  "x":146,
+                  "y":644},
                 "size":{
                   "width":34,
                   "height":14}},
@@ -1441,8 +1441,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":182,
-              "y":613},
+              "x":190,
+              "y":639},
             "size":{
               "width":33,
               "height":19}},
@@ -1464,8 +1464,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":182,
-                  "y":613},
+                  "x":190,
+                  "y":639},
                 "size":{
                   "width":33,
                   "height":19}},
@@ -1481,11 +1481,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":270,
-              "y":602},
+              "x":281,
+              "y":627},
             "size":{
-              "width":80,
-              "height":30},
+              "width":83,
+              "height":31},
             "cornerRadiusTopLeft":"10"},
           "adaptiveStyles":{
 },
@@ -1498,62 +1498,34 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":270,
-                  "y":602},
+                  "x":281,
+                  "y":627},
                 "size":{
-                  "width":80,
-                  "height":30},
+                  "width":83,
+                  "height":31},
                 "cornerRadiusTopLeft":"10"},
               "adaptiveStyles":{
 }}],
           "images":{
             "normal~":"images/特色活动/u48.png"}},
 {
-          "id":"31c1bba379724ac6b3b53c839aba1726",
+          "id":"524da176706a4ff98d23d052b92888b2",
           "label":"",
-          "type":"dynamicPanel",
-          "styleType":"dynamicPanel",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
           "visible":true,
           "style":{
             "location":{
               "x":0,
-              "y":627},
-            "size":{
-              "width":10,
-              "height":10}},
+              "y":679}},
           "adaptiveStyles":{
 },
-          "fixedHorizontal":"left",
-          "fixedMarginHorizontal":0,
-          "fixedVertical":"bottom",
-          "fixedMarginVertical":0,
-          "fixedKeepInFront":true,
-          "scrollbars":"none",
-          "fitToContent":true,
-          "propagate":false,
-          "diagrams":[{
-              "id":"f6f4c23310a5434ea0266e9ed8d8668f",
-              "label":"状态1",
-              "type":"Axure:PanelDiagram",
-              "objects":[{
-                  "id":"fcef3b12c95c45f8bf3c8fa12c41e49a",
-                  "label":"",
-                  "parentDynamicPanel":"31c1bba379724ac6b3b53c839aba1726",
-                  "type":"referenceDiagramObject",
-                  "styleType":"referenceDiagramObject",
-                  "visible":true,
-                  "style":{
-                    "size":{
-                      "width":360,
-                      "height":40}},
-                  "adaptiveStyles":{
-},
-                  "masterId":"9c8d789cd9ea4344a50ed483251cd481"}]}]}]}},
+          "masterId":"c6f7133f0f3d4b358ae2860c736c4901"}]}},
   "masters":{
-    "9c8d789cd9ea4344a50ed483251cd481":{
-      "packageId":"9c8d789cd9ea4344a50ed483251cd481",
+    "c6f7133f0f3d4b358ae2860c736c4901":{
+      "packageId":"c6f7133f0f3d4b358ae2860c736c4901",
       "type":"Axure:Master",
-      "name":"底部菜单_1",
+      "name":"底部菜单",
       "notes":{
 },
       "style":{
@@ -1587,7 +1559,7 @@
                 "fillType":"solid",
                 "color":0xFFCCCCCC},
               "size":{
-                "width":360,
+                "width":375,
                 "height":40}},
             "adaptiveStyles":{
 },
@@ -1603,12 +1575,12 @@
                     "fillType":"solid",
                     "color":0xFFCCCCCC},
                   "size":{
-                    "width":360,
+                    "width":375,
                     "height":40}},
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u86.png"}},
+              "normal~":"images/主页/u31.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1618,7 +1590,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":44,
+                "x":46,
                 "y":24},
               "size":{
                 "width":21,
@@ -1635,7 +1607,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":44,
+                    "x":46,
                     "y":24},
                   "size":{
                     "width":21,
@@ -1653,7 +1625,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":130,
+                "x":135,
                 "y":24},
               "size":{
                 "width":21,
@@ -1670,7 +1642,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":130,
+                    "x":135,
                     "y":24},
                   "size":{
                     "width":21,
@@ -1688,7 +1660,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":202,
+                "x":211,
                 "y":24},
               "size":{
                 "width":41,
@@ -1705,7 +1677,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":202,
+                    "x":211,
                     "y":24},
                   "size":{
                     "width":41,
@@ -1723,7 +1695,7 @@
             "style":{
               "fontSize":"10px",
               "location":{
-                "x":281,
+                "x":293,
                 "y":24},
               "size":{
                 "width":41,
@@ -1740,7 +1712,7 @@
                 "style":{
                   "fontSize":"10px",
                   "location":{
-                    "x":281,
+                    "x":293,
                     "y":24},
                   "size":{
                     "width":41,
@@ -1750,22 +1722,22 @@
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
-            "id":"6c17287b2bc14f99a5db67d039fd7863",
+            "id":"8c18c762b21940448b34118f148c16f9",
             "label":"",
             "type":"imageBox",
             "styleType":"imageBox",
             "visible":true,
             "style":{
               "location":{
-                "x":44,
-                "y":4},
+                "x":46,
+                "y":3},
               "size":{
                 "width":20,
                 "height":20}},
             "adaptiveStyles":{
 },
             "objects":[{
-                "id":"e044ebdec77c42309e4dc2a65b371385",
+                "id":"6f4c54f5f7a446d4b60836c3902b78ec",
                 "label":"",
                 "isContained":true,
                 "type":"richTextPanel",
@@ -1773,7 +1745,40 @@
                 "visible":true,
                 "style":{
                   "location":{
-                    "x":44,
+                    "x":46,
+                    "y":3},
+                  "size":{
+                    "width":20,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/主页/u41.png"}},
+{
+            "id":"23c41c0158e34a6594530820b8216bd9",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":134,
+                "y":4},
+              "size":{
+                "width":20,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"268d7399ac5a497fb2b88cdf45c79956",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":134,
                     "y":4},
                   "size":{
                     "width":20,
@@ -1781,7 +1786,73 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u96.png"}},
+              "normal~":"images/主页/u43.png"}},
+{
+            "id":"41d53f0c0268462684596f1fcedb6422",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":220,
+                "y":4},
+              "size":{
+                "width":20,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"def7825ff1c54728859a9a39ba42377f",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":220,
+                    "y":4},
+                  "size":{
+                    "width":20,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/主页/u45.png"}},
+{
+            "id":"0e1f6919ee134de99255ea88ce30dfe5",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":304,
+                "y":4},
+              "size":{
+                "width":20,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"abf062bc8fc14dec8f929ae672fc6ee6",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":304,
+                    "y":4},
+                  "size":{
+                    "width":20,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/主页/u47.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -1790,10 +1861,10 @@
             "visible":true,
             "style":{
               "location":{
-                "x":18,
+                "x":16,
                 "y":0},
               "size":{
-                "width":73,
+                "width":83,
                 "height":40}},
             "adaptiveStyles":{
 },
@@ -1805,109 +1876,13 @@
                     "isNewIfGroup":false,
                     "actions":[{
                         "action":"linkWindow",
-                        "description":"在 当前窗口 打开 主页(安卓)",
+                        "description":"在 当前窗口 打开 主页",
                         "target":{
                           "targetType":"page",
-                          "url":"主页_安卓_.html",
+                          "url":"主页.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},
-{
-            "id":"37d725101ff24d929d72070bb2e0c4d1",
-            "label":"",
-            "type":"imageBox",
-            "styleType":"imageBox",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":212.5,
-                "y":4},
-              "size":{
-                "width":20,
-                "height":20}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"cf130d31e6be4d1cba8c1f0493a96875",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":212.5,
-                    "y":4},
-                  "size":{
-                    "width":20,
-                    "height":20}},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/主页_安卓_/u99.png"}},
-{
-            "id":"a2e97db8dcda4a3aac93c1c9b8657f23",
-            "label":"",
-            "type":"imageMapRegion",
-            "styleType":"imageMapRegion",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":194,
-                "y":1},
-              "size":{
-                "width":57,
-                "height":37}},
-            "adaptiveStyles":{
-},
-            "interactionMap":{
-              "onClick":{
-                "description":"OnClick",
-                "cases":[{
-                    "description":"用例 1",
-                    "isNewIfGroup":false,
-                    "actions":[{
-                        "action":"linkWindow",
-                        "description":"在 当前窗口 打开 体验路线列表",
-                        "target":{
-                          "targetType":"page",
-                          "url":"体验路线列表_1.html",
-                          "includeVariables":true},
-                        "linkType":"current"}]}]}},
-            "tabbable":true},
-{
-            "id":"6b19b755d2b64fe283aaa9ac475df667",
-            "label":"",
-            "type":"imageBox",
-            "styleType":"imageBox",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":130,
-                "y":4},
-              "size":{
-                "width":20,
-                "height":20}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"1759e02ed4374bd09389c79665947a6b",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":130,
-                    "y":4},
-                  "size":{
-                    "width":20,
-                    "height":20}},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/主页_安卓_/u102.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",
@@ -1916,10 +1891,10 @@
             "visible":true,
             "style":{
               "location":{
-                "x":110,
+                "x":109,
                 "y":0},
               "size":{
-                "width":60,
+                "width":70,
                 "height":40}},
             "adaptiveStyles":{
 },
@@ -1934,55 +1909,22 @@
                         "description":"在 当前窗口 打开 商品列表",
                         "target":{
                           "targetType":"page",
-                          "url":"商品列表_1.html",
+                          "url":"商品列表.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},
 {
-            "id":"03ed968a08da4a80bd7495c1bb6340a9",
-            "label":"",
-            "type":"imageBox",
-            "styleType":"imageBox",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":291.5,
-                "y":4},
-              "size":{
-                "width":20,
-                "height":20}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"d9067e01d94e48d0adc2237491b1d6a5",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":291.5,
-                    "y":4},
-                  "size":{
-                    "width":20,
-                    "height":20}},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/主页_安卓_/u105.png"}},
-{
-            "id":"9c7a13d46795479c92f0dc37c386aec1",
+            "id":"61fad9cf64db4b66a1c88b4b74ef7f4c",
             "label":"",
             "type":"imageMapRegion",
             "styleType":"imageMapRegion",
             "visible":true,
             "style":{
               "location":{
-                "x":272,
+                "x":197,
                 "y":0},
               "size":{
-                "width":60,
+                "width":66,
                 "height":40}},
             "adaptiveStyles":{
 },
@@ -1994,10 +1936,39 @@
                     "isNewIfGroup":false,
                     "actions":[{
                         "action":"linkWindow",
-                        "description":"在 当前窗口 打开 个人中心主页",
+                        "description":"在 当前窗口 打开 体验路线列表",
                         "target":{
                           "targetType":"page",
-                          "url":"个人中心主页_1.html",
+                          "url":"体验路线列表.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"f53af4725a5a4e80ae40559150101adb",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":279,
+                "y":0},
+              "size":{
+                "width":70,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 链接",
+                        "target":{
+                          "targetType":"page",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true}]}}},
@@ -2162,51 +2133,49 @@
       "scriptId":"u78"},
     "332c38b4c8d1454ea0512d322d342858":{
       "scriptId":"u79"},
-    "31c1bba379724ac6b3b53c839aba1726":{
-      "scriptId":"u80"},
-    "fcef3b12c95c45f8bf3c8fa12c41e49a":{
-      "scriptId":"u81",
+    "524da176706a4ff98d23d052b92888b2":{
+      "scriptId":"u80",
       "87500d8b8b844c309601540b4619d68c":{
-        "scriptId":"u82"},
+        "scriptId":"u81"},
       "08515cc118c040c3999f325ab93566f2":{
-        "scriptId":"u83"},
+        "scriptId":"u82"},
       "506791ca29ed45d4a2ce7c6554b086f0":{
-        "scriptId":"u84"},
+        "scriptId":"u83"},
       "2095c2f0c9424993952f697a18668ec6":{
-        "scriptId":"u85"},
+        "scriptId":"u84"},
       "3df70097703244faa1527a5a494c8c42":{
-        "scriptId":"u86"},
+        "scriptId":"u85"},
       "f7f494690f7647dba3345b464317963a":{
-        "scriptId":"u87"},
+        "scriptId":"u86"},
       "042cb23104d742f2ae2b63e077e1712d":{
-        "scriptId":"u88"},
+        "scriptId":"u87"},
       "a93b06fed9a846fcbebd845a157d74d3":{
-        "scriptId":"u89"},
+        "scriptId":"u88"},
       "7059bc5e155a401bac0768cc3d613ce5":{
-        "scriptId":"u90"},
+        "scriptId":"u89"},
       "c7a87c87752f49fba0d0cb8e99c88f4a":{
+        "scriptId":"u90"},
+      "8c18c762b21940448b34118f148c16f9":{
         "scriptId":"u91"},
-      "6c17287b2bc14f99a5db67d039fd7863":{
+      "6f4c54f5f7a446d4b60836c3902b78ec":{
         "scriptId":"u92"},
-      "e044ebdec77c42309e4dc2a65b371385":{
+      "23c41c0158e34a6594530820b8216bd9":{
         "scriptId":"u93"},
-      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
+      "268d7399ac5a497fb2b88cdf45c79956":{
         "scriptId":"u94"},
-      "37d725101ff24d929d72070bb2e0c4d1":{
+      "41d53f0c0268462684596f1fcedb6422":{
         "scriptId":"u95"},
-      "cf130d31e6be4d1cba8c1f0493a96875":{
+      "def7825ff1c54728859a9a39ba42377f":{
         "scriptId":"u96"},
-      "a2e97db8dcda4a3aac93c1c9b8657f23":{
+      "0e1f6919ee134de99255ea88ce30dfe5":{
         "scriptId":"u97"},
-      "6b19b755d2b64fe283aaa9ac475df667":{
+      "abf062bc8fc14dec8f929ae672fc6ee6":{
         "scriptId":"u98"},
-      "1759e02ed4374bd09389c79665947a6b":{
+      "8ea57a5b3f8e48fb8d26368b9cd9484c":{
         "scriptId":"u99"},
       "947fc150c84545bc959a65c3c98bf4d6":{
         "scriptId":"u100"},
-      "03ed968a08da4a80bd7495c1bb6340a9":{
+      "61fad9cf64db4b66a1c88b4b74ef7f4c":{
         "scriptId":"u101"},
-      "d9067e01d94e48d0adc2237491b1d6a5":{
-        "scriptId":"u102"},
-      "9c7a13d46795479c92f0dc37c386aec1":{
-        "scriptId":"u103"}}}});
+      "f53af4725a5a4e80ae40559150101adb":{
+        "scriptId":"u102"}}}});

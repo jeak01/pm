@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送.html",
-  "generationDate":new Date(1500453770670.58),
+  "generationDate":new Date(1500456166820.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"75ec2c7bc2ac4aefba6e6ea7d77d9961",
+    "packageId":"79c9d5b6ab184a51806c205426135c78",
     "type":"Axure:Page",
     "name":"定时配送",
     "notes":{
@@ -40,8 +40,8 @@
               "fillType":"solid",
               "color":0xFFDDDDDD},
             "size":{
-              "width":360,
-              "height":667}},
+              "width":375,
+              "height":680}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -56,12 +56,12 @@
                   "fillType":"solid",
                   "color":0xFFDDDDDD},
                 "size":{
-                  "width":360,
-                  "height":667}},
+                  "width":375,
+                  "height":680}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/配送设置面板_u132.png"}},
+            "normal~":"images/定时配送/配送设置面板_u0.png"}},
 {
           "id":"2391244f1f394a6ca32cb5309caf33dc",
           "label":"",
@@ -70,8 +70,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":360,
-              "height":40}},
+              "width":375,
+              "height":41}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -83,12 +83,12 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":360,
-                  "height":40}},
+                  "width":375,
+                  "height":41}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u2.png"}},
+            "normal~":"images/蜜桃/u2.png"}},
 {
           "id":"40dc83185821431c9a3b37807c09caa5",
           "label":"",
@@ -100,7 +100,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":145,
+              "x":151,
               "y":8},
             "size":{
               "width":73,
@@ -119,7 +119,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":145,
+                  "x":151,
                   "y":8},
                 "size":{
                   "width":73,
@@ -137,10 +137,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":86},
+              "y":88},
             "size":{
-              "width":360,
-              "height":39}},
+              "width":375,
+              "height":40}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -153,14 +153,14 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":86},
+                  "y":88},
                 "size":{
-                  "width":360,
-                  "height":39}},
+                  "width":375,
+                  "height":40}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃/u2.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"e0ab63f369064a3793181486f98a993d",
           "label":"",
@@ -170,8 +170,8 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":17,
-              "y":68},
+              "x":18,
+              "y":69},
             "size":{
               "width":45,
               "height":14}},
@@ -187,8 +187,8 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":17,
-                  "y":68},
+                  "x":18,
+                  "y":69},
                 "size":{
                   "width":45,
                   "height":14}},
@@ -204,8 +204,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":98},
+              "x":18,
+              "y":100},
             "size":{
               "width":66,
               "height":16}},
@@ -220,8 +220,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":98},
+                  "x":18,
+                  "y":100},
                 "size":{
                   "width":66,
                   "height":16}},
@@ -237,11 +237,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":324,
-              "y":86},
+              "x":338,
+              "y":88},
             "size":{
-              "width":36,
-              "height":38},
+              "width":38,
+              "height":39},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -257,11 +257,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":324,
-                  "y":86},
+                  "x":338,
+                  "y":88},
                 "size":{
-                  "width":36,
-                  "height":38},
+                  "width":38,
+                  "height":39},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -269,7 +269,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"2735f93f895243108cc85079610768ff",
           "label":"",
@@ -279,10 +279,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":162},
+              "y":165},
             "size":{
-              "width":360,
-              "height":39}},
+              "width":375,
+              "height":40}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -295,14 +295,14 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":162},
+                  "y":165},
                 "size":{
-                  "width":360,
-                  "height":39}},
+                  "width":375,
+                  "height":40}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃/u2.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"d4f9b0f9ac43439e8d8ddb44004032f9",
           "label":"",
@@ -312,8 +312,8 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":17,
-              "y":144},
+              "x":18,
+              "y":147},
             "size":{
               "width":45,
               "height":14}},
@@ -329,8 +329,8 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":17,
-                  "y":144},
+                  "x":18,
+                  "y":147},
                 "size":{
                   "width":45,
                   "height":14}},
@@ -346,8 +346,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":174},
+              "x":18,
+              "y":177},
             "size":{
               "width":92,
               "height":16}},
@@ -362,8 +362,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":174},
+                  "x":18,
+                  "y":177},
                 "size":{
                   "width":92,
                   "height":16}},
@@ -379,11 +379,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":324,
-              "y":164},
+              "x":338,
+              "y":167},
             "size":{
-              "width":36,
-              "height":38},
+              "width":38,
+              "height":39},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -399,11 +399,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":324,
-                  "y":164},
+                  "x":338,
+                  "y":167},
                 "size":{
-                  "width":36,
-                  "height":38},
+                  "width":38,
+                  "height":39},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -411,7 +411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"38473f7c025c42958424c2a2223adb2a",
           "label":"",
@@ -420,8 +420,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":41,
-              "height":41},
+              "width":43,
+              "height":42},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -437,8 +437,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":41,
-                  "height":41},
+                  "width":43,
+                  "height":42},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -460,7 +460,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/商品列表/u17.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"15a0a45d71d74d66ad09a46d24b4507e",
           "label":"",
@@ -470,10 +470,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":238},
+              "y":243},
             "size":{
-              "width":360,
-              "height":39}},
+              "width":375,
+              "height":40}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -486,14 +486,14 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":238},
+                  "y":243},
                 "size":{
-                  "width":360,
-                  "height":39}},
+                  "width":375,
+                  "height":40}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃/u2.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"50a1f42ba4784c9f8c65084128cc1bc7",
           "label":"",
@@ -503,8 +503,8 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":17,
-              "y":220},
+              "x":18,
+              "y":224},
             "size":{
               "width":67,
               "height":14}},
@@ -520,8 +520,8 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":17,
-                  "y":220},
+                  "x":18,
+                  "y":224},
                 "size":{
                   "width":67,
                   "height":14}},
@@ -537,8 +537,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":250},
+              "x":18,
+              "y":255},
             "size":{
               "width":104,
               "height":16}},
@@ -553,8 +553,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":250},
+                  "x":18,
+                  "y":255},
                 "size":{
                   "width":104,
                   "height":16}},
@@ -570,11 +570,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":324,
-              "y":240},
+              "x":338,
+              "y":245},
             "size":{
-              "width":36,
-              "height":38},
+              "width":38,
+              "height":39},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -590,11 +590,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":324,
-                  "y":240},
+                  "x":338,
+                  "y":245},
                 "size":{
-                  "width":36,
-                  "height":38},
+                  "width":38,
+                  "height":39},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -602,7 +602,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"465c68d9be364090899b4ee0ea656012",
           "label":"",
@@ -612,10 +612,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":313},
+              "y":319},
             "size":{
-              "width":360,
-              "height":39}},
+              "width":375,
+              "height":40}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -628,14 +628,14 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":313},
+                  "y":319},
                 "size":{
-                  "width":360,
-                  "height":39}},
+                  "width":375,
+                  "height":40}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃/u2.png"}},
+            "normal~":"images/商品列表/u15.png"}},
 {
           "id":"56eb12907fc544a7a30ad0521e957ac0",
           "label":"",
@@ -645,8 +645,8 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":17,
-              "y":295},
+              "x":18,
+              "y":301},
             "size":{
               "width":45,
               "height":14}},
@@ -662,8 +662,8 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":17,
-                  "y":295},
+                  "x":18,
+                  "y":301},
                 "size":{
                   "width":45,
                   "height":14}},
@@ -679,8 +679,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":325},
+              "x":18,
+              "y":331},
             "size":{
               "width":53,
               "height":16}},
@@ -695,8 +695,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":325},
+                  "x":18,
+                  "y":331},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -712,11 +712,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":324,
-              "y":315},
+              "x":338,
+              "y":321},
             "size":{
-              "width":36,
-              "height":38},
+              "width":38,
+              "height":39},
             "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
@@ -732,11 +732,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":324,
-                  "y":315},
+                  "x":338,
+                  "y":321},
                 "size":{
-                  "width":36,
-                  "height":38},
+                  "width":38,
+                  "height":39},
                 "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
@@ -744,7 +744,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u33.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"5b56db548dcb45e8a8dd7e7fdaab1f12",
           "label":"",
@@ -754,10 +754,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":380},
+              "y":387},
             "size":{
-              "width":360,
-              "height":115}},
+              "width":375,
+              "height":117}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -770,10 +770,10 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":380},
+                  "y":387},
                 "size":{
-                  "width":360,
-                  "height":115}},
+                  "width":375,
+                  "height":117}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -786,10 +786,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":403},
+              "x":18,
+              "y":411},
             "size":{
-              "width":323,
+              "width":336,
               "height":10},
             "borderFill":{
               "fillType":"solid",
@@ -808,8 +808,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":387},
+              "x":18,
+              "y":395},
             "size":{
               "width":27,
               "height":16}},
@@ -824,8 +824,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":387},
+                  "x":18,
+                  "y":395},
                 "size":{
                   "width":27,
                   "height":16}},
@@ -841,8 +841,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":413},
+              "x":18,
+              "y":421},
             "size":{
               "width":53,
               "height":16}},
@@ -857,8 +857,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":413},
+                  "x":18,
+                  "y":421},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -874,8 +874,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":439},
+              "x":18,
+              "y":448},
             "size":{
               "width":53,
               "height":16}},
@@ -890,8 +890,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":439},
+                  "x":18,
+                  "y":448},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -907,8 +907,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":295,
-              "y":413},
+              "x":307,
+              "y":421},
             "size":{
               "width":45,
               "height":16}},
@@ -923,8 +923,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":295,
-                  "y":413},
+                  "x":307,
+                  "y":421},
                 "size":{
                   "width":45,
                   "height":16}},
@@ -940,8 +940,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":319,
-              "y":439},
+              "x":332,
+              "y":448},
             "size":{
               "width":21,
               "height":16}},
@@ -956,8 +956,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":319,
-                  "y":439},
+                  "x":332,
+                  "y":448},
                 "size":{
                   "width":21,
                   "height":16}},
@@ -973,10 +973,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":455},
+              "x":18,
+              "y":464},
             "size":{
-              "width":323,
+              "width":336,
               "height":10},
             "borderFill":{
               "fillType":"solid",
@@ -995,8 +995,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":246,
-              "y":473},
+              "x":256,
+              "y":482},
             "size":{
               "width":40,
               "height":16}},
@@ -1011,8 +1011,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":246,
-                  "y":473},
+                  "x":256,
+                  "y":482},
                 "size":{
                   "width":40,
                   "height":16}},
@@ -1033,8 +1033,8 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":286,
-              "y":465},
+              "x":298,
+              "y":474},
             "size":{
               "width":54,
               "height":24}},
@@ -1054,8 +1054,8 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":286,
-                  "y":465},
+                  "x":298,
+                  "y":474},
                 "size":{
                   "width":54,
                   "height":24}},
@@ -1072,10 +1072,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":617},
+              "y":629},
             "size":{
-              "width":360,
-              "height":50}},
+              "width":375,
+              "height":51}},
           "adaptiveStyles":{
 },
           "fixedHorizontal":"left",
@@ -1186,7 +1186,7 @@
                       "x":220,
                       "y":0},
                     "size":{
-                      "width":140,
+                      "width":155,
                       "height":50}},
                   "adaptiveStyles":{
 },
@@ -1203,7 +1203,7 @@
                           "x":220,
                           "y":0},
                         "size":{
-                          "width":140,
+                          "width":155,
                           "height":50}},
                       "adaptiveStyles":{
 }}],
