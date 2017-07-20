@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅产品详情_1.html",
-  "generationDate":new Date(1500456647475.75),
+  "generationDate":new Date(1500513709094.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

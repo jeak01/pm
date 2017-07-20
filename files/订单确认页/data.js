@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认页.html",
-  "generationDate":new Date(1500456642359.15),
+  "generationDate":new Date(1500513701630.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -303,7 +303,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"6f1743320a3043859539fe4aabc274da",
           "label":"",
@@ -434,7 +434,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"2d70bce88f424c01a1222f2119ee1107",
           "label":"",
@@ -565,7 +565,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"4502cef1ef7f483c92aadd7f16a44b1a",
           "label":"",
@@ -696,7 +696,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"1bc8c9d05be443e4a1d3b6a4731026dd",
           "label":"",
@@ -800,7 +800,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"4b9f2ac11e4640c98d5c7e41702af00a",
           "label":"",

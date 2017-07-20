@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅产品详情.html",
-  "generationDate":new Date(1500456642177.03),
+  "generationDate":new Date(1500513701445.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -387,7 +387,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"16882a03adbc42498bbe79586f3d05b9",
           "label":"",
@@ -481,7 +481,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"d99648621d8c4b8e91eb346c6aec293b",
           "label":"",

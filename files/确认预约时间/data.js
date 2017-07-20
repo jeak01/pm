@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认预约时间.html",
-  "generationDate":new Date(1500456642525.26),
+  "generationDate":new Date(1500513701772.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -426,7 +426,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u61_line.png"}},
+            "line~":"images/主页/u56_line.png"}},
 {
           "id":"8563c54b03694184a6e61894f18c5a07",
           "label":"",

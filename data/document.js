@@ -145,6 +145,10 @@
                 "type":"Wireframe",
                 "url":"柠檬_1.html"},
 {
+                "pageName":"特色活动",
+                "type":"Wireframe",
+                "url":"特色活动_1.html"},
+{
                 "pageName":"商品列表",
                 "type":"Wireframe",
                 "url":"商品列表_1.html",
@@ -160,10 +164,6 @@
                     "pageName":"商品详情",
                     "type":"Wireframe",
                     "url":"商品详情_1.html"}]},
-{
-                "pageName":"特色活动",
-                "type":"Wireframe",
-                "url":"特色活动_1.html"},
 {
                 "pageName":"农场列表",
                 "type":"Wireframe",

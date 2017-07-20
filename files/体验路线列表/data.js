@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1500456641539.61),
+  "generationDate":new Date(1500513700751.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -641,7 +641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u65.jpg"}},
+            "normal~":"images/主页/u60.jpg"}},
 {
           "id":"db8e13db22054720b5f8665cf4adbc18",
           "label":"",
@@ -852,7 +852,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/主页/u22_line.png"}},
+            "line~":"images/选择配送农场/u8_line.png"}},
 {
           "id":"789155ea4b4b4570981f04c6628bd28b",
           "label":"",
@@ -994,7 +994,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u87.jpg"}},
+            "normal~":"images/主页/u82.jpg"}},
 {
           "id":"78ca2b9413b34e21a8b885cb6218b47f",
           "label":"",
@@ -1257,7 +1257,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u76.jpg"}},
+            "normal~":"images/主页/u71.jpg"}},
 {
           "id":"60b79fc0c5ac4d9ea37179af85b8bcdb",
           "label":"",
@@ -1520,7 +1520,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u98.jpg"}},
+            "normal~":"images/主页/u93.jpg"}},
 {
           "id":"64545fc5270d479b95631900d15fd7ae",
           "label":"",

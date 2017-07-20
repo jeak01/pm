@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页_1.html",
-  "generationDate":new Date(1500456648865.68),
+  "generationDate":new Date(1500513711186.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1526,7 +1526,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u86.png"}},
+              "normal~":"images/主页_安卓_/u81.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1699,7 +1699,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u41.png"}},
+              "normal~":"images/主页/u36.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -1762,7 +1762,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u45.png"}},
+              "normal~":"images/主页/u40.png"}},
 {
             "id":"6b19b755d2b64fe283aaa9ac475df667",
             "label":"",
@@ -1795,7 +1795,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u43.png"}},
+              "normal~":"images/主页/u38.png"}},
 {
             "id":"03ed968a08da4a80bd7495c1bb6340a9",
             "label":"",
@@ -1828,7 +1828,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u47.png"}},
+              "normal~":"images/主页/u42.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",
