@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台简介.html",
-  "generationDate":new Date(1500513697561.6),
+  "generationDate":new Date(1500530341372.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -468,9 +468,10 @@
             "styleType":"buttonShape",
             "visible":true,
             "style":{
-              "fill":{
+              "foreGroundFill":{
                 "fillType":"solid",
-                "color":0xFFCCCCCC},
+                "color":0xFFFFFFFF,
+                "opacity":1},
               "size":{
                 "width":375,
                 "height":40}},
@@ -484,9 +485,10 @@
                 "styleType":"paragraph",
                 "visible":true,
                 "style":{
-                  "fill":{
+                  "foreGroundFill":{
                     "fillType":"solid",
-                    "color":0xFFCCCCCC},
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
                   "size":{
                     "width":375,
                     "height":40}},

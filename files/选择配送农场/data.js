@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场.html",
-  "generationDate":new Date(1500513699466.87),
+  "generationDate":new Date(1500530342673.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -82,7 +82,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u15.png"}},
+            "normal~":"images/主页/u26.png"}},
 {
           "id":"d4d8cb00187f41b5b763d9c25aa65c14",
           "label":"",
@@ -1208,8 +1208,38 @@
               "x":0,
               "y":63},
             "size":{
-              "width":374,
-              "height":43}},
+              "width":375,
+              "height":133}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"dfc7b21996ea4d159b65cfd4c1f14868",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":221},
+            "size":{
+              "width":375,
+              "height":133}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -1355,4 +1385,6 @@
     "f173b395c30d47458270049c980291f5":{
       "scriptId":"u61"},
     "7478cf293b29465993298fc0ef7bc348":{
-      "scriptId":"u62"}}});
+      "scriptId":"u62"},
+    "dfc7b21996ea4d159b65cfd4c1f14868":{
+      "scriptId":"u63"}}});

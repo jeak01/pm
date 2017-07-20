@@ -858,8 +858,17 @@
   position:absolute;
   left:0px;
   top:63px;
-  width:374px;
-  height:43px;
+  width:375px;
+  height:133px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u63 {
+  position:absolute;
+  left:0px;
+  top:221px;
+  width:375px;
+  height:133px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }

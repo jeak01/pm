@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅产品详情.html",
-  "generationDate":new Date(1500513701445.18),
+  "generationDate":new Date(1500530343779.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -82,7 +82,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u15.png"}},
+            "normal~":"images/主页/u26.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",

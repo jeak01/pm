@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动.html",
-  "generationDate":new Date(1500513698381.14),
+  "generationDate":new Date(1500530341994.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1583,9 +1583,10 @@
             "styleType":"buttonShape",
             "visible":true,
             "style":{
-              "fill":{
+              "foreGroundFill":{
                 "fillType":"solid",
-                "color":0xFFCCCCCC},
+                "color":0xFFFFFFFF,
+                "opacity":1},
               "size":{
                 "width":375,
                 "height":40}},
@@ -1599,9 +1600,10 @@
                 "styleType":"paragraph",
                 "visible":true,
                 "style":{
-                  "fill":{
+                  "foreGroundFill":{
                     "fillType":"solid",
-                    "color":0xFFCCCCCC},
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
                   "size":{
                     "width":375,
                     "height":40}},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表.html",
-  "generationDate":new Date(1500513700427.51),
+  "generationDate":new Date(1500530343149.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -82,7 +82,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u15.png"}},
+            "normal~":"images/主页/u26.png"}},
 {
           "id":"55299690e49545a192f0b731f464d86d",
           "label":"",
@@ -1673,9 +1673,10 @@
             "styleType":"buttonShape",
             "visible":true,
             "style":{
-              "fill":{
+              "foreGroundFill":{
                 "fillType":"solid",
-                "color":0xFFCCCCCC},
+                "color":0xFFFFFFFF,
+                "opacity":1},
               "size":{
                 "width":375,
                 "height":40}},
@@ -1689,9 +1690,10 @@
                 "styleType":"paragraph",
                 "visible":true,
                 "style":{
-                  "fill":{
+                  "foreGroundFill":{
                     "fillType":"solid",
-                    "color":0xFFCCCCCC},
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
                   "size":{
                     "width":375,
                     "height":40}},

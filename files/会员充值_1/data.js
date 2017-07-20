@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_1.html",
-  "generationDate":new Date(1500513710893.47),
+  "generationDate":new Date(1500530351347.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"898b8dc43747405ead4300c3a3c9bcac",
           "label":"",
@@ -209,7 +209,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"b7ab70103b9c481aaee87da63bfe4484",
           "label":"",
@@ -292,7 +292,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"122a11397b0f4daab3c10ed9c11d9410",
           "label":"",
@@ -389,7 +389,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"1fcd9142aec3426dbde01d7ceffd532d",
           "label":"",
@@ -524,7 +524,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/平台简介_1/u2.png"}}]}]},
+                    "normal~":"images/主页_安卓_/u81.png"}}]}]},
 {
           "id":"2499b7b521494ab7b4aec484c68d558a",
           "label":"",
@@ -557,7 +557,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"daed30c190c0427d8f1594899ec9be32",
           "label":"",
@@ -707,7 +707,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"049004d3ff4d4b21b09cc1a63c1dde78",
           "label":"",
@@ -857,7 +857,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"c0a8fff2a96b4aa19fe0d7afe586f679",
           "label":"",
@@ -1007,7 +1007,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"f08879a88260449286a2231375c25d62",
           "label":"",

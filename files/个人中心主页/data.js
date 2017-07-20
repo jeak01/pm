@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页.html",
-  "generationDate":new Date(1500513705615.96),
+  "generationDate":new Date(1500530347840.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1501,9 +1501,10 @@
             "styleType":"buttonShape",
             "visible":true,
             "style":{
-              "fill":{
+              "foreGroundFill":{
                 "fillType":"solid",
-                "color":0xFFCCCCCC},
+                "color":0xFFFFFFFF,
+                "opacity":1},
               "size":{
                 "width":375,
                 "height":40}},
@@ -1517,9 +1518,10 @@
                 "styleType":"paragraph",
                 "visible":true,
                 "style":{
-                  "fill":{
+                  "foreGroundFill":{
                     "fillType":"solid",
-                    "color":0xFFCCCCCC},
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
                   "size":{
                     "width":375,
                     "height":40}},

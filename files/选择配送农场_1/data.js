@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场_1.html",
-  "generationDate":new Date(1500513707530.23),
+  "generationDate":new Date(1500530349297.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1208,8 +1208,8 @@
               "x":0,
               "y":63},
             "size":{
-              "width":358,
-              "height":43}},
+              "width":360,
+              "height":133}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -1928,7 +1928,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"495f9240562b43ef941fbd17a266eb14",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":219},
+            "size":{
+              "width":360,
+              "height":133}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品列表_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2129,4 +2159,6 @@
     "63e80ae9ed79459b95b0565d1fab4ee9":{
       "scriptId":"u97"},
     "a0a09e2a476945528dc0a14a0edc7a94":{
-      "scriptId":"u98"}}});
+      "scriptId":"u98"},
+    "495f9240562b43ef941fbd17a266eb14":{
+      "scriptId":"u99"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情_1.html",
-  "generationDate":new Date(1500513710560.25),
+  "generationDate":new Date(1500530351068.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -1209,7 +1209,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/平台简介_1/u2.png"}},
+                    "normal~":"images/主页_安卓_/u81.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",

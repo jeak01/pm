@@ -858,8 +858,8 @@
   position:absolute;
   left:0px;
   top:63px;
-  width:358px;
-  height:43px;
+  width:360px;
+  height:133px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -1267,4 +1267,13 @@
   top:0px;
   width:28px;
   white-space:nowrap;
+}
+#u99 {
+  position:absolute;
+  left:0px;
+  top:219px;
+  width:360px;
+  height:133px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }

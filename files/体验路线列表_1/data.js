@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表_1.html",
-  "generationDate":new Date(1500513708825.09),
+  "generationDate":new Date(1500530349950.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -82,7 +82,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介_1/u2.png"}},
+            "normal~":"images/主页_安卓_/u81.png"}},
 {
           "id":"0d62b2a17a15404fb544a52017d90f50",
           "label":"",
@@ -1913,9 +1913,6 @@
             "styleType":"buttonShape",
             "visible":true,
             "style":{
-              "fill":{
-                "fillType":"solid",
-                "color":0xFFCCCCCC},
               "size":{
                 "width":360,
                 "height":40}},
@@ -1929,9 +1926,6 @@
                 "styleType":"paragraph",
                 "visible":true,
                 "style":{
-                  "fill":{
-                    "fillType":"solid",
-                    "color":0xFFCCCCCC},
                   "size":{
                     "width":360,
                     "height":40}},
@@ -1947,6 +1941,9 @@
             "visible":true,
             "style":{
               "fontSize":"10px",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF},
               "location":{
                 "x":44,
                 "y":24},
@@ -1964,6 +1961,9 @@
                 "visible":true,
                 "style":{
                   "fontSize":"10px",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF},
                   "location":{
                     "x":44,
                     "y":24},
@@ -1973,7 +1973,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"resources/images/transparent.gif"}},
+              "normal~":"images/主页_安卓_/u83.png"}},
 {
             "id":"3df70097703244faa1527a5a494c8c42",
             "label":"",
@@ -1982,6 +1982,9 @@
             "visible":true,
             "style":{
               "fontSize":"10px",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF},
               "location":{
                 "x":130,
                 "y":24},
@@ -1999,6 +2002,9 @@
                 "visible":true,
                 "style":{
                   "fontSize":"10px",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF},
                   "location":{
                     "x":130,
                     "y":24},
@@ -2008,7 +2014,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"resources/images/transparent.gif"}},
+              "normal~":"images/主页_安卓_/u83.png"}},
 {
             "id":"042cb23104d742f2ae2b63e077e1712d",
             "label":"",
@@ -2017,6 +2023,9 @@
             "visible":true,
             "style":{
               "fontSize":"10px",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF},
               "location":{
                 "x":202,
                 "y":24},
@@ -2034,6 +2043,9 @@
                 "visible":true,
                 "style":{
                   "fontSize":"10px",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF},
                   "location":{
                     "x":202,
                     "y":24},
@@ -2043,7 +2055,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"resources/images/transparent.gif"}},
+              "normal~":"images/主页_安卓_/u87.png"}},
 {
             "id":"7059bc5e155a401bac0768cc3d613ce5",
             "label":"",
@@ -2052,6 +2064,9 @@
             "visible":true,
             "style":{
               "fontSize":"10px",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF},
               "location":{
                 "x":281,
                 "y":24},
@@ -2069,6 +2084,9 @@
                 "visible":true,
                 "style":{
                   "fontSize":"10px",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF},
                   "location":{
                     "x":281,
                     "y":24},
@@ -2078,7 +2096,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"resources/images/transparent.gif"}},
+              "normal~":"images/主页_安卓_/u87.png"}},
 {
             "id":"6c17287b2bc14f99a5db67d039fd7863",
             "label":"",
