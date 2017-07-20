@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场.html",
-  "generationDate":new Date(1500530342673.53),
+  "generationDate":new Date(1500531899765.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1209,7 +1209,7 @@
               "y":63},
             "size":{
               "width":375,
-              "height":133}},
+              "height":42}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -1239,7 +1239,127 @@
               "y":221},
             "size":{
               "width":375,
-              "height":133}},
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"ff239e1834a642d985299329d1d8d5eb",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":108},
+            "size":{
+              "width":375,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"5dd5aaf42f6447619aeca48be4248d1d",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":153},
+            "size":{
+              "width":375,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"d1a9990adf314c0d93660a94d952b153",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1,
+              "y":265},
+            "size":{
+              "width":375,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"9918af204d7241ff96df2aab031cc128",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":310},
+            "size":{
+              "width":375,
+              "height":42}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -1387,4 +1507,12 @@
     "7478cf293b29465993298fc0ef7bc348":{
       "scriptId":"u62"},
     "dfc7b21996ea4d159b65cfd4c1f14868":{
-      "scriptId":"u63"}}});
+      "scriptId":"u63"},
+    "ff239e1834a642d985299329d1d8d5eb":{
+      "scriptId":"u64"},
+    "5dd5aaf42f6447619aeca48be4248d1d":{
+      "scriptId":"u65"},
+    "d1a9990adf314c0d93660a94d952b153":{
+      "scriptId":"u66"},
+    "9918af204d7241ff96df2aab031cc128":{
+      "scriptId":"u67"}}});

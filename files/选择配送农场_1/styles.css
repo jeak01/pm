@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:360px;
+  width:351px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -859,7 +859,7 @@
   left:0px;
   top:63px;
   width:360px;
-  height:133px;
+  height:42px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -1273,7 +1273,43 @@
   left:0px;
   top:219px;
   width:360px;
-  height:133px;
+  height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u100 {
+  position:absolute;
+  left:0px;
+  top:108px;
+  width:360px;
+  height:41px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u101 {
+  position:absolute;
+  left:0px;
+  top:154px;
+  width:360px;
+  height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u102 {
+  position:absolute;
+  left:-9px;
+  top:265px;
+  width:360px;
+  height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u103 {
+  position:absolute;
+  left:0px;
+  top:310px;
+  width:360px;
+  height:42px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
