@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页_1.html",
-  "generationDate":new Date(1500531908824.33),
+  "generationDate":new Date(1500969742407.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -129,7 +129,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/备用部件/u225.png"}},
+            "normal~":"images/个人中心主页/u4.png"}},
 {
           "id":"442d78d8806145e2bdc8dd78f05ef587",
           "label":"",
@@ -170,7 +170,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/备用部件/u223.png"}},
+            "normal~":"images/个人中心主页/u6.png"}},
 {
           "id":"1fba798fdb3f461da1dad7ad1033bf3e",
           "label":"",
@@ -1520,7 +1520,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u81.png"}},
+              "normal~":"images/主页_安卓_/u217.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1561,7 +1561,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u83.png"}},
+              "normal~":"images/主页_安卓_/u219.png"}},
 {
             "id":"3df70097703244faa1527a5a494c8c42",
             "label":"",
@@ -1574,7 +1574,7 @@
                 "fillType":"solid",
                 "color":0xFFFFFFFF},
               "location":{
-                "x":130,
+                "x":210,
                 "y":24},
               "size":{
                 "width":21,
@@ -1594,7 +1594,7 @@
                     "fillType":"solid",
                     "color":0xFFFFFFFF},
                   "location":{
-                    "x":130,
+                    "x":210,
                     "y":24},
                   "size":{
                     "width":21,
@@ -1602,7 +1602,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u83.png"}},
+              "normal~":"images/主页_安卓_/u219.png"}},
 {
             "id":"042cb23104d742f2ae2b63e077e1712d",
             "label":"",
@@ -1615,8 +1615,8 @@
                 "fillType":"solid",
                 "color":0xFFFFFFFF},
               "location":{
-                "x":202,
-                "y":24},
+                "x":121,
+                "y":25},
               "size":{
                 "width":41,
                 "height":13}},
@@ -1635,15 +1635,15 @@
                     "fillType":"solid",
                     "color":0xFFFFFFFF},
                   "location":{
-                    "x":202,
-                    "y":24},
+                    "x":121,
+                    "y":25},
                   "size":{
                     "width":41,
                     "height":13}},
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u87.png"}},
+              "normal~":"images/主页_安卓_/u223.png"}},
 {
             "id":"7059bc5e155a401bac0768cc3d613ce5",
             "label":"",
@@ -1684,7 +1684,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u87.png"}},
+              "normal~":"images/主页_安卓_/u223.png"}},
 {
             "id":"6c17287b2bc14f99a5db67d039fd7863",
             "label":"",
@@ -1756,8 +1756,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":212.5,
-                "y":4},
+                "x":131,
+                "y":5},
               "size":{
                 "width":20,
                 "height":20}},
@@ -1772,8 +1772,8 @@
                 "visible":true,
                 "style":{
                   "location":{
-                    "x":212.5,
-                    "y":4},
+                    "x":131,
+                    "y":5},
                   "size":{
                     "width":20,
                     "height":20}},
@@ -1789,7 +1789,7 @@
             "visible":true,
             "style":{
               "location":{
-                "x":130,
+                "x":210,
                 "y":4},
               "size":{
                 "width":20,
@@ -1805,7 +1805,7 @@
                 "visible":true,
                 "style":{
                   "location":{
-                    "x":130,
+                    "x":210,
                     "y":4},
                   "size":{
                     "width":20,
@@ -1855,7 +1855,7 @@
             "visible":true,
             "style":{
               "location":{
-                "x":110,
+                "x":190,
                 "y":0},
               "size":{
                 "width":60,
@@ -1885,8 +1885,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":194,
-                "y":1},
+                "x":113,
+                "y":2},
               "size":{
                 "width":57,
                 "height":37}},

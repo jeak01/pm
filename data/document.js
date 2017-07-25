@@ -105,10 +105,6 @@
             "type":"Wireframe",
             "url":"蔬果订单详情.html"}]},
 {
-        "pageName":"备用部件",
-        "type":"Wireframe",
-        "url":"备用部件.html"},
-{
         "pageName":"会员充值",
         "type":"Wireframe",
         "url":"会员充值.html",
@@ -133,17 +129,17 @@
                 "type":"Wireframe",
                 "url":"平台简介_1.html"},
 {
+                "pageName":"配送套餐",
+                "type":"Wireframe",
+                "url":"配送套餐.html"},
+{
+                "pageName":"特惠套餐",
+                "type":"Wireframe",
+                "url":"特惠套餐.html"},
+{
                 "pageName":"文章列表",
                 "type":"Wireframe",
                 "url":"文章列表_1.html"},
-{
-                "pageName":"蜜桃",
-                "type":"Wireframe",
-                "url":"蜜桃_1.html"},
-{
-                "pageName":"柠檬",
-                "type":"Wireframe",
-                "url":"柠檬_1.html"},
 {
                 "pageName":"特色活动",
                 "type":"Wireframe",
@@ -153,6 +149,14 @@
                 "type":"Wireframe",
                 "url":"商品列表_1.html",
                 "children":[{
+                    "pageName":"蜜桃",
+                    "type":"Wireframe",
+                    "url":"蜜桃_1.html"},
+{
+                    "pageName":"柠檬",
+                    "type":"Wireframe",
+                    "url":"柠檬_1.html"},
+{
                     "pageName":"选择配送农场",
                     "type":"Wireframe",
                     "url":"选择配送农场_1.html"},
@@ -227,7 +231,15 @@
 {
             "pageName":"个人中心主页",
             "type":"Wireframe",
-            "url":"个人中心主页_1.html"}]}]},
+            "url":"个人中心主页_1.html"}]},
+{
+        "pageName":"备用部件",
+        "type":"Wireframe",
+        "url":"备用部件.html",
+        "children":[{
+            "pageName":"小轮播",
+            "type":"Wireframe",
+            "url":"小轮播.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

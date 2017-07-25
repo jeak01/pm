@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认预约时间.html",
-  "generationDate":new Date(1500531901220.11),
+  "generationDate":new Date(1500969736436.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认预约时间_1.html",
-  "generationDate":new Date(1500531907727.06),
+  "generationDate":new Date(1500969741246.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认预约时间_1/u2.png"}},
+            "normal~":"images/配送套餐/u64.png"}},
 {
           "id":"065e432f71124db5a8cac9a1e1ae604e",
           "label":"",
@@ -127,7 +127,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u81.png"}},
+            "normal~":"images/主页_安卓_/u217.png"}},
 {
           "id":"f6b268a31bc84bffa5d234518e9aba4a",
           "label":"",

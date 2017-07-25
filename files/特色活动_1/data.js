@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动_1.html",
-  "generationDate":new Date(1500531905873.29),
+  "generationDate":new Date(1500969739150.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -82,7 +82,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u81.png"}},
+            "normal~":"images/主页_安卓_/u217.png"}},
 {
           "id":"55299690e49545a192f0b731f464d86d",
           "label":"",
@@ -353,7 +353,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动_1/u16.png"}},
+            "normal~":"images/配送套餐/u70.png"}},
 {
           "id":"d7327940ef7e4b6488a19c7e92e74406",
           "label":"",
@@ -698,7 +698,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动_1/u35.png"}},
+            "normal~":"images/主页_安卓_/u50.png"}},
 {
           "id":"ab4286f3f88648fd8767f6a378c00c5f",
           "label":"",
@@ -750,7 +750,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/文章列表_1/u41_line.png"}},
+            "line~":"images/主页_安卓_/u54_line.png"}},
 {
           "id":"f40f1ae5227042818a11014e6ccf7df1",
           "label":"",
@@ -943,7 +943,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动_1/u48.png"}},
+            "normal~":"images/主页_安卓_/u63.png"}},
 {
           "id":"aec2f1bb644345fc98009f74cd8f4fb6",
           "label":"",
@@ -976,7 +976,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动_1/u35.png"}},
+            "normal~":"images/主页_安卓_/u50.png"}},
 {
           "id":"e5858d6b950f4c9bbe11edcea9a21a07",
           "label":"",
@@ -1028,7 +1028,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/文章列表_1/u41_line.png"}},
+            "line~":"images/主页_安卓_/u54_line.png"}},
 {
           "id":"42f2bdd9931b4d7a8dfeafc8212ed180",
           "label":"",
@@ -1221,7 +1221,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动_1/u48.png"}},
+            "normal~":"images/主页_安卓_/u63.png"}},
 {
           "id":"74f1218be63d46d39770fc898d8a73bf",
           "label":"",
@@ -1254,7 +1254,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动_1/u35.png"}},
+            "normal~":"images/主页_安卓_/u50.png"}},
 {
           "id":"f12af0bb7e044b83b87cb3bfbd0b3d98",
           "label":"",
@@ -1306,7 +1306,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/文章列表_1/u41_line.png"}},
+            "line~":"images/主页_安卓_/u54_line.png"}},
 {
           "id":"f5ed464e0e004d659ee5a7b4a3356245",
           "label":"",
@@ -1507,7 +1507,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动_1/u48.png"}},
+            "normal~":"images/主页_安卓_/u63.png"}},
 {
           "id":"31c1bba379724ac6b3b53c839aba1726",
           "label":"",
@@ -1602,7 +1602,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u81.png"}},
+              "normal~":"images/主页_安卓_/u217.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1643,7 +1643,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u83.png"}},
+              "normal~":"images/主页_安卓_/u219.png"}},
 {
             "id":"3df70097703244faa1527a5a494c8c42",
             "label":"",
@@ -1656,7 +1656,7 @@
                 "fillType":"solid",
                 "color":0xFFFFFFFF},
               "location":{
-                "x":130,
+                "x":210,
                 "y":24},
               "size":{
                 "width":21,
@@ -1676,7 +1676,7 @@
                     "fillType":"solid",
                     "color":0xFFFFFFFF},
                   "location":{
-                    "x":130,
+                    "x":210,
                     "y":24},
                   "size":{
                     "width":21,
@@ -1684,7 +1684,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u83.png"}},
+              "normal~":"images/主页_安卓_/u219.png"}},
 {
             "id":"042cb23104d742f2ae2b63e077e1712d",
             "label":"",
@@ -1697,8 +1697,8 @@
                 "fillType":"solid",
                 "color":0xFFFFFFFF},
               "location":{
-                "x":202,
-                "y":24},
+                "x":121,
+                "y":25},
               "size":{
                 "width":41,
                 "height":13}},
@@ -1717,15 +1717,15 @@
                     "fillType":"solid",
                     "color":0xFFFFFFFF},
                   "location":{
-                    "x":202,
-                    "y":24},
+                    "x":121,
+                    "y":25},
                   "size":{
                     "width":41,
                     "height":13}},
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u87.png"}},
+              "normal~":"images/主页_安卓_/u223.png"}},
 {
             "id":"7059bc5e155a401bac0768cc3d613ce5",
             "label":"",
@@ -1766,7 +1766,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/u87.png"}},
+              "normal~":"images/主页_安卓_/u223.png"}},
 {
             "id":"6c17287b2bc14f99a5db67d039fd7863",
             "label":"",
@@ -1838,8 +1838,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":212.5,
-                "y":4},
+                "x":131,
+                "y":5},
               "size":{
                 "width":20,
                 "height":20}},
@@ -1854,8 +1854,8 @@
                 "visible":true,
                 "style":{
                   "location":{
-                    "x":212.5,
-                    "y":4},
+                    "x":131,
+                    "y":5},
                   "size":{
                     "width":20,
                     "height":20}},
@@ -1871,7 +1871,7 @@
             "visible":true,
             "style":{
               "location":{
-                "x":130,
+                "x":210,
                 "y":4},
               "size":{
                 "width":20,
@@ -1887,7 +1887,7 @@
                 "visible":true,
                 "style":{
                   "location":{
-                    "x":130,
+                    "x":210,
                     "y":4},
                   "size":{
                     "width":20,
@@ -1937,7 +1937,7 @@
             "visible":true,
             "style":{
               "location":{
-                "x":110,
+                "x":190,
                 "y":0},
               "size":{
                 "width":60,
@@ -1967,8 +1967,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":194,
-                "y":1},
+                "x":113,
+                "y":2},
               "size":{
                 "width":57,
                 "height":37}},

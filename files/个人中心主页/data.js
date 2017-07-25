@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页.html",
-  "generationDate":new Date(1500531904976.67),
+  "generationDate":new Date(1500969737780.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -129,7 +129,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/备用部件/u225.png"}},
+            "normal~":"images/个人中心主页/u4.png"}},
 {
           "id":"442d78d8806145e2bdc8dd78f05ef587",
           "label":"",
@@ -170,7 +170,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/备用部件/u223.png"}},
+            "normal~":"images/个人中心主页/u6.png"}},
 {
           "id":"1fba798fdb3f461da1dad7ad1033bf3e",
           "label":"",

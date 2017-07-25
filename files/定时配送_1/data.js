@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送_1.html",
-  "generationDate":new Date(1500531906656.77),
+  "generationDate":new Date(1500969740144),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u81.png"}},
+            "normal~":"images/主页_安卓_/u217.png"}},
 {
           "id":"40dc83185821431c9a3b37807c09caa5",
           "label":"",
@@ -160,7 +160,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃_1/u2.png"}},
+            "normal~":"images/商品列表_1/u138.png"}},
 {
           "id":"e0ab63f369064a3793181486f98a993d",
           "label":"",
@@ -302,7 +302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃_1/u2.png"}},
+            "normal~":"images/商品列表_1/u138.png"}},
 {
           "id":"d4f9b0f9ac43439e8d8ddb44004032f9",
           "label":"",
@@ -493,7 +493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃_1/u2.png"}},
+            "normal~":"images/商品列表_1/u138.png"}},
 {
           "id":"50a1f42ba4784c9f8c65084128cc1bc7",
           "label":"",
@@ -635,7 +635,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蜜桃_1/u2.png"}},
+            "normal~":"images/商品列表_1/u138.png"}},
 {
           "id":"56eb12907fc544a7a30ad0521e957ac0",
           "label":"",
