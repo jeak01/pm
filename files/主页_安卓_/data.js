@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1500970307689.06),
+  "generationDate":new Date(1500970494041.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -390,21 +390,6 @@
                   "height":147}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蜜桃",
-                      "target":{
-                        "targetType":"page",
-                        "url":"蜜桃_1.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
             "normal~":"images/主页_安卓_/u20.jpg"}},
 {
@@ -918,21 +903,6 @@
                   "height":147}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 柠檬",
-                      "target":{
-                        "targetType":"page",
-                        "url":"柠檬_1.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
             "normal~":"images/主页_安卓_/u44.jpg"}},
 {
