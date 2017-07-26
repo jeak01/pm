@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1500970926334.2),
+  "generationDate":new Date(1501052594638.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -345,7 +345,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u217.png"}},
+            "normal~":"images/主页_安卓_0725/u217.png"}},
 {
           "id":"8033dee7b4b949389e0dc18951a6c5f0",
           "label":"",
@@ -2760,7 +2760,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u217.png"}},
+                    "normal~":"images/主页_安卓_0725/u217.png"}},
 {
                   "id":"f661b9307bff4fbbb8dfeae515db3f77",
                   "label":"",

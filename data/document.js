@@ -121,6 +121,10 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"主页(安卓)0725",
+            "type":"Wireframe",
+            "url":"主页_安卓_0725.html"},
+{
             "pageName":"主页(安卓)",
             "type":"Wireframe",
             "url":"主页_安卓_.html",
@@ -144,6 +148,10 @@
                 "pageName":"特色活动",
                 "type":"Wireframe",
                 "url":"特色活动_1.html"},
+{
+                "pageName":"特色活动0726",
+                "type":"Wireframe",
+                "url":"特色活动0726.html"},
 {
                 "pageName":"商品列表",
                 "type":"Wireframe",
