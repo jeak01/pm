@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表_1.html",
-  "generationDate":new Date(1501052595882.37),
+  "generationDate":new Date(1501226675672.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -353,7 +353,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/配送套餐/u70.png"}},
+            "normal~":"images/特色活动0726/u16.png"}},
 {
           "id":"d7327940ef7e4b6488a19c7e92e74406",
           "label":"",
@@ -1482,7 +1482,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章列表_1/u12.png"}},
+            "normal~":"images/特色活动0726/u30.png"}},
 {
           "id":"ea3405894a3d469cbe5400c1ce697cec",
           "label":"",

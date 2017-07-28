@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情_1.html",
-  "generationDate":new Date(1501052598411.75),
+  "generationDate":new Date(1501226678879.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1236,7 +1236,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"2cb47ca650d24036a2b29189c50fe09c",
           "label":"",

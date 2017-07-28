@@ -125,33 +125,53 @@
             "type":"Wireframe",
             "url":"主页_安卓_0725.html"},
 {
+            "pageName":"主页(安卓)0727",
+            "type":"Wireframe",
+            "url":"主页_安卓_0727.html"},
+{
+            "pageName":"特色活动0726",
+            "type":"Wireframe",
+            "url":"特色活动0726.html"},
+{
+            "pageName":"平台简介",
+            "type":"Wireframe",
+            "url":"平台简介_1.html"},
+{
+            "pageName":"文章列表",
+            "type":"Wireframe",
+            "url":"文章列表_1.html"},
+{
+            "pageName":"体验路线列表",
+            "type":"Wireframe",
+            "url":"体验路线列表_1.html"},
+{
             "pageName":"主页(安卓)",
             "type":"Wireframe",
             "url":"主页_安卓_.html",
             "children":[{
-                "pageName":"平台简介",
+                "pageName":"体验路线",
                 "type":"Wireframe",
-                "url":"平台简介_1.html"},
+                "url":"体验路线.html",
+                "children":[{
+                    "pageName":"线路详情",
+                    "type":"Wireframe",
+                    "url":"线路详情.html"},
 {
-                "pageName":"配送套餐",
-                "type":"Wireframe",
-                "url":"配送套餐.html"},
+                    "pageName":"线路详情",
+                    "type":"Wireframe",
+                    "url":"线路详情_1.html"}]},
 {
                 "pageName":"特惠套餐",
                 "type":"Wireframe",
                 "url":"特惠套餐.html"},
 {
-                "pageName":"文章列表",
+                "pageName":"主题农旅",
                 "type":"Wireframe",
-                "url":"文章列表_1.html"},
+                "url":"主题农旅.html"},
 {
-                "pageName":"特色活动",
+                "pageName":"蔬果宅配",
                 "type":"Wireframe",
-                "url":"特色活动_1.html"},
-{
-                "pageName":"特色活动0726",
-                "type":"Wireframe",
-                "url":"特色活动0726.html"},
+                "url":"蔬果宅配.html"},
 {
                 "pageName":"商品列表",
                 "type":"Wireframe",
@@ -183,15 +203,7 @@
                 "children":[{
                     "pageName":"农场详情",
                     "type":"Wireframe",
-                    "url":"农场详情_1.html"},
-{
-                    "pageName":"体验路线列表",
-                    "type":"Wireframe",
-                    "url":"体验路线列表_1.html"},
-{
-                    "pageName":"农旅产品详情",
-                    "type":"Wireframe",
-                    "url":"农旅产品详情_1.html"}]}]},
+                    "url":"农场详情_1.html"}]}]},
 {
             "pageName":"订单确认页",
             "type":"Wireframe",

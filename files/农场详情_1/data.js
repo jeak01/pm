@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情_1.html",
-  "generationDate":new Date(1501052596167.87),
+  "generationDate":new Date(1501226675956.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -387,7 +387,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"2d7697c083134cf28f5953864517ddad",
           "label":"",
@@ -444,7 +444,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"b4d4fa4356fe493d92d14f8dc262ddf6",
           "label":"",
@@ -698,7 +698,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"1db02059858a47ef8ff3d86465c1bdcd",
           "label":"",
@@ -786,7 +786,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"7f4ad804baee4a46bb7673f928b7919a",
           "label":"",
@@ -1102,7 +1102,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"c28f4718f393456caca7bcf7b3e68eb1",
           "label":"",
@@ -1159,10 +1159,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅产品详情",
+                      "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅产品详情_1.html",
+                        "url":"线路详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1254,7 +1254,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农场详情_1/u62.png"}},
+            "normal~":"images/线路详情/u49.png"}},
 {
           "id":"3a5e0a8d222047d8bb3d5f1e3ba6f6f2",
           "label":"",

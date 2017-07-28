@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1501052591607.93),
+  "generationDate":new Date(1501226653081.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -863,10 +863,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 特色活动",
+                      "description":"在 当前窗口 打开 主题农旅",
                       "target":{
                         "targetType":"page",
-                        "url":"特色活动_1.html",
+                        "url":"主题农旅.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3836,10 +3836,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅产品详情",
+                      "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅产品详情_1.html",
+                        "url":"线路详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -3866,10 +3866,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅产品详情",
+                      "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅产品详情_1.html",
+                        "url":"线路详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -3896,10 +3896,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅产品详情",
+                      "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅产品详情_1.html",
+                        "url":"线路详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

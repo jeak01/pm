@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（蔬果）_1.html",
-  "generationDate":new Date(1501052597656.05),
+  "generationDate":new Date(1501226677514.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -276,7 +276,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"83d14489f468442992c212f6aeab4bf7",
           "label":"",
@@ -331,7 +331,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/商品列表_1/u168_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"69aa5017cec04afb8d7cfeb1f4eac63e",
           "label":"",
