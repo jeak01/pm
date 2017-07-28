@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1501234968282.7),
+  "generationDate":new Date(1501235738635.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -83,7 +83,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":40},
+              "y":39},
             "size":{
               "width":360,
               "height":38}},
@@ -99,7 +99,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":40},
+                  "y":39},
                 "size":{
                   "width":360,
                   "height":38}},
@@ -116,7 +116,7 @@
           "style":{
             "location":{
               "x":1,
-              "y":78},
+              "y":77},
             "size":{
               "width":10,
               "height":10}},
@@ -1234,7 +1234,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":39},
+              "y":38},
             "size":{
               "width":360,
               "height":45}},
@@ -1677,7 +1677,7 @@
           "style":{
             "location":{
               "x":320,
-              "y":39},
+              "y":38},
             "size":{
               "width":40,
               "height":40}},
@@ -1693,7 +1693,7 @@
               "style":{
                 "location":{
                   "x":320,
-                  "y":39},
+                  "y":38},
                 "size":{
                   "width":40,
                   "height":40}},
@@ -1710,7 +1710,7 @@
           "style":{
             "location":{
               "x":328,
-              "y":47},
+              "y":46},
             "size":{
               "width":24,
               "height":24},
@@ -1730,7 +1730,7 @@
               "style":{
                 "location":{
                   "x":328,
-                  "y":47},
+                  "y":46},
                 "size":{
                   "width":24,
                   "height":24},
@@ -1794,7 +1794,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":78},
+              "y":77},
             "size":{
               "width":10,
               "height":10},
@@ -2186,7 +2186,7 @@
           "style":{
             "location":{
               "x":320,
-              "y":39},
+              "y":38},
             "size":{
               "width":40,
               "height":40}},

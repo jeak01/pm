@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情.html",
-  "generationDate":new Date(1501234969676.63),
+  "generationDate":new Date(1501235740000.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -385,7 +385,7 @@
           "images":{
             "normal~":"images/平台简介/u8.png"}},
 {
-          "id":"ac8d0a9515fd49b29df22399721702c1",
+          "id":"b116755253274ef1906025fd8b5099a7",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -395,12 +395,16 @@
               "x":1,
               "y":40},
             "size":{
-              "width":358,
-              "height":130}},
+              "width":359,
+              "height":132},
+            "rotation":"0",
+            "textRotation":"0",
+            "borderWidth":"0",
+            "cornerRadiusTopLeft":"0"},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"dc31e2ba88e2436481da83af76cc2d9a",
+              "id":"fcc7a12d51904d91a67ee82991d4df48",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -411,12 +415,16 @@
                   "x":1,
                   "y":40},
                 "size":{
-                  "width":358,
-                  "height":130}},
+                  "width":359,
+                  "height":132},
+                "rotation":"0",
+                "textRotation":"0",
+                "borderWidth":"0",
+                "cornerRadiusTopLeft":"0"},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0727/u54.png"}},
+            "normal~":"images/线路详情/u18.png"}},
 {
           "id":"9e6ee747a8194bb7a4a565917bea3a07",
           "label":"",
@@ -3879,9 +3887,9 @@
       "scriptId":"u16"},
     "3ba490fe420e48898793bda2c8daa956":{
       "scriptId":"u17"},
-    "ac8d0a9515fd49b29df22399721702c1":{
+    "b116755253274ef1906025fd8b5099a7":{
       "scriptId":"u18"},
-    "dc31e2ba88e2436481da83af76cc2d9a":{
+    "fcc7a12d51904d91a67ee82991d4df48":{
       "scriptId":"u19"},
     "9e6ee747a8194bb7a4a565917bea3a07":{
       "scriptId":"u20"},
