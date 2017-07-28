@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1501234806919.19),
+  "generationDate":new Date(1501234968282.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -44,7 +44,7 @@
               "y":-30},
             "size":{
               "width":360,
-              "height":1820},
+              "height":1890},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFF1F1F1}},
@@ -66,7 +66,7 @@
                   "y":-30},
                 "size":{
                   "width":360,
-                  "height":1820},
+                  "height":1890},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFF1F1F1}},

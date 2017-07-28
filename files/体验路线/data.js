@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线.html",
-  "generationDate":new Date(1501234807488.57),
+  "generationDate":new Date(1501234968812.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "color":0xFFF1F1F1},
             "size":{
               "width":360,
-              "height":1530},
+              "height":1570},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFF1F1F1}},
@@ -60,7 +60,7 @@
                   "color":0xFFF1F1F1},
                 "size":{
                   "width":360,
-                  "height":1530},
+                  "height":1570},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFF1F1F1}},
