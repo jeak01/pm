@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情.html",
-  "generationDate":new Date(1501235740000.68),
+  "generationDate":new Date(1501235892721.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "color":0xFFF1F1F1},
             "size":{
               "width":360,
-              "height":4490}},
+              "height":4610}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -57,7 +57,7 @@
                   "color":0xFFF1F1F1},
                 "size":{
                   "width":360,
-                  "height":4490}},
+                  "height":4610}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -119,7 +119,7 @@
               "y":3950},
             "size":{
               "width":358,
-              "height":470},
+              "height":550},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFAAAAAA}},
@@ -138,7 +138,7 @@
                   "y":3950},
                 "size":{
                   "width":358,
-                  "height":470},
+                  "height":550},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFAAAAAA}},
@@ -554,7 +554,7 @@
               "y":3993},
             "size":{
               "width":345,
-              "height":397}},
+              "height":427}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -570,7 +570,7 @@
                   "y":3993},
                 "size":{
                   "width":345,
-                  "height":397}},
+                  "height":427}},
               "adaptiveStyles":{
 }}],
           "images":{
