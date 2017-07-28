@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1501233926880.78),
+  "generationDate":new Date(1501234304802.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -256,7 +256,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_2.html",
+                                "url":"线路详情_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -304,7 +304,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_3.html",
+                                "url":"线路详情_2.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -352,7 +352,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_4.html",
+                                "url":"线路详情_3.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -400,7 +400,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_1.html",
+                                "url":"线路详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -4390,7 +4390,22 @@
               "width":165,
               "height":60}},
           "adaptiveStyles":{
-}},
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 体验路线",
+                      "target":{
+                        "targetType":"page",
+                        "url":"体验路线.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
 {
           "id":"1bfbc0fb71ba47ed82864cf7af85f07b",
           "label":"",
@@ -4507,7 +4522,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

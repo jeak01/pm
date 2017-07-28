@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送_1.html",
-  "generationDate":new Date(1501233933167.96),
+  "generationDate":new Date(1501234310599.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1208,7 +1208,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u41.png"}}]}]}]}},
+                    "normal~":"images/线路详情/u194.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

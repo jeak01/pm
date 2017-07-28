@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1501233924965.5),
+  "generationDate":new Date(1501234303186.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -3839,7 +3839,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -3869,7 +3869,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -3899,7 +3899,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

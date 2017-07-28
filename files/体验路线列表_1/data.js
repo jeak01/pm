@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表_1.html",
-  "generationDate":new Date(1501233926334.41),
+  "generationDate":new Date(1501234304294.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1785,7 +1785,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1815,7 +1815,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1845,7 +1845,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1875,7 +1875,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

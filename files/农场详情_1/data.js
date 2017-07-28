@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情_1.html",
-  "generationDate":new Date(1501233933752.35),
+  "generationDate":new Date(1501234311378.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1162,7 +1162,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1254,7 +1254,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/线路详情/u49.png"}},
+            "normal~":"images/线路详情/u36.png"}},
 {
           "id":"3a5e0a8d222047d8bb3d5f1e3ba6f6f2",
           "label":"",

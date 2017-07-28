@@ -155,16 +155,8 @@
                 "children":[{
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情.html"}]},
+                    "url":"线路详情.html"},
 {
-                "pageName":"特惠套餐",
-                "type":"Wireframe",
-                "url":"特惠套餐.html"},
-{
-                "pageName":"主题农旅",
-                "type":"Wireframe",
-                "url":"主题农旅.html",
-                "children":[{
                     "pageName":"线路详情",
                     "type":"Wireframe",
                     "url":"线路详情_1.html"},
@@ -180,6 +172,14 @@
                     "pageName":"线路详情",
                     "type":"Wireframe",
                     "url":"线路详情_4.html"}]},
+{
+                "pageName":"特惠套餐",
+                "type":"Wireframe",
+                "url":"特惠套餐.html"},
+{
+                "pageName":"主题农旅",
+                "type":"Wireframe",
+                "url":"主题农旅.html"},
 {
                 "pageName":"蔬果宅配",
                 "type":"Wireframe",
