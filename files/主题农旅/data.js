@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主题农旅.html",
-  "generationDate":new Date(1501235895724.41),
+  "generationDate":new Date(1501236038471.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1945,7 +1945,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/体验路线/u87.png"}},
+                    "normal~":"images/体验路线/u193.png"}},
 {
                   "id":"2e7c11ef2bc448559323924758a7a69a",
                   "label":"",

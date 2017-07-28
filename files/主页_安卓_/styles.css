@@ -967,21 +967,21 @@
 #u75 {
   position:absolute;
   left:320px;
-  top:38px;
+  top:39px;
   width:40px;
-  height:40px;
+  height:38px;
 }
 #u75_img {
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
-  height:40px;
+  height:38px;
 }
 #u76 {
   position:absolute;
   left:2px;
-  top:12px;
+  top:11px;
   width:36px;
   visibility:hidden;
   word-wrap:break-word;
@@ -1225,9 +1225,9 @@
 #u99 {
   position:absolute;
   left:320px;
-  top:38px;
+  top:39px;
   width:40px;
-  height:40px;
+  height:38px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_1.html",
-  "generationDate":new Date(1501235893414.88),
+  "generationDate":new Date(1501236036053.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
