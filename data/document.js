@@ -129,6 +129,10 @@
             "type":"Wireframe",
             "url":"主页_安卓_0727.html"},
 {
+            "pageName":"主页(安卓)0801",
+            "type":"Wireframe",
+            "url":"主页_安卓_0801.html"},
+{
             "pageName":"特色活动0726",
             "type":"Wireframe",
             "url":"特色活动0726.html"},
@@ -179,7 +183,43 @@
 {
                 "pageName":"主题农旅",
                 "type":"Wireframe",
-                "url":"主题农旅.html"},
+                "url":"主题农旅.html",
+                "children":[{
+                    "pageName":"乐活亲子",
+                    "type":"Wireframe",
+                    "url":"乐活亲子.html"},
+{
+                    "pageName":"寻味原乡",
+                    "type":"Wireframe",
+                    "url":"寻味原乡.html"},
+{
+                    "pageName":"清心美宿",
+                    "type":"Wireframe",
+                    "url":"清心美宿.html"},
+{
+                    "pageName":"山水风情",
+                    "type":"Wireframe",
+                    "url":"山水风情.html"},
+{
+                    "pageName":"怡养时光",
+                    "type":"Wireframe",
+                    "url":"怡养时光.html"},
+{
+                    "pageName":"欢乐乡聚",
+                    "type":"Wireframe",
+                    "url":"欢乐乡聚.html"},
+{
+                    "pageName":"私享田园",
+                    "type":"Wireframe",
+                    "url":"私享田园.html"},
+{
+                    "pageName":"本原商道",
+                    "type":"Wireframe",
+                    "url":"本原商道.html"}]},
+{
+                "pageName":"会员特权",
+                "type":"Wireframe",
+                "url":"会员特权.html"},
 {
                 "pageName":"蔬果宅配",
                 "type":"Wireframe",
