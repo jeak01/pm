@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1501583618976.05),
+  "generationDate":new Date(1501583970173.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5652,10 +5652,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 体验路线",
+                      "description":"在 当前窗口 打开 会员特权",
                       "target":{
                         "targetType":"page",
-                        "url":"体验路线.html",
+                        "url":"会员特权.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

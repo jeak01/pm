@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1501583630251.55),
+  "generationDate":new Date(1501583976610.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1792,6 +1792,21 @@
                           "height":50}},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 会员充值",
+                              "target":{
+                                "targetType":"page",
+                                "url":"会员充值_1.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"images/会员特权/u91.png"}}]}]}]}},
   "masters":{
