@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"寻味原乡.html",
-  "generationDate":new Date(1501584289498.3),
+  "generationDate":new Date(1501584673186.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
