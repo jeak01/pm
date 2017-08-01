@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"本原商道.html",
-  "generationDate":new Date(1501583976241.12),
+  "generationDate":new Date(1501584291746.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4817,17 +4817,6 @@
                       "onClick":{
                         "description":"OnClick",
                         "cases":[{
-                            "description":"用例 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"在 当前窗口 打开 个人中心主页",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"个人中心主页_1.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]},
-{
                             "description":"用例 1",
                             "isNewIfGroup":false,
                             "actions":[{

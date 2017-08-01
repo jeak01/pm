@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1501583970173.08),
+  "generationDate":new Date(1501584285915.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -6213,17 +6213,6 @@
                       "onClick":{
                         "description":"OnClick",
                         "cases":[{
-                            "description":"用例 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"在 当前窗口 打开 个人中心主页",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"个人中心主页_1.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]},
-{
                             "description":"用例 1",
                             "isNewIfGroup":false,
                             "actions":[{
