@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员专区.html",
-  "generationDate":new Date(1501752144300.97),
+  "generationDate":new Date(1501752292207.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1042,7 +1042,7 @@
             "normal~":"images/会员专区/u48.png"}},
 {
           "id":"7127fb69ca974312a46a2a56f8503152",
-          "label":"",
+          "label":"会员抢购",
           "type":"dynamicPanel",
           "styleType":"dynamicPanel",
           "visible":true,
@@ -1055,6 +1055,29 @@
               "height":138}},
           "adaptiveStyles":{
 },
+          "interactionMap":{
+            "onDrag":{
+              "description":"OnDrag",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 (动态面板) x 轴拖动",
+                      "objectsToMoves":[{
+                          "objectPath":["51dfeb3f2b4a47dcb9ebd717b745fdca"],
+                          "moveInfo":{
+                            "moveType":"dragX",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+}}}]}]}]}},
           "scrollbars":"none",
           "fitToContent":false,
           "propagate":false,
@@ -1944,6 +1967,21 @@
                   "height":156}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 线路详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"线路详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/主页_安卓_0801/u149.jpg"}},
 {
@@ -2106,6 +2144,21 @@
                   "height":156}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 线路详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"线路详情_2.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/主页_安卓_0801/u169.jpg"}},
 {
@@ -2276,6 +2329,21 @@
                 "cornerRadiusTopLeft":"0"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 线路详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"线路详情_3.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/主页_安卓_0801/u190.png"}},
 {
