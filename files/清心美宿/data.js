@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"清心美宿.html",
-  "generationDate":new Date(1501751479011.67),
+  "generationDate":new Date(1501752141739.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
