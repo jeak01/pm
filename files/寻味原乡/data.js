@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"寻味原乡.html",
-  "generationDate":new Date(1501584673186.34),
+  "generationDate":new Date(1501751478497.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -3080,7 +3080,7 @@
                           "visible":true,
                           "style":{
                             "location":{
-                              "x":0,
+                              "x":163,
                               "y":35},
                             "size":{
                               "width":70,
@@ -3620,6 +3620,34 @@
                                       "target":{
                                         "targetType":"page",
                                         "url":"本原商道.html",
+                                        "includeVariables":true},
+                                      "linkType":"current"}]}]}},
+                          "tabbable":true},
+{
+                          "id":"24379ecdcc6a4c45955bbd0cb3dc1cff",
+                          "label":"",
+                          "parentDynamicPanel":"b2f92221d6894f35be91e95c8cf726ea",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "size":{
+                              "width":80,
+                              "height":40}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"linkWindow",
+                                      "description":"在 当前窗口 打开 主页(安卓)",
+                                      "target":{
+                                        "targetType":"page",
+                                        "url":"主页_安卓_.html",
                                         "includeVariables":true},
                                       "linkType":"current"}]}]}},
                           "tabbable":true}]}]}]}]},
@@ -4837,7 +4865,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":100.5,
+                        "x":98,
                         "y":0},
                       "size":{
                         "width":60,
@@ -4868,7 +4896,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":181.5,
+                        "x":179,
                         "y":0},
                       "size":{
                         "width":60,
@@ -4883,10 +4911,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 蔬果宅配",
+                                "description":"在 当前窗口 打开 会员特权",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬果宅配.html",
+                                  "url":"会员特权.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
@@ -5277,73 +5305,75 @@
       "scriptId":"u191"},
     "847223f8320244fbaa4e811ed79e9912":{
       "scriptId":"u192"},
-    "a6b192466cbd4c99bec142206872689b":{
+    "24379ecdcc6a4c45955bbd0cb3dc1cff":{
       "scriptId":"u193"},
-    "c6109d177114441fb385885cb0058175":{
+    "a6b192466cbd4c99bec142206872689b":{
       "scriptId":"u194"},
-    "bf1045970f8b48ae934f8d49ebb62829":{
+    "c6109d177114441fb385885cb0058175":{
       "scriptId":"u195"},
-    "306fdeacc6ca46bbb28f2aa00bb3980a":{
+    "bf1045970f8b48ae934f8d49ebb62829":{
       "scriptId":"u196"},
-    "d1993c4fd11c4dbb95dc2b3e6ced93e0":{
+    "306fdeacc6ca46bbb28f2aa00bb3980a":{
       "scriptId":"u197"},
-    "d9e8575914f74e548bae9bb2d8992fc2":{
+    "d1993c4fd11c4dbb95dc2b3e6ced93e0":{
       "scriptId":"u198"},
-    "aaf7d25122404261bb4d5802473b9e21":{
+    "d9e8575914f74e548bae9bb2d8992fc2":{
       "scriptId":"u199"},
-    "c14ee2304dfc40888b4c7a118addc926":{
+    "aaf7d25122404261bb4d5802473b9e21":{
       "scriptId":"u200"},
-    "4cbbc48854d94a4aa1db67feb6170d4a":{
+    "c14ee2304dfc40888b4c7a118addc926":{
       "scriptId":"u201"},
-    "62a4d55ae9de48dc8e1f27886cd1035c":{
+    "4cbbc48854d94a4aa1db67feb6170d4a":{
       "scriptId":"u202"},
-    "40e86deb841d4811a58fc0734be9bb8c":{
+    "62a4d55ae9de48dc8e1f27886cd1035c":{
       "scriptId":"u203"},
-    "3950a12f0e4049259a9202a46f6d2401":{
+    "40e86deb841d4811a58fc0734be9bb8c":{
       "scriptId":"u204"},
-    "0ab5a6ab2aea4cbdad96c6068343b1ed":{
+    "3950a12f0e4049259a9202a46f6d2401":{
       "scriptId":"u205"},
-    "99f4b713f0354e1fa959a8e6f785c327":{
+    "0ab5a6ab2aea4cbdad96c6068343b1ed":{
       "scriptId":"u206"},
-    "3c6e13d9b689476db8640ef07dd2e810":{
+    "99f4b713f0354e1fa959a8e6f785c327":{
       "scriptId":"u207"},
-    "3fc3070b839c48638cc98cd72a82fa6d":{
+    "3c6e13d9b689476db8640ef07dd2e810":{
       "scriptId":"u208"},
-    "ea9cc694478b4b299611a198d4c852c0":{
+    "3fc3070b839c48638cc98cd72a82fa6d":{
       "scriptId":"u209"},
-    "b9ea1b1ce9404556a0892bb98cedd930":{
+    "ea9cc694478b4b299611a198d4c852c0":{
       "scriptId":"u210"},
-    "be89069e8b5f4dd390a8cf1e661f7a47":{
+    "b9ea1b1ce9404556a0892bb98cedd930":{
       "scriptId":"u211"},
-    "17e3e2299c964625810710ca9a9d3bc7":{
+    "be89069e8b5f4dd390a8cf1e661f7a47":{
       "scriptId":"u212"},
-    "ae6cecbbc6644ddeb9e9ea047a86ddc9":{
+    "17e3e2299c964625810710ca9a9d3bc7":{
       "scriptId":"u213"},
-    "164b8e2785284f289c447decebf5f5d3":{
+    "ae6cecbbc6644ddeb9e9ea047a86ddc9":{
       "scriptId":"u214"},
-    "434238471a0f422aa8546a8544aa0ebd":{
+    "164b8e2785284f289c447decebf5f5d3":{
       "scriptId":"u215"},
-    "d603288e8e7b4e3982837bda172930c6":{
+    "434238471a0f422aa8546a8544aa0ebd":{
       "scriptId":"u216"},
-    "898c2e75a534485a8e3969e345d84fd9":{
+    "d603288e8e7b4e3982837bda172930c6":{
       "scriptId":"u217"},
-    "7f3ff019cf774cf799ac431173a55a6f":{
+    "898c2e75a534485a8e3969e345d84fd9":{
       "scriptId":"u218"},
-    "0103f30aa0bd4798bdf839ab8433116d":{
+    "7f3ff019cf774cf799ac431173a55a6f":{
       "scriptId":"u219"},
-    "887a874ca25841f39d25d83051d0a40f":{
+    "0103f30aa0bd4798bdf839ab8433116d":{
       "scriptId":"u220"},
-    "1edb0c2ea1a1448097a3e1cc214e7da0":{
+    "887a874ca25841f39d25d83051d0a40f":{
       "scriptId":"u221"},
-    "ef9880bced474fe4a58833cd2c237f71":{
+    "1edb0c2ea1a1448097a3e1cc214e7da0":{
       "scriptId":"u222"},
-    "2e86e1c4892b4cfda4b32f5a19ac2200":{
+    "ef9880bced474fe4a58833cd2c237f71":{
       "scriptId":"u223"},
-    "6a4414e01c18445c8ba3ca3db94d4f80":{
+    "2e86e1c4892b4cfda4b32f5a19ac2200":{
       "scriptId":"u224"},
-    "106fc8541f4b4f859c9ffd50fe05bf58":{
+    "6a4414e01c18445c8ba3ca3db94d4f80":{
       "scriptId":"u225"},
-    "51fb9d8f18b748ed88867db1ffdaf05e":{
+    "106fc8541f4b4f859c9ffd50fe05bf58":{
       "scriptId":"u226"},
+    "51fb9d8f18b748ed88867db1ffdaf05e":{
+      "scriptId":"u227"},
     "fe610cfaab164344b5e3bb50ac63d2ed":{
-      "scriptId":"u227"}}});
+      "scriptId":"u228"}}});

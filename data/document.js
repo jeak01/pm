@@ -153,6 +153,10 @@
             "type":"Wireframe",
             "url":"主页_安卓_.html",
             "children":[{
+                "pageName":"会员主页(安卓)",
+                "type":"Wireframe",
+                "url":"会员主页_安卓_.html"},
+{
                 "pageName":"体验路线",
                 "type":"Wireframe",
                 "url":"体验路线.html",
@@ -180,6 +184,10 @@
                 "pageName":"特惠套餐",
                 "type":"Wireframe",
                 "url":"特惠套餐.html"},
+{
+                "pageName":"会员特权",
+                "type":"Wireframe",
+                "url":"会员特权.html"},
 {
                 "pageName":"主题农旅",
                 "type":"Wireframe",
@@ -217,9 +225,9 @@
                     "type":"Wireframe",
                     "url":"本原商道.html"}]},
 {
-                "pageName":"会员特权",
+                "pageName":"会员专区",
                 "type":"Wireframe",
-                "url":"会员特权.html"},
+                "url":"会员专区.html"},
 {
                 "pageName":"蔬果宅配",
                 "type":"Wireframe",

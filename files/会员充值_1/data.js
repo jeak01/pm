@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_1.html",
-  "generationDate":new Date(1501584678112.61),
+  "generationDate":new Date(1501751485366.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -906,10 +906,10 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":289,
+              "x":300,
               "y":136},
             "size":{
-              "width":56,
+              "width":45,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -929,10 +929,10 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":289,
+                  "x":300,
                   "y":136},
                 "size":{
-                  "width":56,
+                  "width":45,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -948,7 +948,7 @@
             "fontName":"'Arial Negreta', 'Arial'",
             "fontWeight":"700",
             "location":{
-              "x":275,
+              "x":286,
               "y":143},
             "size":{
               "width":8,
@@ -966,7 +966,7 @@
                 "fontName":"'Arial Negreta', 'Arial'",
                 "fontWeight":"700",
                 "location":{
-                  "x":275,
+                  "x":286,
                   "y":143},
                 "size":{
                   "width":8,

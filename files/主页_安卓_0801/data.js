@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0801.html",
-  "generationDate":new Date(1501584668320.1),
+  "generationDate":new Date(1501751470808.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5787,7 +5787,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":100.5,
+                        "x":98,
                         "y":0},
                       "size":{
                         "width":60,
@@ -5818,7 +5818,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":181.5,
+                        "x":179,
                         "y":0},
                       "size":{
                         "width":60,
@@ -5833,10 +5833,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 蔬果宅配",
+                                "description":"在 当前窗口 打开 会员特权",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬果宅配.html",
+                                  "url":"会员特权.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
