@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1501752283435.99),
+  "generationDate":new Date(1501828174880.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5283,8 +5283,8 @@
           "visible":false,
           "style":{
             "location":{
-              "x":510,
-              "y":148.5},
+              "x":45,
+              "y":103},
             "size":{
               "width":10,
               "height":10},
@@ -5292,9 +5292,9 @@
           "adaptiveStyles":{
 },
           "fixedHorizontal":"left",
-          "fixedMarginHorizontal":510,
+          "fixedMarginHorizontal":45,
           "fixedVertical":"top",
-          "fixedMarginVertical":148,
+          "fixedMarginVertical":103,
           "fixedKeepInFront":true,
           "scrollbars":"none",
           "fitToContent":true,

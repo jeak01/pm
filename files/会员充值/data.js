@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值.html",
-  "generationDate":new Date(1501752279967.68),
+  "generationDate":new Date(1501828172585.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
