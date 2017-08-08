@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主题农旅.html",
-  "generationDate":new Date(1501828178376.49),
+  "generationDate":new Date(1502183708334.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2888,7 +2888,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/体验路线/u152.png"}},
+                    "normal~":"images/体验路线/u157.png"}},
 {
                   "id":"2e7c11ef2bc448559323924758a7a69a",
                   "label":"",
@@ -3548,7 +3548,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":39,
+                        "x":29,
                         "y":24},
                       "size":{
                         "width":21,
@@ -3566,7 +3566,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":39,
+                            "x":29,
                             "y":24},
                           "size":{
                             "width":21,
@@ -3585,7 +3585,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":110,
+                        "x":92,
                         "y":24},
                       "size":{
                         "width":41,
@@ -3603,7 +3603,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":110,
+                            "x":92,
                             "y":24},
                           "size":{
                             "width":41,
@@ -3622,7 +3622,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":191,
+                        "x":162,
                         "y":24},
                       "size":{
                         "width":41,
@@ -3640,7 +3640,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":191,
+                            "x":162,
                             "y":24},
                           "size":{
                             "width":41,
@@ -3659,7 +3659,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":277,
+                        "x":299,
                         "y":24},
                       "size":{
                         "width":41,
@@ -3677,7 +3677,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":277,
+                            "x":299,
                             "y":24},
                           "size":{
                             "width":41,
@@ -3695,7 +3695,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":39,
+                        "x":29,
                         "y":2},
                       "size":{
                         "width":20,
@@ -3712,7 +3712,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":39,
+                            "x":29,
                             "y":2},
                           "size":{
                             "width":20,
@@ -3730,7 +3730,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":288,
+                        "x":310,
                         "y":4},
                       "size":{
                         "width":20,
@@ -3747,7 +3747,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":288,
+                            "x":310,
                             "y":4},
                           "size":{
                             "width":20,
@@ -3765,7 +3765,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":118,
+                        "x":100,
                         "y":4},
                       "size":{
                         "width":20,
@@ -3782,7 +3782,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":118,
+                            "x":100,
                             "y":4},
                           "size":{
                             "width":20,
@@ -3800,7 +3800,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":199,
+                        "x":170,
                         "y":4},
                       "size":{
                         "width":20,
@@ -3817,7 +3817,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":199,
+                            "x":170,
                             "y":4},
                           "size":{
                             "width":20,
@@ -3835,7 +3835,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":20,
+                        "x":10,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3866,7 +3866,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":267.5,
+                        "x":290,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3897,7 +3897,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":98,
+                        "x":80,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3928,7 +3928,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":179,
+                        "x":150,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3947,6 +3947,109 @@
                                 "target":{
                                   "targetType":"page",
                                   "url":"会员特权.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true},
+{
+                    "id":"f3547525651f4b11841e0a5ee962a36a",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"buttonShape",
+                    "styleType":"paragraph",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"10px",
+                      "location":{
+                        "x":229,
+                        "y":24},
+                      "size":{
+                        "width":41,
+                        "height":13}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"d1cb1ea7f46c4502ad32e644766c5eec",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"10px",
+                          "location":{
+                            "x":229,
+                            "y":24},
+                          "size":{
+                            "width":41,
+                            "height":13}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"resources/images/transparent.gif"}},
+{
+                    "id":"8baf2a95635647b7b11ab5b2448ec895",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"imageBox",
+                    "styleType":"imageBox",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":240,
+                        "y":4},
+                      "size":{
+                        "width":20,
+                        "height":20}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"7f0c67878ff84c0b87383b546647b568",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "location":{
+                            "x":240,
+                            "y":4},
+                          "size":{
+                            "width":20,
+                            "height":20}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/主页_安卓_0727/u158.png"}},
+{
+                    "id":"48809466f34a45c68290d9dd9dba692f",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"imageMapRegion",
+                    "styleType":"imageMapRegion",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":220,
+                        "y":0},
+                      "size":{
+                        "width":60,
+                        "height":40}},
+                    "adaptiveStyles":{
+},
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 农旅百科",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"农旅百科.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
@@ -4274,68 +4377,78 @@
       "5546bbd9a15544b0adcca0215bcedee1":{
         "scriptId":"u160"},
       "690a1cd387b244b5b2acab4956a49b1e":{
-        "scriptId":"u161"}},
+        "scriptId":"u161"},
+      "f3547525651f4b11841e0a5ee962a36a":{
+        "scriptId":"u162"},
+      "d1cb1ea7f46c4502ad32e644766c5eec":{
+        "scriptId":"u163"},
+      "8baf2a95635647b7b11ab5b2448ec895":{
+        "scriptId":"u164"},
+      "7f0c67878ff84c0b87383b546647b568":{
+        "scriptId":"u165"},
+      "48809466f34a45c68290d9dd9dba692f":{
+        "scriptId":"u166"}},
     "af1e3aff20d14bde88aa15bb8d362ee0":{
-      "scriptId":"u162"},
-    "1b64f17eb6c9496daf3af4b733841c79":{
-      "scriptId":"u163"},
-    "42e7fa5581d749de85a1c25af24dc257":{
-      "scriptId":"u164"},
-    "2e7c11ef2bc448559323924758a7a69a":{
-      "scriptId":"u165"},
-    "4e938f3885314bfb9f2d2c6167944496":{
-      "scriptId":"u166"},
-    "a957d52d113041da9f74f89dab6d7499":{
       "scriptId":"u167"},
-    "4e76c9dd4bc5482fa9492bb307d8fa12":{
+    "1b64f17eb6c9496daf3af4b733841c79":{
       "scriptId":"u168"},
-    "45b7306257da45889b59ddbf48155016":{
+    "42e7fa5581d749de85a1c25af24dc257":{
       "scriptId":"u169"},
-    "fadea7d47ddb4a17b5034168994eeffe":{
+    "2e7c11ef2bc448559323924758a7a69a":{
       "scriptId":"u170"},
-    "b56037eae26e44dd8540fb877b72c73f":{
+    "4e938f3885314bfb9f2d2c6167944496":{
       "scriptId":"u171"},
-    "253c662079b04aef8ddfbbaaea0b3b6d":{
+    "a957d52d113041da9f74f89dab6d7499":{
       "scriptId":"u172"},
-    "acb0776a901f4946a9f059a082f94264":{
+    "4e76c9dd4bc5482fa9492bb307d8fa12":{
       "scriptId":"u173"},
-    "fb021a617b794aa6821ec8d0d5ef688e":{
+    "45b7306257da45889b59ddbf48155016":{
       "scriptId":"u174"},
-    "de41f9eb977d4098a3592cd56cf3793e":{
+    "fadea7d47ddb4a17b5034168994eeffe":{
       "scriptId":"u175"},
-    "b5d052df38b44c86bab42f2c306b0db5":{
+    "b56037eae26e44dd8540fb877b72c73f":{
       "scriptId":"u176"},
-    "c6998b320d5b4bfcbc9eb5c59a565833":{
+    "253c662079b04aef8ddfbbaaea0b3b6d":{
       "scriptId":"u177"},
-    "ea6360e9a3ed4977afcd3b437b485359":{
+    "acb0776a901f4946a9f059a082f94264":{
       "scriptId":"u178"},
-    "b505b99978fc4c2596e7187a593b6aca":{
+    "fb021a617b794aa6821ec8d0d5ef688e":{
       "scriptId":"u179"},
-    "8b8b93ce102f4b898ec860ed7766f866":{
+    "de41f9eb977d4098a3592cd56cf3793e":{
       "scriptId":"u180"},
-    "d6bc82d16cb949eb81e34f6609cfd431":{
+    "b5d052df38b44c86bab42f2c306b0db5":{
       "scriptId":"u181"},
-    "e9daddb9983f4e7189f459ea95d2d969":{
+    "c6998b320d5b4bfcbc9eb5c59a565833":{
       "scriptId":"u182"},
-    "b467a9029c8d4cff8a6fac0cfa146132":{
+    "ea6360e9a3ed4977afcd3b437b485359":{
       "scriptId":"u183"},
-    "4cc8553c4e234d77aa2ab16ff477b3ad":{
+    "b505b99978fc4c2596e7187a593b6aca":{
       "scriptId":"u184"},
-    "33f0335b27bb47e4a28351f09e343be6":{
+    "8b8b93ce102f4b898ec860ed7766f866":{
       "scriptId":"u185"},
-    "9bc0785e16204d3aa79f623f0289292c":{
+    "d6bc82d16cb949eb81e34f6609cfd431":{
       "scriptId":"u186"},
-    "7ac9f00dc6c34c349d7cd57417408198":{
+    "e9daddb9983f4e7189f459ea95d2d969":{
       "scriptId":"u187"},
-    "072b88e8a15141d39e57b34c8f072b6e":{
+    "b467a9029c8d4cff8a6fac0cfa146132":{
       "scriptId":"u188"},
-    "dc365aa2b6fa4eb398185fd33fd58a9d":{
+    "4cc8553c4e234d77aa2ab16ff477b3ad":{
       "scriptId":"u189"},
-    "733c755b363b478092d20b1f101358f0":{
+    "33f0335b27bb47e4a28351f09e343be6":{
       "scriptId":"u190"},
-    "2f6e5f9eeea4405da25c41cd40ed9e56":{
+    "9bc0785e16204d3aa79f623f0289292c":{
       "scriptId":"u191"},
-    "8d24a9ed957d495a9473b92eb8c09b05":{
+    "7ac9f00dc6c34c349d7cd57417408198":{
       "scriptId":"u192"},
+    "072b88e8a15141d39e57b34c8f072b6e":{
+      "scriptId":"u193"},
+    "dc365aa2b6fa4eb398185fd33fd58a9d":{
+      "scriptId":"u194"},
+    "733c755b363b478092d20b1f101358f0":{
+      "scriptId":"u195"},
+    "2f6e5f9eeea4405da25c41cd40ed9e56":{
+      "scriptId":"u196"},
+    "8d24a9ed957d495a9473b92eb8c09b05":{
+      "scriptId":"u197"},
     "750321b5faab46d1a63fce068b67db38":{
-      "scriptId":"u193"}}});
+      "scriptId":"u198"}}});

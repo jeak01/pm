@@ -133,6 +133,10 @@
             "type":"Wireframe",
             "url":"主页_安卓_0801.html"},
 {
+            "pageName":"主页(安卓)0807",
+            "type":"Wireframe",
+            "url":"主页_安卓_0807.html"},
+{
             "pageName":"特色活动0726",
             "type":"Wireframe",
             "url":"特色活动0726.html"},
@@ -156,6 +160,14 @@
                 "pageName":"会员主页(安卓)",
                 "type":"Wireframe",
                 "url":"会员主页_安卓_.html"},
+{
+                "pageName":"新人专享套餐",
+                "type":"Wireframe",
+                "url":"新人专享套餐.html"},
+{
+                "pageName":"农旅百科",
+                "type":"Wireframe",
+                "url":"农旅百科.html"},
 {
                 "pageName":"体验路线",
                 "type":"Wireframe",
@@ -188,6 +200,10 @@
                 "pageName":"会员特权",
                 "type":"Wireframe",
                 "url":"会员特权.html"},
+{
+                "pageName":"文章详情",
+                "type":"Wireframe",
+                "url":"文章详情.html"},
 {
                 "pageName":"主题农旅",
                 "type":"Wireframe",

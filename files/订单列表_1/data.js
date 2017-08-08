@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表_1.html",
-  "generationDate":new Date(1501828183256.74),
+  "generationDate":new Date(1502183715089.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -512,7 +512,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单列表_1/u24.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"e43de9cdf99c497497f976fbdf6ad381",
           "label":"",
@@ -820,7 +820,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单列表_1/u24.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"ad7ac70b27a64adc8f8cfce0b43b4b9b",
           "label":"",
@@ -1128,7 +1128,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单列表_1/u24.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"c39a5aa48b664b5e846f68aa93d052ef",
           "label":"",

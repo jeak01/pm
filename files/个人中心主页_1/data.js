@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页_1.html",
-  "generationDate":new Date(1501828183907.15),
+  "generationDate":new Date(1502183716358.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2872,7 +2872,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":39,
+                        "x":29,
                         "y":24},
                       "size":{
                         "width":21,
@@ -2890,7 +2890,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":39,
+                            "x":29,
                             "y":24},
                           "size":{
                             "width":21,
@@ -2909,7 +2909,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":110,
+                        "x":92,
                         "y":24},
                       "size":{
                         "width":41,
@@ -2927,7 +2927,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":110,
+                            "x":92,
                             "y":24},
                           "size":{
                             "width":41,
@@ -2946,7 +2946,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":191,
+                        "x":162,
                         "y":24},
                       "size":{
                         "width":41,
@@ -2964,7 +2964,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":191,
+                            "x":162,
                             "y":24},
                           "size":{
                             "width":41,
@@ -2983,7 +2983,7 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":277,
+                        "x":299,
                         "y":24},
                       "size":{
                         "width":41,
@@ -3001,7 +3001,7 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":277,
+                            "x":299,
                             "y":24},
                           "size":{
                             "width":41,
@@ -3019,7 +3019,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":39,
+                        "x":29,
                         "y":2},
                       "size":{
                         "width":20,
@@ -3036,7 +3036,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":39,
+                            "x":29,
                             "y":2},
                           "size":{
                             "width":20,
@@ -3054,7 +3054,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":288,
+                        "x":310,
                         "y":4},
                       "size":{
                         "width":20,
@@ -3071,7 +3071,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":288,
+                            "x":310,
                             "y":4},
                           "size":{
                             "width":20,
@@ -3089,7 +3089,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":118,
+                        "x":100,
                         "y":4},
                       "size":{
                         "width":20,
@@ -3106,7 +3106,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":118,
+                            "x":100,
                             "y":4},
                           "size":{
                             "width":20,
@@ -3124,7 +3124,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":199,
+                        "x":170,
                         "y":4},
                       "size":{
                         "width":20,
@@ -3141,7 +3141,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":199,
+                            "x":170,
                             "y":4},
                           "size":{
                             "width":20,
@@ -3159,7 +3159,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":20,
+                        "x":10,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3190,7 +3190,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":267.5,
+                        "x":290,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3221,7 +3221,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":98,
+                        "x":80,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3252,7 +3252,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":179,
+                        "x":150,
                         "y":0},
                       "size":{
                         "width":60,
@@ -3271,6 +3271,109 @@
                                 "target":{
                                   "targetType":"page",
                                   "url":"会员特权.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true},
+{
+                    "id":"f3547525651f4b11841e0a5ee962a36a",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"buttonShape",
+                    "styleType":"paragraph",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"10px",
+                      "location":{
+                        "x":229,
+                        "y":24},
+                      "size":{
+                        "width":41,
+                        "height":13}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"d1cb1ea7f46c4502ad32e644766c5eec",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"10px",
+                          "location":{
+                            "x":229,
+                            "y":24},
+                          "size":{
+                            "width":41,
+                            "height":13}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"resources/images/transparent.gif"}},
+{
+                    "id":"8baf2a95635647b7b11ab5b2448ec895",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"imageBox",
+                    "styleType":"imageBox",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":240,
+                        "y":4},
+                      "size":{
+                        "width":20,
+                        "height":20}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"7f0c67878ff84c0b87383b546647b568",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "location":{
+                            "x":240,
+                            "y":4},
+                          "size":{
+                            "width":20,
+                            "height":20}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/主页_安卓_0727/u158.png"}},
+{
+                    "id":"48809466f34a45c68290d9dd9dba692f",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"imageMapRegion",
+                    "styleType":"imageMapRegion",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":220,
+                        "y":0},
+                      "size":{
+                        "width":60,
+                        "height":40}},
+                    "adaptiveStyles":{
+},
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 农旅百科",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"农旅百科.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
@@ -3612,4 +3715,14 @@
       "5546bbd9a15544b0adcca0215bcedee1":{
         "scriptId":"u167"},
       "690a1cd387b244b5b2acab4956a49b1e":{
-        "scriptId":"u168"}}}});
+        "scriptId":"u168"},
+      "f3547525651f4b11841e0a5ee962a36a":{
+        "scriptId":"u169"},
+      "d1cb1ea7f46c4502ad32e644766c5eec":{
+        "scriptId":"u170"},
+      "8baf2a95635647b7b11ab5b2448ec895":{
+        "scriptId":"u171"},
+      "7f0c67878ff84c0b87383b546647b568":{
+        "scriptId":"u172"},
+      "48809466f34a45c68290d9dd9dba692f":{
+        "scriptId":"u173"}}}});

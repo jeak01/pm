@@ -1259,7 +1259,7 @@
 }
 #u114 {
   position:absolute;
-  left:39px;
+  left:29px;
   top:24px;
   width:21px;
   height:13px;
@@ -1281,7 +1281,7 @@
 }
 #u116 {
   position:absolute;
-  left:110px;
+  left:92px;
   top:24px;
   width:41px;
   height:13px;
@@ -1303,7 +1303,7 @@
 }
 #u118 {
   position:absolute;
-  left:191px;
+  left:162px;
   top:24px;
   width:41px;
   height:13px;
@@ -1325,7 +1325,7 @@
 }
 #u120 {
   position:absolute;
-  left:277px;
+  left:299px;
   top:24px;
   width:41px;
   height:13px;
@@ -1347,7 +1347,7 @@
 }
 #u122 {
   position:absolute;
-  left:39px;
+  left:29px;
   top:2px;
   width:20px;
   height:20px;
@@ -1369,7 +1369,7 @@
 }
 #u124 {
   position:absolute;
-  left:288px;
+  left:310px;
   top:4px;
   width:20px;
   height:20px;
@@ -1391,7 +1391,7 @@
 }
 #u126 {
   position:absolute;
-  left:118px;
+  left:100px;
   top:4px;
   width:20px;
   height:20px;
@@ -1413,7 +1413,7 @@
 }
 #u128 {
   position:absolute;
-  left:199px;
+  left:170px;
   top:4px;
   width:20px;
   height:20px;
@@ -1435,7 +1435,7 @@
 }
 #u130 {
   position:absolute;
-  left:20px;
+  left:10px;
   top:0px;
   width:60px;
   height:40px;
@@ -1444,7 +1444,7 @@
 }
 #u131 {
   position:absolute;
-  left:268px;
+  left:290px;
   top:0px;
   width:60px;
   height:40px;
@@ -1453,7 +1453,7 @@
 }
 #u132 {
   position:absolute;
-  left:98px;
+  left:80px;
   top:0px;
   width:60px;
   height:40px;
@@ -1462,7 +1462,60 @@
 }
 #u133 {
   position:absolute;
-  left:179px;
+  left:150px;
+  top:0px;
+  width:60px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u134 {
+  position:absolute;
+  left:229px;
+  top:24px;
+  width:41px;
+  height:13px;
+  font-size:10px;
+}
+#u134_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  height:13px;
+}
+#u135 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  white-space:nowrap;
+}
+#u136 {
+  position:absolute;
+  left:240px;
+  top:4px;
+  width:20px;
+  height:20px;
+}
+#u136_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:20px;
+  height:20px;
+}
+#u137 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:16px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u138 {
+  position:absolute;
+  left:220px;
   top:0px;
   width:60px;
   height:40px;

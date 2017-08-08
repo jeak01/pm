@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1501828178145.34),
+  "generationDate":new Date(1502183707783.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -281,7 +281,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u12.png"}},
+            "normal~":"images/新人专享套餐/u12.png"}},
 {
           "id":"2080e938598944e7b712e7df5dd9b0b0",
           "label":"",
@@ -548,7 +548,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u26.jpg"}},
+            "normal~":"images/新人专享套餐/u24.jpg"}},
 {
           "id":"fef42f8cbc2c4fe696c3e85654e417a1",
           "label":"",
@@ -624,7 +624,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u30.jpg"}},
+            "normal~":"images/新人专享套餐/u28.jpg"}},
 {
           "id":"98c7efdccba94e56900e54efbcc3b411",
           "label":"",
@@ -700,7 +700,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u34.jpg"}},
+            "normal~":"images/新人专享套餐/u16.jpg"}},
 {
           "id":"304199f84587494aa4be2a82117eafe8",
           "label":"",
@@ -952,7 +952,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u46.jpg"}},
+            "normal~":"images/新人专享套餐/u20.jpg"}},
 {
           "id":"06e31220397e41de825a9db86bdb1437",
           "label":"",
@@ -1670,7 +1670,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/会员特权/u85.png"}},
+                    "normal~":"images/新人专享套餐/u95.png"}},
 {
                   "id":"0f490ea23e294454a8c06c4e41199797",
                   "label":"",
