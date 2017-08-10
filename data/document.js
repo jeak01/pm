@@ -137,6 +137,10 @@
             "type":"Wireframe",
             "url":"主页_安卓_0807.html"},
 {
+            "pageName":"会员主页(安卓)0810",
+            "type":"Wireframe",
+            "url":"会员主页_安卓_0810.html"},
+{
             "pageName":"特色活动0726",
             "type":"Wireframe",
             "url":"特色活动0726.html"},
@@ -193,9 +197,33 @@
                     "type":"Wireframe",
                     "url":"线路详情_4.html"}]},
 {
-                "pageName":"特惠套餐",
+                "pageName":"组合套餐（初始）",
                 "type":"Wireframe",
-                "url":"特惠套餐.html"},
+                "url":"组合套餐（初始）.html",
+                "children":[{
+                    "pageName":"选择农旅路线产品",
+                    "type":"Wireframe",
+                    "url":"选择农旅路线产品.html"},
+{
+                    "pageName":"组合套餐（已选农旅）",
+                    "type":"Wireframe",
+                    "url":"组合套餐（已选农旅）.html"},
+{
+                    "pageName":"选择配送农场",
+                    "type":"Wireframe",
+                    "url":"选择配送农场_1.html"},
+{
+                    "pageName":"完善订单信息",
+                    "type":"Wireframe",
+                    "url":"完善订单信息.html"},
+{
+                    "pageName":"订单支付页",
+                    "type":"Wireframe",
+                    "url":"订单支付页.html"},
+{
+                    "pageName":"支付成功",
+                    "type":"Wireframe",
+                    "url":"支付成功.html"}]},
 {
                 "pageName":"会员特权",
                 "type":"Wireframe",
@@ -263,7 +291,7 @@
 {
                     "pageName":"选择配送农场",
                     "type":"Wireframe",
-                    "url":"选择配送农场_1.html"},
+                    "url":"选择配送农场_2.html"},
 {
                     "pageName":"定时配送",
                     "type":"Wireframe",

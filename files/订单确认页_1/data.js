@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认页_1.html",
-  "generationDate":new Date(1502183714344.81),
+  "generationDate":new Date(1502359078259.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u2.png"}},
+            "normal~":"images/选择配送农场_1/u2.png"}},
 {
           "id":"24d1e8f70b204caabf353de39c891f78",
           "label":"",
@@ -303,7 +303,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场_1/u15_line.png"}},
+            "line~":"images/选择配送农场_1/u10_line.png"}},
 {
           "id":"6f1743320a3043859539fe4aabc274da",
           "label":"",
@@ -434,7 +434,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场_1/u15_line.png"}},
+            "line~":"images/选择配送农场_1/u10_line.png"}},
 {
           "id":"2d70bce88f424c01a1222f2119ee1107",
           "label":"",
@@ -565,7 +565,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场_1/u15_line.png"}},
+            "line~":"images/选择配送农场_1/u10_line.png"}},
 {
           "id":"4502cef1ef7f483c92aadd7f16a44b1a",
           "label":"",
@@ -778,7 +778,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场_1/u15_line.png"}},
+            "line~":"images/选择配送农场_1/u10_line.png"}},
 {
           "id":"4b9f2ac11e4640c98d5c7e41702af00a",
           "label":"",

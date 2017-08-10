@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1502183699001.08),
+  "generationDate":new Date(1502359062723.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -674,7 +674,7 @@
                       "description":"在 当前窗口 打开 选择配送农场",
                       "target":{
                         "targetType":"page",
-                        "url":"选择配送农场_1.html",
+                        "url":"选择配送农场_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -944,10 +944,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 特惠套餐",
+                      "description":"在 当前窗口 打开 组合套餐（初始）",
                       "target":{
                         "targetType":"page",
-                        "url":"特惠套餐.html",
+                        "url":"组合套餐（初始）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

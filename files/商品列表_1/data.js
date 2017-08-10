@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1502183712862.13),
+  "generationDate":new Date(1502359076885.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2731,7 +2731,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/配送设置面板_u132.png"}},
+                    "normal~":"images/订单支付页/u0.png"}},
 {
                   "id":"33e9f28b766c4cb2889e70e1a176e504",
                   "label":"",
@@ -2846,7 +2846,7 @@
                               "description":"在 当前窗口 打开 选择配送农场",
                               "target":{
                                 "targetType":"page",
-                                "url":"选择配送农场_1.html",
+                                "url":"选择配送农场_2.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3333,7 +3333,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/新人专享套餐/u12.png"}},
+                    "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
                   "id":"4a32c6ae636a418ca8688ca20bcf2462",
                   "label":"",

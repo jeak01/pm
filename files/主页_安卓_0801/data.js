@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0801.html",
-  "generationDate":new Date(1502183700354.24),
+  "generationDate":new Date(1502359063672.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1488,10 +1488,10 @@
                                   "isNewIfGroup":false,
                                   "actions":[{
                                       "action":"linkWindow",
-                                      "description":"在 当前窗口 打开 特惠套餐",
+                                      "description":"在 当前窗口 打开 组合套餐（初始）",
                                       "target":{
                                         "targetType":"page",
-                                        "url":"特惠套餐.html",
+                                        "url":"组合套餐（初始）.html",
                                         "includeVariables":true},
                                       "linkType":"current"}]}]}},
                           "tabbable":true},
@@ -2108,10 +2108,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 特惠套餐",
+                              "description":"在 当前窗口 打开 组合套餐（初始）",
                               "target":{
                                 "targetType":"page",
-                                "url":"特惠套餐.html",
+                                "url":"组合套餐（初始）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true},
@@ -2744,10 +2744,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 特惠套餐",
+                      "description":"在 当前窗口 打开 组合套餐（初始）",
                       "target":{
                         "targetType":"page",
-                        "url":"特惠套餐.html",
+                        "url":"组合套餐（初始）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

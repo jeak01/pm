@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情_1.html",
-  "generationDate":new Date(1502183715444.12),
+  "generationDate":new Date(1502359079037.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/配送设置面板_u132.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"95463b67a8194076af9add9814e29a27",
           "label":"",
@@ -659,7 +659,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果宅配/u28.png"}},
+            "normal~":"images/组合套餐（初始）/u12.png"}},
 {
           "id":"18431b0fc5ae487e9dbcb2df4c1022b8",
           "label":"",

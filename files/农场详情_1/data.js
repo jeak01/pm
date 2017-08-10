@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情_1.html",
-  "generationDate":new Date(1502183714040.61),
+  "generationDate":new Date(1502359078094.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/配送设置面板_u132.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"a1dbc8a8240e420d81e16f921fdbb770",
           "label":"",

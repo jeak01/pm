@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1502183696546.96),
+  "generationDate":new Date(1502359060687.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
