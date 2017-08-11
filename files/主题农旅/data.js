@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主题农旅.html",
-  "generationDate":new Date(1502439352792.43),
+  "generationDate":new Date(1502442099601.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2935,9 +2935,6 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "location":{
-                      "x":0,
-                      "y":0.5},
                     "size":{
                       "width":360,
                       "height":271},
@@ -2955,9 +2952,6 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "location":{
-                          "x":0,
-                          "y":0.5},
                         "size":{
                           "width":360,
                           "height":271},
@@ -3132,7 +3126,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":77.5},
+                      "y":78},
                     "size":{
                       "width":360,
                       "height":40},
@@ -3152,7 +3146,7 @@
                       "style":{
                         "location":{
                           "x":0,
-                          "y":77.5},
+                          "y":78},
                         "size":{
                           "width":360,
                           "height":40},
@@ -3208,7 +3202,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":115.5},
+                      "y":116},
                     "size":{
                       "width":360,
                       "height":40},
@@ -3228,7 +3222,7 @@
                       "style":{
                         "location":{
                           "x":0,
-                          "y":115.5},
+                          "y":116},
                         "size":{
                           "width":360,
                           "height":40},
@@ -3284,7 +3278,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":154.5},
+                      "y":154},
                     "size":{
                       "width":360,
                       "height":40},
@@ -3304,7 +3298,7 @@
                       "style":{
                         "location":{
                           "x":0,
-                          "y":154.5},
+                          "y":154},
                         "size":{
                           "width":360,
                           "height":40},
@@ -3360,7 +3354,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":192.5},
+                      "y":192},
                     "size":{
                       "width":360,
                       "height":40},
@@ -3380,7 +3374,7 @@
                       "style":{
                         "location":{
                           "x":0,
-                          "y":192.5},
+                          "y":192},
                         "size":{
                           "width":360,
                           "height":40},
@@ -3436,7 +3430,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":231.5},
+                      "y":232},
                     "size":{
                       "width":360,
                       "height":40},
@@ -3456,7 +3450,7 @@
                       "style":{
                         "location":{
                           "x":0,
-                          "y":231.5},
+                          "y":232},
                         "size":{
                           "width":360,
                           "height":40},

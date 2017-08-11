@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场（宅配）.html",
-  "generationDate":new Date(1502439351453.54),
+  "generationDate":new Date(1502442098163.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1153,7 +1153,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u57.png"}},
+            "normal~":"images/选择城市/u6.png"}},
 {
           "id":"86e978164ae944b4bfe3b4c14024ac01",
           "label":"",

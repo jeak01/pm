@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅路线产品.html",
-  "generationDate":new Date(1502439350013.59),
+  "generationDate":new Date(1502442096640.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -698,7 +698,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u57.png"}},
+            "normal~":"images/选择城市/u6.png"}},
 {
           "id":"bd49f674567b46d0825be5e6eb1b0116",
           "label":"",

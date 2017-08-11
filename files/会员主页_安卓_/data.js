@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_.html",
-  "generationDate":new Date(1502439343360.67),
+  "generationDate":new Date(1502442089804.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -271,9 +271,12 @@
                   "styleType":"imageBox",
                   "visible":true,
                   "style":{
+                    "location":{
+                      "x":-1,
+                      "y":-7},
                     "size":{
-                      "width":358,
-                      "height":170}},
+                      "width":361,
+                      "height":150}},
                   "adaptiveStyles":{
 },
                   "objects":[{
@@ -285,9 +288,12 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
+                        "location":{
+                          "x":-1,
+                          "y":-7},
                         "size":{
-                          "width":358,
-                          "height":170}},
+                          "width":361,
+                          "height":150}},
                       "adaptiveStyles":{
 }}],
                   "interactionMap":{
@@ -298,15 +304,15 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 线路详情",
+                              "description":"在 当前窗口 打开 新人专享套餐",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_1.html",
+                                "url":"新人专享套餐.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页_安卓_/u38.jpg"}}]},
+                    "normal~":"images/主页_安卓_/u241.jpg"}}]},
 {
               "id":"e7c85f6a1bec43aea5dece4a70aad498",
               "label":"状态2",
@@ -349,12 +355,12 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_2.html",
+                                "url":"线路详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页_安卓_/u58.jpg"}}]},
+                    "normal~":"images/主页_安卓_/u18.jpg"}}]},
 {
               "id":"995a91cdba1f4b668a18d57e691daaf5",
               "label":"状态3",
@@ -445,12 +451,12 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情.html",
+                                "url":"线路详情_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页_安卓_/u18.jpg"}}]}]},
+                    "normal~":"images/主页_安卓_/u38.jpg"}}]}]},
 {
           "id":"c6d1c00b29fa4e6a8c00a8d20581b6c6",
           "label":"幻灯片index",
@@ -6710,7 +6716,37 @@
                                 "url":"本原商道.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
-                  "tabbable":true}]}]}]}},
+                  "tabbable":true}]}]},
+{
+          "id":"6187bf9c2e5247f2b2c1238c3ad1aee5",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":0},
+            "size":{
+              "width":60,
+              "height":39}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 选择城市",
+                      "target":{
+                        "targetType":"page",
+                        "url":"选择城市.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "8387a0f784dc4517ba344c8c934a23b2":{
       "packageId":"8387a0f784dc4517ba344c8c934a23b2",
@@ -8000,4 +8036,6 @@
     "f96cee7bf5b84a42b464a3daf65b227a":{
       "scriptId":"u342"},
     "262832c03ca74f8fbf209a84772dd891":{
-      "scriptId":"u343"}}});
+      "scriptId":"u343"},
+    "6187bf9c2e5247f2b2c1238c3ad1aee5":{
+      "scriptId":"u344"}}});

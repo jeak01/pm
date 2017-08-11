@@ -3010,3 +3010,12 @@
   width:126px;
   word-wrap:break-word;
 }
+#u255 {
+  position:absolute;
+  left:273px;
+  top:833px;
+  width:87px;
+  height:24px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1502439344193.22),
+  "generationDate":new Date(1502442090636.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1582,10 +1582,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蔬果宅配",
+                      "description":"在 当前窗口 打开 选择配送农场（宅配）",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬果宅配.html",
+                        "url":"选择配送农场（宅配）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -4978,7 +4978,37 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/新人专享套餐/u253.png"}}]}]}]}},
+                    "normal~":"images/新人专享套餐/u253.png"}}]}]},
+{
+          "id":"09b4eeeecb6547aab1fd285b026f89c1",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":273,
+              "y":833},
+            "size":{
+              "width":87,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 选择城市",
+                      "target":{
+                        "targetType":"page",
+                        "url":"选择城市.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -5491,4 +5521,6 @@
     "d972c22e08de4532b050eab305bb9291":{
       "scriptId":"u253"},
     "aa8cc42970f94d88b212048486fec5b0":{
-      "scriptId":"u254"}}});
+      "scriptId":"u254"},
+    "09b4eeeecb6547aab1fd285b026f89c1":{
+      "scriptId":"u255"}}});

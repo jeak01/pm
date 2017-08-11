@@ -131,7 +131,11 @@
             "children":[{
                 "pageName":"会员主页(安卓)",
                 "type":"Wireframe",
-                "url":"会员主页_安卓_.html"},
+                "url":"会员主页_安卓_.html",
+                "children":[{
+                    "pageName":"选择城市",
+                    "type":"Wireframe",
+                    "url":"选择城市.html"}]},
 {
                 "pageName":"新人专享套餐",
                 "type":"Wireframe",

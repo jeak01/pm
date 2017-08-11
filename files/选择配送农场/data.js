@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场.html",
-  "generationDate":new Date(1502439338464.42),
+  "generationDate":new Date(1502442084404.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
