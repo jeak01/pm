@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送_1.html",
-  "generationDate":new Date(1502359077702.06),
+  "generationDate":new Date(1502439360798.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -88,7 +88,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"40dc83185821431c9a3b37807c09caa5",
           "label":"",
@@ -1208,7 +1208,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/完善订单信息/u13.png"}}]}]}]}},
+                    "normal~":"images/确认订单/u13.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

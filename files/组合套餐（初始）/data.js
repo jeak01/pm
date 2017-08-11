@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1502359070370.17),
+  "generationDate":new Date(1502439349755.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"b5acee2ecc514d63999a9a220e012bf3",
           "label":"",
@@ -1120,6 +1120,21 @@
                   "color":0xFFAAAAAA}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 选择配送农场",
+                      "target":{
+                        "targetType":"page",
+                        "url":"选择配送农场_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/线路详情/u48.png"}},
 {
@@ -1472,6 +1487,21 @@
                   "height":16}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 选择农旅路线产品",
+                      "target":{
+                        "targetType":"page",
+                        "url":"选择农旅路线产品.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
@@ -2079,7 +2109,7 @@
                               "description":"在 当前窗口 打开 会员充值",
                               "target":{
                                 "targetType":"page",
-                                "url":"会员充值_1.html",
+                                "url":"会员充值_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

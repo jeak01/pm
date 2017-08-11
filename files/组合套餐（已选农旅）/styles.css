@@ -1689,3 +1689,26 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u146 {
+  position:absolute;
+  left:60px;
+  top:293px;
+  width:151px;
+  height:13px;
+  font-size:10px;
+  color:#666666;
+}
+#u146_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:151px;
+  height:13px;
+}
+#u147 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:151px;
+  white-space:nowrap;
+}

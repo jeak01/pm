@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（农旅）_1.html",
-  "generationDate":new Date(1502359078582.65),
+  "generationDate":new Date(1502439358692.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -504,7 +504,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
@@ -570,7 +570,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"2c99f5ed755344b48c5d887f2120b1be",
           "label":"",
@@ -636,7 +636,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"042a4451b97f4f3db0e46ba0d276d9a5",
           "label":"",

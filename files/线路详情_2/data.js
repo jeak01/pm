@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_2.html",
-  "generationDate":new Date(1502359069082.32),
+  "generationDate":new Date(1502439348230.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -172,7 +172,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -1821,7 +1821,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u91.JPG"}},
+            "normal~":"images/会员专区/u62.JPG"}},
 {
           "id":"892b5dbd33ca44de90e33e9ca618d89b",
           "label":"",
@@ -2799,10 +2799,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 确认预约时间",
+                              "description":"在 当前窗口 打开 确认订单（农旅）",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认预约时间_1.html",
+                                "url":"确认订单（农旅）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

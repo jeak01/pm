@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功_1.html",
-  "generationDate":new Date(1502359079393.18),
+  "generationDate":new Date(1502439351209.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"8ec98cebd33d4f749a511724410dafe1",
+    "packageId":"c0bac8acf68e4476b03f8a7fe523c50e",
     "type":"Axure:Page",
     "name":"充值成功",
     "notes":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -215,7 +215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功/u8.png"}},
+            "normal~":"images/充值成功_1/u8.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -331,15 +331,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 主页(安卓)",
+                      "description":"在 当前窗口 打开 会员主页(安卓)",
                       "target":{
                         "targetType":"page",
-                        "url":"主页_安卓_.html",
+                        "url":"会员主页_安卓_.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功/u14.png"}},
+            "normal~":"images/充值成功_1/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -387,15 +387,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 会员充值",
+                      "description":"在 当前窗口 打开 订单支付页（已充）",
                       "target":{
                         "targetType":"page",
-                        "url":"会员充值_1.html",
+                        "url":"订单支付页（已充）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功/u16.png"}}]}},
+            "normal~":"images/充值成功_1/u16.png"}}]}},
   "masters":{
 },
   "objectPaths":{

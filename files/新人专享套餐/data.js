@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1502359067021.95),
+  "generationDate":new Date(1502439344193.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -127,7 +127,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -4973,7 +4973,7 @@
                               "description":"在 当前窗口 打开 会员充值",
                               "target":{
                                 "targetType":"page",
-                                "url":"会员充值_1.html",
+                                "url":"会员充值_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

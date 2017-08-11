@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1502359070958.56),
+  "generationDate":new Date(1502439350377.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -127,7 +127,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"b5acee2ecc514d63999a9a220e012bf3",
           "label":"",
@@ -2090,7 +2090,7 @@
           "style":{
             "location":{
               "x":15,
-              "y":167},
+              "y":159},
             "size":{
               "width":330,
               "height":180},
@@ -3659,7 +3659,50 @@
                                 "g":79,
                                 "b":79,
                                 "a":155}}}}]}]}]}},
-          "tabbable":true}]}},
+          "tabbable":true},
+{
+          "id":"8db82ca375f84df98e5eb0942f9cb817",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":60,
+              "y":293},
+            "size":{
+              "width":151,
+              "height":13}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b077e0f0a3c5482da40ae7b9ba9a6c9a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":60,
+                  "y":293},
+                "size":{
+                  "width":151,
+                  "height":13}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -3954,4 +3997,8 @@
     "02fa28f4c66f467c8df6be1e7da3f0ff":{
       "scriptId":"u144"},
     "8d2c64918b2f451781d37ab42d6a344f":{
-      "scriptId":"u145"}}});
+      "scriptId":"u145"},
+    "8db82ca375f84df98e5eb0942f9cb817":{
+      "scriptId":"u146"},
+    "b077e0f0a3c5482da40ae7b9ba9a6c9a":{
+      "scriptId":"u147"}}});

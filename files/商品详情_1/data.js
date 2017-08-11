@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品详情_1.html",
-  "generationDate":new Date(1502359077798.13),
+  "generationDate":new Date(1502439360895.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章列表_1/u0.png"}},
+            "normal~":"images/选择农旅路线产品/u0.png"}},
 {
           "id":"46b2ef1c9492489bab8340d0605e8ac1",
           "label":"",
@@ -361,7 +361,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",

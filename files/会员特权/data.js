@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1502359072172.36),
+  "generationDate":new Date(1502439344681.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场_1/u2.png"}},
+            "normal~":"images/会员特权/u2.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -332,7 +332,7 @@
                       "description":"在 当前窗口 打开 会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"会员充值_1.html",
+                        "url":"会员充值_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1094,7 +1094,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"21e3d18fce194e129c8d477d24f372ab",
           "label":"",
@@ -1201,7 +1201,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"55c305b1e3ff499aa17d097826161e8d",
           "label":"",
@@ -1308,7 +1308,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"2f5c6d10e5154bdeb808223f5a3a4ac7",
           "label":"",
@@ -1415,7 +1415,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"5edfa34dcd7e49ddaf6ad647c21f16cf",
           "label":"",
@@ -1522,7 +1522,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"2795f058533844828c31acf2779ce539",
           "label":"",
@@ -1785,7 +1785,7 @@
                               "description":"在 当前窗口 打开 会员充值",
                               "target":{
                                 "targetType":"page",
-                                "url":"会员充值_1.html",
+                                "url":"会员充值_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1856,7 +1856,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0801/u2.png"}},
+            "normal~":"images/主页_安卓_/u201.png"}},
 {
           "id":"61d0179b3ea84606ae2f86e3e9bb1b1c",
           "label":"",
@@ -1996,7 +1996,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"0bf5dfca97814dc3b7249f4c54601ee1",
           "label":"",
@@ -2150,7 +2150,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0801/u2.png"}},
+            "normal~":"images/主页_安卓_/u201.png"}},
 {
           "id":"f217484dce994209911726db88ad937c",
           "label":"",
@@ -2518,7 +2518,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"01b6e555507146768a569d5f38d38f08",
           "label":"",

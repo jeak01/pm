@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情.html",
-  "generationDate":new Date(1502359068231.75),
+  "generationDate":new Date(1502439347039.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -172,7 +172,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -1819,7 +1819,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u91.JPG"}},
+            "normal~":"images/会员专区/u62.JPG"}},
 {
           "id":"892b5dbd33ca44de90e33e9ca618d89b",
           "label":"",
@@ -3247,7 +3247,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0801/u129.jpg"}},
+            "normal~":"images/体验路线/u11.jpg"}},
 {
           "id":"8fc591950ca24425877e1df582e43154",
           "label":"",
@@ -3754,10 +3754,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 确认预约时间",
+                              "description":"在 当前窗口 打开 确认订单（农旅）",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认预约时间_1.html",
+                                "url":"确认订单（农旅）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3935,7 +3935,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/文章详情/u38.png"}},
 {
           "id":"6cbb9857e2c04cd0b146f78fa9f85701",
           "label":"",
@@ -4011,7 +4011,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员主页_安卓_0810/u181.jpg"}},
+            "normal~":"images/文章详情/u42.jpg"}},
 {
           "id":"4c1fd413236244e4b757cea39fdce8fd",
           "label":"",
@@ -4124,7 +4124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/文章详情/u38.png"}},
 {
           "id":"602cb574c52a44659e8a2ff9a5081667",
           "label":"",
@@ -4200,7 +4200,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅百科/u34.jpg"}},
+            "normal~":"images/农旅百科/u21.jpg"}},
 {
           "id":"0d65f899e78a431eb111a800109eb190",
           "label":"",
@@ -4313,7 +4313,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/文章详情/u38.png"}},
 {
           "id":"472d9660b01b4088adc1ba66b51b82a7",
           "label":"",
@@ -4346,7 +4346,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0801/u11.jpg"}},
+            "normal~":"images/主页_安卓_/u18.jpg"}},
 {
           "id":"79ab07462317489aa3b5e7f678ad3c06",
           "label":"",
@@ -4459,7 +4459,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/文章详情/u38.png"}},
 {
           "id":"88c38f17f16a458999886f516321df3d",
           "label":"",
@@ -4492,7 +4492,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0801/u9.jpg"}},
+            "normal~":"images/主页_安卓_/u79.jpg"}},
 {
           "id":"81270b09d63d4340902d905ef0dedc3f",
           "label":"",

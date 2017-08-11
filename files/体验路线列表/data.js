@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1502359060451.6),
+  "generationDate":new Date(1502439339299.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

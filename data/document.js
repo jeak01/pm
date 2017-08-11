@@ -69,94 +69,62 @@
                 "type":"Wireframe",
                 "url":"农旅产品详情.html"}]}]},
 {
-        "pageName":"订单确认页",
-        "type":"Wireframe",
-        "url":"订单确认页.html",
+        "pageName":"ip6",
+        "type":"Folder",
+        "url":"",
         "children":[{
-            "pageName":"确认预约时间",
+            "pageName":"订单确认页",
             "type":"Wireframe",
-            "url":"确认预约时间.html"},
+            "url":"订单确认页.html",
+            "children":[{
+                "pageName":"确认预约时间",
+                "type":"Wireframe",
+                "url":"确认预约时间.html"},
 {
-            "pageName":"订单支付页（农旅）",
+                "pageName":"订单支付页（农旅）",
+                "type":"Wireframe",
+                "url":"订单支付页（农旅）.html"},
+{
+                "pageName":"订单支付页（蔬果）",
+                "type":"Wireframe",
+                "url":"订单支付页（蔬果）.html"},
+{
+                "pageName":"支付成功（农旅）",
+                "type":"Wireframe",
+                "url":"支付成功（农旅）.html"},
+{
+                "pageName":"支付成功（蔬果）",
+                "type":"Wireframe",
+                "url":"支付成功（蔬果）.html"}]},
+{
+            "pageName":"订单列表",
             "type":"Wireframe",
-            "url":"订单支付页（农旅）.html"},
+            "url":"订单列表.html",
+            "children":[{
+                "pageName":"农旅订单详情",
+                "type":"Wireframe",
+                "url":"农旅订单详情.html"},
 {
-            "pageName":"订单支付页（蔬果）",
+                "pageName":"蔬果订单详情",
+                "type":"Wireframe",
+                "url":"蔬果订单详情.html"}]},
+{
+            "pageName":"会员充值",
             "type":"Wireframe",
-            "url":"订单支付页（蔬果）.html"},
+            "url":"会员充值.html",
+            "children":[{
+                "pageName":"充值成功",
+                "type":"Wireframe",
+                "url":"充值成功.html"}]},
 {
-            "pageName":"支付成功（农旅）",
+            "pageName":"个人中心主页",
             "type":"Wireframe",
-            "url":"支付成功（农旅）.html"},
-{
-            "pageName":"支付成功（蔬果）",
-            "type":"Wireframe",
-            "url":"支付成功（蔬果）.html"}]},
-{
-        "pageName":"订单列表",
-        "type":"Wireframe",
-        "url":"订单列表.html",
-        "children":[{
-            "pageName":"农旅订单详情",
-            "type":"Wireframe",
-            "url":"农旅订单详情.html"},
-{
-            "pageName":"蔬果订单详情",
-            "type":"Wireframe",
-            "url":"蔬果订单详情.html"}]},
-{
-        "pageName":"会员充值",
-        "type":"Wireframe",
-        "url":"会员充值.html",
-        "children":[{
-            "pageName":"充值成功",
-            "type":"Wireframe",
-            "url":"充值成功.html"}]},
-{
-        "pageName":"个人中心主页",
-        "type":"Wireframe",
-        "url":"个人中心主页.html"},
+            "url":"个人中心主页.html"}]},
 {
         "pageName":"360",
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"主页(安卓)0725",
-            "type":"Wireframe",
-            "url":"主页_安卓_0725.html"},
-{
-            "pageName":"主页(安卓)0727",
-            "type":"Wireframe",
-            "url":"主页_安卓_0727.html"},
-{
-            "pageName":"主页(安卓)0801",
-            "type":"Wireframe",
-            "url":"主页_安卓_0801.html"},
-{
-            "pageName":"主页(安卓)0807",
-            "type":"Wireframe",
-            "url":"主页_安卓_0807.html"},
-{
-            "pageName":"会员主页(安卓)0810",
-            "type":"Wireframe",
-            "url":"会员主页_安卓_0810.html"},
-{
-            "pageName":"特色活动0726",
-            "type":"Wireframe",
-            "url":"特色活动0726.html"},
-{
-            "pageName":"平台简介",
-            "type":"Wireframe",
-            "url":"平台简介_1.html"},
-{
-            "pageName":"文章列表",
-            "type":"Wireframe",
-            "url":"文章列表_1.html"},
-{
-            "pageName":"体验路线列表",
-            "type":"Wireframe",
-            "url":"体验路线列表_1.html"},
-{
             "pageName":"主页(安卓)",
             "type":"Wireframe",
             "url":"主页_安卓_.html",
@@ -169,9 +137,21 @@
                 "type":"Wireframe",
                 "url":"新人专享套餐.html"},
 {
+                "pageName":"会员特权",
+                "type":"Wireframe",
+                "url":"会员特权.html"},
+{
+                "pageName":"会员专区",
+                "type":"Wireframe",
+                "url":"会员专区.html"},
+{
                 "pageName":"农旅百科",
                 "type":"Wireframe",
-                "url":"农旅百科.html"},
+                "url":"农旅百科.html",
+                "children":[{
+                    "pageName":"文章详情",
+                    "type":"Wireframe",
+                    "url":"文章详情.html"}]},
 {
                 "pageName":"体验路线",
                 "type":"Wireframe",
@@ -213,25 +193,61 @@
                     "type":"Wireframe",
                     "url":"选择配送农场_1.html"},
 {
-                    "pageName":"完善订单信息",
+                    "pageName":"确认订单",
                     "type":"Wireframe",
-                    "url":"完善订单信息.html"},
+                    "url":"确认订单.html"},
 {
                     "pageName":"订单支付页",
                     "type":"Wireframe",
                     "url":"订单支付页.html"},
 {
+                    "pageName":"会员充值",
+                    "type":"Wireframe",
+                    "url":"会员充值_1.html",
+                    "children":[{
+                        "pageName":"充值成功",
+                        "type":"Wireframe",
+                        "url":"充值成功_1.html"}]},
+{
+                    "pageName":"订单支付页（已充）",
+                    "type":"Wireframe",
+                    "url":"订单支付页（已充）.html"},
+{
                     "pageName":"支付成功",
                     "type":"Wireframe",
                     "url":"支付成功.html"}]},
 {
-                "pageName":"会员特权",
+                "pageName":"选择配送农场（宅配）",
                 "type":"Wireframe",
-                "url":"会员特权.html"},
+                "url":"选择配送农场（宅配）.html",
+                "children":[{
+                    "pageName":"农场详情",
+                    "type":"Wireframe",
+                    "url":"农场详情_1.html"},
 {
-                "pageName":"文章详情",
-                "type":"Wireframe",
-                "url":"文章详情.html"},
+                    "pageName":"订单确认（宅配）",
+                    "type":"Wireframe",
+                    "url":"订单确认（宅配）.html"},
+{
+                    "pageName":"订单支付页",
+                    "type":"Wireframe",
+                    "url":"订单支付页_1.html"},
+{
+                    "pageName":"会员充值",
+                    "type":"Wireframe",
+                    "url":"会员充值_2.html",
+                    "children":[{
+                        "pageName":"充值成功",
+                        "type":"Wireframe",
+                        "url":"充值成功_2.html"}]},
+{
+                    "pageName":"订单支付页（已充）",
+                    "type":"Wireframe",
+                    "url":"订单支付页（已充）_1.html"},
+{
+                    "pageName":"支付成功",
+                    "type":"Wireframe",
+                    "url":"支付成功_1.html"}]},
 {
                 "pageName":"主题农旅",
                 "type":"Wireframe",
@@ -269,13 +285,93 @@
                     "type":"Wireframe",
                     "url":"本原商道.html"}]},
 {
-                "pageName":"会员专区",
+                "pageName":"确认订单（农旅）",
                 "type":"Wireframe",
-                "url":"会员专区.html"},
+                "url":"确认订单（农旅）.html",
+                "children":[{
+                    "pageName":"订单支付页",
+                    "type":"Wireframe",
+                    "url":"订单支付页_2.html"},
 {
-                "pageName":"蔬果宅配",
+                    "pageName":"会员充值",
+                    "type":"Wireframe",
+                    "url":"会员充值_3.html",
+                    "children":[{
+                        "pageName":"充值成功",
+                        "type":"Wireframe",
+                        "url":"充值成功_3.html"}]},
+{
+                    "pageName":"订单支付页（已充）",
+                    "type":"Wireframe",
+                    "url":"订单支付页（已充）_2.html"},
+{
+                    "pageName":"支付成功",
+                    "type":"Wireframe",
+                    "url":"支付成功_2.html"}]}]},
+{
+            "pageName":"会员充值",
+            "type":"Wireframe",
+            "url":"会员充值_4.html",
+            "children":[{
+                "pageName":"充值成功",
                 "type":"Wireframe",
-                "url":"蔬果宅配.html"},
+                "url":"充值成功_4.html"}]},
+{
+            "pageName":"个人中心主页",
+            "type":"Wireframe",
+            "url":"个人中心主页_1.html",
+            "children":[{
+                "pageName":"全部订单",
+                "type":"Wireframe",
+                "url":"全部订单.html",
+                "children":[{
+                    "pageName":"蔬果订单详情",
+                    "type":"Wireframe",
+                    "url":"蔬果订单详情_1.html"},
+{
+                    "pageName":"蔬果订单详情2",
+                    "type":"Wireframe",
+                    "url":"蔬果订单详情2.html"},
+{
+                    "pageName":"农旅订单详情",
+                    "type":"Wireframe",
+                    "url":"农旅订单详情_1.html"}]}]},
+{
+            "pageName":"备份",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"订单确认页",
+                "type":"Wireframe",
+                "url":"订单确认页_1.html",
+                "children":[{
+                    "pageName":"订单支付页（农旅）",
+                    "type":"Wireframe",
+                    "url":"订单支付页（农旅）_1.html"},
+{
+                    "pageName":"订单支付页（蔬果）",
+                    "type":"Wireframe",
+                    "url":"订单支付页（蔬果）_1.html"},
+{
+                    "pageName":"支付成功（农旅）",
+                    "type":"Wireframe",
+                    "url":"支付成功（农旅）_1.html"},
+{
+                    "pageName":"支付成功（蔬果）",
+                    "type":"Wireframe",
+                    "url":"支付成功（蔬果）_1.html"}]},
+{
+                "pageName":"订单列表",
+                "type":"Wireframe",
+                "url":"订单列表_1.html"},
+{
+                "pageName":"农场列表",
+                "type":"Wireframe",
+                "url":"农场列表_1.html",
+                "children":[{
+                    "pageName":"农场详情",
+                    "type":"Wireframe",
+                    "url":"农场详情_2.html"}]},
 {
                 "pageName":"商品列表",
                 "type":"Wireframe",
@@ -301,69 +397,53 @@
                     "type":"Wireframe",
                     "url":"商品详情_1.html"}]},
 {
-                "pageName":"农场列表",
+                "pageName":"蔬果宅配",
                 "type":"Wireframe",
-                "url":"农场列表_1.html",
+                "url":"蔬果宅配.html"},
+{
+                "pageName":"主页(安卓)0725",
+                "type":"Wireframe",
+                "url":"主页_安卓_0725.html"},
+{
+                "pageName":"主页(安卓)0727",
+                "type":"Wireframe",
+                "url":"主页_安卓_0727.html"},
+{
+                "pageName":"主页(安卓)0801",
+                "type":"Wireframe",
+                "url":"主页_安卓_0801.html"},
+{
+                "pageName":"主页(安卓)0807",
+                "type":"Wireframe",
+                "url":"主页_安卓_0807.html"},
+{
+                "pageName":"会员主页(安卓)0810",
+                "type":"Wireframe",
+                "url":"会员主页_安卓_0810.html"},
+{
+                "pageName":"特色活动0726",
+                "type":"Wireframe",
+                "url":"特色活动0726.html"},
+{
+                "pageName":"平台简介",
+                "type":"Wireframe",
+                "url":"平台简介_1.html"},
+{
+                "pageName":"文章列表",
+                "type":"Wireframe",
+                "url":"文章列表_1.html"},
+{
+                "pageName":"体验路线列表",
+                "type":"Wireframe",
+                "url":"体验路线列表_1.html"},
+{
+                "pageName":"备用部件",
+                "type":"Wireframe",
+                "url":"备用部件.html",
                 "children":[{
-                    "pageName":"农场详情",
+                    "pageName":"小轮播",
                     "type":"Wireframe",
-                    "url":"农场详情_1.html"}]}]},
-{
-            "pageName":"订单确认页",
-            "type":"Wireframe",
-            "url":"订单确认页_1.html",
-            "children":[{
-                "pageName":"确认预约时间",
-                "type":"Wireframe",
-                "url":"确认预约时间_1.html"},
-{
-                "pageName":"订单支付页（农旅）",
-                "type":"Wireframe",
-                "url":"订单支付页（农旅）_1.html"},
-{
-                "pageName":"订单支付页（蔬果）",
-                "type":"Wireframe",
-                "url":"订单支付页（蔬果）_1.html"},
-{
-                "pageName":"支付成功（农旅）",
-                "type":"Wireframe",
-                "url":"支付成功（农旅）_1.html"},
-{
-                "pageName":"支付成功（蔬果）",
-                "type":"Wireframe",
-                "url":"支付成功（蔬果）_1.html"}]},
-{
-            "pageName":"订单列表",
-            "type":"Wireframe",
-            "url":"订单列表_1.html",
-            "children":[{
-                "pageName":"农旅订单详情",
-                "type":"Wireframe",
-                "url":"农旅订单详情_1.html"},
-{
-                "pageName":"蔬果订单详情",
-                "type":"Wireframe",
-                "url":"蔬果订单详情_1.html"}]},
-{
-            "pageName":"会员充值",
-            "type":"Wireframe",
-            "url":"会员充值_1.html",
-            "children":[{
-                "pageName":"充值成功",
-                "type":"Wireframe",
-                "url":"充值成功_1.html"}]},
-{
-            "pageName":"个人中心主页",
-            "type":"Wireframe",
-            "url":"个人中心主页_1.html"}]},
-{
-        "pageName":"备用部件",
-        "type":"Wireframe",
-        "url":"备用部件.html",
-        "children":[{
-            "pageName":"小轮播",
-            "type":"Wireframe",
-            "url":"小轮播.html"}]}]},
+                    "url":"小轮播.html"}]}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

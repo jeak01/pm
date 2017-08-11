@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_4.html",
-  "generationDate":new Date(1502359070104.99),
+  "generationDate":new Date(1502439349511.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -172,7 +172,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -416,7 +416,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0727/u54.png"}},
+            "normal~":"images/体验路线/u95.png"}},
 {
           "id":"9e6ee747a8194bb7a4a565917bea3a07",
           "label":"",
@@ -1912,7 +1912,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u91.JPG"}},
+            "normal~":"images/会员专区/u62.JPG"}},
 {
           "id":"892b5dbd33ca44de90e33e9ca618d89b",
           "label":"",
@@ -3624,10 +3624,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 确认预约时间",
+                              "description":"在 当前窗口 打开 确认订单（农旅）",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认预约时间_1.html",
+                                "url":"确认订单（农旅）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

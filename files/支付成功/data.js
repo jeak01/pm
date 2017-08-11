@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功.html",
-  "generationDate":new Date(1502359071741.08),
+  "generationDate":new Date(1502439351353.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0725/u217.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -215,7 +215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功/u8.png"}},
+            "normal~":"images/充值成功_1/u8.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -339,7 +339,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功/u14.png"}},
+            "normal~":"images/充值成功_1/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -379,8 +379,23 @@
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 全部订单",
+                      "target":{
+                        "targetType":"page",
+                        "url":"全部订单.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
-            "normal~":"images/支付成功/u16.png"}}]}},
+            "normal~":"images/充值成功_1/u16.png"}}]}},
   "masters":{
 },
   "objectPaths":{

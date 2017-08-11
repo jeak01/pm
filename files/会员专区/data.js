@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员专区.html",
-  "generationDate":new Date(1502359076150),
+  "generationDate":new Date(1502439345079.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1336,7 +1336,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/线路详情/u91.JPG"}},
+                            "normal~":"images/会员专区/u62.JPG"}},
 {
                           "id":"e317f2563ebf40ab8373032e625d169f",
                           "label":"",
@@ -1983,7 +1983,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_0801/u149.jpg"}},
+            "normal~":"images/会员专区/u94.jpg"}},
 {
           "id":"c944630a044c4cacbb4bab558ec9ab31",
           "label":"",
@@ -2160,7 +2160,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_0801/u169.jpg"}},
+            "normal~":"images/会员专区/u102.jpg"}},
 {
           "id":"8aea7fb97fc34234a63cc42373a3dca6",
           "label":"",
@@ -2345,7 +2345,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_0801/u190.png"}},
+            "normal~":"images/会员专区/u110.png"}},
 {
           "id":"d18af625a72e459f80076ff3878b61ca",
           "label":"",
@@ -2548,7 +2548,67 @@
                       "height":40}},
                   "adaptiveStyles":{
 },
-                  "masterId":"8387a0f784dc4517ba344c8c934a23b2"}]}]}]}},
+                  "masterId":"8387a0f784dc4517ba344c8c934a23b2"}]}]},
+{
+          "id":"f8d4d0899919498bb1ac7e58a5a85283",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":189,
+              "y":110},
+            "size":{
+              "width":142,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 会员充值",
+                      "target":{
+                        "targetType":"page",
+                        "url":"会员充值_4.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"2736e83f0b9d4e37b4528729b3184f0c",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":14,
+              "y":110},
+            "size":{
+              "width":156,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 会员特权",
+                      "target":{
+                        "targetType":"page",
+                        "url":"会员特权.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "8387a0f784dc4517ba344c8c934a23b2":{
       "packageId":"8387a0f784dc4517ba344c8c934a23b2",
@@ -2634,7 +2694,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_0727/u134.png"}},
+                      "normal~":"images/主页_安卓_/u103.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -2887,7 +2947,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_0727/u148.png"}},
+                      "normal~":"images/主页_安卓_/u117.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -2922,7 +2982,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/会员主页_安卓_0810/u86.png"}},
+                      "normal~":"images/会员主页_安卓_/u303.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",
@@ -3118,7 +3178,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_0727/u158.png"}},
+                      "normal~":"images/主页_安卓_/u127.png"}},
 {
                     "id":"d871e8d8e00b43e38ddfde26b9da7948",
                     "label":"",
@@ -3450,4 +3510,8 @@
       "29d462b7bb7a493b87ec072faf2f5d57":{
         "scriptId":"u148"},
       "d871e8d8e00b43e38ddfde26b9da7948":{
-        "scriptId":"u149"}}}});
+        "scriptId":"u149"}},
+    "f8d4d0899919498bb1ac7e58a5a85283":{
+      "scriptId":"u150"},
+    "2736e83f0b9d4e37b4528729b3184f0c":{
+      "scriptId":"u151"}}});
