@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_4.html",
-  "generationDate":new Date(1502696121677.46),
+  "generationDate":new Date(1502704920066.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -563,6 +563,13 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFF9900},
                     "size":{
                       "width":360,
                       "height":40}},
@@ -577,6 +584,13 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFF9900},
                         "size":{
                           "width":360,
                           "height":40}},
@@ -598,7 +612,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页_安卓_/top_u2.png"}}]}]},
+                    "normal~":"images/会员充值_4/u26.png"}}]}]},
 {
           "id":"89429d925bd244968cffb91d9b982c58",
           "label":"",
@@ -758,10 +772,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":217,
+              "x":206,
               "y":101},
             "size":{
-              "width":129,
+              "width":140,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -775,10 +789,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":217,
+                  "x":206,
                   "y":101},
                 "size":{
-                  "width":129,
+                  "width":140,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1212,7 +1226,7 @@
               "y":340},
             "size":{
               "width":360,
-              "height":230}},
+              "height":270}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1228,11 +1242,11 @@
                   "y":340},
                 "size":{
                   "width":360,
-                  "height":230}},
+                  "height":270}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员充值_1/u60.png"}},
+            "normal~":"images/会员充值_4/u60.png"}},
 {
           "id":"53956dc72d8941ddbd88e2bff443b94f",
           "label":"",
@@ -1320,10 +1334,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":211,
+              "x":200,
               "y":142},
             "size":{
-              "width":135,
+              "width":146,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1337,10 +1351,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":211,
+                  "x":200,
                   "y":142},
                 "size":{
-                  "width":135,
+                  "width":146,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1355,10 +1369,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":223,
+              "x":212,
               "y":64},
             "size":{
-              "width":123,
+              "width":134,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1372,10 +1386,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":223,
+                  "x":212,
                   "y":64},
                 "size":{
-                  "width":123,
+                  "width":134,
                   "height":14}},
               "adaptiveStyles":{
 }}],

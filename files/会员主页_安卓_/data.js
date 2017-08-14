@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_.html",
-  "generationDate":new Date(1502696110772.5),
+  "generationDate":new Date(1502704908488.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2315,7 +2315,7 @@
                       "x":69,
                       "y":8},
                     "size":{
-                      "width":251,
+                      "width":264,
                       "height":16}},
                   "adaptiveStyles":{
 },
@@ -2334,7 +2334,7 @@
                           "x":69,
                           "y":8},
                         "size":{
-                          "width":251,
+                          "width":264,
                           "height":16}},
                       "adaptiveStyles":{
 }}],
