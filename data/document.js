@@ -341,9 +341,13 @@
                     "type":"Wireframe",
                     "url":"农旅订单详情_1.html"}]}]},
 {
-            "pageName":"经销商系统主页",
+            "pageName":"供应商系统主页",
             "type":"Wireframe",
-            "url":"经销商系统主页.html"},
+            "url":"供应商系统主页.html",
+            "children":[{
+                "pageName":"待发货",
+                "type":"Wireframe",
+                "url":"待发货.html"}]},
 {
             "pageName":"备份",
             "type":"Folder",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页_1.html",
-  "generationDate":new Date(1502672696308.16),
+  "generationDate":new Date(1502696121967.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2972,7 +2972,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页_1/u48.png"}}]}},
+            "normal~":"images/个人中心主页_1/u48.png"}},
+{
+          "id":"d9a439021e6b4a51982c6b319e7273de",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":740},
+            "size":{
+              "width":360,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 供应商系统主页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"供应商系统主页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "8387a0f784dc4517ba344c8c934a23b2":{
       "packageId":"8387a0f784dc4517ba344c8c934a23b2",
@@ -3940,4 +3970,6 @@
     "241884bee06a41299aa8e41e5a235bf8":{
       "scriptId":"u181"},
     "484fd89cb2eb4151a277f6612da201d9":{
-      "scriptId":"u182"}}});
+      "scriptId":"u182"},
+    "d9a439021e6b4a51982c6b319e7273de":{
+      "scriptId":"u183"}}});

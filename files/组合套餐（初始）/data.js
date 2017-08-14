@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1502672689515.66),
+  "generationDate":new Date(1502696115876.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

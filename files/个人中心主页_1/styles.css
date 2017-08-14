@@ -2006,3 +2006,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u183 {
+  position:absolute;
+  left:0px;
+  top:740px;
+  width:360px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
