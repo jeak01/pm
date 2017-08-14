@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1502442096915.34),
+  "generationDate":new Date(1502672690087.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -706,7 +706,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/新人专享套餐/u249.png"}},
+                    "normal~":"images/新人专享套餐/u250.png"}},
 {
                   "id":"e8f74b4d22714554acfa5c6af7d5ef3d",
                   "label":"",
@@ -815,7 +815,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/新人专享套餐/u253.png"}}]}]},
+                    "normal~":"images/新人专享套餐/u254.png"}}]}]},
 {
           "id":"40731d3436a14b7da1d66bd37c66e480",
           "label":"",

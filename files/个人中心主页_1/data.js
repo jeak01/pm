@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页_1.html",
-  "generationDate":new Date(1502442104307.23),
+  "generationDate":new Date(1502672696308.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "color":0xFFDDDDDD},
             "size":{
               "width":360,
-              "height":800}},
+              "height":870}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -57,7 +57,7 @@
                   "color":0xFFDDDDDD},
                 "size":{
                   "width":360,
-                  "height":800}},
+                  "height":870}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -2789,7 +2789,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":750},
+              "y":820},
             "size":{
               "width":10,
               "height":10}},
@@ -2820,7 +2820,159 @@
                       "height":40}},
                   "adaptiveStyles":{
 },
-                  "masterId":"8387a0f784dc4517ba344c8c934a23b2"}]}]}]}},
+                  "masterId":"8387a0f784dc4517ba344c8c934a23b2"}]}]},
+{
+          "id":"69268cfb5b4e4dbfad47174575afd505",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":740},
+            "size":{
+              "width":360,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"109e4360e470447c8aee6d146c773539",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":740},
+                "size":{
+                  "width":360,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/个人中心主页_1/u42.png"}},
+{
+          "id":"553fc75910c945fe8e3a6b1677dc0f83",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":54,
+              "y":752},
+            "size":{
+              "width":66,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d6b923a20b3d4f8896ecdb042cb4507a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":54,
+                  "y":752},
+                "size":{
+                  "width":66,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"48a7c921d2784b0ebae873a25f2b6b85",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":326,
+              "y":748},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3a65952981064a158d0ed09ff2bae17b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":326,
+                  "y":748},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/商品列表/u27.png"}},
+{
+          "id":"241884bee06a41299aa8e41e5a235bf8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":19,
+              "y":748},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"484fd89cb2eb4151a277f6612da201d9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":19,
+                  "y":748},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/个人中心主页_1/u48.png"}}]}},
   "masters":{
     "8387a0f784dc4517ba344c8c934a23b2":{
       "packageId":"8387a0f784dc4517ba344c8c934a23b2",
@@ -3772,4 +3924,20 @@
       "29d462b7bb7a493b87ec072faf2f5d57":{
         "scriptId":"u173"},
       "d871e8d8e00b43e38ddfde26b9da7948":{
-        "scriptId":"u174"}}}});
+        "scriptId":"u174"}},
+    "69268cfb5b4e4dbfad47174575afd505":{
+      "scriptId":"u175"},
+    "109e4360e470447c8aee6d146c773539":{
+      "scriptId":"u176"},
+    "553fc75910c945fe8e3a6b1677dc0f83":{
+      "scriptId":"u177"},
+    "d6b923a20b3d4f8896ecdb042cb4507a":{
+      "scriptId":"u178"},
+    "48a7c921d2784b0ebae873a25f2b6b85":{
+      "scriptId":"u179"},
+    "3a65952981064a158d0ed09ff2bae17b":{
+      "scriptId":"u180"},
+    "241884bee06a41299aa8e41e5a235bf8":{
+      "scriptId":"u181"},
+    "484fd89cb2eb4151a277f6612da201d9":{
+      "scriptId":"u182"}}});

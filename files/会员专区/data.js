@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员专区.html",
-  "generationDate":new Date(1502442091503.75),
+  "generationDate":new Date(1502672685475.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -665,7 +665,7 @@
               "x":189,
               "y":122},
             "size":{
-              "width":64,
+              "width":28,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -688,7 +688,7 @@
                   "x":189,
                   "y":122},
                 "size":{
-                  "width":64,
+                  "width":28,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -2558,9 +2558,9 @@
           "style":{
             "location":{
               "x":189,
-              "y":110},
+              "y":112},
             "size":{
-              "width":142,
+              "width":151,
               "height":40}},
           "adaptiveStyles":{
 },

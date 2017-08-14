@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1502442091073.47),
+  "generationDate":new Date(1502672685063.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1652,7 +1652,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/新人专享套餐/u249.png"}},
+                    "normal~":"images/新人专享套餐/u250.png"}},
 {
                   "id":"0f490ea23e294454a8c06c4e41199797",
                   "label":"",
@@ -2688,7 +2688,7 @@
               "opacity":1},
             "location":{
               "x":124,
-              "y":556},
+              "y":558},
             "size":{
               "width":58,
               "height":16}},
@@ -2710,7 +2710,7 @@
                   "opacity":1},
                 "location":{
                   "x":124,
-                  "y":556},
+                  "y":558},
                 "size":{
                   "width":58,
                   "height":16}},
@@ -2733,7 +2733,7 @@
               "opacity":1},
             "location":{
               "x":116,
-              "y":914},
+              "y":916},
             "size":{
               "width":65,
               "height":16}},
@@ -2755,7 +2755,7 @@
                   "opacity":1},
                 "location":{
                   "x":116,
-                  "y":914},
+                  "y":916},
                 "size":{
                   "width":65,
                   "height":16}},
@@ -2778,7 +2778,7 @@
               "opacity":1},
             "location":{
               "x":124,
-              "y":1331},
+              "y":1332},
             "size":{
               "width":72,
               "height":16}},
@@ -2800,7 +2800,7 @@
                   "opacity":1},
                 "location":{
                   "x":124,
-                  "y":1331},
+                  "y":1332},
                 "size":{
                   "width":72,
                   "height":16}},

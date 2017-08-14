@@ -333,7 +333,7 @@
   position:absolute;
   left:189px;
   top:122px;
-  width:64px;
+  width:28px;
   height:16px;
   font-family:'Arial Negreta', 'Arial';
   font-weight:700;
@@ -344,14 +344,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:64px;
+  width:28px;
   height:16px;
 }
 #u29 {
   position:absolute;
   left:0px;
   top:0px;
-  width:64px;
+  width:28px;
   white-space:nowrap;
 }
 #u30 {
@@ -1695,8 +1695,8 @@
 #u150 {
   position:absolute;
   left:189px;
-  top:110px;
-  width:142px;
+  top:112px;
+  width:151px;
   height:40px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
