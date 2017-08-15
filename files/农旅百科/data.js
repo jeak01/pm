@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅百科.html",
-  "generationDate":new Date(1502704910329.96),
+  "generationDate":new Date(1502787399093.77),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"6674e87f77af415fb5315e699b358c97",
     "type":"Axure:Page",
@@ -270,6 +271,21 @@
                   "height":45}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 文章列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"文章列表_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/会员主页_安卓_/u116.png"}},
 {
@@ -303,6 +319,21 @@
                   "height":40}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 文章列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"文章列表_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/会员主页_安卓_/u118.png"}},
 {
@@ -336,6 +367,21 @@
                   "height":45}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 文章列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"文章列表_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/农旅百科/u16.png"}},
 {
@@ -369,6 +415,21 @@
                   "height":45}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 文章列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"文章列表_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/农旅百科/u18.png"}},
 {
@@ -1377,7 +1438,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u139.png"}},
+            "normal~":"images/主页_安卓_/u109.png"}},
 {
           "id":"1ec48f6af7294684aa506f66ee617bf9",
           "label":"",
@@ -1453,7 +1514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u143.png"}},
+            "normal~":"images/主页_安卓_/u113.png"}},
 {
           "id":"68564ebe3706401a845899472a924e5a",
           "label":"",
@@ -1622,7 +1683,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u153.png"}},
+            "normal~":"images/主页_安卓_/u123.png"}},
 {
           "id":"1c12e9aa991d4010bb81eeeac3c84424",
           "label":"",
@@ -1690,7 +1751,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u157.png"}},
+            "normal~":"images/主页_安卓_/u127.png"}},
 {
           "id":"23fc83c4c0c74748af40a2c898aeda05",
           "label":"",
@@ -1729,7 +1790,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u139.png"}},
+            "normal~":"images/主页_安卓_/u109.png"}},
 {
           "id":"158da438fdbb442583b8e63b7f993e7d",
           "label":"",
@@ -1805,7 +1866,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u163.jpg"}},
+            "normal~":"images/主页_安卓_/u133.jpg"}},
 {
           "id":"b68626decbe8453fbcc73c076b33b00a",
           "label":"",
@@ -1974,7 +2035,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u153.png"}},
+            "normal~":"images/主页_安卓_/u123.png"}},
 {
           "id":"57181dda11954bb1a0eaa1942e66cdd0",
           "label":"",
@@ -2042,7 +2103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u157.png"}},
+            "normal~":"images/主页_安卓_/u127.png"}},
 {
           "id":"069df34c05c14893a1b1f93588714e44",
           "label":"",
@@ -2081,7 +2142,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u139.png"}},
+            "normal~":"images/主页_安卓_/u109.png"}},
 {
           "id":"b2f385fde2964d00a78121222cb2fbd0",
           "label":"",
@@ -2157,7 +2218,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u183.jpg"}},
+            "normal~":"images/主页_安卓_/u153.jpg"}},
 {
           "id":"2c6fc2fe153949c58f2ca676248f03d8",
           "label":"",
@@ -2326,7 +2387,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u153.png"}},
+            "normal~":"images/主页_安卓_/u123.png"}},
 {
           "id":"3dbfe7e1add548fd959b185437863d11",
           "label":"",
@@ -2394,7 +2455,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u157.png"}},
+            "normal~":"images/主页_安卓_/u127.png"}},
 {
           "id":"a51c8da79a244ff1b56f05df8e6c6330",
           "label":"",
@@ -2894,7 +2955,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u103.png"}},
+                      "normal~":"images/主页_安卓_/u257.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -3147,7 +3208,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u117.png"}},
+                      "normal~":"images/主页_安卓_/u271.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -3378,7 +3439,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u127.png"}},
+                      "normal~":"images/主页_安卓_/u281.png"}},
 {
                     "id":"d871e8d8e00b43e38ddfde26b9da7948",
                     "label":"",

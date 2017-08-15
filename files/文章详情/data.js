@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章详情.html",
-  "generationDate":new Date(1502704910601.92),
+  "generationDate":new Date(1502787399436),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"ec6fd5b240e342eba0466b03b1143eb0",
     "type":"Axure:Page",
@@ -359,7 +360,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u153.png"}},
+            "normal~":"images/主页_安卓_/u123.png"}},
 {
           "id":"8d3242cc83904a858a91bd2f1f2b97b1",
           "label":"",
@@ -427,7 +428,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u157.png"}},
+            "normal~":"images/主页_安卓_/u127.png"}},
 {
           "id":"d3406da983db46d899f7e9af25abbd0a",
           "label":"",
@@ -1415,7 +1416,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_/u135.png"}},
+            "normal~":"images/主页_安卓_/u105.png"}},
 {
           "id":"2245e8e283d0431e81ed4166e4f2bb9e",
           "label":"",

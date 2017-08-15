@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情_1.html",
-  "generationDate":new Date(1502704915550.37),
+  "generationDate":new Date(1502787405700.15),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"72a5a8ec007b4f83bda7fb6c0544919c",
     "type":"Axure:Page",
@@ -1398,6 +1399,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 1388.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 1388.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1388.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1388.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
@@ -1478,6 +1516,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"季度",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -1603,6 +1678,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
@@ -1683,6 +1795,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"半年",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -1808,6 +1957,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
@@ -1888,6 +2074,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"一年",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 12899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 12899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -2040,6 +2263,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 3<br> (Else If 文字于 套餐名1 等于 &quot;季度&quot;)",
@@ -2112,6 +2372,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"B",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -2190,6 +2487,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 5<br> (Else If 文字于 套餐名1 等于 &quot;年度&quot;)",
@@ -2262,6 +2596,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"B",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 12899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 12899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -2467,6 +2838,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 499.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 499.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
@@ -2551,6 +2959,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"月度",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -2676,6 +3121,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 499.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 499.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 3<br> (Else If 文字于 套餐名1 等于 &quot;季度&quot;)",
@@ -2748,6 +3230,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"A",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 1299.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 1299.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1299.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1299.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -2826,6 +3345,43 @@
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
                                 "value":true}]}]}}]},
 {
                   "description":"用例 5<br> (Else If 文字于 套餐名1 等于 &quot;年度&quot;)",
@@ -2898,6 +3454,43 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"A",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
                                 "stos":[]},
 {
                                 "exprType":"booleanLiteral",
@@ -3089,10 +3682,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":230,
+              "x":206,
               "y":349},
             "size":{
-              "width":124,
+              "width":40,
               "height":22}},
           "adaptiveStyles":{
 },
@@ -3105,10 +3698,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":230,
+                  "x":206,
                   "y":349},
                 "size":{
-                  "width":124,
+                  "width":40,
                   "height":22}},
               "adaptiveStyles":{
 }}],
@@ -3178,7 +3771,7 @@
                     "normal~":"images/蜜桃/u40.png"}},
 {
                   "id":"283c67624ada4acfa27fd0c972a96217",
-                  "label":"",
+                  "label":"套餐价格（底部）",
                   "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
                   "type":"buttonShape",
                   "styleType":"paragraph",
@@ -3358,7 +3951,54 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"resources/images/transparent.gif"}}]}]}]}},
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"07cff8c422e94db5a83452722946b6e3",
+          "label":"套餐价格",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"18px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":260,
+              "y":349},
+            "size":{
+              "width":81,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a1cc60e08f56403a9b308c8fcf0e9e3f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"18px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":260,
+                  "y":349},
+                "size":{
+                  "width":81,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -3565,4 +4205,8 @@
     "bfa3900cdb5e4034b4f6b1663e7e5ee2":{
       "scriptId":"u100"},
     "602bd856227240b39ea7756385349b66":{
-      "scriptId":"u101"}}});
+      "scriptId":"u101"},
+    "07cff8c422e94db5a83452722946b6e3":{
+      "scriptId":"u102"},
+    "a1cc60e08f56403a9b308c8fcf0e9e3f":{
+      "scriptId":"u103"}}});

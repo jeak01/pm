@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页_1.html",
-  "generationDate":new Date(1502704920350.75),
+  "generationDate":new Date(1502787411512.07),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"7da0bb4ffbfd4610a7b4cb9982e7a9a6",
     "type":"Axure:Page",
@@ -1106,11 +1107,11 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":224,
-              "y":237},
+              "x":242,
+              "y":236},
             "size":{
-              "width":86,
-              "height":14}},
+              "width":68,
+              "height":16}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1127,11 +1128,11 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":224,
-                  "y":237},
+                  "x":242,
+                  "y":236},
                 "size":{
-                  "width":86,
-                  "height":14}},
+                  "width":68,
+                  "height":16}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -3088,7 +3089,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u103.png"}},
+                      "normal~":"images/主页_安卓_/u257.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -3341,7 +3342,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u117.png"}},
+                      "normal~":"images/主页_安卓_/u271.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -3572,7 +3573,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u127.png"}},
+                      "normal~":"images/主页_安卓_/u281.png"}},
 {
                     "id":"d871e8d8e00b43e38ddfde26b9da7948",
                     "label":"",

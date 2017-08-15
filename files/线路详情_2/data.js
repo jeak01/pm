@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_2.html",
-  "generationDate":new Date(1502704912689.36),
+  "generationDate":new Date(1502787402091.76),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"3b1748202fc64ff5bcd2699bc0d03a3f",
     "type":"Axure:Page",
@@ -27,7 +28,42 @@
     "adaptiveStyles":{
 },
     "interactionMap":{
-},
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1<br> (If 值于 status 等于 &quot;tourist&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"status"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"tourist",
+                "stos":[]}},
+            "actions":[{
+                "action":"fadeWidget",
+                "description":"隐藏 充值会员更优惠",
+                "objectsToFades":[{
+                    "objectPath":["1fda1d13368f46929bbdee083639fb53"],
+                    "fadeInfo":{
+                      "fadeType":"hide",
+                      "options":{
+                        "showType":"none"}}}]},
+{
+                "action":"fadeWidget",
+                "description":"显示 购买新人礼包，旅游免单！",
+                "objectsToFades":[{
+                    "objectPath":["6692c552c2db4ab5922b68a11c856763"],
+                    "fadeInfo":{
+                      "fadeType":"show",
+                      "options":{
+                        "showType":"none"}}}]}]}]}},
     "diagram":{
       "objects":[{
           "id":"5b22112a07c9431e853d410e476e6a60",
@@ -2883,8 +2919,8 @@
                   "images":{
                     "normal~":"images/线路详情/u196.png"}},
 {
-                  "id":"c8923e84dd0549c7a90d72c7a43a3874",
-                  "label":"",
+                  "id":"1fda1d13368f46929bbdee083639fb53",
+                  "label":"充值会员更优惠",
                   "parentDynamicPanel":"7c816a4b0f7d4cc1a971998107b7e9a0",
                   "type":"buttonShape",
                   "styleType":"paragraph",
@@ -2904,7 +2940,7 @@
                   "adaptiveStyles":{
 },
                   "objects":[{
-                      "id":"f4f463d3b43c479e9c6f72ed2ec27663",
+                      "id":"d1d0ee1b77df4926aca9ebba18bcb530",
                       "label":"",
                       "isContained":true,
                       "parentDynamicPanel":"7c816a4b0f7d4cc1a971998107b7e9a0",
@@ -2937,6 +2973,68 @@
                               "target":{
                                 "targetType":"page",
                                 "url":"会员特权.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"6692c552c2db4ab5922b68a11c856763",
+                  "label":"购买新人礼包，旅游免单！",
+                  "parentDynamicPanel":"7c816a4b0f7d4cc1a971998107b7e9a0",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":false,
+                  "style":{
+                    "fontSize":"11px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":31},
+                    "size":{
+                      "width":150,
+                      "height":14},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"91898e42ea8e48ca9f90ed070addac48",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7c816a4b0f7d4cc1a971998107b7e9a0",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":false,
+                      "style":{
+                        "fontSize":"11px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":10,
+                          "y":31},
+                        "size":{
+                          "width":150,
+                          "height":14},
+                        "visible":false},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 新人专享套餐",
+                              "target":{
+                                "targetType":"page",
+                                "url":"新人专享套餐.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3237,7 +3335,11 @@
       "scriptId":"u144"},
     "1f2c5d0a8bc54cc28f5d966232daeaa5":{
       "scriptId":"u145"},
-    "c8923e84dd0549c7a90d72c7a43a3874":{
+    "1fda1d13368f46929bbdee083639fb53":{
       "scriptId":"u146"},
-    "f4f463d3b43c479e9c6f72ed2ec27663":{
-      "scriptId":"u147"}}});
+    "d1d0ee1b77df4926aca9ebba18bcb530":{
+      "scriptId":"u147"},
+    "6692c552c2db4ab5922b68a11c856763":{
+      "scriptId":"u148"},
+    "91898e42ea8e48ca9f90ed070addac48":{
+      "scriptId":"u149"}}});

@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1502704924099.73),
+  "generationDate":new Date(1502787416765.55),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"ee20bc498eb64895b0a5cb867ff487b3",
     "type":"Axure:Page",
@@ -818,7 +819,7 @@
                       "description":"在 当前窗口 打开 文章列表",
                       "target":{
                         "targetType":"page",
-                        "url":"文章列表_1.html",
+                        "url":"文章列表_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

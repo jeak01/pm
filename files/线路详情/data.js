@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情.html",
-  "generationDate":new Date(1502704911736.67),
+  "generationDate":new Date(1502787400992.03),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"14b2df318d5a466c886abbff3f112868",
     "type":"Axure:Page",
@@ -27,7 +28,42 @@
     "adaptiveStyles":{
 },
     "interactionMap":{
-},
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1<br> (If 值于 status 等于 &quot;tourist&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"status"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"tourist",
+                "stos":[]}},
+            "actions":[{
+                "action":"fadeWidget",
+                "description":"隐藏 充值会员更优惠",
+                "objectsToFades":[{
+                    "objectPath":["46404e5d126942b1ba5cc66bd39af9f1"],
+                    "fadeInfo":{
+                      "fadeType":"hide",
+                      "options":{
+                        "showType":"none"}}}]},
+{
+                "action":"fadeWidget",
+                "description":"显示 购买新人礼包，旅游免单！",
+                "objectsToFades":[{
+                    "objectPath":["a47ac1df208a486da7b208cd9e60b559"],
+                    "fadeInfo":{
+                      "fadeType":"show",
+                      "options":{
+                        "showType":"none"}}}]}]}]}},
     "diagram":{
       "objects":[{
           "id":"5b22112a07c9431e853d410e476e6a60",
@@ -3839,7 +3875,7 @@
                     "normal~":"images/线路详情/u196.png"}},
 {
                   "id":"46404e5d126942b1ba5cc66bd39af9f1",
-                  "label":"",
+                  "label":"充值会员更优惠",
                   "parentDynamicPanel":"be536668f8214536bc45b42c3e0450a6",
                   "type":"buttonShape",
                   "styleType":"paragraph",
@@ -3892,6 +3928,68 @@
                               "target":{
                                 "targetType":"page",
                                 "url":"会员特权.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"a47ac1df208a486da7b208cd9e60b559",
+                  "label":"购买新人礼包，旅游免单！",
+                  "parentDynamicPanel":"be536668f8214536bc45b42c3e0450a6",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":false,
+                  "style":{
+                    "fontSize":"11px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":31},
+                    "size":{
+                      "width":150,
+                      "height":14},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"be96b0f75f104b0b85dcebbe70fac007",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"be536668f8214536bc45b42c3e0450a6",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":false,
+                      "style":{
+                        "fontSize":"11px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":10,
+                          "y":31},
+                        "size":{
+                          "width":150,
+                          "height":14},
+                        "visible":false},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 新人专享套餐",
+                              "target":{
+                                "targetType":"page",
+                                "url":"新人专享套餐.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -4614,7 +4712,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_/u135.png"}}]}},
+            "normal~":"images/主页_安卓_/u105.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -5018,79 +5116,83 @@
       "scriptId":"u198"},
     "b1704362ea8b4c76a5c206c9fcfb6312":{
       "scriptId":"u199"},
-    "23b65d62def34e088ee5973e40d2f989":{
+    "a47ac1df208a486da7b208cd9e60b559":{
       "scriptId":"u200"},
-    "7a3f9ae94caa49aab3584a4f33d4f58b":{
+    "be96b0f75f104b0b85dcebbe70fac007":{
       "scriptId":"u201"},
-    "6cbb9857e2c04cd0b146f78fa9f85701":{
+    "23b65d62def34e088ee5973e40d2f989":{
       "scriptId":"u202"},
-    "8ad9c3d2b8b24eb589d5f8e2695d8c4b":{
+    "7a3f9ae94caa49aab3584a4f33d4f58b":{
       "scriptId":"u203"},
-    "170d4c9078f449da97718131d0151ff5":{
+    "6cbb9857e2c04cd0b146f78fa9f85701":{
       "scriptId":"u204"},
-    "b7c7e788fbae4911a25b0eee45d70c82":{
+    "8ad9c3d2b8b24eb589d5f8e2695d8c4b":{
       "scriptId":"u205"},
-    "4c1fd413236244e4b757cea39fdce8fd":{
+    "170d4c9078f449da97718131d0151ff5":{
       "scriptId":"u206"},
-    "f77b60dbf73e4b4a8da936fdc76a55c5":{
+    "b7c7e788fbae4911a25b0eee45d70c82":{
       "scriptId":"u207"},
-    "74a5f61ea2084b3ba1b24ceee1f4a251":{
+    "4c1fd413236244e4b757cea39fdce8fd":{
       "scriptId":"u208"},
-    "3e9d7f2aeeea456e952f21649daa6c27":{
+    "f77b60dbf73e4b4a8da936fdc76a55c5":{
       "scriptId":"u209"},
-    "31d83b187c5b436788ed4225af049e52":{
+    "74a5f61ea2084b3ba1b24ceee1f4a251":{
       "scriptId":"u210"},
-    "1be37a70bdfa40de9b8c292daa13d9d0":{
+    "3e9d7f2aeeea456e952f21649daa6c27":{
       "scriptId":"u211"},
-    "602cb574c52a44659e8a2ff9a5081667":{
+    "31d83b187c5b436788ed4225af049e52":{
       "scriptId":"u212"},
-    "840ba86639fe47149493772995e31a6c":{
+    "1be37a70bdfa40de9b8c292daa13d9d0":{
       "scriptId":"u213"},
-    "14f83bda7c7a4b3ebb92f825631b1c5a":{
+    "602cb574c52a44659e8a2ff9a5081667":{
       "scriptId":"u214"},
-    "3eb4cbf7a2b949869fbf8973a3984ccb":{
+    "840ba86639fe47149493772995e31a6c":{
       "scriptId":"u215"},
-    "0d65f899e78a431eb111a800109eb190":{
+    "14f83bda7c7a4b3ebb92f825631b1c5a":{
       "scriptId":"u216"},
-    "01cc37e0a1da486e9a91257946390a43":{
+    "3eb4cbf7a2b949869fbf8973a3984ccb":{
       "scriptId":"u217"},
-    "aff642a24d5748248342a3c219d48c0d":{
+    "0d65f899e78a431eb111a800109eb190":{
       "scriptId":"u218"},
-    "12e4ed0e83704250a37383dd0cadfd79":{
+    "01cc37e0a1da486e9a91257946390a43":{
       "scriptId":"u219"},
-    "6e9ace1aa53148d793d8decceed3db87":{
+    "aff642a24d5748248342a3c219d48c0d":{
       "scriptId":"u220"},
-    "2beab037fc404c43b49daf21affa466f":{
+    "12e4ed0e83704250a37383dd0cadfd79":{
       "scriptId":"u221"},
-    "472d9660b01b4088adc1ba66b51b82a7":{
+    "6e9ace1aa53148d793d8decceed3db87":{
       "scriptId":"u222"},
-    "9a5b4a2fb214418cbfc3ad3d5ec708f6":{
+    "2beab037fc404c43b49daf21affa466f":{
       "scriptId":"u223"},
-    "79ab07462317489aa3b5e7f678ad3c06":{
+    "472d9660b01b4088adc1ba66b51b82a7":{
       "scriptId":"u224"},
-    "7e117c9b5b6040f49ab1fd316eeed80b":{
+    "9a5b4a2fb214418cbfc3ad3d5ec708f6":{
       "scriptId":"u225"},
-    "45abd8bbf199431296ae71ee91e1dff7":{
+    "79ab07462317489aa3b5e7f678ad3c06":{
       "scriptId":"u226"},
-    "624fe602146344cc9a83acc59058e402":{
+    "7e117c9b5b6040f49ab1fd316eeed80b":{
       "scriptId":"u227"},
-    "535829a9ba9d4238b923b121af45bb97":{
+    "45abd8bbf199431296ae71ee91e1dff7":{
       "scriptId":"u228"},
-    "1d552f8dfeb04b81836f84192b5a7d8c":{
+    "624fe602146344cc9a83acc59058e402":{
       "scriptId":"u229"},
-    "88c38f17f16a458999886f516321df3d":{
+    "535829a9ba9d4238b923b121af45bb97":{
       "scriptId":"u230"},
-    "07caea10c081417db3b47b7b522d0357":{
+    "1d552f8dfeb04b81836f84192b5a7d8c":{
       "scriptId":"u231"},
-    "81270b09d63d4340902d905ef0dedc3f":{
+    "88c38f17f16a458999886f516321df3d":{
       "scriptId":"u232"},
-    "438d22a8b345420ba35bdcd249b18506":{
+    "07caea10c081417db3b47b7b522d0357":{
       "scriptId":"u233"},
-    "731b8b44a64a4610bf0b0a91aa9f9e61":{
+    "81270b09d63d4340902d905ef0dedc3f":{
       "scriptId":"u234"},
-    "12dbf14aff404aa78fcfcc76e1c3c709":{
+    "438d22a8b345420ba35bdcd249b18506":{
       "scriptId":"u235"},
-    "34c862c199d94965b30f5d65d8562090":{
+    "731b8b44a64a4610bf0b0a91aa9f9e61":{
       "scriptId":"u236"},
+    "12dbf14aff404aa78fcfcc76e1c3c709":{
+      "scriptId":"u237"},
+    "34c862c199d94965b30f5d65d8562090":{
+      "scriptId":"u238"},
     "01b1360826074f448acac922d8fc573d":{
-      "scriptId":"u237"}}});
+      "scriptId":"u239"}}});

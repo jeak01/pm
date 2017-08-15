@@ -2308,3 +2308,26 @@
   width:78px;
   white-space:nowrap;
 }
+#u197 {
+  position:absolute;
+  left:10px;
+  top:31px;
+  width:150px;
+  height:14px;
+  font-size:11px;
+  color:#FF0000;
+}
+#u197_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:14px;
+}
+#u198 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  word-wrap:break-word;
+}

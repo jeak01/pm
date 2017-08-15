@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1502704909284.27),
+  "generationDate":new Date(1502787397809.92),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"80a1b6eba9634cae8bb2c3a293af5842",
     "type":"Axure:Page",
@@ -5110,6 +5111,126 @@
                         "url":"选择城市.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"514892c8333f456cacac77d1be0c971b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":171},
+            "size":{
+              "width":310,
+              "height":79}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 线路详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"线路详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a9611a682c59433894a01e24f23dc226",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":250},
+            "size":{
+              "width":310,
+              "height":79}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 线路详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"线路详情_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"b8c568ce40ac44d3b02163199e3a1572",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":331},
+            "size":{
+              "width":310,
+              "height":79}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 线路详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"线路详情_2.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"87ecd4c393a24a139617095d4ace4db2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":411},
+            "size":{
+              "width":310,
+              "height":79}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 线路详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"线路详情_3.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -5627,4 +5748,12 @@
     "aa8cc42970f94d88b212048486fec5b0":{
       "scriptId":"u255"},
     "09b4eeeecb6547aab1fd285b026f89c1":{
-      "scriptId":"u256"}}});
+      "scriptId":"u256"},
+    "514892c8333f456cacac77d1be0c971b":{
+      "scriptId":"u257"},
+    "a9611a682c59433894a01e24f23dc226":{
+      "scriptId":"u258"},
+    "b8c568ce40ac44d3b02163199e3a1572":{
+      "scriptId":"u259"},
+    "87ecd4c393a24a139617095d4ace4db2":{
+      "scriptId":"u260"}}});

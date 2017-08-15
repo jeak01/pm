@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单.html",
-  "generationDate":new Date(1502704914810.88),
+  "generationDate":new Date(1502787404841.58),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"feafe59053784b5c83482a9b505ccb30",
     "type":"Axure:Page",
@@ -504,7 +505,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u12.png"}},
+            "normal~":"images/组合套餐（已选农旅）/u2.png"}},
 {
           "id":"57583bbab3a448d79a942237793806a5",
           "label":"",
@@ -714,7 +715,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u12.png"}},
+            "normal~":"images/组合套餐（已选农旅）/u2.png"}},
 {
           "id":"afe9c45cd6fa436c8e7411c4fd4413f3",
           "label":"",

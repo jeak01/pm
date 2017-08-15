@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_.html",
-  "generationDate":new Date(1502704908488.46),
+  "generationDate":new Date(1502787396823.27),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"1eac3e4277664d7287287a314cbbcfd3",
     "type":"Axure:Page",
@@ -27,7 +28,26 @@
     "adaptiveStyles":{
 },
     "interactionMap":{
-},
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"setFunction",
+                "description":"设置 值于 status = &quot;vip&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetGlobalVariableValue",
+                      "arguments":[{
+                          "exprType":"globalVariableLiteral",
+                          "variableName":"status"},
+{
+                          "exprType":"stringLiteral",
+                          "value":"vip",
+                          "stos":[]}]}]}}]}]}},
     "diagram":{
       "objects":[{
           "id":"763a98789b2946138b03878055bf2339",
@@ -312,7 +332,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.jpg"}}]},
+                    "normal~":"images/主页_安卓_/u211.jpg"}}]},
 {
               "id":"e7c85f6a1bec43aea5dece4a70aad498",
               "label":"状态2",
@@ -1349,7 +1369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u130.png"}},
+            "normal~":"images/主页_安卓_/u100.png"}},
 {
           "id":"976b5e1007594f03816d6167932123a5",
           "label":"",
@@ -1444,7 +1464,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u201.png"}},
+            "normal~":"images/主页_安卓_/u171.png"}},
 {
           "id":"f220b715380a47f6bef448839ef467bc",
           "label":"",
@@ -1582,7 +1602,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/主页_安卓_/u207_line.png"}},
+                            "line~":"images/主页_安卓_/u177_line.png"}},
 {
                           "id":"1b783eb4a32c42e0a86c2786beee175f",
                           "label":"",
@@ -2143,7 +2163,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u232.png"}},
+            "normal~":"images/主页_安卓_/u202.png"}},
 {
           "id":"804ec300d0aa4c06ac8fea042d1fbcfa",
           "label":"",
@@ -2785,7 +2805,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u157.png"}},
+            "normal~":"images/主页_安卓_/u127.png"}},
 {
           "id":"0e2f6da526bd47379c2ef59b56614b50",
           "label":"",
@@ -2851,7 +2871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u183.jpg"}},
+            "normal~":"images/主页_安卓_/u153.jpg"}},
 {
           "id":"ef8b240ec18f44f98b78547695f8cb29",
           "label":"",
@@ -3559,7 +3579,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u153.png"}},
+            "normal~":"images/主页_安卓_/u123.png"}},
 {
           "id":"6707f3a748884902bef338c8e25279b1",
           "label":"",
@@ -3627,7 +3647,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u157.png"}},
+            "normal~":"images/主页_安卓_/u127.png"}},
 {
           "id":"06f357b918a34088ab987dd773eaabe9",
           "label":"",
@@ -3796,7 +3816,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u153.png"}},
+            "normal~":"images/主页_安卓_/u123.png"}},
 {
           "id":"159e72e37d804023bb4f03dffc2d595f",
           "label":"",
@@ -3864,7 +3884,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u157.png"}},
+            "normal~":"images/主页_安卓_/u127.png"}},
 {
           "id":"09d2b9ec18ae40c1a88feb5757bdc60a",
           "label":"",
@@ -3942,7 +3962,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_/u243.jpg"}},
+            "normal~":"images/主页_安卓_/u213.jpg"}},
 {
           "id":"2a236ad2f68d4f43a22d9f64d610c0fa",
           "label":"",
@@ -6104,7 +6124,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u255.png"}},
+                    "normal~":"images/主页_安卓_/u225.png"}},
 {
                   "id":"e31e414fa45047a69eb836a3dd40723d",
                   "label":"",
@@ -6832,7 +6852,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u103.png"}},
+                      "normal~":"images/主页_安卓_/u257.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -7085,7 +7105,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u117.png"}},
+                      "normal~":"images/主页_安卓_/u271.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -7316,7 +7336,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u127.png"}},
+                      "normal~":"images/主页_安卓_/u281.png"}},
 {
                     "id":"d871e8d8e00b43e38ddfde26b9da7948",
                     "label":"",

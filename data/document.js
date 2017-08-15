@@ -155,7 +155,11 @@
                 "children":[{
                     "pageName":"文章详情",
                     "type":"Wireframe",
-                    "url":"文章详情.html"}]},
+                    "url":"文章详情.html"},
+{
+                    "pageName":"文章列表",
+                    "type":"Wireframe",
+                    "url":"文章列表_1.html"}]},
 {
                 "pageName":"体验路线",
                 "type":"Wireframe",
@@ -347,7 +351,15 @@
             "children":[{
                 "pageName":"待发货",
                 "type":"Wireframe",
-                "url":"待发货.html"}]},
+                "url":"待发货.html"},
+{
+                "pageName":"菜品列表",
+                "type":"Wireframe",
+                "url":"菜品列表.html",
+                "children":[{
+                    "pageName":"菜品详情",
+                    "type":"Wireframe",
+                    "url":"菜品详情.html"}]}]},
 {
             "pageName":"备份",
             "type":"Folder",
@@ -443,7 +455,7 @@
 {
                 "pageName":"文章列表",
                 "type":"Wireframe",
-                "url":"文章列表_1.html"},
+                "url":"文章列表_2.html"},
 {
                 "pageName":"体验路线列表",
                 "type":"Wireframe",
@@ -457,7 +469,8 @@
                     "type":"Wireframe",
                     "url":"小轮播.html"}]}]}]}]},
   "globalVariables":{
-    "onloadvariable":""},
+    "onloadvariable":"",
+    "status":""},
   "defaultAdaptiveView":{
     "name":"",
     "size":{

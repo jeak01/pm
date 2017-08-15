@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_2.html",
-  "generationDate":new Date(1502704915974.63),
+  "generationDate":new Date(1502787406327.56),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"38250e4225cb4206bf845cddbba155c5",
     "type":"Axure:Page",

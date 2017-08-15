@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1502704913948.53),
+  "generationDate":new Date(1502787403682.81),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"7c5a35dd6a77430ba7682984107e0655",
     "type":"Axure:Page",
@@ -291,7 +292,10 @@
               "y":97},
             "size":{
               "width":360,
-              "height":60}},
+              "height":60},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -307,7 +311,10 @@
                   "y":97},
                 "size":{
                   "width":360,
-                  "height":60}},
+                  "height":60},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "interactionMap":{
@@ -377,7 +384,7 @@
               "height":40},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFAAAAAA}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -396,11 +403,11 @@
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFAAAAAA}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/主页_安卓_/u257.png"}},
 {
           "id":"2bc6bc24938a4d06b90863b97c1b1b28",
           "label":"",
@@ -490,7 +497,7 @@
               "height":40},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFAAAAAA}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -509,11 +516,11 @@
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFAAAAAA}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/主页_安卓_/u257.png"}},
 {
           "id":"d9d7d9c65f53437682392ebb3e8b59f5",
           "label":"",
@@ -712,7 +719,7 @@
               "height":40},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFAAAAAA}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -731,11 +738,11 @@
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFAAAAAA}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/主页_安卓_/u257.png"}},
 {
           "id":"17b2e20c58b9448aa2a4f7955034b850",
           "label":"",
@@ -866,7 +873,7 @@
               "height":40},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFAAAAAA}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -885,11 +892,11 @@
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFAAAAAA}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/主页_安卓_/u257.png"}},
 {
           "id":"e849b41e676d4dbdb5e2668c5b52ef99",
           "label":"",
@@ -979,7 +986,7 @@
               "height":40},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFAAAAAA}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -998,11 +1005,11 @@
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFAAAAAA}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/主页_安卓_/u257.png"}},
 {
           "id":"dbb6ddaeebd74faeb3d14d30b3fe1d87",
           "label":"",
@@ -1098,7 +1105,7 @@
               "height":40},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFAAAAAA}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1117,7 +1124,7 @@
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFAAAAAA}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "interactionMap":{
@@ -1136,7 +1143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/主页_安卓_/u257.png"}},
 {
           "id":"d334c17fbf0c4076ab1e601c9bb4655f",
           "label":"",
@@ -1259,7 +1266,7 @@
               "height":40},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFAAAAAA}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1278,11 +1285,11 @@
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFAAAAAA}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/主页_安卓_/u257.png"}},
 {
           "id":"abf2d6f7e0a94a6dbe63d01acdb52232",
           "label":"",
@@ -1560,7 +1567,7 @@
               "height":130},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFF666666}},
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1579,7 +1586,7 @@
                   "height":130},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFF666666}},
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1596,7 +1603,10 @@
               "y":475},
             "size":{
               "width":360,
-              "height":30}},
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1612,11 +1622,14 @@
                   "y":475},
                 "size":{
                   "width":360,
-                  "height":30}},
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
+            "normal~":"images/体验路线/u2.png"}},
 {
           "id":"35b44210e12d442781214ad08845b950",
           "label":"",

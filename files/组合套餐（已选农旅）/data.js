@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1502704914391.19),
+  "generationDate":new Date(1502787404325.24),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"33b5a6ca45e64412ace64bdea24b4dc7",
     "type":"Axure:Page",
@@ -100,7 +101,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u12.png"}},
+            "normal~":"images/组合套餐（已选农旅）/u2.png"}},
 {
           "id":"56b62402d67a4b8ca091769a32c03b45",
           "label":"",
@@ -350,7 +351,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u78.png"}},
+            "normal~":"images/组合套餐（已选农旅）/u14.png"}},
 {
           "id":"cf7ea4962dbb4500aedbc5b92fdad254",
           "label":"",
@@ -2381,31 +2382,9 @@
                     "onClick":{
                       "description":"OnClick",
                       "cases":[{
-                          "description":"用例 2<br> (If 文字于 不明 等于 &quot;A&quot;)",
+                          "description":"用例 2<br> (If True)",
                           "isNewIfGroup":false,
-                          "condition":{
-                            "exprType":"binaryOp",
-                            "op":"==",
-                            "leftExpr":{
-                              "exprType":"fcall",
-                              "functionName":"GetWidgetText",
-                              "arguments":[{
-                                  "exprType":"pathLiteral",
-                                  "isThis":false,
-                                  "isFocused":false,
-                                  "isTarget":false,
-                                  "value":["637fabc8c6104c1a9e78e379229bbaa8"]}]},
-                            "rightExpr":{
-                              "exprType":"stringLiteral",
-                              "value":"A",
-                              "stos":[]}},
                           "actions":[{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;套餐（共配送12次）&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}},
-{
                               "action":"setPanelOrder",
                               "description":"移动 三个月 到顶层 ",
                               "panelPaths":[{
@@ -2422,13 +2401,7 @@
 {
                                   "panelPath":["92462a1c90214db9b6b61a48ccf79798"],
                                   "setOrderInfo":{
-                                    "bringToFront":false}}]},
-{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;季度&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}}]},
+                                    "bringToFront":false}}]}]},
 {
                           "description":"用例 3<br> (Else If 文字于 不明 等于 &quot;B&quot;)",
                           "isNewIfGroup":false,
@@ -2520,31 +2493,9 @@
                     "onClick":{
                       "description":"OnClick",
                       "cases":[{
-                          "description":"用例 2<br> (If 文字于 不明 等于 &quot;A&quot;)",
+                          "description":"用例 2<br> (If True)",
                           "isNewIfGroup":false,
-                          "condition":{
-                            "exprType":"binaryOp",
-                            "op":"==",
-                            "leftExpr":{
-                              "exprType":"fcall",
-                              "functionName":"GetWidgetText",
-                              "arguments":[{
-                                  "exprType":"pathLiteral",
-                                  "isThis":false,
-                                  "isFocused":false,
-                                  "isTarget":false,
-                                  "value":["637fabc8c6104c1a9e78e379229bbaa8"]}]},
-                            "rightExpr":{
-                              "exprType":"stringLiteral",
-                              "value":"A",
-                              "stos":[]}},
                           "actions":[{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;套餐（共配送24次）&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}},
-{
                               "action":"setPanelOrder",
                               "description":"移动 六个月 到顶层 ",
                               "panelPaths":[{
@@ -2561,13 +2512,7 @@
 {
                                   "panelPath":["92462a1c90214db9b6b61a48ccf79798"],
                                   "setOrderInfo":{
-                                    "bringToFront":false}}]},
-{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;半年&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}}]},
+                                    "bringToFront":false}}]}]},
 {
                           "description":"用例 3<br> (Else If 文字于 不明 等于 &quot;B&quot;)",
                           "isNewIfGroup":false,
@@ -2696,31 +2641,9 @@
                     "onClick":{
                       "description":"OnClick",
                       "cases":[{
-                          "description":"用例 2<br> (If 文字于 不明 等于 &quot;月度&quot;)",
+                          "description":"用例 2<br> (If True)",
                           "isNewIfGroup":false,
-                          "condition":{
-                            "exprType":"binaryOp",
-                            "op":"==",
-                            "leftExpr":{
-                              "exprType":"fcall",
-                              "functionName":"GetWidgetText",
-                              "arguments":[{
-                                  "exprType":"pathLiteral",
-                                  "isThis":false,
-                                  "isFocused":false,
-                                  "isTarget":false,
-                                  "value":["17b535786e444cc889a6fca3452b466c"]}]},
-                            "rightExpr":{
-                              "exprType":"stringLiteral",
-                              "value":"月度",
-                              "stos":[]}},
                           "actions":[{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;套餐（共配送8次）&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}},
-{
                               "action":"setPanelOrder",
                               "description":"移动 两次 到顶层 ",
                               "panelPaths":[{
@@ -2733,13 +2656,7 @@
                               "panelPaths":[{
                                   "panelPath":["cff18afd0cd649a8b5b924158bcdc34b"],
                                   "setOrderInfo":{
-                                    "bringToFront":false}}]},
-{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;B&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}}]},
+                                    "bringToFront":false}}]}]},
 {
                           "description":"用例 3<br> (Else If 文字于 不明 等于 &quot;季度&quot;)",
                           "isNewIfGroup":false,
@@ -2925,31 +2842,9 @@
                     "onClick":{
                       "description":"OnClick",
                       "cases":[{
-                          "description":"用例 2<br> (If 文字于 不明 等于 &quot;A&quot;)",
+                          "description":"用例 2<br> (If True)",
                           "isNewIfGroup":false,
-                          "condition":{
-                            "exprType":"binaryOp",
-                            "op":"==",
-                            "leftExpr":{
-                              "exprType":"fcall",
-                              "functionName":"GetWidgetText",
-                              "arguments":[{
-                                  "exprType":"pathLiteral",
-                                  "isThis":false,
-                                  "isFocused":false,
-                                  "isTarget":false,
-                                  "value":["637fabc8c6104c1a9e78e379229bbaa8"]}]},
-                            "rightExpr":{
-                              "exprType":"stringLiteral",
-                              "value":"A",
-                              "stos":[]}},
                           "actions":[{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;套餐（共配送4次）&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}},
-{
                               "action":"setPanelOrder",
                               "description":"移动 三个月,<br>一个月 到顶层 ",
                               "panelPaths":[{
@@ -2970,13 +2865,7 @@
 {
                                   "panelPath":["0a780d7a7b6e416e8e63896d96dc0e8d"],
                                   "setOrderInfo":{
-                                    "bringToFront":false}}]},
-{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;月度&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}}]},
+                                    "bringToFront":false}}]}]},
 {
                           "description":"用例 3<br> (Else If 文字于 不明 等于 &quot;B&quot;)",
                           "isNewIfGroup":false,
@@ -3080,31 +2969,9 @@
                     "onClick":{
                       "description":"OnClick",
                       "cases":[{
-                          "description":"用例 2<br> (If 文字于 不明 等于 &quot;月度&quot;)",
+                          "description":"用例 2<br> (If True)",
                           "isNewIfGroup":false,
-                          "condition":{
-                            "exprType":"binaryOp",
-                            "op":"==",
-                            "leftExpr":{
-                              "exprType":"fcall",
-                              "functionName":"GetWidgetText",
-                              "arguments":[{
-                                  "exprType":"pathLiteral",
-                                  "isThis":false,
-                                  "isFocused":false,
-                                  "isTarget":false,
-                                  "value":["17b535786e444cc889a6fca3452b466c"]}]},
-                            "rightExpr":{
-                              "exprType":"stringLiteral",
-                              "value":"月度",
-                              "stos":[]}},
                           "actions":[{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;套餐（共配送4次）&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}},
-{
                               "action":"setPanelOrder",
                               "description":"移动 一次 到顶层 ",
                               "panelPaths":[{
@@ -3117,13 +2984,7 @@
                               "panelPaths":[{
                                   "panelPath":["791c8ea5915f4d20b1468825ac08f701"],
                                   "setOrderInfo":{
-                                    "bringToFront":false}}]},
-{
-                              "action":"setFunction",
-                              "description":"设置 文字于 不明 = &quot;A&quot;",
-                              "expr":{
-                                "exprType":"block",
-                                "subExprs":[]}}]},
+                                    "bringToFront":false}}]}]},
 {
                           "description":"用例 3<br> (Else If 文字于 不明 等于 &quot;季度&quot;)",
                           "isNewIfGroup":false,

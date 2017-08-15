@@ -1,8 +1,9 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1502704909685.53),
+  "generationDate":new Date(1502787398323.27),
   "isCanvasEnabled":false,
-  "variables":["OnLoadVariable"],
+  "variables":["OnLoadVariable",
+"status"],
   "page":{
     "packageId":"1ee6059915774902bff6d59032d96626",
     "type":"Axure:Page",
@@ -1856,7 +1857,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u201.png"}},
+            "normal~":"images/主页_安卓_/u171.png"}},
 {
           "id":"61d0179b3ea84606ae2f86e3e9bb1b1c",
           "label":"",
@@ -2150,7 +2151,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u201.png"}},
+            "normal~":"images/主页_安卓_/u171.png"}},
 {
           "id":"f217484dce994209911726db88ad937c",
           "label":"",
