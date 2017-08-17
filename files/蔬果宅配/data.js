@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1502787416216.19),
+  "generationDate":new Date(1502963721053.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -3545,7 +3545,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u257.png"}},
+                      "normal~":"images/主页_安卓_/u241.png"}},
 {
                     "id":"dbd6a5f83af64ab191b7f078d53db2df",
                     "label":"",
@@ -3798,7 +3798,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u271.png"}},
+                      "normal~":"images/主页_安卓_/u255.png"}},
 {
                     "id":"0855a01c3bf8421f852d6f1786340508",
                     "label":"",
@@ -3833,7 +3833,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u273.png"}},
+                      "normal~":"images/主页_安卓_/u257.png"}},
 {
                     "id":"b01444f95aeb4686a41a1b02e9924322",
                     "label":"",
@@ -4029,7 +4029,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u281.png"}},
+                      "normal~":"images/主页_安卓_/u265.png"}},
 {
                     "id":"48809466f34a45c68290d9dd9dba692f",
                     "label":"",

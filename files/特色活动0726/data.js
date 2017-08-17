@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1502787419569.41),
+  "generationDate":new Date(1502963724277.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -1869,7 +1869,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u30.png"}},
+            "normal~":"images/会员主页_安卓_/u213.png"}},
 {
           "id":"ccecd0b70b8f4540a495b60e16958114",
           "label":"",
@@ -2287,7 +2287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u30.png"}},
+            "normal~":"images/会员主页_安卓_/u213.png"}},
 {
           "id":"3ad1f06603304788a0e4841124c907cf",
           "label":"",
@@ -2705,7 +2705,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u30.png"}},
+            "normal~":"images/会员主页_安卓_/u213.png"}},
 {
           "id":"812d609ac1e54daea46a434043f78009",
           "label":"",

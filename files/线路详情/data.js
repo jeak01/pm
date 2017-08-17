@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情.html",
-  "generationDate":new Date(1502787400992.03),
+  "generationDate":new Date(1502963704425.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -4590,7 +4590,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u79.jpg"}},
+            "normal~":"images/主页_安卓_/u67.jpg"}},
 {
           "id":"81270b09d63d4340902d905ef0dedc3f",
           "label":"",
@@ -4712,7 +4712,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_/u105.png"}}]}},
+            "normal~":"images/主页_安卓_/u89.png"}}]}},
   "masters":{
 },
   "objectPaths":{
