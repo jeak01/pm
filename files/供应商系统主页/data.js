@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"供应商系统主页.html",
-  "generationDate":new Date(1502963717496.99),
+  "generationDate":new Date(1503050354691.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -1188,7 +1188,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/供应商系统主页/u49.png"}},
+                    "normal~":"images/确认订单（农旅）/u111.png"}},
 {
                   "id":"7809ea9c5e0e402bb97c3b5649fafa22",
                   "label":"",
@@ -1250,7 +1250,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/供应商系统主页/u49.png"}},
+                    "normal~":"images/确认订单（农旅）/u111.png"}},
 {
                   "id":"f61f0098c33f462f9107e29ad855a16c",
                   "label":"",
@@ -2121,7 +2121,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/供应商系统主页/u49.png"}},
+                    "normal~":"images/确认订单（农旅）/u111.png"}},
 {
                   "id":"6ec7c71cf3a243f8a5f81f99859d764e",
                   "label":"",
@@ -3226,7 +3226,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/供应商系统主页/u49.png"}},
+                    "normal~":"images/确认订单（农旅）/u111.png"}},
 {
                   "id":"a9157f53c55d43668e0aef1d89237745",
                   "label":"",
@@ -4308,7 +4308,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/供应商系统主页/u49.png"}},
+                    "normal~":"images/确认订单（农旅）/u111.png"}},
 {
                   "id":"5c3570a16a2d4659833f947a20924a2e",
                   "label":"",
@@ -5390,7 +5390,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/供应商系统主页/u49.png"}},
+                    "normal~":"images/确认订单（农旅）/u111.png"}},
 {
                   "id":"06ffd68108b645eea2ca26fd00991f74",
                   "label":"",
@@ -6518,6 +6518,66 @@
                         "url":"菜品列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"f6baa19fb3984ac8b1de5c319d7d48a7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":179,
+              "y":80},
+            "size":{
+              "width":86,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 文章列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"文章列表_2.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"6156739ee39a4252ba05534a723a7890",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":263,
+              "y":80},
+            "size":{
+              "width":86,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 更多功能",
+                      "target":{
+                        "targetType":"page",
+                        "url":"更多功能.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -7055,4 +7115,8 @@
     "dfd382daf88a44d6a124ad51e511062e":{
       "scriptId":"u265"},
     "1ac0e58a447b41f8a9a13b1df13d17d1":{
-      "scriptId":"u266"}}});
+      "scriptId":"u266"},
+    "f6baa19fb3984ac8b1de5c319d7d48a7":{
+      "scriptId":"u267"},
+    "6156739ee39a4252ba05534a723a7890":{
+      "scriptId":"u268"}}});

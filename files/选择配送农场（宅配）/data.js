@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场（宅配）.html",
-  "generationDate":new Date(1502963709531.71),
+  "generationDate":new Date(1503050347771.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -1262,10 +1262,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场详情",
+                      "description":"在 当前窗口 打开 宅配详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_1.html",
+                        "url":"宅配详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1292,10 +1292,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场详情",
+                      "description":"在 当前窗口 打开 宅配详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_1.html",
+                        "url":"宅配详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1322,10 +1322,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场详情",
+                      "description":"在 当前窗口 打开 宅配详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_1.html",
+                        "url":"宅配详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1352,10 +1352,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场详情",
+                      "description":"在 当前窗口 打开 宅配详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_1.html",
+                        "url":"宅配详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1382,10 +1382,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场详情",
+                      "description":"在 当前窗口 打开 宅配详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_1.html",
+                        "url":"宅配详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1412,10 +1412,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场详情",
+                      "description":"在 当前窗口 打开 宅配详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_1.html",
+                        "url":"宅配详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表_1.html",
-  "generationDate":new Date(1502963703154.23),
+  "generationDate":new Date(1503050342600.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -1227,7 +1227,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10.5,
+              "x":10,
               "y":50},
             "size":{
               "width":339,
@@ -1287,7 +1287,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":10.5,
+              "x":10,
               "y":378},
             "size":{
               "width":339,

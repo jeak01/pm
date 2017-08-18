@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"菜品列表.html",
-  "generationDate":new Date(1502963718121.4),
+  "generationDate":new Date(1503050355142.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -1544,7 +1544,103 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"721b75230afa4865978e39c33ac926bd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF0099FF},
+            "location":{
+              "x":10,
+              "y":455},
+            "size":{
+              "width":340,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39e4adff88a444659d7574ec00914b8c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF},
+                "location":{
+                  "x":10,
+                  "y":455},
+                "size":{
+                  "width":340,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/菜品列表/u74.png"}},
+{
+          "id":"9c65a12273de4984be4cab87d9c1853c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":505},
+            "size":{
+              "width":340,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"da770c074ded4962b54c59c660fbf34d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":505},
+                "size":{
+                  "width":340,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/菜品列表/u76.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1695,4 +1791,12 @@
     "03b68da3c44847fe8400eaa4f3557ca5":{
       "scriptId":"u72"},
     "7285536af1ae4a04adb71f411f3d4631":{
-      "scriptId":"u73"}}});
+      "scriptId":"u73"},
+    "721b75230afa4865978e39c33ac926bd":{
+      "scriptId":"u74"},
+    "39e4adff88a444659d7574ec00914b8c":{
+      "scriptId":"u75"},
+    "9c65a12273de4984be4cab87d9c1853c":{
+      "scriptId":"u76"},
+    "da770c074ded4962b54c59c660fbf34d":{
+      "scriptId":"u77"}}});

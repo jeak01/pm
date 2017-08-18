@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表_1.html",
-  "generationDate":new Date(1502963719259.16),
+  "generationDate":new Date(1503050356166.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -1565,7 +1565,7 @@
                       "description":"在 当前窗口 打开 农场详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_2.html",
+                        "url":"农场详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1595,7 +1595,7 @@
                       "description":"在 当前窗口 打开 农场详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_2.html",
+                        "url":"农场详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

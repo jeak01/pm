@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"怡养时光.html",
-  "generationDate":new Date(1502963713027.03),
+  "generationDate":new Date(1503050350768.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],

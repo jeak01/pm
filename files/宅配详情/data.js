@@ -1,0 +1,4288 @@
+﻿$axure.loadCurrentPage({
+  "url":"宅配详情.html",
+  "generationDate":new Date(1503050347995.81),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"status"],
+  "page":{
+    "packageId":"72a5a8ec007b4f83bda7fb6c0544919c",
+    "type":"Axure:Page",
+    "name":"宅配详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3708c50a02c5409281bf00580c31c609",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD},
+            "size":{
+              "width":360,
+              "height":667}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eaf15da2cc354601a6e254113b35a21c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD},
+                "size":{
+                  "width":360,
+                  "height":667}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/订单支付页/u0.png"}},
+{
+          "id":"a1dbc8a8240e420d81e16f921fdbb770",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":39},
+            "size":{
+              "width":360,
+              "height":157}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e03666b8564b4ab1917d3e492b964e4c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":39},
+                "size":{
+                  "width":360,
+                  "height":157}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/宅配详情/u2.png"}},
+{
+          "id":"0d79c1d229a14a8dacd767a89faad7cb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":360,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6f31d7a89fd8408b98fbfb8383ce3a20",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":360,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/主页_安卓_/top_u2.png"}},
+{
+          "id":"d65c137f838d4f8cb5f733c504dc93c6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":41,
+              "height":41},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4d9406c1fe724509926c2ff36421e76e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":41,
+                  "height":41},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/平台简介/u4.png"}},
+{
+          "id":"cf921453cb69460e84151c8b384bc978",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"18px",
+            "fontWeight":"400",
+            "location":{
+              "x":151,
+              "y":9},
+            "size":{
+              "width":73,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e347b463289e4cdf841258ef22b1223b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"18px",
+                "fontWeight":"400",
+                "location":{
+                  "x":151,
+                  "y":9},
+                "size":{
+                  "width":73,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"235e016cf5764f579504ec73b800da21",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF666666},
+            "location":{
+              "x":330,
+              "y":7},
+            "size":{
+              "width":6,
+              "height":6},
+            "cornerRadiusTopLeft":"10"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b22c4905dc784e4f9e99cb0874f42d9e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF666666},
+                "location":{
+                  "x":330,
+                  "y":7},
+                "size":{
+                  "width":6,
+                  "height":6},
+                "cornerRadiusTopLeft":"10"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/平台简介/u8.png"}},
+{
+          "id":"d6ea308fadd64f0d8e736860118c9906",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF666666},
+            "location":{
+              "x":330,
+              "y":17},
+            "size":{
+              "width":6,
+              "height":6},
+            "cornerRadiusTopLeft":"10"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b7a3e8beb978461f9c43f07e760ecd5c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF666666},
+                "location":{
+                  "x":330,
+                  "y":17},
+                "size":{
+                  "width":6,
+                  "height":6},
+                "cornerRadiusTopLeft":"10"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/平台简介/u8.png"}},
+{
+          "id":"8def823f3fbf4a4e82a80c5846b1f186",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF666666},
+            "location":{
+              "x":330,
+              "y":27},
+            "size":{
+              "width":6,
+              "height":6},
+            "cornerRadiusTopLeft":"10"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c10f1c8082424484807fe7812b7659bc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF666666},
+                "location":{
+                  "x":330,
+                  "y":27},
+                "size":{
+                  "width":6,
+                  "height":6},
+                "cornerRadiusTopLeft":"10"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/平台简介/u8.png"}},
+{
+          "id":"884de3d6e3334e84aa48eb6cc14e5524",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":51},
+            "size":{
+              "width":90,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ec02086d74546c1bdafcd6198a4a38a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":20,
+                  "y":51},
+                "size":{
+                  "width":90,
+                  "height":90}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/主页/u60.jpg"}},
+{
+          "id":"51ce9cd3f47d47b6bf585ab2875640f4",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":145},
+            "size":{
+              "width":360,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFAAAAAA}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/线路详情/u30_line.png"}},
+{
+          "id":"2d7697c083134cf28f5953864517ddad",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"14px",
+            "location":{
+              "x":128,
+              "y":51},
+            "size":{
+              "width":71,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7c1f76a5a6e04c63aa79141c0cde1c53",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"14px",
+                "location":{
+                  "x":128,
+                  "y":51},
+                "size":{
+                  "width":71,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"20d3983429884300ab33d51f972d8dba",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":190},
+            "size":{
+              "width":360,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFAAAAAA}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/线路详情/u30_line.png"}},
+{
+          "id":"b4d4fa4356fe493d92d14f8dc262ddf6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":128,
+              "y":92},
+            "size":{
+              "width":111,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"42e19cea906d40e7801baffbaf72d296",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":128,
+                  "y":92},
+                "size":{
+                  "width":111,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"097c21e4a5aa412ea6cd8d259b508f8a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "location":{
+              "x":128,
+              "y":74},
+            "size":{
+              "width":188,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bd9596e044c54fd49a3b954b465519c4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "location":{
+                  "x":128,
+                  "y":74},
+                "size":{
+                  "width":188,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4ae64505965f4e6288c2bc83710e4b50",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":8,
+              "y":159},
+            "size":{
+              "width":28,
+              "height":28},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2ebf0389cd1a4895bf43d747b218f43a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":8,
+                  "y":159},
+                "size":{
+                  "width":28,
+                  "height":28},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农场详情/u26.png"}},
+{
+          "id":"c7b7c86cf3ca4027ab5b168e3c3698c8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":49,
+              "y":165},
+            "size":{
+              "width":196,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7d8e7ac2e77e48cf87f2b0952050282e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":49,
+                  "y":165},
+                "size":{
+                  "width":196,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2b809b7da6b7406abd2d282abd1e20d3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":325,
+              "y":159},
+            "size":{
+              "width":29,
+              "height":30},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3660926bc91b4424ba98d70115a39ca1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":325,
+                  "y":159},
+                "size":{
+                  "width":29,
+                  "height":30},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/商品列表/u27.png"}},
+{
+          "id":"2961021a3ebb4340bcbe6f2bbb283e68",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1,
+              "y":386},
+            "size":{
+              "width":358,
+              "height":223},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFAAAAAA}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6147336492484444b023efc2c21274e1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1,
+                  "y":386},
+                "size":{
+                  "width":358,
+                  "height":223},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFAAAAAA}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/宅配详情/u32.png"}},
+{
+          "id":"37ea3d2b1a734404aa4c2fc2c5a847aa",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":416},
+            "size":{
+              "width":360,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFAAAAAA}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/线路详情/u30_line.png"}},
+{
+          "id":"c28f4718f393456caca7bcf7b3e68eb1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":8,
+              "y":400},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d81be0fe967b424e90b763bc24da4bd8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":8,
+                  "y":400},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a1dc1fc14bd240e3979108acf290a745",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":128,
+              "y":116},
+            "size":{
+              "width":100,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a7c92ee445cc4b15bc707f56470cebb8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":128,
+                  "y":116},
+                "size":{
+                  "width":100,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农场详情/u60.png"}},
+{
+          "id":"a8c7de2f8da34643bc36a976ac7bc9cf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":426},
+            "size":{
+              "width":360,
+              "height":480}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f0199199cb61477487d0716e26e4dfca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":426},
+                "size":{
+                  "width":360,
+                  "height":480}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农场详情/u74.png"}},
+{
+          "id":"2899e29ac2a94336abdd8bdb92c84bb5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":906},
+            "size":{
+              "width":360,
+              "height":481}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e961bfd608574b448cc6c17c5ea1ea51",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":906},
+                "size":{
+                  "width":360,
+                  "height":481}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农场详情/u76.png"}},
+{
+          "id":"7d38985f6fb94e15940f893daedb0bab",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":1387},
+            "size":{
+              "width":360,
+              "height":481}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7cd8ed05f33341b1aec64794ab8ab81d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":1387},
+                "size":{
+                  "width":360,
+                  "height":481}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农场详情/u78.png"}},
+{
+          "id":"123db66e99a048abb5aecf93b2a32541",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":1868},
+            "size":{
+              "width":360,
+              "height":385}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4eb44a1a94564b3aa13bfc87b169171a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":1868},
+                "size":{
+                  "width":360,
+                  "height":385}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农场详情/u80.png"}},
+{
+          "id":"03cb8e3c4dfb4c27b1d1cdecaa4f8f15",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":200},
+            "size":{
+              "width":360,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e9d9a5672b3f42d3bd8ef96ef807cae1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":200},
+                "size":{
+                  "width":360,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/主页_安卓_/top_u2.png"}},
+{
+          "id":"e266eacb581e41fb9fe3263e02d898ee",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":213},
+            "size":{
+              "width":79,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9cab69133d2f468d91763b53945f7d0e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":213},
+                "size":{
+                  "width":79,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b35bc14d86924564b8a24f6e97991cd7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":239},
+            "size":{
+              "width":360,
+              "height":141}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"774451e100fb43018ea8ab4c61107465",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":239},
+                "size":{
+                  "width":360,
+                  "height":141}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/宅配详情/u51.png"}},
+{
+          "id":"30a6d999051944649acae8b81e0654f6",
+          "label":"两次",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF33CC66},
+            "location":{
+              "x":140,
+              "y":282},
+            "size":{
+              "width":60,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ebe7bdc67254f1c9de648fad9646377",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF33CC66},
+                "location":{
+                  "x":140,
+                  "y":282},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/两次_u110.png"}},
+{
+          "id":"5928d0e285d0442e808b08322a52c63d",
+          "label":"一年",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF33CC66},
+            "location":{
+              "x":280,
+              "y":247},
+            "size":{
+              "width":60,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e161b271cd0a4b849f6e7dd096fd9ba9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF33CC66},
+                "location":{
+                  "x":280,
+                  "y":247},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/两次_u110.png"}},
+{
+          "id":"3f4bbee3bc794f1d8fd51d2fcc31e235",
+          "label":"六个月",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF33CC66},
+            "location":{
+              "x":210,
+              "y":247},
+            "size":{
+              "width":60,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c1342323e64f4cbdb5a1f0b39be6773e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF33CC66},
+                "location":{
+                  "x":210,
+                  "y":247},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/两次_u110.png"}},
+{
+          "id":"ffd10dc3acea48a691ab25f24f2f1767",
+          "label":"三个月",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF33CC66},
+            "location":{
+              "x":140,
+              "y":247},
+            "size":{
+              "width":60,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"47b727d76d8c4d7ba0264852f8ef9256",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF33CC66},
+                "location":{
+                  "x":140,
+                  "y":247},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/三个月_u114.png"}},
+{
+          "id":"2052491b312e4a90a6a3f569b772859a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":238},
+            "size":{
+              "width":360,
+              "height":101}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62d02641d2eb4d2a963bd1e968060c76",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":238},
+                "size":{
+                  "width":360,
+                  "height":101}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/宅配详情/u61.png"}},
+{
+          "id":"9e1a34e10c3f4a0b9b9f6f36503e6293",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "location":{
+              "x":9,
+              "y":253},
+            "size":{
+              "width":56,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"582d8c5a7f754d70a8f5f172c76a0c4b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "location":{
+                  "x":9,
+                  "y":253},
+                "size":{
+                  "width":56,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b9b6b9258cad433f89f4399e3dc15542",
+          "label":"三个月2",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":140,
+              "y":247},
+            "size":{
+              "width":60,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f1b540bcb301468d80c3bc6987552a98",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":140,
+                  "y":247},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 2<br> (If 文字于 AB 等于 &quot;A&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"A",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送12次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送12次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 三个月 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年,<br>六个月,<br>一个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;季度&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"季度",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 1388.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 1388.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1388.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1388.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"B",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送24次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送24次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 三个月 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年,<br>六个月,<br>一个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;季度&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"季度",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/三个月2_u118.png"}},
+{
+          "id":"3b5ee69b50ae4e329a3601e1b4408674",
+          "label":"六个月2",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":210,
+              "y":247},
+            "size":{
+              "width":60,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dcac614e07b24922a497b3b54c386f27",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":210,
+                  "y":247},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 2<br> (If 文字于 AB 等于 &quot;A&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"A",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送24次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送24次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 六个月 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年,<br>三个月,<br>一个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;半年&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"半年",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"B",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送48次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送48次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 六个月 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年,<br>三个月,<br>一个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;半年&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"半年",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/三个月2_u118.png"}},
+{
+          "id":"d2fa50696e8946e29d30b2f5fd8aa381",
+          "label":"一年2",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":280,
+              "y":247},
+            "size":{
+              "width":60,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d9f37aa6833e437aba1ad4cec965ec38",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":280,
+                  "y":247},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 2<br> (If 文字于 AB 等于 &quot;A&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"A",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送48次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送48次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 六个月,<br>三个月,<br>一个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;一年&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"一年",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"B",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送96次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送96次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 六个月,<br>三个月,<br>一个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;一年&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"一年",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 12899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 12899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/三个月2_u118.png"}},
+{
+          "id":"4b4790e4b2dd4dfab9ff2992d41758be",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "location":{
+              "x":9,
+              "y":287},
+            "size":{
+              "width":56,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ad0e46b2a052472cb53a729998ac07c6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "location":{
+                  "x":9,
+                  "y":287},
+                "size":{
+                  "width":56,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a5ce0971e4044ad5ad112dcf2d24a55f",
+          "label":"两次2",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":140,
+              "y":282},
+            "size":{
+              "width":60,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39eadbc1e73446aeb495df1d864274fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":140,
+                  "y":282},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 2<br> (If 文字于 套餐名1 等于 &quot;月度&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"月度",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送8次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送8次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;B&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"B",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 3<br> (Else If 文字于 套餐名1 等于 &quot;季度&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"季度",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送24次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送24次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;B&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"B",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 4<br> (Else If 文字于 套餐名1 等于 &quot;半年&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"半年",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送48次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送48次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;B&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"B",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 5<br> (Else If 文字于 套餐名1 等于 &quot;年度&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"年度",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送96次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送96次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;B&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"B",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 12899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 12899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 12899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/三个月2_u118.png"}},
+{
+          "id":"7ecb912904bc403c9381b900f36e9477",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "location":{
+              "x":9,
+              "y":316},
+            "size":{
+              "width":56,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"46f786b3e3d8485bb3bff38a9193f154",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "location":{
+                  "x":9,
+                  "y":316},
+                "size":{
+                  "width":56,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9f3a313c072049a5bb45137ba4dec382",
+          "label":"套餐名称",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":113,
+              "y":316},
+            "size":{
+              "width":112,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"746956651efe44e097ad7379ae8e0b95",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":113,
+                  "y":316},
+                "size":{
+                  "width":112,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"eaac234f8a7040299a196c2078fff393",
+          "label":"一个月2",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":70,
+              "y":246},
+            "size":{
+              "width":60,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"87e17d39dfbf402aaaf53e546e756ec4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":70,
+                  "y":246},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 2<br> (If 文字于 AB 等于 &quot;A&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"A",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送4次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送4次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 三个月,<br>一个月 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":true}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年,<br>六个月,<br>三个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;月度&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"月度",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 499.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 499.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 3<br> (Else If 文字于 AB 等于 &quot;B&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f405557e55ed4aa3ba75d177a21e0feb"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"B",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送8次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送8次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 三个月,<br>一个月 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":true}},
+{
+                          "panelPath":["6b7eb6b72bd841039b15205dee144a25"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一年,<br>六个月,<br>三个月 到底层",
+                      "panelPaths":[{
+                          "panelPath":["5928d0e285d0442e808b08322a52c63d"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["3f4bbee3bc794f1d8fd51d2fcc31e235"],
+                          "setOrderInfo":{
+                            "bringToFront":false}},
+{
+                          "panelPath":["ffd10dc3acea48a691ab25f24f2f1767"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名1 = &quot;月度&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1de6709595634e35a293937b8b97098e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"月度",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/三个月2_u118.png"}},
+{
+          "id":"a0ca1f4eefe645c3bd6627eb0aeae546",
+          "label":"一次2",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":70,
+              "y":281},
+            "size":{
+              "width":60,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1dc170a2999441168d9677aa97d85e62",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":70,
+                  "y":281},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 2<br> (If 文字于 套餐名1 等于 &quot;月度&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"月度",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送4次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送4次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;A&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"A",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 499.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 499.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 499.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 3<br> (Else If 文字于 套餐名1 等于 &quot;季度&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"季度",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送12次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送12次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;A&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"A",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 1299.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 1299.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1299.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 1299.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 4<br> (Else If 文字于 套餐名1 等于 &quot;半年&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"半年",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送24次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送24次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;A&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"A",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 2899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 2899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 2899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]},
+{
+                  "description":"用例 5<br> (Else If 文字于 套餐名1 等于 &quot;年度&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["663cac98d28f4852a31a4f16d6419175"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"年度",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐名称 = &quot;套餐（共配送48次）&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["746956651efe44e097ad7379ae8e0b95"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"套餐（共配送48次）",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 一次 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["df5d9734aa7a4a25b5b24df19affc54a"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 两次 到底层",
+                      "panelPaths":[{
+                          "panelPath":["30a6d999051944649acae8b81e0654f6"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 AB = &quot;A&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["19712c2f3d664deca019c55bca7ca963"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"A",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 套餐价格（底部） = &quot;¥ 5899.00&quot;, 与<br> 文字于 套餐价格 = &quot;¥ 5899.00&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f2ad0ee944664967964c1be5e948d4e5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1cc60e08f56403a9b308c8fcf0e9e3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"¥ 5899.00",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/三个月2_u118.png"}},
+{
+          "id":"df5d9734aa7a4a25b5b24df19affc54a",
+          "label":"一次",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF33CC66},
+            "location":{
+              "x":70,
+              "y":281},
+            "size":{
+              "width":60,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"61a77dbf1cc546129f06362db12446fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF33CC66},
+                "location":{
+                  "x":70,
+                  "y":281},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/一次_u130.png"}},
+{
+          "id":"6b7eb6b72bd841039b15205dee144a25",
+          "label":"一个月",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF33CC66},
+            "location":{
+              "x":70,
+              "y":246},
+            "size":{
+              "width":60,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aba42414aba64cf29acaf1ad7e1eb082",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF33CC66},
+                "location":{
+                  "x":70,
+                  "y":246},
+                "size":{
+                  "width":60,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组合套餐（已选农旅）/一次_u130.png"}},
+{
+          "id":"663cac98d28f4852a31a4f16d6419175",
+          "label":"套餐名1",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":70,
+              "y":316},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1de6709595634e35a293937b8b97098e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":70,
+                  "y":316},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f405557e55ed4aa3ba75d177a21e0feb",
+          "label":"AB",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":100,
+              "y":317},
+            "size":{
+              "width":10,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"19712c2f3d664deca019c55bca7ca963",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":317},
+                "size":{
+                  "width":10,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6a60964668bc4f20a243d604af1a9037",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":206,
+              "y":349},
+            "size":{
+              "width":40,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"38a5f317d22243b397dd7ff825723fae",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":206,
+                  "y":349},
+                "size":{
+                  "width":40,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"50e753ecc3be4a50b1c95a621486732d",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":436},
+            "size":{
+              "width":360,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":0,
+          "fixedVertical":"bottom",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"844847546e814c6d83b0494c49237a8a",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1cbef5b67e98468ca8b4aca2d74ab3ff",
+                  "label":"",
+                  "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":360,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"479f74745fba490b8b9514ef9218f86d",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":360,
+                          "height":50}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/蜜桃/u40.png"}},
+{
+                  "id":"283c67624ada4acfa27fd0c972a96217",
+                  "label":"套餐价格（底部）",
+                  "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontSize":"20px",
+                    "fontWeight":"700",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":6},
+                    "size":{
+                      "width":90,
+                      "height":24}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f2ad0ee944664967964c1be5e948d4e5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"20px",
+                        "fontWeight":"700",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":10,
+                          "y":6},
+                        "size":{
+                          "width":90,
+                          "height":24}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"f8245ae9e5e34ce6861f0ce583935755",
+                  "label":"",
+                  "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"700",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000},
+                    "location":{
+                      "x":259,
+                      "y":0},
+                    "size":{
+                      "width":101,
+                      "height":50},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ccb5186c4a1840ab9a123d66d44970d1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"700",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000},
+                        "location":{
+                          "x":259,
+                          "y":0},
+                        "size":{
+                          "width":101,
+                          "height":50},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 订单确认（宅配）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"订单确认（宅配）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/线路详情/u194.png"}},
+{
+                  "id":"bfa3900cdb5e4034b4f6b1663e7e5ee2",
+                  "label":"",
+                  "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"11px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0099FF,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":31},
+                    "size":{
+                      "width":89,
+                      "height":14}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"602bd856227240b39ea7756385349b66",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"50e753ecc3be4a50b1c95a621486732d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"11px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF0099FF,
+                          "opacity":1},
+                        "location":{
+                          "x":10,
+                          "y":31},
+                        "size":{
+                          "width":89,
+                          "height":14}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 会员特权",
+                              "target":{
+                                "targetType":"page",
+                                "url":"会员特权.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"07cff8c422e94db5a83452722946b6e3",
+          "label":"套餐价格",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"18px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":260,
+              "y":349},
+            "size":{
+              "width":81,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a1cc60e08f56403a9b308c8fcf0e9e3f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"18px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":260,
+                  "y":349},
+                "size":{
+                  "width":81,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"deb932391728435895a11777a122d67e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":238,
+              "y":116},
+            "size":{
+              "width":100,
+              "height":25},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aaea3ef5d1c64574a017bcc327e49776",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":238,
+                  "y":116},
+                "size":{
+                  "width":100,
+                  "height":25},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/农场详情/u60.png"}},
+{
+          "id":"7dd734a881eb4946b7a397e5bbc75593",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":249,
+              "y":121},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"59a4a4fd3b50409791e3a17d5d0188d2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":249,
+                  "y":121},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/宅配详情/u106.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3708c50a02c5409281bf00580c31c609":{
+      "scriptId":"u0"},
+    "eaf15da2cc354601a6e254113b35a21c":{
+      "scriptId":"u1"},
+    "a1dbc8a8240e420d81e16f921fdbb770":{
+      "scriptId":"u2"},
+    "e03666b8564b4ab1917d3e492b964e4c":{
+      "scriptId":"u3"},
+    "0d79c1d229a14a8dacd767a89faad7cb":{
+      "scriptId":"u4"},
+    "6f31d7a89fd8408b98fbfb8383ce3a20":{
+      "scriptId":"u5"},
+    "d65c137f838d4f8cb5f733c504dc93c6":{
+      "scriptId":"u6"},
+    "4d9406c1fe724509926c2ff36421e76e":{
+      "scriptId":"u7"},
+    "cf921453cb69460e84151c8b384bc978":{
+      "scriptId":"u8"},
+    "e347b463289e4cdf841258ef22b1223b":{
+      "scriptId":"u9"},
+    "235e016cf5764f579504ec73b800da21":{
+      "scriptId":"u10"},
+    "b22c4905dc784e4f9e99cb0874f42d9e":{
+      "scriptId":"u11"},
+    "d6ea308fadd64f0d8e736860118c9906":{
+      "scriptId":"u12"},
+    "b7a3e8beb978461f9c43f07e760ecd5c":{
+      "scriptId":"u13"},
+    "8def823f3fbf4a4e82a80c5846b1f186":{
+      "scriptId":"u14"},
+    "c10f1c8082424484807fe7812b7659bc":{
+      "scriptId":"u15"},
+    "884de3d6e3334e84aa48eb6cc14e5524":{
+      "scriptId":"u16"},
+    "7ec02086d74546c1bdafcd6198a4a38a":{
+      "scriptId":"u17"},
+    "51ce9cd3f47d47b6bf585ab2875640f4":{
+      "scriptId":"u18"},
+    "2d7697c083134cf28f5953864517ddad":{
+      "scriptId":"u19"},
+    "7c1f76a5a6e04c63aa79141c0cde1c53":{
+      "scriptId":"u20"},
+    "20d3983429884300ab33d51f972d8dba":{
+      "scriptId":"u21"},
+    "b4d4fa4356fe493d92d14f8dc262ddf6":{
+      "scriptId":"u22"},
+    "42e19cea906d40e7801baffbaf72d296":{
+      "scriptId":"u23"},
+    "097c21e4a5aa412ea6cd8d259b508f8a":{
+      "scriptId":"u24"},
+    "bd9596e044c54fd49a3b954b465519c4":{
+      "scriptId":"u25"},
+    "4ae64505965f4e6288c2bc83710e4b50":{
+      "scriptId":"u26"},
+    "2ebf0389cd1a4895bf43d747b218f43a":{
+      "scriptId":"u27"},
+    "c7b7c86cf3ca4027ab5b168e3c3698c8":{
+      "scriptId":"u28"},
+    "7d8e7ac2e77e48cf87f2b0952050282e":{
+      "scriptId":"u29"},
+    "2b809b7da6b7406abd2d282abd1e20d3":{
+      "scriptId":"u30"},
+    "3660926bc91b4424ba98d70115a39ca1":{
+      "scriptId":"u31"},
+    "2961021a3ebb4340bcbe6f2bbb283e68":{
+      "scriptId":"u32"},
+    "6147336492484444b023efc2c21274e1":{
+      "scriptId":"u33"},
+    "37ea3d2b1a734404aa4c2fc2c5a847aa":{
+      "scriptId":"u34"},
+    "c28f4718f393456caca7bcf7b3e68eb1":{
+      "scriptId":"u35"},
+    "d81be0fe967b424e90b763bc24da4bd8":{
+      "scriptId":"u36"},
+    "a1dc1fc14bd240e3979108acf290a745":{
+      "scriptId":"u37"},
+    "a7c92ee445cc4b15bc707f56470cebb8":{
+      "scriptId":"u38"},
+    "a8c7de2f8da34643bc36a976ac7bc9cf":{
+      "scriptId":"u39"},
+    "f0199199cb61477487d0716e26e4dfca":{
+      "scriptId":"u40"},
+    "2899e29ac2a94336abdd8bdb92c84bb5":{
+      "scriptId":"u41"},
+    "e961bfd608574b448cc6c17c5ea1ea51":{
+      "scriptId":"u42"},
+    "7d38985f6fb94e15940f893daedb0bab":{
+      "scriptId":"u43"},
+    "7cd8ed05f33341b1aec64794ab8ab81d":{
+      "scriptId":"u44"},
+    "123db66e99a048abb5aecf93b2a32541":{
+      "scriptId":"u45"},
+    "4eb44a1a94564b3aa13bfc87b169171a":{
+      "scriptId":"u46"},
+    "03cb8e3c4dfb4c27b1d1cdecaa4f8f15":{
+      "scriptId":"u47"},
+    "e9d9a5672b3f42d3bd8ef96ef807cae1":{
+      "scriptId":"u48"},
+    "e266eacb581e41fb9fe3263e02d898ee":{
+      "scriptId":"u49"},
+    "9cab69133d2f468d91763b53945f7d0e":{
+      "scriptId":"u50"},
+    "b35bc14d86924564b8a24f6e97991cd7":{
+      "scriptId":"u51"},
+    "774451e100fb43018ea8ab4c61107465":{
+      "scriptId":"u52"},
+    "30a6d999051944649acae8b81e0654f6":{
+      "scriptId":"u53"},
+    "7ebe7bdc67254f1c9de648fad9646377":{
+      "scriptId":"u54"},
+    "5928d0e285d0442e808b08322a52c63d":{
+      "scriptId":"u55"},
+    "e161b271cd0a4b849f6e7dd096fd9ba9":{
+      "scriptId":"u56"},
+    "3f4bbee3bc794f1d8fd51d2fcc31e235":{
+      "scriptId":"u57"},
+    "c1342323e64f4cbdb5a1f0b39be6773e":{
+      "scriptId":"u58"},
+    "ffd10dc3acea48a691ab25f24f2f1767":{
+      "scriptId":"u59"},
+    "47b727d76d8c4d7ba0264852f8ef9256":{
+      "scriptId":"u60"},
+    "2052491b312e4a90a6a3f569b772859a":{
+      "scriptId":"u61"},
+    "62d02641d2eb4d2a963bd1e968060c76":{
+      "scriptId":"u62"},
+    "9e1a34e10c3f4a0b9b9f6f36503e6293":{
+      "scriptId":"u63"},
+    "582d8c5a7f754d70a8f5f172c76a0c4b":{
+      "scriptId":"u64"},
+    "b9b6b9258cad433f89f4399e3dc15542":{
+      "scriptId":"u65"},
+    "f1b540bcb301468d80c3bc6987552a98":{
+      "scriptId":"u66"},
+    "3b5ee69b50ae4e329a3601e1b4408674":{
+      "scriptId":"u67"},
+    "dcac614e07b24922a497b3b54c386f27":{
+      "scriptId":"u68"},
+    "d2fa50696e8946e29d30b2f5fd8aa381":{
+      "scriptId":"u69"},
+    "d9f37aa6833e437aba1ad4cec965ec38":{
+      "scriptId":"u70"},
+    "4b4790e4b2dd4dfab9ff2992d41758be":{
+      "scriptId":"u71"},
+    "ad0e46b2a052472cb53a729998ac07c6":{
+      "scriptId":"u72"},
+    "a5ce0971e4044ad5ad112dcf2d24a55f":{
+      "scriptId":"u73"},
+    "39eadbc1e73446aeb495df1d864274fb":{
+      "scriptId":"u74"},
+    "7ecb912904bc403c9381b900f36e9477":{
+      "scriptId":"u75"},
+    "46f786b3e3d8485bb3bff38a9193f154":{
+      "scriptId":"u76"},
+    "9f3a313c072049a5bb45137ba4dec382":{
+      "scriptId":"u77"},
+    "746956651efe44e097ad7379ae8e0b95":{
+      "scriptId":"u78"},
+    "eaac234f8a7040299a196c2078fff393":{
+      "scriptId":"u79"},
+    "87e17d39dfbf402aaaf53e546e756ec4":{
+      "scriptId":"u80"},
+    "a0ca1f4eefe645c3bd6627eb0aeae546":{
+      "scriptId":"u81"},
+    "1dc170a2999441168d9677aa97d85e62":{
+      "scriptId":"u82"},
+    "df5d9734aa7a4a25b5b24df19affc54a":{
+      "scriptId":"u83"},
+    "61a77dbf1cc546129f06362db12446fa":{
+      "scriptId":"u84"},
+    "6b7eb6b72bd841039b15205dee144a25":{
+      "scriptId":"u85"},
+    "aba42414aba64cf29acaf1ad7e1eb082":{
+      "scriptId":"u86"},
+    "663cac98d28f4852a31a4f16d6419175":{
+      "scriptId":"u87"},
+    "1de6709595634e35a293937b8b97098e":{
+      "scriptId":"u88"},
+    "f405557e55ed4aa3ba75d177a21e0feb":{
+      "scriptId":"u89"},
+    "19712c2f3d664deca019c55bca7ca963":{
+      "scriptId":"u90"},
+    "6a60964668bc4f20a243d604af1a9037":{
+      "scriptId":"u91"},
+    "38a5f317d22243b397dd7ff825723fae":{
+      "scriptId":"u92"},
+    "50e753ecc3be4a50b1c95a621486732d":{
+      "scriptId":"u93"},
+    "1cbef5b67e98468ca8b4aca2d74ab3ff":{
+      "scriptId":"u94"},
+    "479f74745fba490b8b9514ef9218f86d":{
+      "scriptId":"u95"},
+    "283c67624ada4acfa27fd0c972a96217":{
+      "scriptId":"u96"},
+    "f2ad0ee944664967964c1be5e948d4e5":{
+      "scriptId":"u97"},
+    "f8245ae9e5e34ce6861f0ce583935755":{
+      "scriptId":"u98"},
+    "ccb5186c4a1840ab9a123d66d44970d1":{
+      "scriptId":"u99"},
+    "bfa3900cdb5e4034b4f6b1663e7e5ee2":{
+      "scriptId":"u100"},
+    "602bd856227240b39ea7756385349b66":{
+      "scriptId":"u101"},
+    "07cff8c422e94db5a83452722946b6e3":{
+      "scriptId":"u102"},
+    "a1cc60e08f56403a9b308c8fcf0e9e3f":{
+      "scriptId":"u103"},
+    "deb932391728435895a11777a122d67e":{
+      "scriptId":"u104"},
+    "aaea3ef5d1c64574a017bcc327e49776":{
+      "scriptId":"u105"},
+    "7dd734a881eb4946b7a397e5bbc75593":{
+      "scriptId":"u106"},
+    "59a4a4fd3b50409791e3a17d5d0188d2":{
+      "scriptId":"u107"}}});

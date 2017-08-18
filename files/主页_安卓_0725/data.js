@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1502963721702.82),
+  "generationDate":new Date(1503050358083.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -819,7 +819,7 @@
                       "description":"在 当前窗口 打开 文章列表",
                       "target":{
                         "targetType":"page",
-                        "url":"文章列表_2.html",
+                        "url":"文章列表_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2893,7 +2893,7 @@
                       "description":"在 当前窗口 打开 农场详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_2.html",
+                        "url":"农场详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2923,7 +2923,7 @@
                       "description":"在 当前窗口 打开 农场详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_2.html",
+                        "url":"农场详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2953,7 +2953,7 @@
                       "description":"在 当前窗口 打开 农场详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_2.html",
+                        "url":"农场详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2983,7 +2983,7 @@
                       "description":"在 当前窗口 打开 农场详情",
                       "target":{
                         "targetType":"page",
-                        "url":"农场详情_2.html",
+                        "url":"农场详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

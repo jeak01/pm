@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1502963708238.6),
+  "generationDate":new Date(1503050346625.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status"],
@@ -1833,6 +1833,21 @@
                   "height":16}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 选择配送农场",
+                      "target":{
+                        "targetType":"page",
+                        "url":"选择配送农场_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
@@ -2091,7 +2106,7 @@
           "style":{
             "location":{
               "x":15,
-              "y":159},
+              "y":187},
             "size":{
               "width":330,
               "height":180},

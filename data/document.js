@@ -229,9 +229,9 @@
                 "type":"Wireframe",
                 "url":"选择配送农场（宅配）.html",
                 "children":[{
-                    "pageName":"农场详情",
+                    "pageName":"宅配详情",
                     "type":"Wireframe",
-                    "url":"农场详情_1.html"},
+                    "url":"宅配详情.html"},
 {
                     "pageName":"订单确认（宅配）",
                     "type":"Wireframe",
@@ -359,7 +359,15 @@
                 "children":[{
                     "pageName":"菜品详情",
                     "type":"Wireframe",
-                    "url":"菜品详情.html"}]}]},
+                    "url":"菜品详情.html"}]},
+{
+                "pageName":"文章列表",
+                "type":"Wireframe",
+                "url":"文章列表_2.html"},
+{
+                "pageName":"更多功能",
+                "type":"Wireframe",
+                "url":"更多功能.html"}]},
 {
             "pageName":"备份",
             "type":"Folder",
@@ -395,7 +403,7 @@
                 "children":[{
                     "pageName":"农场详情",
                     "type":"Wireframe",
-                    "url":"农场详情_2.html"}]},
+                    "url":"农场详情_1.html"}]},
 {
                 "pageName":"商品列表",
                 "type":"Wireframe",
@@ -455,7 +463,7 @@
 {
                 "pageName":"文章列表",
                 "type":"Wireframe",
-                "url":"文章列表_2.html"},
+                "url":"文章列表_3.html"},
 {
                 "pageName":"体验路线列表",
                 "type":"Wireframe",
