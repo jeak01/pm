@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_1.html",
-  "generationDate":new Date(1503309130729.68),
+  "generationDate":new Date(1503310203155.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -351,10 +351,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 组合套餐（已选农旅）",
+                              "description":"在 当前窗口 打开 订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"组合套餐（已选农旅）.html",
+                                "url":"订单支付页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
