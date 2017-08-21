@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"全部订单.html",
-  "generationDate":new Date(1503050353717.61),
+  "generationDate":new Date(1503309157126.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"47818939af5e4547be0f1d04880bb9f7",
     "type":"Axure:Page",
@@ -2130,10 +2132,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页(安卓)",
+                                "description":"在 当前窗口 打开 会员主页(安卓)",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页_安卓_.html",
+                                  "url":"会员主页_安卓_.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情_1.html",
-  "generationDate":new Date(1503050356330.34),
+  "generationDate":new Date(1503309171191.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"8ac0a9cb7834454da5868500500274ee",
     "type":"Axure:Page",
@@ -1255,7 +1257,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"3a5e0a8d222047d8bb3d5f1e3ba6f6f2",
           "label":"",

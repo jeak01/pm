@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅百科.html",
-  "generationDate":new Date(1503050342063.88),
+  "generationDate":new Date(1503309116008.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"6674e87f77af415fb5315e699b358c97",
     "type":"Axure:Page",
@@ -3268,10 +3270,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页(安卓)",
+                                "description":"在 当前窗口 打开 会员主页(安卓)",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页_安卓_.html",
+                                  "url":"会员主页_安卓_.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

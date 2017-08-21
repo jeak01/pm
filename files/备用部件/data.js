@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1503050363188.88),
+  "generationDate":new Date(1503309212754.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"2fffebb8ead745c4939525caf0367a00",
     "type":"Axure:Page",
@@ -8949,7 +8951,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单（农旅）/u201.png"}},
+            "normal~":"images/确认订单/u241.png"}},
 {
           "id":"78dceba3f5e349ada3d71ff9dfc6915a",
           "label":"",

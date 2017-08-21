@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员专区.html",
-  "generationDate":new Date(1503050341708.65),
+  "generationDate":new Date(1503309114539.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"42c756da62c74f13b8fc2e2a46325541",
     "type":"Axure:Page",
@@ -3008,10 +3010,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页(安卓)",
+                                "description":"在 当前窗口 打开 会员主页(安卓)",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页_安卓_.html",
+                                  "url":"会员主页_安卓_.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

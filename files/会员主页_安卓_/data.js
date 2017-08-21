@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_.html",
-  "generationDate":new Date(1503050340032.54),
+  "generationDate":new Date(1503309103467.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"1eac3e4277664d7287287a314cbbcfd3",
     "type":"Axure:Page",
@@ -2682,7 +2684,22 @@
                         "targetType":"page",
                         "url":"选择配送农场（宅配）.html",
                         "includeVariables":true},
-                      "linkType":"current"}]}]}},
+                      "linkType":"current"},
+{
+                      "action":"setFunction",
+                      "description":"设置 值于 package = &quot;fasle&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"package"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"fasle",
+                                "stos":[]}]}]}}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/会员主页_安卓_/u118.png"}},
@@ -7165,10 +7182,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页(安卓)",
+                                "description":"在 当前窗口 打开 会员主页(安卓)",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页_安卓_.html",
+                                  "url":"会员主页_安卓_.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

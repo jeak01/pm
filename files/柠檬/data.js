@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"柠檬.html",
-  "generationDate":new Date(1503050334360.78),
+  "generationDate":new Date(1503309077081.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"406a879fa48c4c9b835a22d6581014a9",
     "type":"Axure:Page",

@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线.html",
-  "generationDate":new Date(1503050342994.5),
+  "generationDate":new Date(1503309118785.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"ee335e25ef7c428d99b20efe8749a4ba",
     "type":"Axure:Page",
@@ -3814,10 +3816,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页(安卓)",
+                                "description":"在 当前窗口 打开 会员主页(安卓)",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页_安卓_.html",
+                                  "url":"会员主页_安卓_.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

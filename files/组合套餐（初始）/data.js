@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1503050346180.61),
+  "generationDate":new Date(1503309128281.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"7c5a35dd6a77430ba7682984107e0655",
     "type":"Axure:Page",
@@ -28,7 +30,26 @@
     "adaptiveStyles":{
 },
     "interactionMap":{
-},
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"setFunction",
+                "description":"设置 值于 package = &quot;ture&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetGlobalVariableValue",
+                      "arguments":[{
+                          "exprType":"globalVariableLiteral",
+                          "variableName":"package"},
+{
+                          "exprType":"stringLiteral",
+                          "value":"ture",
+                          "stos":[]}]}]}}]}]}},
     "diagram":{
       "objects":[{
           "id":"c75042ad61c946928365380a36a5bee5",
@@ -1135,10 +1156,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 选择配送农场",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"选择配送农场_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1964,7 +1984,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":630},
+              "y":640},
             "size":{
               "width":10,
               "height":10}},

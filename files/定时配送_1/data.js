@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送_1.html",
-  "generationDate":new Date(1503050357245.94),
+  "generationDate":new Date(1503309174855.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"75ec2c7bc2ac4aefba6e6ea7d77d9961",
     "type":"Axure:Page",

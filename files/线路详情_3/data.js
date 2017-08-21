@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_3.html",
-  "generationDate":new Date(1503050345623.24),
+  "generationDate":new Date(1503309125964.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"48b92e8eccc943b49cc12e65d4fcd95a",
     "type":"Axure:Page",
@@ -63,7 +65,71 @@
                     "fadeInfo":{
                       "fadeType":"show",
                       "options":{
-                        "showType":"none"}}}]}]}]}},
+                        "showType":"none"}}}]}]},
+{
+            "description":"用例 2<br> (Else If 值于 package 等于 &quot;ture&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"package"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"ture",
+                "stos":[]}},
+            "actions":[{
+                "action":"setPanelState",
+                "description":"设置 (动态面板) to 状态2",
+                "panelsToStates":[{
+                    "panelPath":["7035a995955f4768b3989f4139786d68"],
+                    "stateInfo":{
+                      "setStateType":"diagram",
+                      "stateNumber":2,
+                      "stateValue":{
+                        "exprType":"stringLiteral",
+                        "value":"1",
+                        "stos":[]},
+                      "loop":false,
+                      "showWhenSet":false,
+                      "options":{
+                        "compress":false}}}]}]},
+{
+            "description":"用例 3<br> (Else If 值于 package 等于 &quot;new&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"package"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"new",
+                "stos":[]}},
+            "actions":[{
+                "action":"setPanelState",
+                "description":"设置 (动态面板) to 状态3",
+                "panelsToStates":[{
+                    "panelPath":["7035a995955f4768b3989f4139786d68"],
+                    "stateInfo":{
+                      "setStateType":"diagram",
+                      "stateNumber":3,
+                      "stateValue":{
+                        "exprType":"stringLiteral",
+                        "value":"1",
+                        "stos":[]},
+                      "loop":false,
+                      "showWhenSet":false,
+                      "options":{
+                        "compress":false}}}]}]}]}},
     "diagram":{
       "objects":[{
           "id":"5b22112a07c9431e853d410e476e6a60",
@@ -757,7 +823,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"4b54912016444821820f4469afcef3f2",
           "label":"",
@@ -999,7 +1065,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/确认订单/u95.png"}},
 {
           "id":"456076c766af4f05b0be984a15b56f77",
           "label":"",
@@ -1104,7 +1170,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/确认订单/u95.png"}},
 {
           "id":"baf356238bc24ac89ede1efeae82d8be",
           "label":"",
@@ -1209,7 +1275,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/确认订单/u95.png"}},
 {
           "id":"ac9013e5857f4fed8e41f665c3656dc1",
           "label":"",
@@ -2344,7 +2410,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/确认订单/u95.png"}},
 {
           "id":"c76b42c6431d4beab206de7e1b2d4e6c",
           "label":"",
@@ -2531,7 +2597,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/确认订单/u95.png"}},
 {
           "id":"592d45058d874348beddc8422e2e8834",
           "label":"",
@@ -2658,7 +2724,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u48.png"}},
+            "normal~":"images/确认订单/u95.png"}},
 {
           "id":"ebdc27f19f934ab6af6679ce6188a0a0",
           "label":"",
@@ -5472,7 +5538,398 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"resources/images/transparent.gif"}}]}]}]}},
+                    "normal~":"resources/images/transparent.gif"}}]},
+{
+              "id":"63532e3dc4d346168c7af452d2952919",
+              "label":"状态2",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"2539c6d29ae8403789e30e49d35e702a",
+                  "label":"",
+                  "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":360,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a3cb1ec4cdea4a3488ab7063cbbd0ab3",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":360,
+                          "height":50}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/蜜桃/u40.png"}},
+{
+                  "id":"b24c74a1df9d437b80b6f12c82c70847",
+                  "label":"",
+                  "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontSize":"20px",
+                    "fontWeight":"700",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":6},
+                    "size":{
+                      "width":79,
+                      "height":24}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f79dcd6b663945c287e4e9458c2e2f95",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"20px",
+                        "fontWeight":"700",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":10,
+                          "y":6},
+                        "size":{
+                          "width":79,
+                          "height":24}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"d2a4c0e02b0f4f89b7f31183cd51321a",
+                  "label":"",
+                  "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"700",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFF9900},
+                    "location":{
+                      "x":220,
+                      "y":0},
+                    "size":{
+                      "width":140,
+                      "height":50},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"6813baca514d4ee49666e2380a522af0",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"700",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFF9900},
+                        "location":{
+                          "x":220,
+                          "y":0},
+                        "size":{
+                          "width":140,
+                          "height":50},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 组合套餐（已选农旅）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"组合套餐（已选农旅）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/线路详情/u206.png"}},
+{
+                  "id":"34362bca8a6a46fc90e416f1ae1ecae3",
+                  "label":"充值会员更优惠",
+                  "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"11px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0099FF,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":31},
+                    "size":{
+                      "width":78,
+                      "height":14}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1e29690164f843d796ffc56c16ecf0ec",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"11px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF0099FF,
+                          "opacity":1},
+                        "location":{
+                          "x":10,
+                          "y":31},
+                        "size":{
+                          "width":78,
+                          "height":14}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 会员特权",
+                              "target":{
+                                "targetType":"page",
+                                "url":"会员特权.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"3ee36bea63c941ec8b66b0ef6ebb1fee",
+                  "label":"购买新人礼包，旅游免单！",
+                  "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":false,
+                  "style":{
+                    "fontSize":"11px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":31},
+                    "size":{
+                      "width":150,
+                      "height":14},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d903ad683fe64ca6a4c870da3e63a7c8",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":false,
+                      "style":{
+                        "fontSize":"11px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":10,
+                          "y":31},
+                        "size":{
+                          "width":150,
+                          "height":14},
+                        "visible":false},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 新人专享套餐",
+                              "target":{
+                                "targetType":"page",
+                                "url":"新人专享套餐.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]},
+{
+              "id":"ce26a103fee046438cb99f2345acc68f",
+              "label":"状态3",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"dba1836e7f5a4ff38ee7b48d4567d187",
+                  "label":"",
+                  "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":360,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"808a13091b424313aeed54026025c76b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":360,
+                          "height":50}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/蜜桃/u40.png"}},
+{
+                  "id":"fdd5190d219c40d8a84384ab0f4ca788",
+                  "label":"",
+                  "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"700",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFF9900},
+                    "size":{
+                      "width":360,
+                      "height":50},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"997ef3faec3f479e995417455dd27323",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7035a995955f4768b3989f4139786d68",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"700",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFF9900},
+                        "size":{
+                          "width":360,
+                          "height":50},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 新人专享套餐",
+                              "target":{
+                                "targetType":"page",
+                                "url":"新人专享套餐.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/线路详情/u214.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -6037,4 +6494,32 @@
     "56dad11e49a34593827579b7181b3531":{
       "scriptId":"u279"},
     "cedd148d6af94d42abf87fbce57046da":{
-      "scriptId":"u280"}}});
+      "scriptId":"u280"},
+    "2539c6d29ae8403789e30e49d35e702a":{
+      "scriptId":"u281"},
+    "a3cb1ec4cdea4a3488ab7063cbbd0ab3":{
+      "scriptId":"u282"},
+    "b24c74a1df9d437b80b6f12c82c70847":{
+      "scriptId":"u283"},
+    "f79dcd6b663945c287e4e9458c2e2f95":{
+      "scriptId":"u284"},
+    "d2a4c0e02b0f4f89b7f31183cd51321a":{
+      "scriptId":"u285"},
+    "6813baca514d4ee49666e2380a522af0":{
+      "scriptId":"u286"},
+    "34362bca8a6a46fc90e416f1ae1ecae3":{
+      "scriptId":"u287"},
+    "1e29690164f843d796ffc56c16ecf0ec":{
+      "scriptId":"u288"},
+    "3ee36bea63c941ec8b66b0ef6ebb1fee":{
+      "scriptId":"u289"},
+    "d903ad683fe64ca6a4c870da3e63a7c8":{
+      "scriptId":"u290"},
+    "dba1836e7f5a4ff38ee7b48d4567d187":{
+      "scriptId":"u291"},
+    "808a13091b424313aeed54026025c76b":{
+      "scriptId":"u292"},
+    "fdd5190d219c40d8a84384ab0f4ca788":{
+      "scriptId":"u293"},
+    "997ef3faec3f479e995417455dd27323":{
+      "scriptId":"u294"}}});

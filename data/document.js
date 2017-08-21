@@ -139,7 +139,11 @@
 {
                 "pageName":"新人专享套餐",
                 "type":"Wireframe",
-                "url":"新人专享套餐.html"},
+                "url":"新人专享套餐.html",
+                "children":[{
+                    "pageName":"确认订单",
+                    "type":"Wireframe",
+                    "url":"确认订单.html"}]},
 {
                 "pageName":"会员特权",
                 "type":"Wireframe",
@@ -197,13 +201,9 @@
                     "type":"Wireframe",
                     "url":"组合套餐（已选农旅）.html"},
 {
-                    "pageName":"选择配送农场",
-                    "type":"Wireframe",
-                    "url":"选择配送农场_1.html"},
-{
                     "pageName":"确认订单",
                     "type":"Wireframe",
-                    "url":"确认订单.html"},
+                    "url":"确认订单_1.html"},
 {
                     "pageName":"订单支付页",
                     "type":"Wireframe",
@@ -369,6 +369,14 @@
                 "type":"Wireframe",
                 "url":"更多功能.html"}]},
 {
+            "pageName":"订单支付页",
+            "type":"Wireframe",
+            "url":"订单支付页_3.html"},
+{
+            "pageName":"支付成功",
+            "type":"Wireframe",
+            "url":"支付成功_3.html"},
+{
             "pageName":"备份",
             "type":"Folder",
             "url":"",
@@ -419,7 +427,7 @@
 {
                     "pageName":"选择配送农场",
                     "type":"Wireframe",
-                    "url":"选择配送农场_2.html"},
+                    "url":"选择配送农场_1.html"},
 {
                     "pageName":"定时配送",
                     "type":"Wireframe",
@@ -478,7 +486,9 @@
                     "url":"小轮播.html"}]}]}]}]},
   "globalVariables":{
     "onloadvariable":"",
-    "status":""},
+    "status":"",
+    "package":"",
+    "payfrom":""},
   "defaultAdaptiveView":{
     "name":"",
     "size":{

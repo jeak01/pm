@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择城市.html",
-  "generationDate":new Date(1503050340317.73),
+  "generationDate":new Date(1503309104713.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"6b11e14cc9174fd3ab35c2baca9e72b1",
     "type":"Axure:Page",

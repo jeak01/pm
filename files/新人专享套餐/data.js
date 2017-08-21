@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1503050340907.12),
+  "generationDate":new Date(1503309108034.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"80a1b6eba9634cae8bb2c3a293af5842",
     "type":"Axure:Page",
@@ -1715,7 +1717,7 @@
               "y":1309},
             "size":{
               "width":350,
-              "height":192}},
+              "height":176}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1731,7 +1733,7 @@
                   "y":1309},
                 "size":{
                   "width":350,
-                  "height":192}},
+                  "height":176}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -5072,11 +5074,26 @@
                           "description":"用例 1",
                           "isNewIfGroup":false,
                           "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 值于 payFrom = &quot;newPackage&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"payFrom"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"newPackage",
+                                        "stos":[]}]}]}},
+{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 会员充值",
+                              "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"会员充值_4.html",
+                                "url":"确认订单.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

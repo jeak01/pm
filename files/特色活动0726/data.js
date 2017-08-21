@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1503050360316.97),
+  "generationDate":new Date(1503309187194.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"eccd5fd2210c4fe6bac62d985326dde4",
     "type":"Axure:Page",

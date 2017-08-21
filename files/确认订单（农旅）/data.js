@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单（农旅）.html",
-  "generationDate":new Date(1503050352500.8),
+  "generationDate":new Date(1503309153375.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"58ccb89c805f45af91df9201b13cffa0",
     "type":"Axure:Page",
@@ -364,7 +366,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"bc043ae5ad894e2488cd3e61313c58ef",
           "label":"",
@@ -510,7 +512,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"9c3194cd455d45ffac95b35be52e2891",
           "label":"",
@@ -691,7 +693,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"dbbcf5af320842a3be64abad9de671c5",
           "label":"",
@@ -804,7 +806,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"714e424ea7ad4787a9367cd827f238c3",
           "label":"",
@@ -917,7 +919,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"49d965514d0c4731b45ef4368ebfa86e",
           "label":"",
@@ -1030,7 +1032,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"cea66fa3d07349d79578ba53ec988a8c",
           "label":"",
@@ -1176,7 +1178,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u36.png"}},
+            "normal~":"images/确认订单/u75.png"}},
 {
           "id":"9a7952f0d4b34765bbe2668a8b256845",
           "label":"",
@@ -1458,7 +1460,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（已选农旅）/u2.png"}},
+            "normal~":"images/确认订单/u23.png"}},
 {
           "id":"32f8a4a42cb440d9be9917ad77f5e424",
           "label":"",
@@ -1684,7 +1686,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（已选农旅）/u2.png"}},
+            "normal~":"images/确认订单/u23.png"}},
 {
           "id":"1bab5e646aa54b81b3da7cbc737718fb",
           "label":"",
@@ -1990,7 +1992,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u105.png"}},
+                    "normal~":"images/确认订单/u145.png"}},
 {
                   "id":"ba92170de9ac4d3999a3dfcc8e9d7210",
                   "label":"",
@@ -2019,7 +2021,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u107.png"}},
+                    "normal~":"images/确认订单/u147.png"}},
 {
                   "id":"2846ba23088a4a348b0ffe8c6aab5364",
                   "label":"",
@@ -2054,7 +2056,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u107.png"}},
+                    "normal~":"images/确认订单/u147.png"}},
 {
                   "id":"389a97ce44d947b38bbd1d1d5ead694f",
                   "label":"",
@@ -2093,7 +2095,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u111.png"}},
+                    "normal~":"images/确认订单/u151.png"}},
 {
                   "id":"f5bbd8168d7047e596add9b8dc596382",
                   "label":"",
@@ -2132,7 +2134,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u111.png"}},
+                    "normal~":"images/确认订单/u151.png"}},
 {
                   "id":"a8fd5359d9f5410a8189d3e6bcc5c432",
                   "label":"",
@@ -2210,7 +2212,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u117.png"}},
+                    "normal~":"images/确认订单/u157.png"}},
 {
                   "id":"9f2f878fb03346978f4eb0bf74d670b3",
                   "label":"",
@@ -2245,7 +2247,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u117.png"}},
+                    "normal~":"images/确认订单/u157.png"}},
 {
                   "id":"a04b4c844e814415b46c1f3eb66fe1d2",
                   "label":"",
@@ -2280,7 +2282,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u117.png"}},
+                    "normal~":"images/确认订单/u157.png"}},
 {
                   "id":"e1d5707562e64c0e816d2055877e2ef6",
                   "label":"",
@@ -2315,7 +2317,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u117.png"}},
+                    "normal~":"images/确认订单/u157.png"}},
 {
                   "id":"bf8593556f154034b57d0bdd81a0ae3c",
                   "label":"",
@@ -2350,7 +2352,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u117.png"}},
+                    "normal~":"images/确认订单/u157.png"}},
 {
                   "id":"dc63d36f264941b9bbf49de233fa62f0",
                   "label":"",
@@ -2385,7 +2387,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u117.png"}},
+                    "normal~":"images/确认订单/u157.png"}},
 {
                   "id":"ac3ab0e2872a4511b810398ae3691bc6",
                   "label":"",
@@ -2428,7 +2430,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u129.png"}},
+                    "normal~":"images/确认订单/u169.png"}},
 {
                   "id":"1d05ec3445ef42b69dee25312bf2739c",
                   "label":"",
@@ -2471,7 +2473,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"969f8854d0a046c5b5be8e19b1346e6f",
                   "label":"",
@@ -2506,7 +2508,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"cc8472dcf3e2432f98f49256db8b1bdf",
                   "label":"",
@@ -2547,7 +2549,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u135.png"}},
+                    "normal~":"images/确认订单/u175.png"}},
 {
                   "id":"c6ea80c805b3473296b98c494926dadc",
                   "label":"",
@@ -2588,7 +2590,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u135.png"}},
+                    "normal~":"images/确认订单/u175.png"}},
 {
                   "id":"b4f5c3c58a76435faed9bb010e772396",
                   "label":"",
@@ -2629,7 +2631,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u135.png"}},
+                    "normal~":"images/确认订单/u175.png"}},
 {
                   "id":"4cfd13b15fda4515853ef9f75ee950de",
                   "label":"",
@@ -2670,7 +2672,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u135.png"}},
+                    "normal~":"images/确认订单/u175.png"}},
 {
                   "id":"b6aa93cb4a0443e3ba87c71f77360f0e",
                   "label":"",
@@ -2719,7 +2721,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u143.png"}},
+                    "normal~":"images/确认订单/u183.png"}},
 {
                   "id":"f7e7071ba0034fbd95b8eaaf1f80e9ff",
                   "label":"",
@@ -2754,7 +2756,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"b4a62e6d1d3748c5b6a52f470c37fbf6",
                   "label":"",
@@ -2789,7 +2791,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"a995de2926a84838a2f0d58b91d44548",
                   "label":"",
@@ -2824,7 +2826,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"12ce6aee72064e3b9b029aa86929250d",
                   "label":"",
@@ -2859,7 +2861,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"10447d259450465584f5302c16c0cd7c",
                   "label":"",
@@ -2894,7 +2896,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"b5971e362e7445608069ee40136d3e72",
                   "label":"",
@@ -2929,7 +2931,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"f4c97d60f33a46649a41c9747bc869ca",
                   "label":"",
@@ -2972,7 +2974,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u157.png"}},
+                    "normal~":"images/确认订单/u239.png"}},
 {
                   "id":"747b49781ed1481dbde7feaea3208f16",
                   "label":"",
@@ -3015,7 +3017,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"71cff7a5de2f4fbb87d48b11509e3f27",
                   "label":"",
@@ -3050,7 +3052,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"d0e37bf650694b36b6b4e2878e65a7cf",
                   "label":"",
@@ -3085,7 +3087,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"20f7e4b993ae49479495304a42d21700",
                   "label":"",
@@ -3120,7 +3122,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"22b17dab113e4db595b0a1eee5977904",
                   "label":"",
@@ -3155,7 +3157,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"b4182a7f4f8746f38f06197bc8b61d8c",
                   "label":"",
@@ -3190,7 +3192,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"c096ce47919a4eeda948d3d901a1f6e2",
                   "label":"",
@@ -3233,7 +3235,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u157.png"}},
+                    "normal~":"images/确认订单/u239.png"}},
 {
                   "id":"a93b0911d5eb46af82372c1d49b61d3c",
                   "label":"",
@@ -3276,7 +3278,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"cfa90fd50f83435fb5fdda922d43ddb6",
                   "label":"",
@@ -3311,7 +3313,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"1bb7bf032e4c4c678693d0d076faaf2b",
                   "label":"",
@@ -3346,7 +3348,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"2431356ea32f42c99235c3630199ec91",
                   "label":"",
@@ -3381,7 +3383,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"ba82343203784088b3cc98bbb8ff9055",
                   "label":"",
@@ -3416,7 +3418,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"e7d7a3dacdda48c1825189e5874362b4",
                   "label":"",
@@ -3451,7 +3453,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"61fde21aa1df4dabb44ac1eb1d8e28ff",
                   "label":"",
@@ -3494,7 +3496,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u157.png"}},
+                    "normal~":"images/确认订单/u239.png"}},
 {
                   "id":"ab99c321758d45fda6443edc266a4c60",
                   "label":"",
@@ -3537,7 +3539,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"0ebd863570d148cb930b2f01b93dcaf1",
                   "label":"",
@@ -3572,7 +3574,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"9c0ee6222a9a4524b763fe3862686105",
                   "label":"",
@@ -3607,7 +3609,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"33e79d2043a14f93b9e8cd97dcd1f5ee",
                   "label":"",
@@ -3642,7 +3644,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"e434476d8ec042a39c797a04274ad294",
                   "label":"",
@@ -3677,7 +3679,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"7517dfc42e744030a29b5fd3fe87485f",
                   "label":"",
@@ -3712,7 +3714,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u131.png"}},
+                    "normal~":"images/确认订单/u171.png"}},
 {
                   "id":"dae85b9b0bfc42f098cc9cc719268773",
                   "label":"",
@@ -3755,7 +3757,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u157.png"}},
+                    "normal~":"images/确认订单/u239.png"}},
 {
                   "id":"bcd32319a89b4a118ea14f8c83756847",
                   "label":"",
@@ -3814,7 +3816,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u201.png"}},
+                    "normal~":"images/确认订单/u241.png"}},
 {
                   "id":"c603fd0aae8f493fa80c1b46ad2ebd0e",
                   "label":"",
@@ -3951,7 +3953,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"2c32c77f32d74fefbda0ae9d783a461e",
                   "label":"",
@@ -4070,7 +4072,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"c179af0a811b4baa9f052ab2a024123b",
                   "label":"",
@@ -4189,7 +4191,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"b8e885c9822e4ec79fd597e9c782dd31",
                   "label":"",
@@ -4308,7 +4310,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"124b65ecfe924b9488a0d61f0c9018f3",
                   "label":"",
@@ -4462,7 +4464,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"f36e0a58b1a648b286a1f48e7c3b64c4",
                   "label":"",
@@ -5445,7 +5447,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"ff632773246049fdb2c22ccebcc32075",
                   "label":"",
@@ -5564,7 +5566,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"df5a6a8d3e994904995f00097e36df3c",
                   "label":"",
@@ -5683,7 +5685,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"d8a1f232f6ab4f3ab2b423d74b9a5746",
                   "label":"",
@@ -5802,7 +5804,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"c79f478ae83d43e688e87c9c5a82d548",
                   "label":"",
@@ -5956,7 +5958,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u36.png"}},
+                    "normal~":"images/确认订单/u75.png"}},
 {
                   "id":"3dbf84a808194714bad6ed0e93e96fe4",
                   "label":"",
@@ -6242,7 +6244,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/组合套餐（已选农旅）/u2.png"}},
+                    "normal~":"images/确认订单/u23.png"}},
 {
                   "id":"2ccca8ccead34220a97d5032f4716db9",
                   "label":"",

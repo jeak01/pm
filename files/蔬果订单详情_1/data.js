@@ -1,9 +1,11 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情_1.html",
-  "generationDate":new Date(1503050353961.76),
+  "generationDate":new Date(1503309158950.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
-"status"],
+"status",
+"package",
+"payFrom"],
   "page":{
     "packageId":"9efee4e81e964a28bbf4bc57c3500058",
     "type":"Axure:Page",
@@ -400,7 +402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u75.png"}},
+            "normal~":"images/确认订单/u67.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
