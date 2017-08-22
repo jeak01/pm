@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1503310190895.89),
+  "generationDate":new Date(1503365068965.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5151,6 +5151,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 package = &quot;new&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"package"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"new",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
@@ -5181,6 +5196,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 package = &quot;new&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"package"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"new",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
@@ -5211,6 +5241,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 package = &quot;new&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"package"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"new",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
@@ -5241,6 +5286,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 package = &quot;new&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"package"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"new",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{

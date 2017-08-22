@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_1.html",
-  "generationDate":new Date(1503310198277.78),
+  "generationDate":new Date(1503365073033.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4373,6 +4373,21 @@
                           "description":"用例 1",
                           "isNewIfGroup":false,
                           "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 值于 package = &quot;none&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"package"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"none",
+                                        "stos":[]}]}]}},
+{
                               "action":"linkWindow",
                               "description":"在 当前窗口 打开 新人专享套餐",
                               "target":{

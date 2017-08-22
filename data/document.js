@@ -233,6 +233,10 @@
                     "type":"Wireframe",
                     "url":"宅配详情.html"},
 {
+                    "pageName":"宅配详情的副本",
+                    "type":"Wireframe",
+                    "url":"宅配详情的副本.html"},
+{
                     "pageName":"订单确认（宅配）",
                     "type":"Wireframe",
                     "url":"订单确认（宅配）.html"},

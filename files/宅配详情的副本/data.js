@@ -1,15 +1,15 @@
 ﻿$axure.loadCurrentPage({
-  "url":"宅配详情.html",
-  "generationDate":new Date(1503365076396.57),
+  "url":"宅配详情的副本.html",
+  "generationDate":new Date(1503365076646.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"72a5a8ec007b4f83bda7fb6c0544919c",
+    "packageId":"3448aac97be14baca7354114288f2f9d",
     "type":"Axure:Page",
-    "name":"宅配详情",
+    "name":"宅配详情的副本",
     "notes":{
 },
     "style":{
@@ -436,7 +436,7 @@
               "x":128,
               "y":51},
             "size":{
-              "width":71,
+              "width":57,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -453,7 +453,7 @@
                   "x":128,
                   "y":51},
                 "size":{
-                  "width":71,
+                  "width":57,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -611,7 +611,7 @@
               "x":49,
               "y":165},
             "size":{
-              "width":196,
+              "width":118,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -627,7 +627,7 @@
                   "x":49,
                   "y":165},
                 "size":{
-                  "width":196,
+                  "width":118,
                   "height":16}},
               "adaptiveStyles":{
 }}],

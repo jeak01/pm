@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场（宅配）.html",
-  "generationDate":new Date(1503310204332.79),
+  "generationDate":new Date(1503365076171.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -907,7 +907,7 @@
               "color":0xFFDDDDDD},
             "location":{
               "x":1,
-              "y":486},
+              "y":530},
             "size":{
               "width":357,
               "height":25},
@@ -929,7 +929,7 @@
                   "color":0xFFDDDDDD},
                 "location":{
                   "x":1,
-                  "y":486},
+                  "y":530},
                 "size":{
                   "width":357,
                   "height":25},
@@ -950,7 +950,7 @@
             "fontSize":"11px",
             "location":{
               "x":9,
-              "y":492},
+              "y":536},
             "size":{
               "width":8,
               "height":14}},
@@ -967,7 +967,7 @@
                 "fontSize":"11px",
                 "location":{
                   "x":9,
-                  "y":492},
+                  "y":536},
                 "size":{
                   "width":8,
                   "height":14}},
@@ -984,7 +984,7 @@
           "style":{
             "location":{
               "x":1,
-              "y":547},
+              "y":591},
             "size":{
               "width":359,
               "height":10},
@@ -1006,7 +1006,7 @@
           "style":{
             "location":{
               "x":11,
-              "y":521},
+              "y":565},
             "size":{
               "width":53,
               "height":16}},
@@ -1022,7 +1022,7 @@
               "style":{
                 "location":{
                   "x":11,
-                  "y":521},
+                  "y":565},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -1324,10 +1324,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 宅配详情",
+                      "description":"在 当前窗口 打开 宅配详情的副本",
                       "target":{
                         "targetType":"page",
-                        "url":"宅配详情.html",
+                        "url":"宅配详情的副本.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1418,6 +1418,91 @@
                       "target":{
                         "targetType":"page",
                         "url":"宅配详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"dce7feaac41b426d9966888614330022",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1,
+              "y":526},
+            "size":{
+              "width":359,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFAAAAAA}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+{
+          "id":"adbad7b2defb47f4a856c9ba80584508",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":11,
+              "y":500},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b0d25fc746ed4671b6fba77641892f32",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":11,
+                  "y":500},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a0dfa6da868c4c2d860491e49a37048a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":487},
+            "size":{
+              "width":360,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 宅配详情的副本",
+                      "target":{
+                        "targetType":"page",
+                        "url":"宅配详情的副本.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
@@ -1561,4 +1646,12 @@
     "b4a6313ebdb940b491528ff9304c6634":{
       "scriptId":"u67"},
     "71286e7f4d894ad6979e4666f6a01d39":{
-      "scriptId":"u68"}}});
+      "scriptId":"u68"},
+    "dce7feaac41b426d9966888614330022":{
+      "scriptId":"u69"},
+    "adbad7b2defb47f4a856c9ba80584508":{
+      "scriptId":"u70"},
+    "b0d25fc746ed4671b6fba77641892f32":{
+      "scriptId":"u71"},
+    "a0dfa6da868c4c2d860491e49a37048a":{
+      "scriptId":"u72"}}});
