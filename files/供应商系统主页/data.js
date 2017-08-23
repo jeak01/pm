@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"供应商系统主页.html",
-  "generationDate":new Date(1503393128174.53),
+  "generationDate":new Date(1503479756829.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1190,7 +1190,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单/u151.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"7809ea9c5e0e402bb97c3b5649fafa22",
                   "label":"",
@@ -1252,7 +1252,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单/u151.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"f61f0098c33f462f9107e29ad855a16c",
                   "label":"",
@@ -2123,7 +2123,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单/u151.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"6ec7c71cf3a243f8a5f81f99859d764e",
                   "label":"",
@@ -3228,7 +3228,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单/u151.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"a9157f53c55d43668e0aef1d89237745",
                   "label":"",
@@ -4310,7 +4310,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u151.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"5c3570a16a2d4659833f947a20924a2e",
                   "label":"",
@@ -5392,7 +5392,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u151.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"06ffd68108b645eea2ca26fd00991f74",
                   "label":"",

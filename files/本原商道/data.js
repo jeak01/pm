@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"本原商道.html",
-  "generationDate":new Date(1503393124929.38),
+  "generationDate":new Date(1503479753786.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
