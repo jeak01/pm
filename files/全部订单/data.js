@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"全部订单.html",
-  "generationDate":new Date(1503479755754.2),
+  "generationDate":new Date(1503487676168.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2225,10 +2225,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 会员专区",
+                                "description":"在 当前窗口 打开 选择配送农场（宅配）",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"会员专区.html",
+                                  "url":"选择配送农场（宅配）.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

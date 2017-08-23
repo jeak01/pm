@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"私享田园.html",
-  "generationDate":new Date(1503479753434.67),
+  "generationDate":new Date(1503487674094.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4835,10 +4835,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 会员专区",
+                                "description":"在 当前窗口 打开 选择配送农场（宅配）",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"会员专区.html",
+                                  "url":"选择配送农场（宅配）.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
