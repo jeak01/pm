@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情的副本.html",
-  "generationDate":new Date(1503560376613.12),
+  "generationDate":new Date(1503568617805.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/配送设置面板_u0.png"}},
+            "normal~":"images/宅配详情的副本/u0.png"}},
 {
           "id":"a1dbc8a8240e420d81e16f921fdbb770",
           "label":"",
@@ -707,6 +707,21 @@
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场介绍",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场介绍.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/农场详情/u60.png"}},
 {

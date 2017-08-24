@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"山水风情.html",
-  "generationDate":new Date(1503560379303.91),
+  "generationDate":new Date(1503568620360.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

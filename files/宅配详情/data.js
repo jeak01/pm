@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情.html",
-  "generationDate":new Date(1503560376190.84),
+  "generationDate":new Date(1503568617394.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -801,6 +801,21 @@
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场介绍",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场介绍.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/农场详情/u60.png"}},
 {

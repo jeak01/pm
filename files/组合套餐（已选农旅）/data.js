@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1503560374655.82),
+  "generationDate":new Date(1503568615883.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -803,7 +803,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u35.png"}},
+            "normal~":"images/确认订单/u15.png"}},
 {
           "id":"471e5c34902f4109abde93cd13a71a7d",
           "label":"",
@@ -949,7 +949,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u35.png"}},
+            "normal~":"images/确认订单/u15.png"}},
 {
           "id":"d7f8d3eb7c59466a9a35e740da0c2a5d",
           "label":"",
@@ -1206,7 +1206,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u35.png"}},
+            "normal~":"images/确认订单/u15.png"}},
 {
           "id":"7291f34a4c3848399f3a7e946670c5af",
           "label":"",
@@ -1367,7 +1367,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/确认订单/u35.png"}},
+            "normal~":"images/确认订单/u15.png"}},
 {
           "id":"22742649e7e04f2d8639ef003dbd3d5e",
           "label":"",
@@ -1528,7 +1528,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u35.png"}},
+            "normal~":"images/确认订单/u15.png"}},
 {
           "id":"3be4324176c846379180083e2bbea59d",
           "label":"",
