@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送_1.html",
-  "generationDate":new Date(1503487679559.22),
+  "generationDate":new Date(1503560386722.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -163,7 +163,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u138.png"}},
+            "normal~":"images/菜品详情/u2.png"}},
 {
           "id":"e0ab63f369064a3793181486f98a993d",
           "label":"",
@@ -305,7 +305,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u138.png"}},
+            "normal~":"images/菜品详情/u2.png"}},
 {
           "id":"d4f9b0f9ac43439e8d8ddb44004032f9",
           "label":"",
@@ -496,7 +496,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u138.png"}},
+            "normal~":"images/菜品详情/u2.png"}},
 {
           "id":"50a1f42ba4784c9f8c65084128cc1bc7",
           "label":"",
@@ -638,7 +638,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表_1/u138.png"}},
+            "normal~":"images/菜品详情/u2.png"}},
 {
           "id":"56eb12907fc544a7a30ad0521e957ac0",
           "label":"",

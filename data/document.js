@@ -237,6 +237,10 @@
                     "type":"Wireframe",
                     "url":"宅配详情的副本.html"},
 {
+                    "pageName":"菜品详情",
+                    "type":"Wireframe",
+                    "url":"菜品详情.html"},
+{
                     "pageName":"订单确认（宅配）",
                     "type":"Wireframe",
                     "url":"订单确认（宅配）.html"},
@@ -363,7 +367,7 @@
                 "children":[{
                     "pageName":"菜品详情",
                     "type":"Wireframe",
-                    "url":"菜品详情.html"}]},
+                    "url":"菜品详情_1.html"}]},
 {
                 "pageName":"文章列表",
                 "type":"Wireframe",

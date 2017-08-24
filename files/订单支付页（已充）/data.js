@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（已充）.html",
-  "generationDate":new Date(1503487669877.81),
+  "generationDate":new Date(1503560375625.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -747,7 +747,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/新人专享套餐/u250.png"}}]}]},
+                    "normal~":"images/新人专享套餐/u252.png"}}]}]},
 {
           "id":"8c4efd36ebd54d9dae2942e9f9d4ee3b",
           "label":"",

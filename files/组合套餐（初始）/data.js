@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1503487668232.72),
+  "generationDate":new Date(1503560373600.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2124,7 +2124,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/新人专享套餐/u250.png"}},
+                    "normal~":"images/新人专享套餐/u252.png"}},
 {
                   "id":"e8f74b4d22714554acfa5c6af7d5ef3d",
                   "label":"",
@@ -2233,7 +2233,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/新人专享套餐/u254.png"}}]}]}]}},
+                    "normal~":"images/新人专享套餐/u263.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

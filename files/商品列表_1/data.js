@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1503487679110.92),
+  "generationDate":new Date(1503560386199.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2854,7 +2854,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/商品列表_1/u138.png"}},
+                    "normal~":"images/菜品详情/u2.png"}},
 {
                   "id":"e237cbb628634c45a3cf63a2701d82a4",
                   "label":"",
@@ -3135,7 +3135,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/u138.png"}},
+                    "normal~":"images/菜品详情/u2.png"}},
 {
                   "id":"23afef4f43ea48c39b1b68d62e70599c",
                   "label":"",

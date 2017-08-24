@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1503487663717.73),
+  "generationDate":new Date(1503560368591.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1655,7 +1655,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/新人专享套餐/u250.png"}},
+                    "normal~":"images/新人专享套餐/u252.png"}},
 {
                   "id":"0f490ea23e294454a8c06c4e41199797",
                   "label":"",

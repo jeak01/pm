@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"菜品列表.html",
-  "generationDate":new Date(1503487677472.84),
+  "generationDate":new Date(1503560384313.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -401,7 +401,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情.html",
+                        "url":"菜品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -445,7 +445,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u16.jpg"}},
+            "normal~":"images/宅配详情/u117.jpg"}},
 {
           "id":"4b17f464ba1e4f82a74ccb565b900bd5",
           "label":"",
@@ -605,7 +605,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情.html",
+                        "url":"菜品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -809,7 +809,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情.html",
+                        "url":"菜品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -853,7 +853,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u36.jpg"}},
+            "normal~":"images/宅配详情/u119.jpg"}},
 {
           "id":"fdfe7f7a1ded4c5aaa67477c391f9020",
           "label":"",
@@ -1013,7 +1013,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情.html",
+                        "url":"菜品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1057,7 +1057,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u46.jpg"}},
+            "normal~":"images/宅配详情/u121.jpg"}},
 {
           "id":"2aea08f466024034a7d28f70b9b8a3af",
           "label":"",
@@ -1246,7 +1246,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u56.jpg"}},
+            "normal~":"images/宅配详情/u123.jpg"}},
 {
           "id":"e5ffa7a347394b68b3af8987c5c54322",
           "label":"",
@@ -1435,7 +1435,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u66.jpg"}},
+            "normal~":"images/宅配详情/u125.jpg"}},
 {
           "id":"0609a487810d4fba94254b2b0f98597f",
           "label":"",
