@@ -355,7 +355,11 @@
 {
                     "pageName":"农旅订单详情",
                     "type":"Wireframe",
-                    "url":"农旅订单详情_1.html"}]}]},
+                    "url":"农旅订单详情_1.html"}]},
+{
+                "pageName":"待支付",
+                "type":"Wireframe",
+                "url":"待支付.html"}]},
 {
             "pageName":"供应商系统主页",
             "type":"Wireframe",
@@ -388,6 +392,10 @@
             "pageName":"支付成功",
             "type":"Wireframe",
             "url":"支付成功_3.html"},
+{
+            "pageName":"支付失败",
+            "type":"Wireframe",
+            "url":"支付失败.html"},
 {
             "pageName":"备份",
             "type":"Folder",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"全部订单.html",
-  "generationDate":new Date(1503568623582.8),
+  "generationDate":new Date(1503655500632.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -391,6 +391,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 待支付",
+                      "target":{
+                        "targetType":"page",
+                        "url":"待支付.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/全部订单/u16.png"}},
 {
