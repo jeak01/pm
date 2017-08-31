@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1503655511158.28),
+  "generationDate":new Date(1504186607641.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -169,7 +169,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u171.png"}},
+            "normal~":"images/备用部件/u6.png"}},
 {
           "id":"b65b4cf82e274f6ea49bd50b2c0f57a2",
           "label":"",
@@ -8951,7 +8951,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u154.png"}},
+            "normal~":"images/选择菜品/u274.png"}},
 {
           "id":"78dceba3f5e349ada3d71ff9dfc6915a",
           "label":"",
@@ -9115,7 +9115,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/备用部件/u441.png"}},
+            "normal~":"images/主页/u88.png"}},
 {
           "id":"978d7fa2af8046e5bc373860ea14e9e0",
           "label":"",
@@ -10755,7 +10755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/备用部件/u521.png"}},
+            "normal~":"images/主页/u90.png"}},
 {
           "id":"dbd14934a7124418b88cf56f999e2cf8",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场（宅配）.html",
-  "generationDate":new Date(1503655493712.03),
+  "generationDate":new Date(1504186589998.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u0.png"}},
+            "normal~":"images/选择配送农场/u0.png"}},
 {
           "id":"0f17684f7e1b486b9ff015d56664c569",
           "label":"",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u2.png"}},
+            "normal~":"images/选择配送农场/u2.png"}},
 {
           "id":"d4d8cb00187f41b5b763d9c25aa65c14",
           "label":"",
@@ -134,7 +134,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"6f7a9e484ce64c90a4d802bf6ef88f97",
           "label":"",
@@ -179,7 +179,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"31af01d8d6c64aedba0e288046f94f15",
           "label":"",
@@ -236,7 +236,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"78d5e0c4e90241dcae2e0dc3c35242a5",
           "label":"",
@@ -324,7 +324,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"47a884057b9d468a8851576bee56feb5",
           "label":"",
@@ -346,7 +346,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"ef69620d28c04a2588e98dcf02ba8b10",
           "label":"",
@@ -424,7 +424,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"ba72843dc9184b289d44d5f9c6773a03",
           "label":"",
@@ -481,7 +481,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"6accfef8f55e45b398a6076c73838461",
           "label":"",
@@ -569,7 +569,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"2098b805636845f6a75694115c2e74ac",
           "label":"",
@@ -591,7 +591,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"87cf7cc4c8f546658f7b291840539fe3",
           "label":"",
@@ -669,7 +669,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"a4e5721cca0e4cf9b3ae4bb342c49b25",
           "label":"",
@@ -726,7 +726,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"ae939643a7244bc2b2cea26985e8b371",
           "label":"",
@@ -804,7 +804,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"bc683a04da7044b79bded769d56835fb",
           "label":"",
@@ -861,7 +861,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"f566d26738c24b38a5fb38868a8a6d30",
           "label":"",
@@ -939,7 +939,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"b049e587cb5b496491033885346b0b15",
           "label":"",
@@ -996,7 +996,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"540f314570554461814cffd3e3e5e750",
           "label":"",
@@ -1076,7 +1076,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u53.png"}},
+            "normal~":"images/选择配送农场/u53.png"}},
 {
           "id":"5b7c50fef56c404f8c87f04646900baa",
           "label":"",
@@ -1240,7 +1240,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u12.png"}},
+            "normal~":"images/主页/u58.png"}},
 {
           "id":"29131c7c3e7a444189cd5d9dc195f850",
           "label":"",
@@ -1442,7 +1442,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"adbad7b2defb47f4a856c9ba80584508",
           "label":"",

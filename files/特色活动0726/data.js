@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1503655508112.04),
+  "generationDate":new Date(1504186605962.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"55299690e49545a192f0b731f464d86d",
           "label":"",
@@ -134,7 +134,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"b3225c715f3949f99f446744bc77addb",
           "label":"",
@@ -175,7 +175,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/线路详情/u12.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -216,7 +216,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/线路详情/u12.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -257,7 +257,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/线路详情/u12.png"}},
 {
           "id":"1735d451609c461cbca800f807245f9e",
           "label":"",
@@ -290,7 +290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u12.png"}},
+            "normal~":"images/选择农旅路线产品/u2.png"}},
 {
           "id":"c9febc3da0dc4c878a4cc98d416d6d3c",
           "label":"",
@@ -323,7 +323,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u12.png"}},
+            "normal~":"images/选择农旅路线产品/u2.png"}},
 {
           "id":"a12e41862d354fe98be8a84b7412ceb2",
           "label":"",
@@ -430,7 +430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u56.png"}},
 {
           "id":"a90c40a4bb394e539e718babdab0e6fb",
           "label":"",
@@ -504,7 +504,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u56.png"}},
 {
           "id":"0b524b61cc2f49628e03c4196c61e4c9",
           "label":"",
@@ -578,7 +578,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u56.png"}},
 {
           "id":"98f12138c6ab4d54a44f41123cde1b5e",
           "label":"",
@@ -613,7 +613,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u78.png"}},
+            "normal~":"images/农场列表/u78.png"}},
 {
           "id":"ea3405894a3d469cbe5400c1ce697cec",
           "label":"",
@@ -635,7 +635,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场/u8_line.png"}},
+            "line~":"images/农场列表/u80_line.png"}},
 {
           "id":"0d2b992171304ba9841ac0c41bc69131",
           "label":"",
@@ -734,7 +734,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u37.png"}},
+            "normal~":"images/主页_安卓_0725/u52.png"}},
 {
           "id":"f1d1c619564c4f71be8b1bc19328094f",
           "label":"",
@@ -1012,7 +1012,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u52.jpg"}},
+            "normal~":"images/主页_安卓_0725/u67.jpg"}},
 {
           "id":"b88453297b794296b70d89525eea880d",
           "label":"",
@@ -1290,7 +1290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u67.jpg"}},
+            "normal~":"images/主页_安卓_0725/u82.jpg"}},
 {
           "id":"4a9c08376bd6474380076beff39e2d13",
           "label":"",
@@ -1623,7 +1623,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u37.png"}},
+            "normal~":"images/主页_安卓_0725/u52.png"}},
 {
           "id":"f767df54a5bc43a093d2acc1ae35f0a0",
           "label":"",
@@ -1789,7 +1789,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"6114af9ecfa14ea9b87773dc2ccc8491",
           "label":"",
@@ -2207,7 +2207,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"a67c7cacf7c74720b47598de54fe330e",
           "label":"",
@@ -2459,7 +2459,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u67.jpg"}},
+            "normal~":"images/主页_安卓_0725/u82.jpg"}},
 {
           "id":"03757f081dac4d5da05b91a9e6d2031f",
           "label":"",
@@ -2625,7 +2625,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"62d26d4351c74e52b95d054c85c84c5c",
           "label":"",
@@ -2859,7 +2859,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页_安卓_/top_u2.png"}},
+              "normal~":"images/主页/top_u48.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -2900,7 +2900,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表_1/u89.png"}},
+              "normal~":"images/农场列表/u89.png"}},
 {
             "id":"3df70097703244faa1527a5a494c8c42",
             "label":"",
@@ -2941,7 +2941,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表_1/u89.png"}},
+              "normal~":"images/农场列表/u89.png"}},
 {
             "id":"042cb23104d742f2ae2b63e077e1712d",
             "label":"",
@@ -2982,7 +2982,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表_1/u93.png"}},
+              "normal~":"images/农场列表/u93.png"}},
 {
             "id":"7059bc5e155a401bac0768cc3d613ce5",
             "label":"",
@@ -3023,7 +3023,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表_1/u93.png"}},
+              "normal~":"images/农场列表/u93.png"}},
 {
             "id":"6c17287b2bc14f99a5db67d039fd7863",
             "label":"",
@@ -3056,7 +3056,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u36.png"}},
+              "normal~":"images/主页/u395.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -3119,7 +3119,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u40.png"}},
+              "normal~":"images/会员主页_安卓_/u191.png"}},
 {
             "id":"6b19b755d2b64fe283aaa9ac475df667",
             "label":"",
@@ -3152,7 +3152,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u38.png"}},
+              "normal~":"images/农场列表/u102.png"}},
 {
             "id":"03ed968a08da4a80bd7495c1bb6340a9",
             "label":"",
@@ -3185,7 +3185,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u42.png"}},
+              "normal~":"images/主页/u397.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",
@@ -3212,7 +3212,7 @@
                         "description":"在 当前窗口 打开 商品列表",
                         "target":{
                           "targetType":"page",
-                          "url":"商品列表_1.html",
+                          "url":"商品列表.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},
@@ -3242,7 +3242,7 @@
                         "description":"在 当前窗口 打开 体验路线列表",
                         "target":{
                           "targetType":"page",
-                          "url":"体验路线列表_1.html",
+                          "url":"体验路线列表.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},

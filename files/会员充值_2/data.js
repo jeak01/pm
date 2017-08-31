@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_2.html",
-  "generationDate":new Date(1503655495360.66),
+  "generationDate":new Date(1504186596846.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"38250e4225cb4206bf845cddbba155c5",
+    "packageId":"f4578402a6c146e3ada4f27daf4654ee",
     "type":"Axure:Page",
     "name":"会员充值",
     "notes":{
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u0.png"}},
+            "normal~":"images/购买配送次数/u0.png"}},
 {
           "id":"f42628a40acb4ca2804b9ea99a3aee25",
           "label":"",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"898b8dc43747405ead4300c3a3c9bcac",
           "label":"",
@@ -140,7 +140,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"0e77fca28e9d4fc78488a5a2ee541eb1",
           "label":"",
@@ -212,7 +212,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"b7ab70103b9c481aaee87da63bfe4484",
           "label":"",
@@ -369,7 +369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"122a11397b0f4daab3c10ed9c11d9410",
           "label":"",
@@ -466,7 +466,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"1fcd9142aec3426dbde01d7ceffd532d",
           "label":"",
@@ -601,7 +601,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页_安卓_/top_u2.png"}}]}]},
+                    "normal~":"images/主页/top_u48.png"}}]}]},
 {
           "id":"89429d925bd244968cffb91d9b982c58",
           "label":"",
@@ -634,7 +634,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"b2f725d8f1e94708841c2b2ce4ef5ccb",
           "label":"",
@@ -751,7 +751,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"c0a8fff2a96b4aa19fe0d7afe586f679",
           "label":"",
@@ -903,7 +903,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"61be6844859d4157bc3985c18bc21752",
           "label":"",
@@ -1076,7 +1076,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页（农旅）/u45.png"}},
+            "normal~":"images/购买配送次数/u23.png"}},
 {
           "id":"c817f86babdd4acd88bdde8d81c33991",
           "label":"",
@@ -1109,7 +1109,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页（农旅）/u47.png"}},
+            "normal~":"images/订单支付页_1/u47.png"}},
 {
           "id":"62586b90e9aa4e03a5366a5151d5a645",
           "label":"",
@@ -1235,7 +1235,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员充值_1/u60.png"}},
+            "normal~":"images/会员充值/u60.png"}},
 {
           "id":"53956dc72d8941ddbd88e2bff443b94f",
           "label":"",

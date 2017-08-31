@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线.html",
-  "generationDate":new Date(1503655488066.43),
+  "generationDate":new Date(1504186583352.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -117,7 +117,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/体验路线/u2.png"}},
+            "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
 {
           "id":"dd55564beecf473b8178d42989910512",
           "label":"",
@@ -296,7 +296,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/体验路线/u11.jpg"}},
+            "normal~":"images/线路详情/u167.jpg"}},
 {
           "id":"db48fbcf30c441eb9658ccf3224dbb0a",
           "label":"",
@@ -462,7 +462,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"f332c9384d7b48c2955b7769bca610cb",
           "label":"",
@@ -880,7 +880,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"c078b2ffb29c469782c32b9dd157c43d",
           "label":"",
@@ -1298,7 +1298,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"caaefebc50d4418d9d156fc716ef08a1",
           "label":"",
@@ -1505,7 +1505,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1754,7 +1754,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"f2df960cff144a58aa3158e81e7a54e0",
           "label":"",
@@ -1961,7 +1961,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_1.html",
+                        "url":"线路详情_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1991,7 +1991,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_2.html",
+                        "url":"线路详情_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2021,7 +2021,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_3.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2262,7 +2262,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场详情/u26.png"}},
+            "normal~":"images/农旅卡列表/u48.png"}},
 {
           "id":"042bb51f7efe40bca28c9867a03eb75b",
           "label":"",
@@ -2469,7 +2469,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_4.html",
+                        "url":"线路详情_5.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2565,7 +2565,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.png"}},
+                    "normal~":"images/主页/u387.png"}},
 {
                   "id":"e68e1ff607ce44538491e5738be5cc0b",
                   "label":"",
@@ -2649,7 +2649,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.png"}},
+                    "normal~":"images/主页/u387.png"}},
 {
                   "id":"d4ed9e6046cd42b096da56e956b02867",
                   "label":"",
@@ -2725,7 +2725,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.png"}},
+                    "normal~":"images/主页/u387.png"}},
 {
                   "id":"811a8ce68d4c45949c083fe9cba8d146",
                   "label":"",
@@ -2801,7 +2801,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.png"}},
+                    "normal~":"images/主页/u387.png"}},
 {
                   "id":"86096665333d4bd3b6b9d51a49ad98cc",
                   "label":"",
@@ -2877,7 +2877,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.png"}},
+                    "normal~":"images/主页/u387.png"}},
 {
                   "id":"7625b54528ac4e36a6ef2f4b7ed51f72",
                   "label":"",
@@ -2953,7 +2953,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.png"}},
+                    "normal~":"images/主页/u387.png"}},
 {
                   "id":"f74c82aded964b3292931abbcde193f7",
                   "label":"",
@@ -3029,7 +3029,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/u241.png"}},
+                    "normal~":"images/主页/u387.png"}},
 {
                   "id":"c76b418897cb4261b32e18601f7693f0",
                   "label":"",
@@ -3120,7 +3120,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"e082b2913c5f4a9e9406b4a413f40e8c",
           "label":"",
@@ -3286,7 +3286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u56.png"}},
 {
           "id":"76103d7a7c3c4f2c9a0c7b426fdb9aab",
           "label":"",
@@ -3327,7 +3327,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u12.png"}},
+            "normal~":"images/主页/u58.png"}},
 {
           "id":"8a26748c07d84c978e77d1a6796ec710",
           "label":"",
@@ -3376,7 +3376,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"244fc634320f410fbf1fa87276cdd7ee",
           "label":"",
@@ -3503,7 +3503,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u241.png"}},
+                      "normal~":"images/主页/u387.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -3686,7 +3686,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u36.png"}},
+                      "normal~":"images/主页/u395.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -3721,7 +3721,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u42.png"}},
+                      "normal~":"images/主页/u397.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -3756,7 +3756,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u255.png"}},
+                      "normal~":"images/主页/u399.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -3791,7 +3791,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/会员主页_安卓_/u303.png"}},
+                      "normal~":"images/主页/u409.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",
@@ -3987,7 +3987,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u265.png"}},
+                      "normal~":"images/主页/u403.png"}},
 {
                     "id":"d871e8d8e00b43e38ddfde26b9da7948",
                     "label":"",
@@ -4015,7 +4015,7 @@
                                 "description":"在 当前窗口 打开 农旅百科",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"农旅百科.html",
+                                  "url":"农旅百科_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

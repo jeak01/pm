@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情.html",
-  "generationDate":new Date(1503655489034.27),
+  "generationDate":new Date(1504186573196.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"14b2df318d5a466c886abbff3f112868",
+    "packageId":"ecda4ccf7b874c4c9069d33b7fe637e0",
     "type":"Axure:Page",
     "name":"线路详情",
     "notes":{
@@ -274,7 +274,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -323,7 +323,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"5d461c2f6d804383a230526066d1af49",
           "label":"",
@@ -403,7 +403,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/线路详情/u12.png"}},
 {
           "id":"1095b6aaa09a4e79b08c8cb1c8292c95",
           "label":"",
@@ -444,7 +444,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/线路详情/u12.png"}},
 {
           "id":"c46432eebce64b69a48af648b4a0350e",
           "label":"",
@@ -485,7 +485,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/线路详情/u12.png"}},
 {
           "id":"b116755253274ef1906025fd8b5099a7",
           "label":"",
@@ -737,7 +737,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/线路详情/u30_line.png"}},
+            "line~":"images/订单支付页/u11_line.png"}},
 {
           "id":"16882a03adbc42498bbe79586f3d05b9",
           "label":"",
@@ -792,7 +792,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/线路详情/u30_line.png"}},
+            "line~":"images/订单支付页/u11_line.png"}},
 {
           "id":"d99648621d8c4b8e91eb346c6aec293b",
           "label":"",
@@ -864,7 +864,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u311.png"}},
+            "normal~":"images/购买配送次数/u33.png"}},
 {
           "id":"4b54912016444821820f4469afcef3f2",
           "label":"",
@@ -938,7 +938,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"78baf9a4f28d4a919807a49ff7d9c157",
           "label":"",
@@ -979,7 +979,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅产品详情/u40.png"}},
+            "normal~":"images/线路详情/u42.png"}},
 {
           "id":"7c88f54b4a914402878fdbbad17af059",
           "label":"",
@@ -1106,7 +1106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u15.png"}},
+            "normal~":"images/购买配送次数/u60.png"}},
 {
           "id":"456076c766af4f05b0be984a15b56f77",
           "label":"",
@@ -1211,7 +1211,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u15.png"}},
+            "normal~":"images/购买配送次数/u60.png"}},
 {
           "id":"baf356238bc24ac89ede1efeae82d8be",
           "label":"",
@@ -1316,7 +1316,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u15.png"}},
+            "normal~":"images/购买配送次数/u60.png"}},
 {
           "id":"ac9013e5857f4fed8e41f665c3656dc1",
           "label":"",
@@ -1921,7 +1921,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员专区/u62.JPG"}},
+            "normal~":"images/线路详情/u91.JPG"}},
 {
           "id":"892b5dbd33ca44de90e33e9ca618d89b",
           "label":"",
@@ -2617,7 +2617,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u15.png"}},
+            "normal~":"images/购买配送次数/u60.png"}},
 {
           "id":"c76b42c6431d4beab206de7e1b2d4e6c",
           "label":"",
@@ -2724,7 +2724,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u56.png"}},
 {
           "id":"f46e020cfa5d479daf4c5b1231f440b3",
           "label":"",
@@ -2804,7 +2804,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u15.png"}},
+            "normal~":"images/购买配送次数/u60.png"}},
 {
           "id":"592d45058d874348beddc8422e2e8834",
           "label":"",
@@ -2931,7 +2931,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u15.png"}},
+            "normal~":"images/购买配送次数/u60.png"}},
 {
           "id":"ebdc27f19f934ab6af6679ce6188a0a0",
           "label":"",
@@ -3101,7 +3101,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u15.png"}},
+            "normal~":"images/购买配送次数/u60.png"}},
 {
           "id":"a6c01023249545e087f831cd00b69352",
           "label":"",
@@ -3250,7 +3250,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/线路详情/u30_line.png"}},
+            "line~":"images/订单支付页/u11_line.png"}},
 {
           "id":"c20fce5a3ab14b7eab83c6b4d00d24e1",
           "label":"",
@@ -3349,7 +3349,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/体验路线/u11.jpg"}},
+            "normal~":"images/线路详情/u167.jpg"}},
 {
           "id":"8fc591950ca24425877e1df582e43154",
           "label":"",
@@ -3741,7 +3741,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蜜桃/u40.png"}},
+                    "normal~":"images/确认订单（农旅）/u240.png"}},
 {
                   "id":"2c7f38d48cd04868a034ad8d4dd5377b",
                   "label":"",
@@ -3859,7 +3859,7 @@
                               "description":"在 当前窗口 打开 确认订单（农旅）",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单（农旅）.html",
+                                "url":"确认订单（农旅）_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -4099,7 +4099,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蜜桃/u40.png"}},
+                    "normal~":"images/确认订单（农旅）/u240.png"}},
 {
                   "id":"e9496b406c3f4a2d946a46f824c479bf",
                   "label":"",
@@ -4383,7 +4383,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蜜桃/u40.png"}},
+                    "normal~":"images/确认订单（农旅）/u240.png"}},
 {
                   "id":"c2c7914d0ef74623baedf01c6d73737c",
                   "label":"",
@@ -4505,7 +4505,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"6cbb9857e2c04cd0b146f78fa9f85701",
           "label":"",
@@ -4581,7 +4581,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u42.jpg"}},
+            "normal~":"images/线路详情/u220.jpg"}},
 {
           "id":"4c1fd413236244e4b757cea39fdce8fd",
           "label":"",
@@ -4655,7 +4655,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"31d83b187c5b436788ed4225af049e52",
           "label":"",
@@ -4694,7 +4694,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"602cb574c52a44659e8a2ff9a5081667",
           "label":"",
@@ -4770,7 +4770,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅百科/u21.jpg"}},
+            "normal~":"images/线路详情/u230.jpg"}},
 {
           "id":"0d65f899e78a431eb111a800109eb190",
           "label":"",
@@ -4844,7 +4844,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"6e9ace1aa53148d793d8decceed3db87",
           "label":"",
@@ -4883,7 +4883,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"472d9660b01b4088adc1ba66b51b82a7",
           "label":"",
@@ -4916,7 +4916,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u18.jpg"}},
+            "normal~":"images/主页/u9.jpg"}},
 {
           "id":"79ab07462317489aa3b5e7f678ad3c06",
           "label":"",
@@ -4990,7 +4990,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"535829a9ba9d4238b923b121af45bb97",
           "label":"",
@@ -5029,7 +5029,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"88c38f17f16a458999886f516321df3d",
           "label":"",
@@ -5062,7 +5062,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u67.jpg"}},
+            "normal~":"images/主页/u11.jpg"}},
 {
           "id":"81270b09d63d4340902d905ef0dedc3f",
           "label":"",
@@ -5136,7 +5136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"34c862c199d94965b30f5d65d8562090",
           "label":"",
@@ -5184,7 +5184,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页_安卓_/u89.png"}}]}},
+            "normal~":"images/线路详情/u252.png"}}]}},
   "masters":{
 },
   "objectPaths":{

@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场介绍.html",
-  "generationDate":new Date(1503655487545.12),
+  "generationDate":new Date(1504186574402.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"26dfcfe899dd4fe29501f57952e536d6",
+    "packageId":"eeb99f1da0024ad5a7a467252b19e759",
     "type":"Axure:Page",
     "name":"农场介绍",
     "notes":{
@@ -44,7 +44,7 @@
               "color":0xFFF1F1F1},
             "size":{
               "width":360,
-              "height":2170},
+              "height":2020},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFF1F1F1}},
@@ -63,7 +63,7 @@
                   "color":0xFFF1F1F1},
                 "size":{
                   "width":360,
-                  "height":2170},
+                  "height":2020},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFF1F1F1}},
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"f7f257f2bbe1412498af452a6d93096c",
           "label":"",
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u60.png"}},
+            "normal~":"images/农旅百科/u72.png"}},
 {
           "id":"d5a08b18637a4ed09207ea62a10493ea",
           "label":"",
@@ -362,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u107.png"}},
+            "normal~":"images/农旅百科/u78.png"}},
 {
           "id":"8d3242cc83904a858a91bd2f1f2b97b1",
           "label":"",
@@ -430,7 +430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u111.png"}},
+            "normal~":"images/农旅百科/u82.png"}},
 {
           "id":"d3406da983db46d899f7e9af25abbd0a",
           "label":"",
@@ -568,7 +568,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场介绍/u28.jpg"}},
+            "normal~":"images/农旅卡列表/u42.jpg"}},
 {
           "id":"a8b083b2f0aa4e1d8a58479c7da6008c",
           "label":"",
@@ -607,7 +607,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"00448f98c74a4ea3aadab8baab2a987e",
           "label":"",
@@ -683,7 +683,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场介绍/u28.jpg"}},
+            "normal~":"images/农旅卡列表/u42.jpg"}},
 {
           "id":"8a3efbd7c6194810ac6a681e937a7bec",
           "label":"",
@@ -757,7 +757,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"84e8c2df97ad48b99d29b4b8ca23634c",
           "label":"",
@@ -796,7 +796,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"7e72dd85daab44149d65090cf2f814fd",
           "label":"",
@@ -872,7 +872,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅百科/u21.jpg"}},
+            "normal~":"images/线路详情/u230.jpg"}},
 {
           "id":"4259b019ec1f4cdfb5bd0e936df2cb0a",
           "label":"",
@@ -946,7 +946,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"15ab1fd4bedd47c194f1f929f537095a",
           "label":"",
@@ -985,7 +985,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"e428fd01a8f741b8b775c379f7b7e365",
           "label":"",
@@ -1018,7 +1018,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u18.jpg"}},
+            "normal~":"images/主页/u9.jpg"}},
 {
           "id":"0a87cc1c60334c36a96e57db777ca2d3",
           "label":"",
@@ -1092,7 +1092,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"d0dc2dbc11b74391a76393cb95b932ab",
           "label":"",
@@ -1131,7 +1131,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"cb9c9fa714444a63b3dfaa170a97ec32",
           "label":"",
@@ -1164,7 +1164,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u67.jpg"}},
+            "normal~":"images/主页/u11.jpg"}},
 {
           "id":"81aa2ad68a9c4e338adfc54fcca96928",
           "label":"",
@@ -1238,175 +1238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
-{
-          "id":"1b2eeaaf133c41918271c6b34c2b9ded",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":1981},
-            "size":{
-              "width":360,
-              "height":118}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"6b9114b9c2ab4fda98dee317f8ed2a42",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":1981},
-                "size":{
-                  "width":360,
-                  "height":118}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 会员特权",
-                      "target":{
-                        "targetType":"page",
-                        "url":"会员特权.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/主页_安卓_/u89.png"}},
-{
-          "id":"2245e8e283d0431e81ed4166e4f2bb9e",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":1594},
-            "size":{
-              "width":359,
-              "height":70}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 线路详情",
-                      "target":{
-                        "targetType":"page",
-                        "url":"线路详情.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true},
-{
-          "id":"46ac8f9eae3644e88b505ee1b342106a",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":1761},
-            "size":{
-              "width":359,
-              "height":70}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 线路详情",
-                      "target":{
-                        "targetType":"page",
-                        "url":"线路详情_1.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true},
-{
-          "id":"e57b7efb636f482cb059544f56af1943",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":1831},
-            "size":{
-              "width":359,
-              "height":70}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 线路详情",
-                      "target":{
-                        "targetType":"page",
-                        "url":"线路详情_2.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true},
-{
-          "id":"676e5044c17643cf9e3e3620ef6a8680",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":1901},
-            "size":{
-              "width":359,
-              "height":70}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 线路详情",
-                      "target":{
-                        "targetType":"page",
-                        "url":"线路详情_3.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true},
+            "normal~":"images/主页/u304.png"}},
 {
           "id":"7a3e2a32ff264686a7c8031a0ff84da9",
           "label":"",
@@ -1571,7 +1403,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场介绍/u80.png"}},
+            "normal~":"images/农场介绍/u74.png"}},
 {
           "id":"5476d6f4a48f41ce887950c95b2ba735",
           "label":"",
@@ -1643,7 +1475,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/文章详情/u38.png"}},
+            "normal~":"images/线路详情/u216.png"}},
 {
           "id":"43bd22ba80384a9e8e56d27d6701df31",
           "label":"",
@@ -1676,7 +1508,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场介绍/u86.jpg"}},
+            "normal~":"images/农旅卡列表/u22.jpg"}},
 {
           "id":"a79fca847b954d869e64ba4706586d75",
           "label":"",
@@ -1750,37 +1582,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
-{
-          "id":"53d63a16c3124628a6359a1d87625e6b",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":1663},
-            "size":{
-              "width":359,
-              "height":70}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 宅配详情的副本",
-                      "target":{
-                        "targetType":"page",
-                        "url":"宅配详情的副本.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true}]}},
+            "normal~":"images/主页/u304.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1916,57 +1718,43 @@
       "scriptId":"u64"},
     "a6659c5c6a374d77bf894e245a602ad7":{
       "scriptId":"u65"},
-    "1b2eeaaf133c41918271c6b34c2b9ded":{
-      "scriptId":"u66"},
-    "6b9114b9c2ab4fda98dee317f8ed2a42":{
-      "scriptId":"u67"},
-    "2245e8e283d0431e81ed4166e4f2bb9e":{
-      "scriptId":"u68"},
-    "46ac8f9eae3644e88b505ee1b342106a":{
-      "scriptId":"u69"},
-    "e57b7efb636f482cb059544f56af1943":{
-      "scriptId":"u70"},
-    "676e5044c17643cf9e3e3620ef6a8680":{
-      "scriptId":"u71"},
     "7a3e2a32ff264686a7c8031a0ff84da9":{
-      "scriptId":"u72"},
+      "scriptId":"u66"},
     "3dc4c7025df6467ea02be7e1cfac103e":{
-      "scriptId":"u73"},
+      "scriptId":"u67"},
     "19011f9fd4174a73b131a5febbc017e7":{
-      "scriptId":"u74"},
+      "scriptId":"u68"},
     "f18b25cbfd56420b919afa079a5e662a":{
-      "scriptId":"u75"},
+      "scriptId":"u69"},
     "19ccf01dee4741a799360284f7834f0d":{
-      "scriptId":"u76"},
+      "scriptId":"u70"},
     "55c3bc5bc40c4981945b82f41eb64976":{
-      "scriptId":"u77"},
+      "scriptId":"u71"},
     "7974637244d84e0c9b73fff224b9b48f":{
-      "scriptId":"u78"},
+      "scriptId":"u72"},
     "d9a3854c37f845fcb91dc64059446a25":{
-      "scriptId":"u79"},
+      "scriptId":"u73"},
     "64286e8ac5574be08df87e1086a4ed54":{
-      "scriptId":"u80"},
+      "scriptId":"u74"},
     "79faa763ef674808a9b799b01ef1ec0a":{
-      "scriptId":"u81"},
+      "scriptId":"u75"},
     "5476d6f4a48f41ce887950c95b2ba735":{
-      "scriptId":"u82"},
+      "scriptId":"u76"},
     "1b5e4439df7c462e9c23cba432f53ee7":{
-      "scriptId":"u83"},
+      "scriptId":"u77"},
     "4864c1200a624c50ad333f14360a2731":{
-      "scriptId":"u84"},
+      "scriptId":"u78"},
     "b2ff361f0c66447c970763c1274934cd":{
-      "scriptId":"u85"},
+      "scriptId":"u79"},
     "43bd22ba80384a9e8e56d27d6701df31":{
-      "scriptId":"u86"},
+      "scriptId":"u80"},
     "d02309564df24695b96991e5f40053f3":{
-      "scriptId":"u87"},
+      "scriptId":"u81"},
     "a79fca847b954d869e64ba4706586d75":{
-      "scriptId":"u88"},
+      "scriptId":"u82"},
     "4dfd7b63fd6144efacb9fb9c4a4bc505":{
-      "scriptId":"u89"},
+      "scriptId":"u83"},
     "ce0e3dcd842b47689b46360bd91831fb":{
-      "scriptId":"u90"},
+      "scriptId":"u84"},
     "8b79e40743004da199909d7faba7a62a":{
-      "scriptId":"u91"},
-    "53d63a16c3124628a6359a1d87625e6b":{
-      "scriptId":"u92"}}});
+      "scriptId":"u85"}}});

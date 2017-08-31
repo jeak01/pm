@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场_1.html",
-  "generationDate":new Date(1503655504944.92),
+  "generationDate":new Date(1504186602210.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u0.png"}},
+            "normal~":"images/选择配送农场/u0.png"}},
 {
           "id":"0f17684f7e1b486b9ff015d56664c569",
           "label":"",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u2.png"}},
+            "normal~":"images/选择配送农场/u2.png"}},
 {
           "id":"d4d8cb00187f41b5b763d9c25aa65c14",
           "label":"",
@@ -134,7 +134,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"6ea10b8a8d3f44bcbfb530836eee6bf6",
           "label":"",
@@ -191,7 +191,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场/u8_line.png"}},
+            "line~":"images/农场列表/u80_line.png"}},
 {
           "id":"1e622f8824cb4b71b07a54ba3d45563d",
           "label":"",
@@ -269,7 +269,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"31af01d8d6c64aedba0e288046f94f15",
           "label":"",
@@ -326,7 +326,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"78d5e0c4e90241dcae2e0dc3c35242a5",
           "label":"",
@@ -414,7 +414,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"47a884057b9d468a8851576bee56feb5",
           "label":"",
@@ -436,7 +436,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"ef69620d28c04a2588e98dcf02ba8b10",
           "label":"",
@@ -514,7 +514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"ba72843dc9184b289d44d5f9c6773a03",
           "label":"",
@@ -571,7 +571,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"6accfef8f55e45b398a6076c73838461",
           "label":"",
@@ -659,7 +659,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"2098b805636845f6a75694115c2e74ac",
           "label":"",
@@ -681,7 +681,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"87cf7cc4c8f546658f7b291840539fe3",
           "label":"",
@@ -759,7 +759,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"a4e5721cca0e4cf9b3ae4bb342c49b25",
           "label":"",
@@ -816,7 +816,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"ae939643a7244bc2b2cea26985e8b371",
           "label":"",
@@ -894,7 +894,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"bc683a04da7044b79bded769d56835fb",
           "label":"",
@@ -951,7 +951,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"f566d26738c24b38a5fb38868a8a6d30",
           "label":"",
@@ -1029,7 +1029,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u6.png"}},
+            "normal~":"images/选择配送农场/u6.png"}},
 {
           "id":"b049e587cb5b496491033885346b0b15",
           "label":"",
@@ -1086,7 +1086,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/选择配送农场（宅配）/u10_line.png"}},
+            "line~":"images/选择配送农场/u10_line.png"}},
 {
           "id":"540f314570554461814cffd3e3e5e750",
           "label":"",
@@ -1166,7 +1166,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场（宅配）/u53.png"}},
+            "normal~":"images/选择配送农场/u53.png"}},
 {
           "id":"5b7c50fef56c404f8c87f04646900baa",
           "label":"",
@@ -1226,7 +1226,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表_1.html",
+                        "url":"商品列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1958,7 +1958,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表_1.html",
+                        "url":"商品列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1988,7 +1988,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表_1.html",
+                        "url":"商品列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2018,7 +2018,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表_1.html",
+                        "url":"商品列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2048,7 +2048,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表_1.html",
+                        "url":"商品列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2078,7 +2078,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表_1.html",
+                        "url":"商品列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

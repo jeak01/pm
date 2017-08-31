@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功（蔬果）.html",
-  "generationDate":new Date(1503655480879),
+  "generationDate":new Date(1504186600594.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"7bcb03b3929c4fbf8f067b6f94638058",
+    "packageId":"6bcc62eaa05d49d89b5363abf9324085",
     "type":"Axure:Page",
     "name":"支付成功（蔬果）",
     "notes":{
@@ -46,7 +46,7 @@
               "x":0,
               "y":-17},
             "size":{
-              "width":375,
+              "width":360,
               "height":667}},
           "adaptiveStyles":{
 },
@@ -65,12 +65,12 @@
                   "x":0,
                   "y":-17},
                 "size":{
-                  "width":375,
+                  "width":360,
                   "height":667}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/配送设置面板_u132.png"}},
+            "normal~":"images/购买配送次数/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -79,7 +79,7 @@
           "visible":true,
           "style":{
             "size":{
-              "width":375,
+              "width":360,
               "height":40}},
           "adaptiveStyles":{
 },
@@ -92,12 +92,12 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":375,
+                  "width":360,
                   "height":40}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u26.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -106,7 +106,7 @@
           "visible":true,
           "style":{
             "size":{
-              "width":41,
+              "width":39,
               "height":41},
             "borderWidth":"-1",
             "borderFill":{
@@ -123,7 +123,7 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":41,
+                  "width":39,
                   "height":41},
                 "borderWidth":"-1",
                 "borderFill":{
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -158,7 +158,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":151,
+              "x":145,
               "y":9},
             "size":{
               "width":73,
@@ -177,7 +177,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":151,
+                  "x":145,
                   "y":9},
                 "size":{
                   "width":73,
@@ -197,7 +197,7 @@
               "x":0,
               "y":60},
             "size":{
-              "width":375,
+              "width":360,
               "height":180}},
           "adaptiveStyles":{
 },
@@ -213,12 +213,12 @@
                   "x":0,
                   "y":60},
                 "size":{
-                  "width":375,
+                  "width":360,
                   "height":180}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功（农旅）/u8.png"}},
+            "normal~":"images/支付成功/u8.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -227,10 +227,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":155.5,
+              "x":150,
               "y":76},
             "size":{
-              "width":64,
+              "width":61,
               "height":64},
             "borderWidth":"-1",
             "borderFill":{
@@ -247,10 +247,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":155.5,
+                  "x":150,
                   "y":76},
                 "size":{
-                  "width":64,
+                  "width":61,
                   "height":64},
                 "borderWidth":"-1",
                 "borderFill":{
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功（农旅）/u10.png"}},
+            "normal~":"images/支付成功/u10.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -268,7 +268,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":145,
+              "x":139,
               "y":140},
             "size":{
               "width":79,
@@ -284,7 +284,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":145,
+                  "x":139,
                   "y":140},
                 "size":{
                   "width":79,
@@ -301,10 +301,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":58,
+              "x":56,
               "y":180},
             "size":{
-              "width":122,
+              "width":117,
               "height":40},
             "cornerRadiusTopLeft":"5"},
           "adaptiveStyles":{
@@ -318,10 +318,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":58,
+                  "x":56,
                   "y":180},
                 "size":{
-                  "width":122,
+                  "width":117,
                   "height":40},
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
@@ -334,15 +334,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 主页",
+                      "description":"在 当前窗口 打开 主页(安卓)",
                       "target":{
                         "targetType":"page",
-                        "url":"主页.html",
+                        "url":"主页_安卓_.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功（农旅）/u14.png"}},
+            "normal~":"images/支付成功/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -354,10 +354,10 @@
               "fillType":"solid",
               "color":0xFFDDDDDD},
             "location":{
-              "x":190,
+              "x":182,
               "y":180},
             "size":{
-              "width":122,
+              "width":117,
               "height":40},
             "cornerRadiusTopLeft":"5"},
           "adaptiveStyles":{
@@ -374,10 +374,10 @@
                   "fillType":"solid",
                   "color":0xFFDDDDDD},
                 "location":{
-                  "x":190,
+                  "x":182,
                   "y":180},
                 "size":{
-                  "width":122,
+                  "width":117,
                   "height":40},
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
@@ -393,12 +393,12 @@
                       "description":"在 当前窗口 打开 蔬果订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬果订单详情.html",
+                        "url":"蔬果订单详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功（农旅）/u16.png"}}]}},
+            "normal~":"images/支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{

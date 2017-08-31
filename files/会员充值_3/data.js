@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_3.html",
-  "generationDate":new Date(1503655499618.42),
+  "generationDate":new Date(1504186597182.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"f4578402a6c146e3ada4f27daf4654ee",
+    "packageId":"89492b71329a47bab9cb5b5ffaf1f623",
     "type":"Axure:Page",
     "name":"会员充值",
     "notes":{
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u0.png"}},
+            "normal~":"images/购买配送次数/u0.png"}},
 {
           "id":"f42628a40acb4ca2804b9ea99a3aee25",
           "label":"",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"898b8dc43747405ead4300c3a3c9bcac",
           "label":"",
@@ -140,7 +140,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"0e77fca28e9d4fc78488a5a2ee541eb1",
           "label":"",
@@ -212,7 +212,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"b7ab70103b9c481aaee87da63bfe4484",
           "label":"",
@@ -369,7 +369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"122a11397b0f4daab3c10ed9c11d9410",
           "label":"",
@@ -466,7 +466,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"1fcd9142aec3426dbde01d7ceffd532d",
           "label":"",
@@ -566,6 +566,13 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFF9900},
                     "size":{
                       "width":360,
                       "height":40}},
@@ -580,6 +587,13 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFF9900},
                         "size":{
                           "width":360,
                           "height":40}},
@@ -601,7 +615,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页_安卓_/top_u2.png"}}]}]},
+                    "normal~":"images/会员充值_3/u26.png"}}]}]},
 {
           "id":"89429d925bd244968cffb91d9b982c58",
           "label":"",
@@ -634,7 +648,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"b2f725d8f1e94708841c2b2ce4ef5ccb",
           "label":"",
@@ -751,7 +765,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"c0a8fff2a96b4aa19fe0d7afe586f679",
           "label":"",
@@ -761,10 +775,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":217,
+              "x":206,
               "y":101},
             "size":{
-              "width":129,
+              "width":140,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -778,10 +792,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":217,
+                  "x":206,
                   "y":101},
                 "size":{
-                  "width":129,
+                  "width":140,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -903,7 +917,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u48.png"}},
 {
           "id":"61be6844859d4157bc3985c18bc21752",
           "label":"",
@@ -1076,7 +1090,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页（农旅）/u45.png"}},
+            "normal~":"images/购买配送次数/u23.png"}},
 {
           "id":"c817f86babdd4acd88bdde8d81c33991",
           "label":"",
@@ -1109,7 +1123,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页（农旅）/u47.png"}},
+            "normal~":"images/订单支付页_1/u47.png"}},
 {
           "id":"62586b90e9aa4e03a5366a5151d5a645",
           "label":"",
@@ -1215,7 +1229,7 @@
               "y":340},
             "size":{
               "width":360,
-              "height":230}},
+              "height":270}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1231,11 +1245,11 @@
                   "y":340},
                 "size":{
                   "width":360,
-                  "height":230}},
+                  "height":270}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员充值_1/u60.png"}},
+            "normal~":"images/支付失败/u8.png"}},
 {
           "id":"53956dc72d8941ddbd88e2bff443b94f",
           "label":"",
@@ -1323,10 +1337,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":211,
+              "x":200,
               "y":142},
             "size":{
-              "width":135,
+              "width":146,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1340,10 +1354,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":211,
+                  "x":200,
                   "y":142},
                 "size":{
-                  "width":135,
+                  "width":146,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1358,10 +1372,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":223,
+              "x":212,
               "y":64},
             "size":{
-              "width":123,
+              "width":134,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1375,10 +1389,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":223,
+                  "x":212,
                   "y":64},
                 "size":{
-                  "width":123,
+                  "width":134,
                   "height":14}},
               "adaptiveStyles":{
 }}],
