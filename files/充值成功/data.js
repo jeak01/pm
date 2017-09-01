@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功.html",
-  "generationDate":new Date(1504247604786.23),
+  "generationDate":new Date(1504251713520.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"c0bac8acf68e4476b03f8a7fe523c50e",
+    "packageId":"2d6b6bc21c4942f7abbd01cedef9c110",
     "type":"Axure:Page",
     "name":"充值成功",
     "notes":{
@@ -334,10 +334,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 会员主页(安卓)",
+                      "description":"在 当前窗口 打开 主页",
                       "target":{
                         "targetType":"page",
-                        "url":"会员主页_安卓_.html",
+                        "url":"主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -390,10 +390,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 订单支付页（已充）",
+                      "description":"在 当前窗口 打开 会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"订单支付页（已充）.html",
+                        "url":"会员充值.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

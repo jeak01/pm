@@ -45,9 +45,9 @@
             "type":"Wireframe",
             "url":"蔬菜箱.html",
             "children":[{
-                "pageName":"蔬菜箱1",
+                "pageName":"蔬菜箱",
                 "type":"Wireframe",
-                "url":"蔬菜箱1.html"},
+                "url":"蔬菜箱_1.html"},
 {
                 "pageName":"购买配送次数",
                 "type":"Wireframe",
@@ -203,7 +203,15 @@
 {
                 "pageName":"更多功能",
                 "type":"Wireframe",
-                "url":"更多功能.html"}]}]},
+                "url":"更多功能.html"}]},
+{
+            "pageName":"会员充值",
+            "type":"Wireframe",
+            "url":"会员充值.html",
+            "children":[{
+                "pageName":"充值成功",
+                "type":"Wireframe",
+                "url":"充值成功.html"}]}]},
 {
         "pageName":"360",
         "type":"Folder",
@@ -299,11 +307,11 @@
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
-                    "url":"会员充值.html",
+                    "url":"会员充值_1.html",
                     "children":[{
                         "pageName":"充值成功",
                         "type":"Wireframe",
-                        "url":"充值成功.html"}]},
+                        "url":"充值成功_1.html"}]},
 {
                     "pageName":"订单支付页（已充）",
                     "type":"Wireframe",
@@ -339,11 +347,11 @@
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
-                    "url":"会员充值_1.html",
+                    "url":"会员充值_2.html",
                     "children":[{
                         "pageName":"充值成功",
                         "type":"Wireframe",
-                        "url":"充值成功_1.html"}]},
+                        "url":"充值成功_2.html"}]},
 {
                     "pageName":"订单支付页（已充）",
                     "type":"Wireframe",
@@ -399,11 +407,11 @@
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
-                    "url":"会员充值_2.html",
+                    "url":"会员充值_3.html",
                     "children":[{
                         "pageName":"充值成功",
                         "type":"Wireframe",
-                        "url":"充值成功_2.html"}]},
+                        "url":"充值成功_3.html"}]},
 {
                     "pageName":"订单支付页（已充）",
                     "type":"Wireframe",
@@ -415,11 +423,11 @@
 {
             "pageName":"会员充值",
             "type":"Wireframe",
-            "url":"会员充值_3.html",
+            "url":"会员充值_4.html",
             "children":[{
                 "pageName":"充值成功",
                 "type":"Wireframe",
-                "url":"充值成功_3.html"}]},
+                "url":"充值成功_4.html"}]},
 {
             "pageName":"个人中心主页",
             "type":"Wireframe",

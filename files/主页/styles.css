@@ -129,21 +129,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:358px;
-  height:170px;
+  width:360px;
+  height:158px;
 }
 #u7_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:358px;
-  height:170px;
+  width:360px;
+  height:158px;
 }
 #u8 {
   position:absolute;
   left:2px;
-  top:77px;
-  width:354px;
+  top:71px;
+  width:356px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -4416,7 +4416,7 @@
 }
 #u384 {
   position:fixed;
-  left:-10px;
+  left:0px;
   bottom:0px;
   width:360px;
   height:63px;

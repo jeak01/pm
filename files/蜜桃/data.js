@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蜜桃.html",
-  "generationDate":new Date(1504247615664.74),
+  "generationDate":new Date(1504251731056.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

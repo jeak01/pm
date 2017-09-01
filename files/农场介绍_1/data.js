@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场介绍_1.html",
-  "generationDate":new Date(1504247600119.11),
+  "generationDate":new Date(1504251716990.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1018,7 +1018,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u7.jpg"}},
+            "normal~":"images/线路详情/u238.jpg"}},
 {
           "id":"0a87cc1c60334c36a96e57db777ca2d3",
           "label":"",
@@ -1571,7 +1571,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场介绍/u74.png"}},
+            "normal~":"images/农场介绍/u66.png"}},
 {
           "id":"5476d6f4a48f41ce887950c95b2ba735",
           "label":"",

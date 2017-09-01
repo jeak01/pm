@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1504247573900.4),
+  "generationDate":new Date(1504251698679.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -280,7 +280,7 @@
               "label":"状态2",
               "type":"Axure:PanelDiagram",
               "objects":[{
-                  "id":"0c6a2dba778f4e44b1e18eafffc880a1",
+                  "id":"a1121cc44541460d93cd16d514e5177e",
                   "label":"",
                   "parentDynamicPanel":"970917f03ac84bccb6124a4b2b9a2062",
                   "type":"imageBox",
@@ -288,12 +288,12 @@
                   "visible":true,
                   "style":{
                     "size":{
-                      "width":358,
-                      "height":170}},
+                      "width":360,
+                      "height":158}},
                   "adaptiveStyles":{
 },
                   "objects":[{
-                      "id":"33b7679f89924b20b6e5b5d173ec41f3",
+                      "id":"50e863a43f1b4ad6882f51cbed99aba5",
                       "label":"",
                       "isContained":true,
                       "parentDynamicPanel":"970917f03ac84bccb6124a4b2b9a2062",
@@ -302,8 +302,8 @@
                       "visible":true,
                       "style":{
                         "size":{
-                          "width":358,
-                          "height":170}},
+                          "width":360,
+                          "height":158}},
                       "adaptiveStyles":{
 }}],
                   "interactionMap":{
@@ -314,10 +314,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 线路详情",
+                              "description":"在 当前窗口 打开 蔬菜箱",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_6.html",
+                                "url":"蔬菜箱.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1497,10 +1497,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蔬菜箱1",
+                      "description":"在 当前窗口 打开 蔬菜箱",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬菜箱1.html",
+                        "url":"蔬菜箱_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -5168,7 +5168,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u246.jpg"}},
+            "normal~":"images/主页/u7.jpg"}},
 {
           "id":"ed973fa71b984b2d89130acbaffa6256",
           "label":"",
@@ -8087,16 +8087,13 @@
             "styleType":"dynamicPanel",
             "visible":true,
             "style":{
-              "location":{
-                "x":-10,
-                "y":0},
               "size":{
                 "width":360,
                 "height":63}},
             "adaptiveStyles":{
 },
             "fixedHorizontal":"left",
-            "fixedMarginHorizontal":-10,
+            "fixedMarginHorizontal":0,
             "fixedVertical":"bottom",
             "fixedMarginVertical":0,
             "fixedKeepInFront":true,
@@ -8637,10 +8634,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 蔬菜箱1",
+                                "description":"在 当前窗口 打开 蔬菜箱",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜箱1.html",
+                                  "url":"蔬菜箱_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -8721,9 +8718,9 @@
       "scriptId":"u5"},
     "99094558de2a413c9360d5385145e390":{
       "scriptId":"u6"},
-    "0c6a2dba778f4e44b1e18eafffc880a1":{
+    "a1121cc44541460d93cd16d514e5177e":{
       "scriptId":"u7"},
-    "33b7679f89924b20b6e5b5d173ec41f3":{
+    "50e863a43f1b4ad6882f51cbed99aba5":{
       "scriptId":"u8"},
     "e46efa41d8b344a4b0f3dbc7b4d3aaf2":{
       "scriptId":"u9"},

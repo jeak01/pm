@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅路线.html",
-  "generationDate":new Date(1504247581497),
+  "generationDate":new Date(1504251706301.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3531,7 +3531,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页/u7.jpg"}}]},
+                    "normal~":"images/线路详情/u238.jpg"}}]},
 {
               "id":"1dfbbd6dbed54958b58613f312e81d9a",
               "label":"状态3",
@@ -4913,16 +4913,13 @@
             "styleType":"dynamicPanel",
             "visible":true,
             "style":{
-              "location":{
-                "x":-10,
-                "y":0},
               "size":{
                 "width":360,
                 "height":63}},
             "adaptiveStyles":{
 },
             "fixedHorizontal":"left",
-            "fixedMarginHorizontal":-10,
+            "fixedMarginHorizontal":0,
             "fixedVertical":"bottom",
             "fixedMarginVertical":0,
             "fixedKeepInFront":true,
@@ -5463,10 +5460,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 蔬菜箱1",
+                                "description":"在 当前窗口 打开 蔬菜箱",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜箱1.html",
+                                  "url":"蔬菜箱_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

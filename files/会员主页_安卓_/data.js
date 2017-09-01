@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_.html",
-  "generationDate":new Date(1504247590299.79),
+  "generationDate":new Date(1504251714497.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -382,7 +382,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页/u7.jpg"}}]},
+                    "normal~":"images/线路详情/u238.jpg"}}]},
 {
               "id":"995a91cdba1f4b668a18d57e691daaf5",
               "label":"状态3",
@@ -4290,7 +4290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u7.jpg"}},
+            "normal~":"images/线路详情/u238.jpg"}},
 {
           "id":"8418f740967443b2be3f65538971a8f4",
           "label":"",

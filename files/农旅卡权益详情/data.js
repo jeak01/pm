@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1504247576599.85),
+  "generationDate":new Date(1504251700619.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -507,6 +507,21 @@
                   "height":45}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场介绍",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场介绍.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/农旅卡权益详情/u18.jpg"}},
 {
@@ -3051,8 +3066,8 @@
                       "color":0xFFFF0000,
                       "opacity":1},
                     "location":{
-                      "x":10,
-                      "y":14},
+                      "x":30,
+                      "y":13},
                     "size":{
                       "width":51,
                       "height":24}},
@@ -3075,8 +3090,8 @@
                           "color":0xFFFF0000,
                           "opacity":1},
                         "location":{
-                          "x":10,
-                          "y":14},
+                          "x":30,
+                          "y":13},
                         "size":{
                           "width":51,
                           "height":24}},
@@ -3420,6 +3435,21 @@
                           "color":0xFFCCCCCC}},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 农场介绍",
+                              "target":{
+                                "targetType":"page",
+                                "url":"农场介绍.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"images/农旅卡权益详情/u170.png"}}]}]}]}},
   "masters":{

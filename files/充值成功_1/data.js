@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功_1.html",
-  "generationDate":new Date(1504247606886.85),
+  "generationDate":new Date(1504251721337.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"82681db2018a4bfda5681c8553e2df42",
+    "packageId":"c0bac8acf68e4476b03f8a7fe523c50e",
     "type":"Axure:Page",
     "name":"充值成功",
     "notes":{
@@ -393,7 +393,7 @@
                       "description":"在 当前窗口 打开 订单支付页（已充）",
                       "target":{
                         "targetType":"page",
-                        "url":"订单支付页（已充）_1.html",
+                        "url":"订单支付页（已充）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

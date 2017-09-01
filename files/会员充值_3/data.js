@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_3.html",
-  "generationDate":new Date(1504247611292.73),
+  "generationDate":new Date(1504251727100.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"89492b71329a47bab9cb5b5ffaf1f623",
+    "packageId":"f4578402a6c146e3ada4f27daf4654ee",
     "type":"Axure:Page",
     "name":"会员充值",
     "notes":{
@@ -566,13 +566,6 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "foreGroundFill":{
-                      "fillType":"solid",
-                      "color":0xFFFFFFFF,
-                      "opacity":1},
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFFF9900},
                     "size":{
                       "width":360,
                       "height":40}},
@@ -587,13 +580,6 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "foreGroundFill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFFFF,
-                          "opacity":1},
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFF9900},
                         "size":{
                           "width":360,
                           "height":40}},
@@ -615,7 +601,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/会员充值_3/u26.png"}}]}]},
+                    "normal~":"images/主页/top_u46.png"}}]}]},
 {
           "id":"89429d925bd244968cffb91d9b982c58",
           "label":"",
@@ -775,10 +761,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":206,
+              "x":217,
               "y":101},
             "size":{
-              "width":140,
+              "width":129,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -792,10 +778,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":206,
+                  "x":217,
                   "y":101},
                 "size":{
-                  "width":140,
+                  "width":129,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1229,7 +1215,7 @@
               "y":340},
             "size":{
               "width":360,
-              "height":270}},
+              "height":230}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1245,11 +1231,11 @@
                   "y":340},
                 "size":{
                   "width":360,
-                  "height":270}},
+                  "height":230}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付失败/u8.png"}},
+            "normal~":"images/会员充值_1/u60.png"}},
 {
           "id":"53956dc72d8941ddbd88e2bff443b94f",
           "label":"",
@@ -1337,10 +1323,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":200,
+              "x":211,
               "y":142},
             "size":{
-              "width":146,
+              "width":135,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1354,10 +1340,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":200,
+                  "x":211,
                   "y":142},
                 "size":{
-                  "width":146,
+                  "width":135,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1372,10 +1358,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":212,
+              "x":223,
               "y":64},
             "size":{
-              "width":134,
+              "width":123,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1389,10 +1375,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":212,
+                  "x":223,
                   "y":64},
                 "size":{
-                  "width":134,
+                  "width":123,
                   "height":14}},
               "adaptiveStyles":{
 }}],

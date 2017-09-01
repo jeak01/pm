@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_.html",
-  "generationDate":new Date(1504247589686.97),
+  "generationDate":new Date(1504251713907.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -444,7 +444,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u7.jpg"}},
+            "normal~":"images/线路详情/u238.jpg"}},
 {
           "id":"304fb7206f88408cb120db894be167b3",
           "label":"",

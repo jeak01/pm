@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值_1.html",
-  "generationDate":new Date(1504247606818.8),
+  "generationDate":new Date(1504251721276.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"38250e4225cb4206bf845cddbba155c5",
+    "packageId":"7e70c27d84154a168eaa7f9df0a3ee28",
     "type":"Axure:Page",
     "name":"会员充值",
     "notes":{
@@ -1235,7 +1235,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员充值/u60.png"}},
+            "normal~":"images/会员充值_1/u60.png"}},
 {
           "id":"53956dc72d8941ddbd88e2bff443b94f",
           "label":"",

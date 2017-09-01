@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅路线产品.html",
-  "generationDate":new Date(1504247603163.76),
+  "generationDate":new Date(1504251719988.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -445,7 +445,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u7.jpg"}},
+            "normal~":"images/线路详情/u238.jpg"}},
 {
           "id":"da32b91e70874a1bb91aee99b4f42140",
           "label":"",

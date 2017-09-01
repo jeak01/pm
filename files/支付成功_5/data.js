@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功_5.html",
-  "generationDate":new Date(1504247613679.03),
+  "generationDate":new Date(1504251729595.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -829,7 +829,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u7.jpg"}},
+            "normal~":"images/线路详情/u238.jpg"}},
 {
           "id":"7a86f844fa594a108389d0ed8b0f7256",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1504247602978.65),
+  "generationDate":new Date(1504251719839.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2228,7 +2228,7 @@
                               "description":"在 当前窗口 打开 会员充值",
                               "target":{
                                 "targetType":"page",
-                                "url":"会员充值_3.html",
+                                "url":"会员充值_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

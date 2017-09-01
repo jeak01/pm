@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1504247616900.26),
+  "generationDate":new Date(1504251732098.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -773,7 +773,7 @@
                       "description":"在 当前窗口 打开 会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"会员充值_3.html",
+                        "url":"会员充值_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

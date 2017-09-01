@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场介绍.html",
-  "generationDate":new Date(1504247586205.85),
+  "generationDate":new Date(1504251710517.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -478,11 +478,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":18,
-              "y":206},
+              "x":11,
+              "y":140},
             "size":{
-              "width":326,
-              "height":224}},
+              "width":337,
+              "height":380}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -494,11 +494,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":18,
-                  "y":206},
+                  "x":11,
+                  "y":140},
                 "size":{
-                  "width":326,
-                  "height":224}},
+                  "width":337,
+                  "height":380}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -515,7 +515,7 @@
               "y":742},
             "size":{
               "width":326,
-              "height":102}},
+              "height":448}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -531,7 +531,7 @@
                   "y":742},
                 "size":{
                   "width":326,
-                  "height":102}},
+                  "height":448}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1018,7 +1018,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u7.jpg"}},
+            "normal~":"images/线路详情/u238.jpg"}},
 {
           "id":"0a87cc1c60334c36a96e57db777ca2d3",
           "label":"",
@@ -1240,138 +1240,6 @@
           "images":{
             "normal~":"images/主页/u302.png"}},
 {
-          "id":"7a3e2a32ff264686a7c8031a0ff84da9",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"h2",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":17,
-              "y":140},
-            "size":{
-              "width":241,
-              "height":56}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"3dc4c7025df6467ea02be7e1cfac103e",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":17,
-                  "y":140},
-                "size":{
-                  "width":241,
-                  "height":56}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"19011f9fd4174a73b131a5febbc017e7",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"h2",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":11,
-              "y":454},
-            "size":{
-              "width":337,
-              "height":56}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"f18b25cbfd56420b919afa079a5e662a",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":11,
-                  "y":454},
-                "size":{
-                  "width":337,
-                  "height":56}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"19ccf01dee4741a799360284f7834f0d",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"h2",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":16,
-              "y":854},
-            "size":{
-              "width":193,
-              "height":56}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"55c3bc5bc40c4981945b82f41eb64976",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":16,
-                  "y":854},
-                "size":{
-                  "width":193,
-                  "height":56}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"7974637244d84e0c9b73fff224b9b48f",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":16,
-              "y":920},
-            "size":{
-              "width":300,
-              "height":288}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"d9a3854c37f845fcb91dc64059446a25",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":16,
-                  "y":920},
-                "size":{
-                  "width":300,
-                  "height":288}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"64286e8ac5574be08df87e1086a4ed54",
           "label":"",
           "type":"imageBox",
@@ -1403,7 +1271,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场介绍/u74.png"}},
+            "normal~":"images/农场介绍/u66.png"}},
 {
           "id":"5476d6f4a48f41ce887950c95b2ba735",
           "label":"",
@@ -1718,43 +1586,27 @@
       "scriptId":"u64"},
     "a6659c5c6a374d77bf894e245a602ad7":{
       "scriptId":"u65"},
-    "7a3e2a32ff264686a7c8031a0ff84da9":{
-      "scriptId":"u66"},
-    "3dc4c7025df6467ea02be7e1cfac103e":{
-      "scriptId":"u67"},
-    "19011f9fd4174a73b131a5febbc017e7":{
-      "scriptId":"u68"},
-    "f18b25cbfd56420b919afa079a5e662a":{
-      "scriptId":"u69"},
-    "19ccf01dee4741a799360284f7834f0d":{
-      "scriptId":"u70"},
-    "55c3bc5bc40c4981945b82f41eb64976":{
-      "scriptId":"u71"},
-    "7974637244d84e0c9b73fff224b9b48f":{
-      "scriptId":"u72"},
-    "d9a3854c37f845fcb91dc64059446a25":{
-      "scriptId":"u73"},
     "64286e8ac5574be08df87e1086a4ed54":{
-      "scriptId":"u74"},
+      "scriptId":"u66"},
     "79faa763ef674808a9b799b01ef1ec0a":{
-      "scriptId":"u75"},
+      "scriptId":"u67"},
     "5476d6f4a48f41ce887950c95b2ba735":{
-      "scriptId":"u76"},
+      "scriptId":"u68"},
     "1b5e4439df7c462e9c23cba432f53ee7":{
-      "scriptId":"u77"},
+      "scriptId":"u69"},
     "4864c1200a624c50ad333f14360a2731":{
-      "scriptId":"u78"},
+      "scriptId":"u70"},
     "b2ff361f0c66447c970763c1274934cd":{
-      "scriptId":"u79"},
+      "scriptId":"u71"},
     "43bd22ba80384a9e8e56d27d6701df31":{
-      "scriptId":"u80"},
+      "scriptId":"u72"},
     "d02309564df24695b96991e5f40053f3":{
-      "scriptId":"u81"},
+      "scriptId":"u73"},
     "a79fca847b954d869e64ba4706586d75":{
-      "scriptId":"u82"},
+      "scriptId":"u74"},
     "4dfd7b63fd6144efacb9fb9c4a4bc505":{
-      "scriptId":"u83"},
+      "scriptId":"u75"},
     "ce0e3dcd842b47689b46360bd91831fb":{
-      "scriptId":"u84"},
+      "scriptId":"u76"},
     "8b79e40743004da199909d7faba7a62a":{
-      "scriptId":"u85"}}});
+      "scriptId":"u77"}}});

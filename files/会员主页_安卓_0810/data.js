@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_0810.html",
-  "generationDate":new Date(1504247618776.2),
+  "generationDate":new Date(1504251733638.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -492,7 +492,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页/u7.jpg"}}]}]},
+                    "normal~":"images/线路详情/u238.jpg"}}]}]},
 {
           "id":"c6d1c00b29fa4e6a8c00a8d20581b6c6",
           "label":"幻灯片index",

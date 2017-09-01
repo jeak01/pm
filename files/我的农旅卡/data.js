@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的农旅卡.html",
-  "generationDate":new Date(1504247586919.8),
+  "generationDate":new Date(1504251711410.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1568,16 +1568,13 @@
             "styleType":"dynamicPanel",
             "visible":true,
             "style":{
-              "location":{
-                "x":-10,
-                "y":0},
               "size":{
                 "width":360,
                 "height":63}},
             "adaptiveStyles":{
 },
             "fixedHorizontal":"left",
-            "fixedMarginHorizontal":-10,
+            "fixedMarginHorizontal":0,
             "fixedVertical":"bottom",
             "fixedMarginVertical":0,
             "fixedKeepInFront":true,
@@ -2118,10 +2115,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 蔬菜箱1",
+                                "description":"在 当前窗口 打开 蔬菜箱",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜箱1.html",
+                                  "url":"蔬菜箱_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
