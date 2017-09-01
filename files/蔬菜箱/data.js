@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜箱.html",
-  "generationDate":new Date(1504186568237.75),
+  "generationDate":new Date(1504247577123.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u0.png"}},
+            "normal~":"images/蔬菜箱/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜箱/u2.png"}},
+            "normal~":"images/全部分类/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -307,7 +307,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/蔬菜箱/u40.png"}}]}},
+            "normal~":"images/蔬菜箱/u41.png"}}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -402,7 +402,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u387.png"}},
+                      "normal~":"images/主页/u385.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -548,7 +548,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u395.png"}},
+                      "normal~":"images/主页/u393.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -583,7 +583,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u397.png"}},
+                      "normal~":"images/主页/u395.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -618,7 +618,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u399.png"}},
+                      "normal~":"images/主页/u397.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -690,7 +690,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u403.png"}},
+                      "normal~":"images/主页/u401.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -733,7 +733,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u405.png"}},
+                      "normal~":"images/主页/u403.png"}},
 {
                     "id":"4e103bbf5272432fbfcaef86e4b44e2a",
                     "label":"",
@@ -805,7 +805,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u409.png"}},
+                      "normal~":"images/主页/u407.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",
@@ -881,7 +881,7 @@
                         "y":0},
                       "size":{
                         "width":60,
-                        "height":60}},
+                        "height":63}},
                     "adaptiveStyles":{
 },
                     "interactionMap":{
@@ -927,6 +927,37 @@
                                 "target":{
                                   "targetType":"page",
                                   "url":"农旅百科.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true},
+{
+                    "id":"523c14d7ed4e4203a06eb6512ffe4fee",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"imageMapRegion",
+                    "styleType":"imageMapRegion",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":79,
+                        "y":23},
+                      "size":{
+                        "width":59,
+                        "height":40}},
+                    "adaptiveStyles":{
+},
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 全部分类",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"全部分类.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
@@ -1006,12 +1037,14 @@
       "8de9a287ce1540abbcb6ec1b3c3a6254":{
         "scriptId":"u36"},
       "480968bad064489eb276b95791c47f09":{
-        "scriptId":"u37"}},
+        "scriptId":"u37"},
+      "523c14d7ed4e4203a06eb6512ffe4fee":{
+        "scriptId":"u38"}},
     "39b7e9ca631f41ecaddbfe28e169dc48":{
-      "scriptId":"u38"},
-    "f8573a3987ac45339760fc7f05838123":{
       "scriptId":"u39"},
-    "81efd492c2ef4b6c94fab6e50fbdf07b":{
+    "f8573a3987ac45339760fc7f05838123":{
       "scriptId":"u40"},
+    "81efd492c2ef4b6c94fab6e50fbdf07b":{
+      "scriptId":"u41"},
     "1e55a1eeba5949ada439358c06898548":{
-      "scriptId":"u41"}}});
+      "scriptId":"u42"}}});

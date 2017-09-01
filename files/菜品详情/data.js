@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"菜品详情.html",
-  "generationDate":new Date(1504186577808.1),
+  "generationDate":new Date(1504247588884.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -277,7 +277,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u387.png"}},
+            "normal~":"images/主页/u385.png"}},
 {
           "id":"f5b660bbf79841078e049bf4ac1f1b2c",
           "label":"",
@@ -357,7 +357,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u387.png"}},
+            "normal~":"images/主页/u385.png"}},
 {
           "id":"c44d7c1a4a8e4cb585f3073eeff814b9",
           "label":"",
@@ -437,7 +437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u387.png"}},
+            "normal~":"images/主页/u385.png"}},
 {
           "id":"ddd815504a3f4eecbd718a1a222e54d1",
           "label":"",
@@ -517,7 +517,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u387.png"}},
+            "normal~":"images/主页/u385.png"}},
 {
           "id":"231a53c281204ff1abbfd4ce1ef37b8d",
           "label":"",

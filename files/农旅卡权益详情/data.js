@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1504186567714.4),
+  "generationDate":new Date(1504247576599.85),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -209,7 +209,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u387.png"}},
+            "normal~":"images/主页/u385.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -2400,7 +2400,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u227.jpg"}},
+            "normal~":"images/主页/u225.jpg"}},
 {
           "id":"70580337c2cf4289b4c0321192f0ab2d",
           "label":"",
@@ -3224,7 +3224,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u387.png"}},
+                    "normal~":"images/主页/u385.png"}},
 {
                   "id":"17bd5e82cb94470d945a3a0bd25e6591",
                   "label":"",

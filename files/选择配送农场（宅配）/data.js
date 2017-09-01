@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场（宅配）.html",
-  "generationDate":new Date(1504186589998.27),
+  "generationDate":new Date(1504247605005.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1240,7 +1240,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u58.png"}},
+            "normal~":"images/主页/u56.png"}},
 {
           "id":"29131c7c3e7a444189cd5d9dc195f850",
           "label":"",

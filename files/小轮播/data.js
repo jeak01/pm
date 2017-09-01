@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1504186607949.38),
+  "generationDate":new Date(1504247621156.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u48.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -411,7 +411,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/时令市场/u49.png"}},
+                    "normal~":"images/蔬果订单详情/u14.png"}},
 {
                   "id":"367a21ae084047a795f4e26d2cd3d10e",
                   "label":"拖到面板",
@@ -1373,7 +1373,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/top_u48.png"}},
+              "normal~":"images/主页/top_u46.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1570,7 +1570,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u395.png"}},
+              "normal~":"images/主页/u393.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -1699,7 +1699,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u397.png"}},
+              "normal~":"images/主页/u395.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

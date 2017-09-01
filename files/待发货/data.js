@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"待发货.html",
-  "generationDate":new Date(1504186577248.73),
+  "generationDate":new Date(1504247588450.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -604,7 +604,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜箱/u2.png"}},
+                    "normal~":"images/全部分类/u2.png"}},
 {
                   "id":"decca2d454a94250bb9d9707a72f6604",
                   "label":"",

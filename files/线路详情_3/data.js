@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_3.html",
-  "generationDate":new Date(1504186585524.31),
+  "generationDate":new Date(1504247583392.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"3b1748202fc64ff5bcd2699bc0d03a3f",
+    "packageId":"568bee39a6e24b91ac3d0ebb059f3bb1",
     "type":"Axure:Page",
     "name":"线路详情",
     "notes":{
@@ -274,7 +274,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u48.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -940,7 +940,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u304.png"}},
+            "normal~":"images/主页/u302.png"}},
 {
           "id":"78baf9a4f28d4a919807a49ff7d9c157",
           "label":"",

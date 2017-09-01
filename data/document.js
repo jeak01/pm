@@ -25,6 +25,10 @@
                 "type":"Wireframe",
                 "url":"选择城市.html"}]},
 {
+            "pageName":"全部分类",
+            "type":"Wireframe",
+            "url":"全部分类.html"},
+{
             "pageName":"农旅卡列表",
             "type":"Wireframe",
             "url":"农旅卡列表.html",
@@ -105,6 +109,30 @@
         "type":"Wireframe",
         "url":"线路详情.html"},
 {
+        "pageName":"农旅路线",
+        "type":"Wireframe",
+        "url":"农旅路线.html",
+        "children":[{
+            "pageName":"线路详情",
+            "type":"Wireframe",
+            "url":"线路详情_1.html"},
+{
+            "pageName":"线路详情",
+            "type":"Wireframe",
+            "url":"线路详情_2.html"},
+{
+            "pageName":"线路详情",
+            "type":"Wireframe",
+            "url":"线路详情_3.html"},
+{
+            "pageName":"线路详情",
+            "type":"Wireframe",
+            "url":"线路详情_4.html"},
+{
+            "pageName":"线路详情",
+            "type":"Wireframe",
+            "url":"线路详情_5.html"}]},
+{
         "pageName":"农旅百科",
         "type":"Wireframe",
         "url":"农旅百科.html",
@@ -112,6 +140,10 @@
             "pageName":"文章详情",
             "type":"Wireframe",
             "url":"文章详情.html"},
+{
+            "pageName":"文章详情1",
+            "type":"Wireframe",
+            "url":"文章详情1.html"},
 {
             "pageName":"农场介绍",
             "type":"Wireframe",
@@ -227,23 +259,23 @@
                 "children":[{
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情_1.html"},
+                    "url":"线路详情_6.html"},
 {
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情_2.html"},
+                    "url":"线路详情_7.html"},
 {
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情_3.html"},
+                    "url":"线路详情_8.html"},
 {
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情_4.html"},
+                    "url":"线路详情_9.html"},
 {
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情_5.html"}]},
+                    "url":"线路详情_10.html"}]},
 {
                 "pageName":"组合套餐（初始）",
                 "type":"Wireframe",

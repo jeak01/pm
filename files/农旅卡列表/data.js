@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡列表.html",
-  "generationDate":new Date(1504186567127.01),
+  "generationDate":new Date(1504247575754.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u48.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"bf69f17d6a6545d8bee46524fc793515",
           "label":"",
@@ -3094,7 +3094,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u231.jpg"}},
+            "normal~":"images/主页/u229.jpg"}},
 {
           "id":"80cc440039094b1e8733c3f2368f13e8",
           "label":"",

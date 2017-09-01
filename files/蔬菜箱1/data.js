@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜箱1.html",
-  "generationDate":new Date(1504186568395.85),
+  "generationDate":new Date(1504247577204.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜箱/u2.png"}},
+            "normal~":"images/全部分类/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -260,7 +260,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/蔬菜箱1/u38.png"}},
+            "normal~":"images/蔬菜箱1/u39.png"}},
 {
           "id":"51837f95683b4085855760aca31f66ac",
           "label":"",
@@ -410,7 +410,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u304.png"}},
+            "normal~":"images/主页/u302.png"}},
 {
           "id":"ae2aac16b2dd4ab2b5c0923d9af70f49",
           "label":"",
@@ -523,7 +523,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/蔬菜箱/u40.png"}}]}},
+            "normal~":"images/蔬菜箱/u41.png"}}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -618,7 +618,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u387.png"}},
+                      "normal~":"images/主页/u385.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -764,7 +764,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u395.png"}},
+                      "normal~":"images/主页/u393.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -799,7 +799,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u397.png"}},
+                      "normal~":"images/主页/u395.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -834,7 +834,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u399.png"}},
+                      "normal~":"images/主页/u397.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -906,7 +906,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u403.png"}},
+                      "normal~":"images/主页/u401.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -949,7 +949,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u405.png"}},
+                      "normal~":"images/主页/u403.png"}},
 {
                     "id":"4e103bbf5272432fbfcaef86e4b44e2a",
                     "label":"",
@@ -1021,7 +1021,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u409.png"}},
+                      "normal~":"images/主页/u407.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",
@@ -1097,7 +1097,7 @@
                         "y":0},
                       "size":{
                         "width":60,
-                        "height":60}},
+                        "height":63}},
                     "adaptiveStyles":{
 },
                     "interactionMap":{
@@ -1143,6 +1143,37 @@
                                 "target":{
                                   "targetType":"page",
                                   "url":"农旅百科.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true},
+{
+                    "id":"523c14d7ed4e4203a06eb6512ffe4fee",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"imageMapRegion",
+                    "styleType":"imageMapRegion",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":79,
+                        "y":23},
+                      "size":{
+                        "width":59,
+                        "height":40}},
+                    "adaptiveStyles":{
+},
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 全部分类",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"全部分类.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
@@ -1222,32 +1253,34 @@
       "8de9a287ce1540abbcb6ec1b3c3a6254":{
         "scriptId":"u36"},
       "480968bad064489eb276b95791c47f09":{
-        "scriptId":"u37"}},
+        "scriptId":"u37"},
+      "523c14d7ed4e4203a06eb6512ffe4fee":{
+        "scriptId":"u38"}},
     "d023218acece4e65a1ee36c3dd009240":{
-      "scriptId":"u38"},
-    "17be169b913c45dfaccdda5109f32034":{
       "scriptId":"u39"},
-    "51837f95683b4085855760aca31f66ac":{
+    "17be169b913c45dfaccdda5109f32034":{
       "scriptId":"u40"},
-    "f07e15e8689547a8b3ebc248526495a6":{
+    "51837f95683b4085855760aca31f66ac":{
       "scriptId":"u41"},
-    "07e24a6d4ea4484f87413a2d624960a9":{
+    "f07e15e8689547a8b3ebc248526495a6":{
       "scriptId":"u42"},
-    "64d8f2054e3344d8a70076b4c6fa635b":{
+    "07e24a6d4ea4484f87413a2d624960a9":{
       "scriptId":"u43"},
-    "c0a7d2ef4cd9497d924ed9bd31a025db":{
+    "64d8f2054e3344d8a70076b4c6fa635b":{
       "scriptId":"u44"},
-    "bef94199460848f9ae365f80be58f2cf":{
+    "c0a7d2ef4cd9497d924ed9bd31a025db":{
       "scriptId":"u45"},
-    "b36c010cce8a4c7dafb3cc2b6b377d03":{
+    "bef94199460848f9ae365f80be58f2cf":{
       "scriptId":"u46"},
-    "d9470666eba94dcf84d93bc76572f1b6":{
+    "b36c010cce8a4c7dafb3cc2b6b377d03":{
       "scriptId":"u47"},
-    "ae2aac16b2dd4ab2b5c0923d9af70f49":{
+    "d9470666eba94dcf84d93bc76572f1b6":{
       "scriptId":"u48"},
-    "a63c485ca5b5458fa31749d7936e1beb":{
+    "ae2aac16b2dd4ab2b5c0923d9af70f49":{
       "scriptId":"u49"},
-    "e73229ef40df4b83acef0f31f4a476e9":{
+    "a63c485ca5b5458fa31749d7936e1beb":{
       "scriptId":"u50"},
+    "e73229ef40df4b83acef0f31f4a476e9":{
+      "scriptId":"u51"},
     "db6918b5de664eaca975144bbf9106e2":{
-      "scriptId":"u51"}}});
+      "scriptId":"u52"}}});

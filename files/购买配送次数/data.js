@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"购买配送次数.html",
-  "generationDate":new Date(1504186568545.95),
+  "generationDate":new Date(1504247577356.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u48.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -218,7 +218,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u48.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
@@ -761,7 +761,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u304.png"}},
+            "normal~":"images/主页/u302.png"}},
 {
           "id":"89532469b5ce4274a7c3f7f5e4a83cc2",
           "label":"",

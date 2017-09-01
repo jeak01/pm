@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_5.html",
-  "generationDate":new Date(1504186587220.43),
+  "generationDate":new Date(1504247584820.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"174e52fb37ac4a76a9bc9ac4c7c04091",
+    "packageId":"92c0723fd95e450c94fcf3fec26a8dcb",
     "type":"Axure:Page",
     "name":"线路详情",
     "notes":{
@@ -242,7 +242,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u48.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -486,7 +486,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/体验路线/u95.png"}},
+            "normal~":"images/农旅路线/u95.png"}},
 {
           "id":"9e6ee747a8194bb7a4a565917bea3a07",
           "label":"",
@@ -898,7 +898,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u304.png"}},
+            "normal~":"images/主页/u302.png"}},
 {
           "id":"78baf9a4f28d4a919807a49ff7d9c157",
           "label":"",
@@ -3476,7 +3476,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u56.png"}},
+            "normal~":"images/主页/u54.png"}},
 {
           "id":"f46e020cfa5d479daf4c5b1231f440b3",
           "label":"",

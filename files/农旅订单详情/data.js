@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情.html",
-  "generationDate":new Date(1504186576115.97),
+  "generationDate":new Date(1504247587550.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u48.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -456,7 +456,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u227.jpg"}},
+            "normal~":"images/主页/u225.jpg"}},
 {
           "id":"4ed723fd84814176b8728c57a64ef14b",
           "label":"",
@@ -548,7 +548,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/top_u48.png"}},
+                    "normal~":"images/主页/top_u46.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",
@@ -698,7 +698,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u395.png"}},
+            "normal~":"images/主页/u393.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",
@@ -761,7 +761,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u49.png"}},
+            "normal~":"images/蔬果订单详情/u14.png"}},
 {
           "id":"4fef747e8dc8448faa588c88d296cbc6",
           "label":"",
