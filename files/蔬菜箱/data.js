@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜箱.html",
-  "generationDate":new Date(1504252577760.11),
+  "generationDate":new Date(1504261757247.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
