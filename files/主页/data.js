@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1504251698679.93),
+  "generationDate":new Date(1504252575494.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3295,7 +3295,7 @@
           "style":{
             "fill":{
               "fillType":"solid",
-              "color":0xFFDDDDDD},
+              "color":0xFF00FFCC},
             "location":{
               "x":2,
               "y":1110},
@@ -3317,7 +3317,7 @@
               "style":{
                 "fill":{
                   "fillType":"solid",
-                  "color":0xFFDDDDDD},
+                  "color":0xFF00FFCC},
                 "location":{
                   "x":2,
                   "y":1110},
@@ -3340,7 +3340,7 @@
           "style":{
             "fill":{
               "fillType":"solid",
-              "color":0xFFDDDDDD},
+              "color":0xFFFFCC66},
             "location":{
               "x":91,
               "y":1110},
@@ -3362,7 +3362,7 @@
               "style":{
                 "fill":{
                   "fillType":"solid",
-                  "color":0xFFDDDDDD},
+                  "color":0xFFFFCC66},
                 "location":{
                   "x":91,
                   "y":1110},
@@ -3375,7 +3375,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u158.png"}},
+            "normal~":"images/主页/u160.png"}},
 {
           "id":"a800a10309ad424e89bd858feb458041",
           "label":"",
@@ -3385,7 +3385,7 @@
           "style":{
             "fill":{
               "fillType":"solid",
-              "color":0xFFDDDDDD},
+              "color":0xFFFF99CC},
             "location":{
               "x":180,
               "y":1110},
@@ -3407,7 +3407,7 @@
               "style":{
                 "fill":{
                   "fillType":"solid",
-                  "color":0xFFDDDDDD},
+                  "color":0xFFFF99CC},
                 "location":{
                   "x":180,
                   "y":1110},
@@ -3420,7 +3420,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u158.png"}},
+            "normal~":"images/主页/u162.png"}},
 {
           "id":"75a8b09f156d4dd3bae52ce41702ac45",
           "label":"",
@@ -3428,9 +3428,13 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
             "fill":{
               "fillType":"solid",
-              "color":0xFFDDDDDD},
+              "color":0xFF66CCFF},
             "location":{
               "x":269,
               "y":1110},
@@ -3450,9 +3454,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
                 "fill":{
                   "fillType":"solid",
-                  "color":0xFFDDDDDD},
+                  "color":0xFF66CCFF},
                 "location":{
                   "x":269,
                   "y":1110},
@@ -3465,7 +3473,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u158.png"}},
+            "normal~":"images/主页/u164.png"}},
 {
           "id":"0ff0cfd7f39547a8be57d1000106b2b3",
           "label":"",
@@ -7477,9 +7485,11 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF666666,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
               "x":17,
@@ -7497,9 +7507,11 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF666666,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
                   "x":17,
@@ -7518,9 +7530,11 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF666666,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
               "x":108,
@@ -7538,9 +7552,11 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF666666,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
                   "x":108,
@@ -7559,9 +7575,11 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF666666,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
               "x":199,
@@ -7579,9 +7597,11 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF666666,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
                   "x":199,
@@ -7602,7 +7622,7 @@
           "style":{
             "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF666666,
+              "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
               "x":286,
@@ -7622,7 +7642,7 @@
               "style":{
                 "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF666666,
+                  "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
                   "x":286,
@@ -7883,7 +7903,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":3,
+              "x":2,
               "y":1110},
             "size":{
               "width":87,
@@ -7913,7 +7933,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":92,
+              "x":93,
               "y":1110},
             "size":{
               "width":87,
@@ -7973,7 +7993,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":269,
+              "x":270,
               "y":1110},
             "size":{
               "width":87,
