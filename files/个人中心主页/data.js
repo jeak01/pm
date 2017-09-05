@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页.html",
-  "generationDate":new Date(1504591126084.73),
+  "generationDate":new Date(1504604818446.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3172,7 +3172,37 @@
               "y":867}},
           "adaptiveStyles":{
 },
-          "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"}]}},
+          "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"},
+{
+          "id":"d5cc9b1b1bca4622a01e1721a786a269",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":302},
+            "size":{
+              "width":360,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的农旅卡",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的农旅卡.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -4213,4 +4243,6 @@
       "480968bad064489eb276b95791c47f09":{
         "scriptId":"u193"},
       "523c14d7ed4e4203a06eb6512ffe4fee":{
-        "scriptId":"u194"}}}});
+        "scriptId":"u194"}},
+    "d5cc9b1b1bca4622a01e1721a786a269":{
+      "scriptId":"u195"}}});
