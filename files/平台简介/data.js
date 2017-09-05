@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台简介.html",
-  "generationDate":new Date(1504604840652.1),
+  "generationDate":new Date(1504616035015.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -531,7 +531,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表/u89.png"}},
+              "normal~":"images/农场列表_1/u89.png"}},
 {
             "id":"3df70097703244faa1527a5a494c8c42",
             "label":"",
@@ -572,7 +572,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表/u89.png"}},
+              "normal~":"images/农场列表_1/u89.png"}},
 {
             "id":"042cb23104d742f2ae2b63e077e1712d",
             "label":"",
@@ -613,7 +613,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表/u93.png"}},
+              "normal~":"images/农场列表_1/u93.png"}},
 {
             "id":"7059bc5e155a401bac0768cc3d613ce5",
             "label":"",
@@ -654,7 +654,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表/u93.png"}},
+              "normal~":"images/农场列表_1/u93.png"}},
 {
             "id":"6c17287b2bc14f99a5db67d039fd7863",
             "label":"",
@@ -687,7 +687,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u393.png"}},
+              "normal~":"images/主页/u329.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -783,7 +783,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/农场列表/u102.png"}},
+              "normal~":"images/农场列表_1/u102.png"}},
 {
             "id":"03ed968a08da4a80bd7495c1bb6340a9",
             "label":"",
@@ -816,7 +816,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u395.png"}},
+              "normal~":"images/主页/u331.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

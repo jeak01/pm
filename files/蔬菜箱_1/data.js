@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜箱_1.html",
-  "generationDate":new Date(1504604810496.11),
+  "generationDate":new Date(1504616002209.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -214,7 +214,7 @@
           "style":{
             "location":{
               "x":10,
-              "y":76},
+              "y":144},
             "size":{
               "width":340,
               "height":100},
@@ -234,7 +234,7 @@
               "style":{
                 "location":{
                   "x":10,
-                  "y":76},
+                  "y":144},
                 "size":{
                   "width":340,
                   "height":100},
@@ -275,9 +275,9 @@
               "opacity":1},
             "location":{
               "x":12,
-              "y":52},
+              "y":120},
             "size":{
-              "width":78,
+              "width":45,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -296,9 +296,9 @@
                   "opacity":1},
                 "location":{
                   "x":12,
-                  "y":52},
+                  "y":120},
                 "size":{
-                  "width":78,
+                  "width":45,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -313,7 +313,7 @@
           "style":{
             "location":{
               "x":30,
-              "y":110},
+              "y":178},
             "size":{
               "width":97,
               "height":28}},
@@ -329,7 +329,7 @@
               "style":{
                 "location":{
                   "x":30,
-                  "y":110},
+                  "y":178},
                 "size":{
                   "width":97,
                   "height":28}},
@@ -346,7 +346,7 @@
           "style":{
             "location":{
               "x":250,
-              "y":112.5},
+              "y":180},
             "size":{
               "width":45,
               "height":28}},
@@ -362,7 +362,7 @@
               "style":{
                 "location":{
                   "x":250,
-                  "y":112.5},
+                  "y":180},
                 "size":{
                   "width":45,
                   "height":28}},
@@ -379,7 +379,7 @@
           "style":{
             "location":{
               "x":305,
-              "y":103.5},
+              "y":172},
             "size":{
               "width":45,
               "height":45},
@@ -399,7 +399,7 @@
               "style":{
                 "location":{
                   "x":305,
-                  "y":103.5},
+                  "y":172},
                 "size":{
                   "width":45,
                   "height":45},
@@ -410,7 +410,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u302.png"}},
+            "normal~":"images/主页/u244.png"}},
 {
           "id":"ae2aac16b2dd4ab2b5c0923d9af70f49",
           "label":"",
@@ -425,7 +425,7 @@
               "opacity":1},
             "location":{
               "x":30,
-              "y":150},
+              "y":218},
             "size":{
               "width":137,
               "height":14}},
@@ -446,7 +446,7 @@
                   "opacity":1},
                 "location":{
                   "x":30,
-                  "y":150},
+                  "y":218},
                 "size":{
                   "width":137,
                   "height":14}},
@@ -470,7 +470,7 @@
               "color":0xFFFF6600},
             "location":{
               "x":120,
-              "y":200},
+              "y":268},
             "size":{
               "width":120,
               "height":40},
@@ -497,7 +497,7 @@
                   "color":0xFFFF6600},
                 "location":{
                   "x":120,
-                  "y":200},
+                  "y":268},
                 "size":{
                   "width":120,
                   "height":40},
@@ -515,10 +515,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 购买配送次数",
+                      "description":"在 当前窗口 打开 选择配送农场",
                       "target":{
                         "targetType":"page",
-                        "url":"购买配送次数.html",
+                        "url":"选择配送农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -533,7 +533,7 @@
           "style":{
             "location":{
               "x":12,
-              "y":76},
+              "y":144},
             "size":{
               "width":338,
               "height":100}},
@@ -553,7 +553,77 @@
                         "url":"选择菜品.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
-          "tabbable":true}]}},
+          "tabbable":true},
+{
+          "id":"9c61c6d38301455faec13ecbc3ddd808",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":190,
+              "y":60},
+            "size":{
+              "width":150,
+              "height":40},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"55fa3b86a13345748087532162f9338d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":190,
+                  "y":60},
+                "size":{
+                  "width":150,
+                  "height":40},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/蔬菜箱_1/u54.png"}},
+{
+          "id":"25e15aa67a0a43f1b95d00b620363736",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":18,
+              "y":60},
+            "size":{
+              "width":149,
+              "height":40},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"139adef36f0845f9bd9cf956c6ac9298",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":18,
+                  "y":60},
+                "size":{
+                  "width":149,
+                  "height":40},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/蔬菜箱_1/u56.png"}}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -645,7 +715,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u385.png"}},
+                      "normal~":"images/主页/u321.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -791,7 +861,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u393.png"}},
+                      "normal~":"images/主页/u329.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -826,7 +896,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u395.png"}},
+                      "normal~":"images/主页/u331.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -861,7 +931,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u397.png"}},
+                      "normal~":"images/主页/u333.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -933,7 +1003,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u401.png"}},
+                      "normal~":"images/主页/u337.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -976,7 +1046,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u403.png"}},
+                      "normal~":"images/主页/u339.png"}},
 {
                     "id":"4e103bbf5272432fbfcaef86e4b44e2a",
                     "label":"",
@@ -1048,7 +1118,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u407.png"}},
+                      "normal~":"images/主页/u343.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",
@@ -1312,4 +1382,12 @@
     "db6918b5de664eaca975144bbf9106e2":{
       "scriptId":"u52"},
     "1d4626970a4d439287079788a21b9f5b":{
-      "scriptId":"u53"}}});
+      "scriptId":"u53"},
+    "9c61c6d38301455faec13ecbc3ddd808":{
+      "scriptId":"u54"},
+    "55fa3b86a13345748087532162f9338d":{
+      "scriptId":"u55"},
+    "25e15aa67a0a43f1b95d00b620363736":{
+      "scriptId":"u56"},
+    "139adef36f0845f9bd9cf956c6ac9298":{
+      "scriptId":"u57"}}});

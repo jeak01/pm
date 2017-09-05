@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场_1.html",
-  "generationDate":new Date(1504604837906.28),
+  "generationDate":new Date(1504616032236.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -191,7 +191,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/农场列表/u80_line.png"}},
+            "line~":"images/农场列表_1/u80_line.png"}},
 {
           "id":"1e622f8824cb4b71b07a54ba3d45563d",
           "label":"",
@@ -1166,7 +1166,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择配送农场/u53.png"}},
+            "normal~":"images/选择配送农场/u75.png"}},
 {
           "id":"5b7c50fef56c404f8c87f04646900baa",
           "label":"",

@@ -49,13 +49,13 @@
                 "type":"Wireframe",
                 "url":"蔬菜箱_1.html"},
 {
-                "pageName":"购买配送次数",
-                "type":"Wireframe",
-                "url":"购买配送次数.html"},
-{
                 "pageName":"选择配送农场",
                 "type":"Wireframe",
                 "url":"选择配送农场.html"},
+{
+                "pageName":"购买配送次数",
+                "type":"Wireframe",
+                "url":"购买配送次数.html"},
 {
                 "pageName":"支付成功",
                 "type":"Wireframe",
@@ -109,6 +109,14 @@
         "type":"Wireframe",
         "url":"线路详情.html"},
 {
+        "pageName":"农场列表",
+        "type":"Wireframe",
+        "url":"农场列表.html",
+        "children":[{
+            "pageName":"农场主页",
+            "type":"Wireframe",
+            "url":"农场主页.html"}]},
+{
         "pageName":"农旅路线",
         "type":"Wireframe",
         "url":"农旅路线.html",
@@ -160,6 +168,10 @@
             "pageName":"我的农旅卡",
             "type":"Wireframe",
             "url":"我的农旅卡.html"},
+{
+            "pageName":"我的农旅卡（待激活）",
+            "type":"Wireframe",
+            "url":"我的农旅卡（待激活）.html"},
 {
             "pageName":"全部订单",
             "type":"Wireframe",
@@ -493,6 +505,10 @@
             "type":"Folder",
             "url":"",
             "children":[{
+                "pageName":"主页0905",
+                "type":"Wireframe",
+                "url":"__0905.html"},
+{
                 "pageName":"订单确认页",
                 "type":"Wireframe",
                 "url":"订单确认页.html",
@@ -519,7 +535,7 @@
 {
                 "pageName":"农场列表",
                 "type":"Wireframe",
-                "url":"农场列表.html",
+                "url":"农场列表_1.html",
                 "children":[{
                     "pageName":"农场详情",
                     "type":"Wireframe",

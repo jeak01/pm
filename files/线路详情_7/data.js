@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_7.html",
-  "generationDate":new Date(1504604825117.82),
+  "generationDate":new Date(1504616018105.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -518,7 +518,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u31.jpg"}},
+            "normal~":"images/农场主页/u221.jpg"}},
 {
           "id":"9e6ee747a8194bb7a4a565917bea3a07",
           "label":"",
@@ -930,7 +930,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u302.png"}},
+            "normal~":"images/主页/u244.png"}},
 {
           "id":"78baf9a4f28d4a919807a49ff7d9c157",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"购买配送次数.html",
-  "generationDate":new Date(1504604810651.21),
+  "generationDate":new Date(1504616002503.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -761,7 +761,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u302.png"}},
+            "normal~":"images/主页/u244.png"}},
 {
           "id":"89532469b5ce4274a7c3f7f5e4a83cc2",
           "label":"",

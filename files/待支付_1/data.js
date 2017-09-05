@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"待支付_1.html",
-  "generationDate":new Date(1504604835228.51),
+  "generationDate":new Date(1504616028521.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -407,7 +407,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部订单/u16.png"}},
+            "normal~":"images/农场主页/旅游2_u0.png"}},
 {
           "id":"8340ac1988d246f1a31661bed00d4df3",
           "label":"",
@@ -446,7 +446,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部订单/u16.png"}},
+            "normal~":"images/农场主页/旅游2_u0.png"}},
 {
           "id":"7ebb5d6311f94ca989ab361f37e5fbd3",
           "label":"",
@@ -485,7 +485,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部订单/u16.png"}},
+            "normal~":"images/农场主页/旅游2_u0.png"}},
 {
           "id":"120612823ae4469eaf470e178f2879cd",
           "label":"",
@@ -2563,7 +2563,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u385.png"}},
+                      "normal~":"images/主页/u321.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -2746,7 +2746,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u393.png"}},
+                      "normal~":"images/主页/u329.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -2781,7 +2781,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u395.png"}},
+                      "normal~":"images/主页/u331.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -2816,7 +2816,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u397.png"}},
+                      "normal~":"images/主页/u333.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -2851,7 +2851,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u407.png"}},
+                      "normal~":"images/主页/u343.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",
@@ -3047,7 +3047,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u401.png"}},
+                      "normal~":"images/主页/u337.png"}},
 {
                     "id":"d871e8d8e00b43e38ddfde26b9da7948",
                     "label":"",

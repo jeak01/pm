@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"更多功能_1.html",
-  "generationDate":new Date(1504604836065.06),
+  "generationDate":new Date(1504616029518.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -312,7 +312,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u302.png"}},
+            "normal~":"images/主页/u244.png"}},
 {
           "id":"5dad2a7fcfe04852bae895bf4baafadb",
           "label":"",
@@ -464,7 +464,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u302.png"}},
+            "normal~":"images/主页/u244.png"}},
 {
           "id":"3bbe206b35c842689d0b4b862993e1d2",
           "label":"",
@@ -659,7 +659,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u302.png"}},
+            "normal~":"images/主页/u244.png"}},
 {
           "id":"d2e19419698f496dad72d043ae4b9592",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1504604838340.57),
+  "generationDate":new Date(1504616032630.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1796,7 +1796,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u56.jpg"}},
+            "normal~":"images/农场列表_1/u56.jpg"}},
 {
           "id":"debabd145ff54c86ae242136ee79c71c",
           "label":"",
@@ -1981,7 +1981,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u231.jpg"}},
+            "normal~":"images/主页/u173.jpg"}},
 {
           "id":"184c4f9ef4594926b0eecd38c87738b4",
           "label":"",
@@ -3547,7 +3547,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u385.png"}},
+                      "normal~":"images/主页/u321.png"}},
 {
                     "id":"dbd6a5f83af64ab191b7f078d53db2df",
                     "label":"",
@@ -3730,7 +3730,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u393.png"}},
+                      "normal~":"images/主页/u329.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",
@@ -3765,7 +3765,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u395.png"}},
+                      "normal~":"images/主页/u331.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",
@@ -3800,7 +3800,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u397.png"}},
+                      "normal~":"images/主页/u333.png"}},
 {
                     "id":"0855a01c3bf8421f852d6f1786340508",
                     "label":"",
@@ -4031,7 +4031,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u401.png"}},
+                      "normal~":"images/主页/u337.png"}},
 {
                     "id":"48809466f34a45c68290d9dd9dba692f",
                     "label":"",

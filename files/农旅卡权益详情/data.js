@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1504604809804.65),
+  "generationDate":new Date(1504616001374.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -209,7 +209,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u385.png"}},
+            "normal~":"images/主页/u321.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -515,10 +515,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场介绍",
+                      "description":"在 当前窗口 打开 农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"农场介绍.html",
+                        "url":"农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2415,7 +2415,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u225.jpg"}},
+            "normal~":"images/主页/u167.jpg"}},
 {
           "id":"70580337c2cf4289b4c0321192f0ab2d",
           "label":"",
@@ -3239,7 +3239,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u385.png"}},
+                    "normal~":"images/主页/u321.png"}},
 {
                   "id":"17bd5e82cb94470d945a3a0bd25e6591",
                   "label":"",
