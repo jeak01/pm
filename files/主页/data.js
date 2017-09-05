@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1504261755053.79),
+  "generationDate":new Date(1504591110933.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -7530,8 +7530,6 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Arial Negreta', 'Arial'",
-            "fontWeight":"700",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFFFFFFFF,
@@ -7552,8 +7550,6 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Arial Negreta', 'Arial'",
-                "fontWeight":"700",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFFFFFFFF,
@@ -7575,8 +7571,6 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Arial Negreta', 'Arial'",
-            "fontWeight":"700",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFFFFFFFF,
@@ -7597,8 +7591,6 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Arial Negreta', 'Arial'",
-                "fontWeight":"700",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFFFFFFFF,
@@ -7933,7 +7925,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":93,
+              "x":91,
               "y":1110},
             "size":{
               "width":87,
@@ -7963,7 +7955,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":182,
+              "x":181,
               "y":1110},
             "size":{
               "width":87,
