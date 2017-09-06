@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1504616020428.58),
+  "generationDate":new Date(1504681822635.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -803,7 +803,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"471e5c34902f4109abde93cd13a71a7d",
           "label":"",
@@ -949,7 +949,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"d7f8d3eb7c59466a9a35e740da0c2a5d",
           "label":"",
@@ -1021,7 +1021,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u26.png"}},
+            "normal~":"images/商品详情/u12.png"}},
 {
           "id":"19714a73f57f48efa6ececdea7dd1f97",
           "label":"",
@@ -1206,7 +1206,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"7291f34a4c3848399f3a7e946670c5af",
           "label":"",
@@ -1367,7 +1367,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"22742649e7e04f2d8639ef003dbd3d5e",
           "label":"",
@@ -1528,7 +1528,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"3be4324176c846379180083e2bbea59d",
           "label":"",
@@ -3252,7 +3252,7 @@
                               "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单_2.html",
+                                "url":"确认订单_3.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

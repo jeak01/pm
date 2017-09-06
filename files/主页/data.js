@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1504615999559.74),
+  "generationDate":new Date(1504681802663.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3528,10 +3528,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 农场介绍",
+                              "description":"在 当前窗口 打开 农场主页",
                               "target":{
                                 "targetType":"page",
-                                "url":"农场介绍.html",
+                                "url":"农场主页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3586,10 +3586,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 农场介绍",
+                              "description":"在 当前窗口 打开 农场主页",
                               "target":{
                                 "targetType":"page",
-                                "url":"农场介绍.html",
+                                "url":"农场主页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3636,10 +3636,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 农场介绍",
+                              "description":"在 当前窗口 打开 农场主页",
                               "target":{
                                 "targetType":"page",
-                                "url":"农场介绍.html",
+                                "url":"农场主页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -3686,10 +3686,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 农场介绍",
+                              "description":"在 当前窗口 打开 农场主页",
                               "target":{
                                 "targetType":"page",
-                                "url":"农场介绍.html",
+                                "url":"农场主页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

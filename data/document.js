@@ -39,7 +39,27 @@
 {
             "pageName":"时令市场",
             "type":"Wireframe",
-            "url":"时令市场.html"},
+            "url":"时令市场.html",
+            "children":[{
+                "pageName":"商品详情",
+                "type":"Wireframe",
+                "url":"商品详情.html"},
+{
+                "pageName":"确认订单",
+                "type":"Wireframe",
+                "url":"确认订单.html"},
+{
+                "pageName":"订单支付页",
+                "type":"Wireframe",
+                "url":"订单支付页.html"},
+{
+                "pageName":"支付成功",
+                "type":"Wireframe",
+                "url":"支付成功.html"},
+{
+                "pageName":"订单详情",
+                "type":"Wireframe",
+                "url":"订单详情.html"}]},
 {
             "pageName":"蔬菜箱",
             "type":"Wireframe",
@@ -59,7 +79,7 @@
 {
                 "pageName":"支付成功",
                 "type":"Wireframe",
-                "url":"支付成功.html"},
+                "url":"支付成功_1.html"},
 {
                 "pageName":"选择菜品",
                 "type":"Wireframe",
@@ -67,7 +87,7 @@
 {
                 "pageName":"确认订单",
                 "type":"Wireframe",
-                "url":"确认订单.html",
+                "url":"确认订单_1.html",
                 "children":[{
                     "pageName":"订单提交成功",
                     "type":"Wireframe",
@@ -75,11 +95,11 @@
 {
             "pageName":"订单支付页",
             "type":"Wireframe",
-            "url":"订单支付页.html"},
+            "url":"订单支付页_1.html"},
 {
             "pageName":"支付成功",
             "type":"Wireframe",
-            "url":"支付成功_1.html"},
+            "url":"支付成功_2.html"},
 {
             "pageName":"支付失败",
             "type":"Wireframe",
@@ -247,7 +267,7 @@
                 "children":[{
                     "pageName":"确认订单",
                     "type":"Wireframe",
-                    "url":"确认订单_1.html"}]},
+                    "url":"确认订单_2.html"}]},
 {
                 "pageName":"会员特权",
                 "type":"Wireframe",
@@ -311,11 +331,11 @@
 {
                     "pageName":"确认订单",
                     "type":"Wireframe",
-                    "url":"确认订单_2.html"},
+                    "url":"确认订单_3.html"},
 {
                     "pageName":"订单支付页",
                     "type":"Wireframe",
-                    "url":"订单支付页_1.html"},
+                    "url":"订单支付页_2.html"},
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
@@ -331,7 +351,7 @@
 {
                     "pageName":"支付成功",
                     "type":"Wireframe",
-                    "url":"支付成功_2.html"}]},
+                    "url":"支付成功_3.html"}]},
 {
                 "pageName":"选择配送农场（宅配）",
                 "type":"Wireframe",
@@ -355,7 +375,7 @@
 {
                     "pageName":"订单支付页",
                     "type":"Wireframe",
-                    "url":"订单支付页_2.html"},
+                    "url":"订单支付页_3.html"},
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
@@ -371,7 +391,7 @@
 {
                     "pageName":"支付成功",
                     "type":"Wireframe",
-                    "url":"支付成功_3.html"}]},
+                    "url":"支付成功_4.html"}]},
 {
                 "pageName":"主题农旅",
                 "type":"Wireframe",
@@ -415,7 +435,7 @@
                 "children":[{
                     "pageName":"订单支付页",
                     "type":"Wireframe",
-                    "url":"订单支付页_3.html"},
+                    "url":"订单支付页_4.html"},
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
@@ -431,7 +451,7 @@
 {
                     "pageName":"支付成功",
                     "type":"Wireframe",
-                    "url":"支付成功_4.html"}]}]},
+                    "url":"支付成功_5.html"}]}]},
 {
             "pageName":"会员充值",
             "type":"Wireframe",
@@ -491,11 +511,11 @@
 {
             "pageName":"订单支付页",
             "type":"Wireframe",
-            "url":"订单支付页_4.html"},
+            "url":"订单支付页_5.html"},
 {
             "pageName":"支付成功",
             "type":"Wireframe",
-            "url":"支付成功_5.html"},
+            "url":"支付成功_6.html"},
 {
             "pageName":"支付失败",
             "type":"Wireframe",
@@ -563,7 +583,7 @@
 {
                     "pageName":"商品详情",
                     "type":"Wireframe",
-                    "url":"商品详情.html"}]},
+                    "url":"商品详情_1.html"}]},
 {
                 "pageName":"蔬果宅配",
                 "type":"Wireframe",

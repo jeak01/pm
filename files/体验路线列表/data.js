@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1504616035362.48),
+  "generationDate":new Date(1504681837418.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u0.png"}},
+            "normal~":"images/商品详情/u0.png"}},
 {
           "id":"4676b659d9984e72b2ae47ebdee0364e",
           "label":"",
@@ -175,7 +175,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"c6de04125e7d408e9d117072f7138636",
           "label":"",
@@ -216,7 +216,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"f18f47d8b945460f98de5e1f4b9182c4",
           "label":"",
@@ -257,7 +257,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"d2414ef6bbe340479493dab369a6c50b",
           "label":"",

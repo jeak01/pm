@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表.html",
-  "generationDate":new Date(1504616031814.13),
+  "generationDate":new Date(1504681834121.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -321,7 +321,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u0.png"}},
+            "normal~":"images/商品详情/u0.png"}},
 {
           "id":"b61c21d81e2046798b6e8eeaa2c15469",
           "label":"",
@@ -937,7 +937,7 @@
                       "description":"在 当前窗口 打开 商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"商品详情.html",
+                        "url":"商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1170,7 +1170,7 @@
                       "description":"在 当前窗口 打开 商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"商品详情.html",
+                        "url":"商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1403,7 +1403,7 @@
                       "description":"在 当前窗口 打开 商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"商品详情.html",
+                        "url":"商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1636,7 +1636,7 @@
                       "description":"在 当前窗口 打开 商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"商品详情.html",
+                        "url":"商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1869,7 +1869,7 @@
                       "description":"在 当前窗口 打开 商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"商品详情.html",
+                        "url":"商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2121,7 +2121,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u240.png"}},
+                    "normal~":"images/商品详情/u40.png"}},
 {
                   "id":"af738bca63a34705bd7cdf4012f0bafc",
                   "label":"",
@@ -2423,7 +2423,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/商品列表/u121.png"}},
+                    "normal~":"images/商品详情/u42.png"}},
 {
                   "id":"4454fb2fc0cd42a7aaf1cf6188a8b9f8",
                   "label":"",
@@ -2734,7 +2734,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/购买配送次数/u0.png"}},
+                    "normal~":"images/订单支付页/u0.png"}},
 {
                   "id":"33e9f28b766c4cb2889e70e1a176e504",
                   "label":"",
@@ -2854,7 +2854,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/菜品详情_1/u2.png"}},
+                    "normal~":"images/商品详情/u2.png"}},
 {
                   "id":"e237cbb628634c45a3cf63a2701d82a4",
                   "label":"",
@@ -3135,7 +3135,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/菜品详情_1/u2.png"}},
+                    "normal~":"images/商品详情/u2.png"}},
 {
                   "id":"23afef4f43ea48c39b1b68d62e70599c",
                   "label":"",

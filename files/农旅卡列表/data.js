@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡列表.html",
-  "generationDate":new Date(1504616000764.54),
+  "generationDate":new Date(1504681803708.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1098,7 +1098,7 @@
                       "description":"在 当前窗口 打开 订单支付页",
                       "target":{
                         "targetType":"page",
-                        "url":"订单支付页.html",
+                        "url":"订单支付页_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2356,7 +2356,7 @@
                       "description":"在 当前窗口 打开 订单支付页",
                       "target":{
                         "targetType":"page",
-                        "url":"订单支付页.html",
+                        "url":"订单支付页_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3315,7 +3315,7 @@
                       "description":"在 当前窗口 打开 订单支付页",
                       "target":{
                         "targetType":"page",
-                        "url":"订单支付页.html",
+                        "url":"订单支付页_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -4274,7 +4274,7 @@
                       "description":"在 当前窗口 打开 订单支付页",
                       "target":{
                         "targetType":"page",
-                        "url":"订单支付页.html",
+                        "url":"订单支付页_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -5233,7 +5233,7 @@
                       "description":"在 当前窗口 打开 订单支付页",
                       "target":{
                         "targetType":"page",
-                        "url":"订单支付页.html",
+                        "url":"订单支付页_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

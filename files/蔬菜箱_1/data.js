@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜箱_1.html",
-  "generationDate":new Date(1504616002209.49),
+  "generationDate":new Date(1504681805384.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -587,6 +587,21 @@
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/蔬菜箱_1/u54.png"}},
 {

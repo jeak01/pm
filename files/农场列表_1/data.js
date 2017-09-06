@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表_1.html",
-  "generationDate":new Date(1504616031203.72),
+  "generationDate":new Date(1504681833575.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u0.png"}},
+            "normal~":"images/商品详情/u0.png"}},
 {
           "id":"fe68e03db38949d39ee1a382a0f81b97",
           "label":"",
@@ -175,7 +175,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -216,7 +216,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -257,7 +257,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"1735d451609c461cbca800f807245f9e",
           "label":"",

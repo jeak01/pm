@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"柠檬.html",
-  "generationDate":new Date(1504616032127.34),
+  "generationDate":new Date(1504681834375.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u0.png"}},
+            "normal~":"images/商品详情/u0.png"}},
 {
           "id":"46b2ef1c9492489bab8340d0605e8ac1",
           "label":"",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品详情_1/u2.png"}},
+            "normal~":"images/商品详情/u2.png"}},
 {
           "id":"37dc69d67e394d7c9aa70a0f2fe15ff7",
           "label":"",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u26.png"}},
+            "normal~":"images/商品详情/u12.png"}},
 {
           "id":"1cb0c75650c34777937a5cc0c100a0b1",
           "label":"",
@@ -321,7 +321,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u26.png"}},
+            "normal~":"images/商品详情/u12.png"}},
 {
           "id":"141fd32af15e426c9ada96e9c2a14b4a",
           "label":"",
@@ -493,7 +493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"3442dcf864574d40b3f4a09debee2259",
           "label":"",
@@ -534,7 +534,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"9d7890b6cde1427881b7e4ee839a7ad0",
           "label":"",
@@ -575,7 +575,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"d38fcd7d323f4a108e45116661230bb5",
           "label":"",
@@ -816,7 +816,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u240.png"}},
+                    "normal~":"images/商品详情/u40.png"}},
 {
                   "id":"bcb02cc1b40a4725a47806f7dc8de8e1",
                   "label":"",
@@ -851,7 +851,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表/u121.png"}},
+                    "normal~":"images/商品详情/u42.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

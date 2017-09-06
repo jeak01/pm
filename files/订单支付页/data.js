@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页.html",
-  "generationDate":new Date(1504616003637.44),
+  "generationDate":new Date(1504681805032.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"1b917272bd8f4f38862c7ddec2ae0138",
+    "packageId":"abd70800befb4e0cb482425a68f392f6",
     "type":"Axure:Page",
     "name":"订单支付页",
     "notes":{
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u0.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"3d730967bb3547f6b4438449fe3e6f95",
           "label":"",
@@ -303,12 +303,14 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
                     "fontSize":"11px",
+                    "fontWeight":"700",
                     "location":{
-                      "x":272,
-                      "y":6},
+                      "x":223,
+                      "y":7},
                     "size":{
-                      "width":78,
+                      "width":128,
                       "height":16}},
                   "adaptiveStyles":{
 },
@@ -321,12 +323,14 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
                         "fontSize":"11px",
+                        "fontWeight":"700",
                         "location":{
-                          "x":272,
-                          "y":6},
+                          "x":223,
+                          "y":7},
                         "size":{
-                          "width":78,
+                          "width":128,
                           "height":16}},
                       "adaptiveStyles":{
 }}],
@@ -382,10 +386,10 @@
                       "color":0xFFFF0000,
                       "opacity":1},
                     "location":{
-                      "x":299,
-                      "y":58},
+                      "x":307,
+                      "y":57},
                     "size":{
-                      "width":51,
+                      "width":44,
                       "height":16}},
                   "adaptiveStyles":{
 },
@@ -403,10 +407,10 @@
                           "color":0xFFFF0000,
                           "opacity":1},
                         "location":{
-                          "x":299,
-                          "y":58},
+                          "x":307,
+                          "y":57},
                         "size":{
-                          "width":51,
+                          "width":44,
                           "height":16}},
                       "adaptiveStyles":{
 }}],
@@ -609,7 +613,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u12.png"}},
+            "normal~":"images/订单支付页/u29.png"}},
 {
           "id":"2c99f5ed755344b48c5d887f2120b1be",
           "label":"",
@@ -708,7 +712,7 @@
                               "description":"在 当前窗口 打开 支付成功",
                               "target":{
                                 "targetType":"page",
-                                "url":"支付成功_1.html",
+                                "url":"支付成功_2.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -808,7 +812,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u23.png"}},
+            "normal~":"images/订单支付页/u40.png"}},
 {
           "id":"959cb30ab4f04ec39245b657901034b9",
           "label":"",
@@ -841,7 +845,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u25.png"}},
+            "normal~":"images/订单支付页/u42.png"}},
 {
           "id":"608ed929c8804bb3a9ca3d73cd6fdfdb",
           "label":"",
@@ -858,7 +862,7 @@
               "x":85,
               "y":163},
             "size":{
-              "width":186,
+              "width":180,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -879,7 +883,7 @@
                   "x":85,
                   "y":163},
                 "size":{
-                  "width":186,
+                  "width":180,
                   "height":14}},
               "adaptiveStyles":{
 }}],

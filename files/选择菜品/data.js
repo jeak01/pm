@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择菜品.html",
-  "generationDate":new Date(1504616003282.2),
+  "generationDate":new Date(1504681806339.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2788,7 +2788,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/选择菜品/u135.png"}},
+                    "normal~":"images/确认订单/u73.png"}},
 {
                   "id":"6e01433cc8fd4ea0a506207d8d34afcd",
                   "label":"",
@@ -2977,15 +2977,15 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 确认订单1",
+                              "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单1.html",
+                                "url":"确认订单_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/选择菜品/u143.png"}}]}]},
+                    "normal~":"images/确认订单/u75.png"}}]}]},
 {
           "id":"a8ae843967e6476b84debafbd17a671b",
           "label":"s1",

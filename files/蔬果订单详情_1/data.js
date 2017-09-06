@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情_1.html",
-  "generationDate":new Date(1504616028051.63),
+  "generationDate":new Date(1504681830482.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u0.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"6514a15f0c164eed895ec10eae992464",
           "label":"",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_1/u344.png"}},
+            "normal~":"images/订单详情/u8.png"}},
 {
           "id":"68ef18cb6a774090bbffc4333869ab66",
           "label":"",
@@ -369,7 +369,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/蔬果订单详情_1/u18_line.png"}},
+            "line~":"images/订单详情/u18_line.png"}},
 {
           "id":"ec166e24a8ec4adb87faef19fe727f15",
           "label":"",
@@ -402,7 +402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情/u8.png"}},
+            "normal~":"images/订单详情/u19.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
@@ -501,7 +501,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情2/u34.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"12cbe6452eeb42efb2f189e4f60d4128",
           "label":"",
@@ -838,7 +838,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬果订单详情/u29.png"}}]}]},
+                    "normal~":"images/订单详情/u44.png"}}]}]},
 {
           "id":"ae5e0e1696c54723832627145082dd0f",
           "label":"",
@@ -912,7 +912,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_1/u322.png"}},
+            "normal~":"images/确认订单_2/u322.png"}},
 {
           "id":"7308b18033f84838ac58e78ebc569c9b",
           "label":"",

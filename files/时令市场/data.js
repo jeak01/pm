@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1504616001865.26),
+  "generationDate":new Date(1504681804666.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3296,7 +3296,367 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u193.png"}}]}},
+            "normal~":"images/时令市场/u193.png"}},
+{
+          "id":"8bfccf10a29846049c1f6530d0207a16",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":9,
+              "y":278},
+            "size":{
+              "width":106,
+              "height":160}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"63f4a611fe994aabb1f9ab5723eafadf",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":124,
+              "y":278},
+            "size":{
+              "width":106,
+              "height":160}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"347bf010321c483c8230538c77e73879",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":244,
+              "y":277},
+            "size":{
+              "width":106,
+              "height":160}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a7a2511a64bd4f3a8edbb44f0091d37d",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":484},
+            "size":{
+              "width":325,
+              "height":106}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"cdd68b56162c4105932f4dcbac02371e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":15,
+              "y":610},
+            "size":{
+              "width":325,
+              "height":106}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"9b2dd60bb1d94886b2ff089226e65de3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":15,
+              "y":726},
+            "size":{
+              "width":325,
+              "height":106}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"ddc0100613364ce7a9ca06ba770c6889",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":4,
+              "y":897},
+            "size":{
+              "width":173,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"f77d3f330ecc442f80578bad52e0a812",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":182,
+              "y":897},
+            "size":{
+              "width":173,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"db5e1e9aea2749c19326f7702b989298",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":4,
+              "y":1147},
+            "size":{
+              "width":173,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"38c62636a801449bb6b2b882399cae05",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":184,
+              "y":1147},
+            "size":{
+              "width":173,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"12fbc6ee1617477697cd955322c9d3b7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":3,
+              "y":1400},
+            "size":{
+              "width":173,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"6b93cf37eaed420b84807fba5108cfc5",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":184,
+              "y":1400},
+            "size":{
+              "width":173,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 商品详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"商品详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -4337,4 +4697,28 @@
     "1b73c5d12f0b4e84b7cfc4066646fc13":{
       "scriptId":"u193"},
     "38646a7b24e34022ad62198b846641bf":{
-      "scriptId":"u194"}}});
+      "scriptId":"u194"},
+    "8bfccf10a29846049c1f6530d0207a16":{
+      "scriptId":"u195"},
+    "63f4a611fe994aabb1f9ab5723eafadf":{
+      "scriptId":"u196"},
+    "347bf010321c483c8230538c77e73879":{
+      "scriptId":"u197"},
+    "a7a2511a64bd4f3a8edbb44f0091d37d":{
+      "scriptId":"u198"},
+    "cdd68b56162c4105932f4dcbac02371e":{
+      "scriptId":"u199"},
+    "9b2dd60bb1d94886b2ff089226e65de3":{
+      "scriptId":"u200"},
+    "ddc0100613364ce7a9ca06ba770c6889":{
+      "scriptId":"u201"},
+    "f77d3f330ecc442f80578bad52e0a812":{
+      "scriptId":"u202"},
+    "db5e1e9aea2749c19326f7702b989298":{
+      "scriptId":"u203"},
+    "38c62636a801449bb6b2b882399cae05":{
+      "scriptId":"u204"},
+    "12fbc6ee1617477697cd955322c9d3b7":{
+      "scriptId":"u205"},
+    "6b93cf37eaed420b84807fba5108cfc5":{
+      "scriptId":"u206"}}});

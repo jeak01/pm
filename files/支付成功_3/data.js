@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功_3.html",
-  "generationDate":new Date(1504616023165.39),
+  "generationDate":new Date(1504681823551.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"b3c2b0e1978842b1a85d0a77927a4d55",
+    "packageId":"9bc7231e87e14dc09f3f74622bd35212",
     "type":"Axure:Page",
     "name":"支付成功",
     "notes":{
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u0.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -390,10 +390,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蔬果订单详情",
+                      "description":"在 当前窗口 打开 全部订单",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬果订单详情_1.html",
+                        "url":"全部订单_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

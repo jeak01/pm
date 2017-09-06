@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1504616019642.06),
+  "generationDate":new Date(1504681821936.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -613,7 +613,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u26.png"}},
+            "normal~":"images/商品详情/u12.png"}},
 {
           "id":"18e0d6ecf354460b8fe2c55c2e454c58",
           "label":"",

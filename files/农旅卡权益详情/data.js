@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1504616001374.94),
+  "generationDate":new Date(1504681804201.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3174,7 +3174,7 @@
                               "description":"在 当前窗口 打开 订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"订单支付页.html",
+                                "url":"订单支付页_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

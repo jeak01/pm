@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页_3.html",
-  "generationDate":new Date(1504616026954.91),
+  "generationDate":new Date(1504681825101.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"14f2e39dbf8a4c4ba04dc749c92e48d4",
+    "packageId":"e69a3fa72bc24424bc0b4c35811f4b35",
     "type":"Axure:Page",
     "name":"订单支付页",
     "notes":{
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u0.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"3d730967bb3547f6b4438449fe3e6f95",
           "label":"",
@@ -377,10 +377,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":165,
+              "x":129,
               "y":44},
             "size":{
-              "width":184,
+              "width":221,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -394,10 +394,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":165,
+                  "x":129,
                   "y":44},
                 "size":{
-                  "width":184,
+                  "width":221,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -450,10 +450,10 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":299,
-              "y":96},
+              "x":291,
+              "y":97},
             "size":{
-              "width":51,
+              "width":58,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -470,10 +470,10 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":299,
-                  "y":96},
+                  "x":291,
+                  "y":97},
                 "size":{
-                  "width":51,
+                  "width":58,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -577,7 +577,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u12.png"}},
+            "normal~":"images/订单支付页/u29.png"}},
 {
           "id":"2c99f5ed755344b48c5d887f2120b1be",
           "label":"",
@@ -873,7 +873,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u23.png"}},
+            "normal~":"images/订单支付页/u40.png"}},
 {
           "id":"3a2e9fe0caf044edb7535dcf5355f957",
           "label":"",
@@ -906,7 +906,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页_1/u47.png"}},
+            "normal~":"images/订单支付页_2/u47.png"}},
 {
           "id":"959cb30ab4f04ec39245b657901034b9",
           "label":"",
@@ -939,7 +939,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u25.png"}},
+            "normal~":"images/订单支付页/u42.png"}},
 {
           "id":"608ed929c8804bb3a9ca3d73cd6fdfdb",
           "label":"",
@@ -956,7 +956,7 @@
               "x":85,
               "y":163},
             "size":{
-              "width":144,
+              "width":223,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -977,7 +977,7 @@
                   "x":85,
                   "y":163},
                 "size":{
-                  "width":144,
+                  "width":223,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1066,7 +1066,7 @@
                       "description":"在 当前窗口 打开 会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"会员充值_3.html",
+                        "url":"会员充值_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

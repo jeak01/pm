@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择菜品_1.html",
-  "generationDate":new Date(1504616004153.78),
+  "generationDate":new Date(1504681807084.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2708,7 +2708,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/选择菜品/u135.png"}},
+                    "normal~":"images/确认订单/u73.png"}},
 {
                   "id":"6e01433cc8fd4ea0a506207d8d34afcd",
                   "label":"",
@@ -2905,7 +2905,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/选择菜品/u143.png"}}]}]},
+                    "normal~":"images/确认订单/u75.png"}}]}]},
 {
           "id":"97d34922ba2045d4bd5ccc5a09786d35",
           "label":"",

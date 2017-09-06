@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情的副本.html",
-  "generationDate":new Date(1504616022242.78),
+  "generationDate":new Date(1504681824483.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"d6ea308fadd64f0d8e736860118c9906",
           "label":"",
@@ -327,7 +327,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"8def823f3fbf4a4e82a80c5846b1f186",
           "label":"",
@@ -368,7 +368,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"884de3d6e3334e84aa48eb6cc14e5524",
           "label":"",
@@ -5569,7 +5569,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u240.png"}},
+                    "normal~":"images/商品详情/u40.png"}},
 {
                   "id":"283c67624ada4acfa27fd0c972a96217",
                   "label":"套餐价格（底部）",
@@ -5791,7 +5791,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u240.png"}},
+                    "normal~":"images/商品详情/u40.png"}},
 {
                   "id":"dee1448c5dcc42c885eb89a0a9420b78",
                   "label":"套餐价格（底部）",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送.html",
-  "generationDate":new Date(1504616032345.48),
+  "generationDate":new Date(1504681834587.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u0.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"2391244f1f394a6ca32cb5309caf33dc",
           "label":"",
@@ -163,7 +163,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品详情_1/u2.png"}},
+            "normal~":"images/商品详情/u2.png"}},
 {
           "id":"e0ab63f369064a3793181486f98a993d",
           "label":"",
@@ -305,7 +305,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品详情_1/u2.png"}},
+            "normal~":"images/商品详情/u2.png"}},
 {
           "id":"d4f9b0f9ac43439e8d8ddb44004032f9",
           "label":"",
@@ -496,7 +496,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品详情_1/u2.png"}},
+            "normal~":"images/商品详情/u2.png"}},
 {
           "id":"50a1f42ba4784c9f8c65084128cc1bc7",
           "label":"",
@@ -638,7 +638,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品详情_1/u2.png"}},
+            "normal~":"images/商品详情/u2.png"}},
 {
           "id":"56eb12907fc544a7a30ad0521e957ac0",
           "label":"",
@@ -1127,7 +1127,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u240.png"}},
+                    "normal~":"images/商品详情/u40.png"}},
 {
                   "id":"f10cb96905384beaad5d8e4ac33a8edd",
                   "label":"",
@@ -1211,7 +1211,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单_1/u13.png"}}]}]}]}},
+                    "normal~":"images/确认订单_2/u13.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

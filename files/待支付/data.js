@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"待支付.html",
-  "generationDate":new Date(1504616012166.1),
+  "generationDate":new Date(1504681814362.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -220,7 +220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"fd52a68d6a274608b097c117535bbead",
           "label":"",
@@ -261,7 +261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"c1510f8dea5740acab80fe6a40f0c8f0",
           "label":"",
@@ -302,7 +302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"15bfd199c91542e9a3e3ab16166e20c2",
           "label":"",

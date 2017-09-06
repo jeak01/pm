@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表_4.html",
-  "generationDate":new Date(1504616035173.36),
+  "generationDate":new Date(1504681837254.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u0.png"}},
+            "normal~":"images/商品详情/u0.png"}},
 {
           "id":"fe68e03db38949d39ee1a382a0f81b97",
           "label":"",
@@ -175,7 +175,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -216,7 +216,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -257,7 +257,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u12.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"98f12138c6ab4d54a44f41123cde1b5e",
           "label":"",
@@ -572,7 +572,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情2/u34.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"9dd41feb739441d18cdaad6a4a959867",
           "label":"",
@@ -759,7 +759,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情2/u34.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"fa006e8117b14b49b5c370cffc82a7ac",
           "label":"",
@@ -946,7 +946,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情2/u34.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"156a95581fe844b7b42453bb65d98df6",
           "label":"",
@@ -1133,7 +1133,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情2/u34.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"a910738255c244a8b9fb22441bc4783f",
           "label":"",

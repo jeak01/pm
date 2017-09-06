@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情_1.html",
-  "generationDate":new Date(1504616028325.81),
+  "generationDate":new Date(1504681830780.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u0.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"95463b67a8194076af9add9814e29a27",
           "label":"",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_1/u344.png"}},
+            "normal~":"images/订单详情/u8.png"}},
 {
           "id":"3703b5f6d0b84adc8afeabae91ee724e",
           "label":"",
@@ -369,7 +369,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/蔬果订单详情_1/u18_line.png"}},
+            "line~":"images/订单详情/u18_line.png"}},
 {
           "id":"a3f8cf7b31b8432a9bd391fcf41a3a22",
           "label":"",
@@ -542,7 +542,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情2/u34.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"18431b0fc5ae487e9dbcb2df4c1022b8",
           "label":"",
@@ -832,7 +832,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情2/u34.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"e729fd452101464983deacb16ef6bc7d",
           "label":"",
@@ -1169,7 +1169,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬果订单详情/u29.png"}},
+                    "normal~":"images/订单详情/u44.png"}},
 {
                   "id":"07997d21e3ea48aca251e1332dd73be3",
                   "label":"",
@@ -1206,7 +1206,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬果订单详情/u29.png"}}]}]},
+                    "normal~":"images/订单详情/u44.png"}}]}]},
 {
           "id":"75de5cb193924c4abcb480793686357d",
           "label":"",

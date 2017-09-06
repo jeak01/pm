@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1504616014973.96),
+  "generationDate":new Date(1504681817220.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5375,7 +5375,7 @@
                               "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单_1.html",
+                                "url":"确认订单_2.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认（宅配）.html",
-  "generationDate":new Date(1504616022685.07),
+  "generationDate":new Date(1504681824945.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u0.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"0d5b9149b83148aca398a36e1b29ddde",
           "label":"",
@@ -224,7 +224,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"e5b1c5a75794478c9ffa6c4a927ad9a6",
           "label":"",
@@ -370,7 +370,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"7db7367b57524a1888ccb210ac1bd369",
           "label":"",
@@ -539,7 +539,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u240.png"}},
+                    "normal~":"images/商品详情/u40.png"}},
 {
                   "id":"6ac36212810b4201a39fbd335e24ee37",
                   "label":"",
@@ -623,7 +623,7 @@
                               "description":"在 当前窗口 打开 订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"订单支付页_2.html",
+                                "url":"订单支付页_3.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -667,7 +667,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"e1b114ddeb9a4355aea0b85ae52eb795",
           "label":"",
@@ -766,7 +766,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_1/u289.png"}},
+            "normal~":"images/确认订单_2/u289.png"}},
 {
           "id":"a7b579a20bc842d2b64ade729f693f1c",
           "label":"",
@@ -832,7 +832,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情/u8.png"}},
+            "normal~":"images/订单详情/u19.png"}},
 {
           "id":"192d3a04050c41ec8f2f96eede107db0",
           "label":"",
@@ -974,7 +974,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_2/u225.png"}},
+            "normal~":"images/确认订单_3/u225.png"}},
 {
           "id":"fcb22bdf6fb94aa19ec44d86c726bab8",
           "label":"",
@@ -1198,7 +1198,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"615832dac17c4b6d9d005a28eccf5fb5",
           "label":"",
@@ -3415,7 +3415,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"fa4a5c3823ac49cdaa1fcd66b1c00b87",
           "label":"",
@@ -3520,7 +3520,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"0e7282c68c264b8da7d9c714b250075a",
           "label":"",
@@ -3625,7 +3625,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"3424358a78ea46adb5d992cc029e32eb",
           "label":"",
@@ -3781,7 +3781,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u60.png"}},
+            "normal~":"images/确认订单/u16.png"}},
 {
           "id":"dc03302dfada41e5a53a0f66797b9ad4",
           "label":"",
