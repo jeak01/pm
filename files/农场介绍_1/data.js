@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场介绍_1.html",
-  "generationDate":new Date(1504691824538.19),
+  "generationDate":new Date(1504699175286.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅百科/u72.png"}},
+            "normal~":"images/农旅路线/u195.png"}},
 {
           "id":"d5a08b18637a4ed09207ea62a10493ea",
           "label":"",
@@ -362,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅百科/u78.png"}},
+            "normal~":"images/农旅路线/u201.png"}},
 {
           "id":"8d3242cc83904a858a91bd2f1f2b97b1",
           "label":"",
@@ -430,7 +430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅百科/u82.png"}},
+            "normal~":"images/农旅路线/u205.png"}},
 {
           "id":"d3406da983db46d899f7e9af25abbd0a",
           "label":"",
@@ -1313,7 +1313,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_6.html",
+                        "url":"线路详情_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1343,7 +1343,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_7.html",
+                        "url":"线路详情_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1373,7 +1373,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_10.html",
+                        "url":"线路详情_6.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1403,7 +1403,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_8.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

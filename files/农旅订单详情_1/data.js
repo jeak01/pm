@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情_1.html",
-  "generationDate":new Date(1504699092884.57),
+  "generationDate":new Date(1504699187481.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -136,12 +136,12 @@
                       "description":"在 当前窗口 打开 全部订单",
                       "target":{
                         "targetType":"page",
-                        "url":"全部订单.html",
+                        "url":"全部订单_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"c4448487167542c2a369b072d4da7484",
           "label":"",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u344.png"}},
+            "normal~":"images/订单详情/u8.png"}},
 {
           "id":"3703b5f6d0b84adc8afeabae91ee724e",
           "label":"",
@@ -369,7 +369,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/蔬果订单详情_1/u18_line.png"}},
+            "line~":"images/订单详情/u18_line.png"}},
 {
           "id":"a3f8cf7b31b8432a9bd391fcf41a3a22",
           "label":"",
@@ -402,7 +402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅订单详情_1/u19.png"}},
+            "normal~":"images/农旅订单详情/u8.png"}},
 {
           "id":"ea35a221ce334b5bb16138d714c97a7f",
           "label":"",
@@ -443,7 +443,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅订单详情/u27.png"}},
+            "normal~":"images/农旅订单详情/u10.png"}},
 {
           "id":"11bb1d7bd2254d2ba32c01ee9e6824d4",
           "label":"",
@@ -542,7 +542,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情_1/u25.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"18431b0fc5ae487e9dbcb2df4c1022b8",
           "label":"",
@@ -643,7 +643,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u67.jpg"}},
+            "normal~":"images/主页/u9.jpg"}},
 {
           "id":"4ed723fd84814176b8728c57a64ef14b",
           "label":"",
@@ -832,7 +832,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬果订单详情_1/u25.png"}},
+            "normal~":"images/确认订单/u64.png"}},
 {
           "id":"e729fd452101464983deacb16ef6bc7d",
           "label":"",
@@ -1089,7 +1089,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页_安卓_/top_u2.png"}},
+                    "normal~":"images/主页/top_u46.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",
@@ -1169,7 +1169,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬果订单详情_1/u44.png"}},
+                    "normal~":"images/订单详情/u44.png"}},
 {
                   "id":"07997d21e3ea48aca251e1332dd73be3",
                   "label":"",
@@ -1206,7 +1206,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬果订单详情_1/u44.png"}}]}]},
+                    "normal~":"images/订单详情/u44.png"}}]}]},
 {
           "id":"75de5cb193924c4abcb480793686357d",
           "label":"",
@@ -1585,7 +1585,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u36.png"}},
+            "normal~":"images/主页/u378.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",

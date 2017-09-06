@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅路线产品.html",
-  "generationDate":new Date(1504699084188.76),
+  "generationDate":new Date(1504699178438.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u0.png"}},
+            "normal~":"images/商品详情/u0.png"}},
 {
           "id":"cac9ab5a94394348b6ee112c2934f33d",
           "label":"",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u12.png"}},
+            "normal~":"images/商品列表/u18.png"}},
 {
           "id":"7fb7f6255eb8414ca801a5f99bbfa03c",
           "label":"",
@@ -124,7 +124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u12.png"}},
+            "normal~":"images/商品列表/u18.png"}},
 {
           "id":"d16ce4cc8a8e424e96cedee1f310b1f3",
           "label":"",
@@ -157,7 +157,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u6.png"}},
+            "normal~":"images/商品列表/u22.png"}},
 {
           "id":"e220e4e7633145a2a4b54d75f7d1a9ff",
           "label":"",
@@ -231,7 +231,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u54.png"}},
 {
           "id":"15706875a22c45d099bedccf56f19996",
           "label":"",
@@ -305,7 +305,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u54.png"}},
 {
           "id":"bf558e86579f456dbf534f5583ee148c",
           "label":"",
@@ -379,7 +379,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/特色活动/u20.png"}},
+            "normal~":"images/主页/u54.png"}},
 {
           "id":"2d47f18ab58c470faff3cc98d23c7d45",
           "label":"",
@@ -412,7 +412,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u20.png"}},
+            "normal~":"images/蔬果订单详情/u14.png"}},
 {
           "id":"2db4ae50ad4b48be9b3c99de7432af34",
           "label":"",
@@ -445,7 +445,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u18.jpg"}},
+            "normal~":"images/线路详情/u238.jpg"}},
 {
           "id":"da32b91e70874a1bb91aee99b4f42140",
           "label":"",
@@ -583,7 +583,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
+                        "url":"线路详情_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -613,7 +613,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"3462d6eda6ef47e8a84798650a80f93d",
           "label":"",
@@ -744,7 +744,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u12.png"}},
+            "normal~":"images/主页/u56.png"}},
 {
           "id":"7c12e86653a644d4a4d1cfcd33d3833f",
           "label":"",
@@ -793,7 +793,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"29336e2b9274477487e9debae7d9c02e",
           "label":"",
@@ -826,7 +826,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u20.png"}},
+            "normal~":"images/蔬果订单详情/u14.png"}},
 {
           "id":"6bfc59c679ca4759bdcba69efb5a7d9e",
           "label":"",
@@ -859,7 +859,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u34.jpg"}},
+            "normal~":"images/主页/u11.jpg"}},
 {
           "id":"d9addc541342464bbd911bf6f1d629f2",
           "label":"",
@@ -997,7 +997,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_1.html",
+                        "url":"线路详情_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1033,7 +1033,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u20.png"}},
+            "normal~":"images/蔬果订单详情/u14.png"}},
 {
           "id":"08fd086ec8b5491f8a987814a798e27d",
           "label":"",
@@ -1210,7 +1210,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u20.png"}},
+            "normal~":"images/蔬果订单详情/u14.png"}},
 {
           "id":"0d3e19d1c82a4aab95a72d25d3fd5f7e",
           "label":"",
@@ -1243,7 +1243,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/u67.jpg"}},
+            "normal~":"images/主页/u9.jpg"}},
 {
           "id":"30a2534fdd3f41068b550d27bd4c03c5",
           "label":"",
@@ -1381,7 +1381,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_2.html",
+                        "url":"线路详情_6.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1411,7 +1411,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_3.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1513,7 +1513,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u241.png"}},
+                      "normal~":"images/主页/u370.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -1696,7 +1696,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u36.png"}},
+                      "normal~":"images/主页/u378.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -1731,7 +1731,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u42.png"}},
+                      "normal~":"images/主页/u380.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -1766,7 +1766,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u255.png"}},
+                      "normal~":"images/主页/u382.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -1801,7 +1801,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/会员主页_安卓_/u303.png"}},
+                      "normal~":"images/主页/u392.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",
@@ -1997,7 +1997,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页_安卓_/u265.png"}},
+                      "normal~":"images/主页/u386.png"}},
 {
                     "id":"d871e8d8e00b43e38ddfde26b9da7948",
                     "label":"",
@@ -2025,7 +2025,7 @@
                                 "description":"在 当前窗口 打开 农旅百科",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"农旅百科.html",
+                                  "url":"农旅百科_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

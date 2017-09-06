@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"待发货.html",
-  "generationDate":new Date(1504699093814.13),
+  "generationDate":new Date(1504699171346.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"7dd11e7d87474bbfb60b0a7a404ac16a",
+    "packageId":"c21ea257454c40268c02611c7d375149",
     "type":"Axure:Page",
     "name":"待发货",
     "notes":{
@@ -604,7 +604,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部订单/u24.png"}},
+                    "normal~":"images/全部分类/u2.png"}},
 {
                   "id":"decca2d454a94250bb9d9707a72f6604",
                   "label":"",

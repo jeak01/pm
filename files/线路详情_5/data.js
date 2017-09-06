@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_5.html",
-  "generationDate":new Date(1504691817366.25),
+  "generationDate":new Date(1504699177919.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"92c0723fd95e450c94fcf3fec26a8dcb",
+    "packageId":"174e52fb37ac4a76a9bc9ac4c7c04091",
     "type":"Axure:Page",
     "name":"线路详情",
     "notes":{
@@ -215,7 +215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情_2/u4.png"}},
+            "normal~":"images/线路详情_3/u4.png"}},
 {
           "id":"c9352d30998f480399d9a1df1af63aa1",
           "label":"",
@@ -486,7 +486,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u95.png"}},
+            "normal~":"images/农旅路线/u97.png"}},
 {
           "id":"9e6ee747a8194bb7a4a565917bea3a07",
           "label":"",

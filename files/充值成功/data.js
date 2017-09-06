@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功.html",
-  "generationDate":new Date(1504699074439.38),
+  "generationDate":new Date(1504699171903.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"78f678f5ba254c2da4a048a0175d5ead",
+    "packageId":"2d6b6bc21c4942f7abbd01cedef9c110",
     "type":"Axure:Page",
     "name":"充值成功",
     "notes":{
@@ -46,7 +46,7 @@
               "x":0,
               "y":-17},
             "size":{
-              "width":375,
+              "width":360,
               "height":667}},
           "adaptiveStyles":{
 },
@@ -65,12 +65,12 @@
                   "x":0,
                   "y":-17},
                 "size":{
-                  "width":375,
+                  "width":360,
                   "height":667}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/配送设置面板_u132.png"}},
+            "normal~":"images/订单支付页/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -79,7 +79,7 @@
           "visible":true,
           "style":{
             "size":{
-              "width":375,
+              "width":360,
               "height":40}},
           "adaptiveStyles":{
 },
@@ -92,12 +92,12 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":375,
+                  "width":360,
                   "height":40}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u26.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -106,7 +106,7 @@
           "visible":true,
           "style":{
             "size":{
-              "width":41,
+              "width":39,
               "height":41},
             "borderWidth":"-1",
             "borderFill":{
@@ -123,7 +123,7 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":41,
+                  "width":39,
                   "height":41},
                 "borderWidth":"-1",
                 "borderFill":{
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -158,7 +158,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":151,
+              "x":145,
               "y":9},
             "size":{
               "width":73,
@@ -177,7 +177,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":151,
+                  "x":145,
                   "y":9},
                 "size":{
                   "width":73,
@@ -197,7 +197,7 @@
               "x":0,
               "y":60},
             "size":{
-              "width":375,
+              "width":360,
               "height":180}},
           "adaptiveStyles":{
 },
@@ -213,12 +213,12 @@
                   "x":0,
                   "y":60},
                 "size":{
-                  "width":375,
+                  "width":360,
                   "height":180}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功（农旅）/u8.png"}},
+            "normal~":"images/支付成功/u8.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -227,10 +227,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":155.5,
+              "x":150,
               "y":76},
             "size":{
-              "width":64,
+              "width":61,
               "height":64},
             "borderWidth":"-1",
             "borderFill":{
@@ -247,10 +247,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":155.5,
+                  "x":150,
                   "y":76},
                 "size":{
-                  "width":64,
+                  "width":61,
                   "height":64},
                 "borderWidth":"-1",
                 "borderFill":{
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功（农旅）/u10.png"}},
+            "normal~":"images/支付成功/u10.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -268,7 +268,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":145,
+              "x":139,
               "y":140},
             "size":{
               "width":79,
@@ -284,7 +284,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":145,
+                  "x":139,
                   "y":140},
                 "size":{
                   "width":79,
@@ -301,10 +301,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":58,
+              "x":56,
               "y":180},
             "size":{
-              "width":122,
+              "width":117,
               "height":40},
             "cornerRadiusTopLeft":"5"},
           "adaptiveStyles":{
@@ -318,10 +318,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":58,
+                  "x":56,
                   "y":180},
                 "size":{
-                  "width":122,
+                  "width":117,
                   "height":40},
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
@@ -342,7 +342,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功（农旅）/u14.png"}},
+            "normal~":"images/支付成功/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -354,10 +354,10 @@
               "fillType":"solid",
               "color":0xFFDDDDDD},
             "location":{
-              "x":190,
+              "x":182,
               "y":180},
             "size":{
-              "width":122,
+              "width":117,
               "height":40},
             "cornerRadiusTopLeft":"5"},
           "adaptiveStyles":{
@@ -374,10 +374,10 @@
                   "fillType":"solid",
                   "color":0xFFDDDDDD},
                 "location":{
-                  "x":190,
+                  "x":182,
                   "y":180},
                 "size":{
-                  "width":122,
+                  "width":117,
                   "height":40},
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
@@ -398,7 +398,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功（农旅）/u16.png"}}]}},
+            "normal~":"images/支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{

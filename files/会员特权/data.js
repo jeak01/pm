@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1504699078353.12),
+  "generationDate":new Date(1504699174393.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u2.png"}},
+            "normal~":"images/选择配送农场/u2.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -251,7 +251,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
+            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
 {
           "id":"2080e938598944e7b712e7df5dd9b0b0",
           "label":"",
@@ -533,7 +533,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u24.jpg"}},
+            "normal~":"images/农旅卡权益详情/u10.jpg"}},
 {
           "id":"fef42f8cbc2c4fe696c3e85654e417a1",
           "label":"",
@@ -609,7 +609,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u28.jpg"}},
+            "normal~":"images/农旅卡权益详情/u18.jpg"}},
 {
           "id":"98c7efdccba94e56900e54efbcc3b411",
           "label":"",
@@ -685,7 +685,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u16.jpg"}},
+            "normal~":"images/农旅卡权益详情/u22.jpg"}},
 {
           "id":"304199f84587494aa4be2a82117eafe8",
           "label":"",
@@ -1021,7 +1021,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员特权/u48.jpg"}},
+            "normal~":"images/农旅卡权益详情/u14.jpg"}},
 {
           "id":"6b2dadf8c69f45838056d881fad8e550",
           "label":"",
@@ -1097,7 +1097,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"21e3d18fce194e129c8d477d24f372ab",
           "label":"",
@@ -1138,7 +1138,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"f6ef40a87e094e8db9109cf5734d2597",
           "label":"",
@@ -1204,7 +1204,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"55c305b1e3ff499aa17d097826161e8d",
           "label":"",
@@ -1245,7 +1245,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"73e4933302f84cb59b9684975b0d0a91",
           "label":"",
@@ -1311,7 +1311,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"2f5c6d10e5154bdeb808223f5a3a4ac7",
           "label":"",
@@ -1352,7 +1352,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"519d9aec047e40a3810b808a2d67f260",
           "label":"",
@@ -1418,7 +1418,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"5edfa34dcd7e49ddaf6ad647c21f16cf",
           "label":"",
@@ -1459,7 +1459,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"3070c2f9f1c04896bddd69cc44b0d479",
           "label":"",
@@ -1525,7 +1525,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"2795f058533844828c31acf2779ce539",
           "label":"",
@@ -1566,7 +1566,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u27.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"8187fbae1619414e9639b7409080f2bb",
           "label":"",
@@ -1655,7 +1655,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/新人专享套餐/u252.png"}},
+                    "normal~":"images/农旅卡权益详情/u155.png"}},
 {
                   "id":"0f490ea23e294454a8c06c4e41199797",
                   "label":"",
@@ -1999,7 +1999,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"0bf5dfca97814dc3b7249f4c54601ee1",
           "label":"",
@@ -2521,7 +2521,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"01b6e555507146768a569d5f38d38f08",
           "label":"",

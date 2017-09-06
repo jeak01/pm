@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品详情_1.html",
-  "generationDate":new Date(1504699096224.52),
+  "generationDate":new Date(1504699191654.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -58,7 +58,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u0.png"}},
+            "normal~":"images/商品详情/u0.png"}},
 {
           "id":"46b2ef1c9492489bab8340d0605e8ac1",
           "label":"",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品详情/u2.png"}},
+            "normal~":"images/商品详情/u2.png"}},
 {
           "id":"37dc69d67e394d7c9aa70a0f2fe15ff7",
           "label":"",
@@ -161,7 +161,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u199.png"}},
+            "normal~":"images/农旅卡权益详情/u46.png"}},
 {
           "id":"5988d78ad6474af4adb8d691d62ea497",
           "label":"",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认预约时间/u35.png"}},
+            "normal~":"images/商品详情/u12.png"}},
 {
           "id":"1cb0c75650c34777937a5cc0c100a0b1",
           "label":"",
@@ -321,7 +321,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认预约时间/u35.png"}},
+            "normal~":"images/商品详情/u12.png"}},
 {
           "id":"141fd32af15e426c9ada96e9c2a14b4a",
           "label":"",
@@ -364,7 +364,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_/top_u2.png"}},
+            "normal~":"images/主页/top_u46.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",
@@ -413,7 +413,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/平台简介/u4.png"}},
+            "normal~":"images/选择城市/u4.png"}},
 {
           "id":"5f390aa89e4442d89b609ac3c1b89e76",
           "label":"",
@@ -493,7 +493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"3442dcf864574d40b3f4a09debee2259",
           "label":"",
@@ -534,7 +534,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"9d7890b6cde1427881b7e4ee839a7ad0",
           "label":"",
@@ -575,7 +575,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/平台简介/u8.png"}},
+            "normal~":"images/商品详情/u23.png"}},
 {
           "id":"d38fcd7d323f4a108e45116661230bb5",
           "label":"",
@@ -608,7 +608,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u58.jpg"}},
+            "normal~":"images/主页/u122.png"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",
@@ -754,7 +754,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u2.png"}},
+            "normal~":"images/菜品详情_1/u20.png"}},
 {
           "id":"825346ead4394757b4d1deb8938b991c",
           "label":"",
@@ -787,7 +787,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u4.png"}},
+            "normal~":"images/菜品详情_1/u22.png"}},
 {
           "id":"5587824f13e8475fb4890059f53b1635",
           "label":"",
@@ -820,7 +820,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u6.png"}},
+            "normal~":"images/菜品详情_1/u24.png"}},
 {
           "id":"450fa25d7b6449e1923e4e00704547db",
           "label":"",
@@ -882,7 +882,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蜜桃/u40.png"}},
+                    "normal~":"images/商品详情/u40.png"}},
 {
                   "id":"500a2f9be094444a94502b67a79085f6",
                   "label":"",
@@ -956,7 +956,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表/u109.png"}},
+                    "normal~":"images/商品列表_1/u109.png"}},
 {
                   "id":"e92d6fb0549f4a2c86d1febcfa9e3294",
                   "label":"",
@@ -1005,7 +1005,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表/u113.png"}},
+                    "normal~":"images/商品列表_1/u113.png"}},
 {
                   "id":"bb926c8626194b14a0141612700b05ac",
                   "label":"",
@@ -1083,7 +1083,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品列表_1/u121.png"}},
+                    "normal~":"images/商品详情/u42.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",
