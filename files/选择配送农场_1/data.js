@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场_1.html",
-  "generationDate":new Date(1504682501554.89),
+  "generationDate":new Date(1504688008414.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1226,7 +1226,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表.html",
+                        "url":"商品列表_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1958,7 +1958,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表.html",
+                        "url":"商品列表_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1988,7 +1988,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表.html",
+                        "url":"商品列表_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2018,7 +2018,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表.html",
+                        "url":"商品列表_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2048,7 +2048,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表.html",
+                        "url":"商品列表_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2078,7 +2078,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表.html",
+                        "url":"商品列表_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

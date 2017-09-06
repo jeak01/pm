@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的农旅卡（待激活）.html",
-  "generationDate":new Date(1504682481736.83),
+  "generationDate":new Date(1504687987017.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -447,6 +447,21 @@
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 激活农旅卡",
+                      "target":{
+                        "targetType":"page",
+                        "url":"激活农旅卡.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/我的农旅卡（待激活）/u47.png"}}]}},
   "masters":{

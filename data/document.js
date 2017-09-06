@@ -41,6 +41,10 @@
             "type":"Wireframe",
             "url":"时令市场.html",
             "children":[{
+                "pageName":"商品列表",
+                "type":"Wireframe",
+                "url":"商品列表.html"},
+{
                 "pageName":"商品详情",
                 "type":"Wireframe",
                 "url":"商品详情.html"},
@@ -193,6 +197,10 @@
             "type":"Wireframe",
             "url":"我的农旅卡（待激活）.html"},
 {
+            "pageName":"激活农旅卡",
+            "type":"Wireframe",
+            "url":"激活农旅卡.html"},
+{
             "pageName":"全部订单",
             "type":"Wireframe",
             "url":"全部订单.html",
@@ -311,11 +319,7 @@
 {
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情_9.html"},
-{
-                    "pageName":"线路详情",
-                    "type":"Wireframe",
-                    "url":"线路详情_10.html"}]},
+                    "url":"线路详情_9.html"}]},
 {
                 "pageName":"组合套餐（初始）",
                 "type":"Wireframe",
@@ -563,7 +567,7 @@
 {
                 "pageName":"商品列表",
                 "type":"Wireframe",
-                "url":"商品列表.html",
+                "url":"商品列表_1.html",
                 "children":[{
                     "pageName":"蜜桃",
                     "type":"Wireframe",
@@ -631,7 +635,11 @@
                 "children":[{
                     "pageName":"小轮播",
                     "type":"Wireframe",
-                    "url":"小轮播.html"}]}]}]}]},
+                    "url":"小轮播.html"}]}]}]},
+{
+        "pageName":"线路详情",
+        "type":"Wireframe",
+        "url":"线路详情_10.html"}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",

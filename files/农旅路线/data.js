@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅路线.html",
-  "generationDate":new Date(1504682477683.25),
+  "generationDate":new Date(1504687982402.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3574,7 +3574,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_9.html",
+                                "url":"线路详情_8.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

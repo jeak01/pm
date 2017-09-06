@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1504682504189.3),
+  "generationDate":new Date(1504688011369.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -290,7 +290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u2.png"}},
+            "normal~":"images/商品列表/u18.png"}},
 {
           "id":"c9febc3da0dc4c878a4cc98d416d6d3c",
           "label":"",
@@ -323,7 +323,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u2.png"}},
+            "normal~":"images/商品列表/u18.png"}},
 {
           "id":"a12e41862d354fe98be8a84b7412ceb2",
           "label":"",
@@ -356,7 +356,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u6.png"}},
+            "normal~":"images/商品列表/u22.png"}},
 {
           "id":"d7327940ef7e4b6488a19c7e92e74406",
           "label":"",
@@ -3212,7 +3212,7 @@
                         "description":"在 当前窗口 打开 商品列表",
                         "target":{
                           "targetType":"page",
-                          "url":"商品列表.html",
+                          "url":"商品列表_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},

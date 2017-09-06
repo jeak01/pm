@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅路线产品.html",
-  "generationDate":new Date(1504682489682.83),
+  "generationDate":new Date(1504687995342.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u2.png"}},
+            "normal~":"images/商品列表/u18.png"}},
 {
           "id":"7fb7f6255eb8414ca801a5f99bbfa03c",
           "label":"",
@@ -124,7 +124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u2.png"}},
+            "normal~":"images/商品列表/u18.png"}},
 {
           "id":"d16ce4cc8a8e424e96cedee1f310b1f3",
           "label":"",
@@ -157,7 +157,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择农旅路线产品/u6.png"}},
+            "normal~":"images/商品列表/u22.png"}},
 {
           "id":"e220e4e7633145a2a4b54d75f7d1a9ff",
           "label":"",
@@ -1381,7 +1381,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_8.html",
+                        "url":"线路详情_10.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1411,7 +1411,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_9.html",
+                        "url":"线路详情_8.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

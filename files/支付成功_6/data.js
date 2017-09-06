@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功_6.html",
-  "generationDate":new Date(1504682499307.99),
+  "generationDate":new Date(1504688005761.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1106,7 +1106,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_8.html",
+                        "url":"线路详情_10.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1136,7 +1136,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_9.html",
+                        "url":"线路详情_8.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

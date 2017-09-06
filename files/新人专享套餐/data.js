@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1504682485034.78),
+  "generationDate":new Date(1504687990888.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5037,7 +5037,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_8.html",
+                        "url":"线路详情_10.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5082,7 +5082,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_9.html",
+                        "url":"线路详情_8.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

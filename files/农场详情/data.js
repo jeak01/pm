@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1504682500828.41),
+  "generationDate":new Date(1504688007587.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1165,7 +1165,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_10.html",
+                        "url":"线路详情_9.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1252,7 +1252,7 @@
                       "description":"在 当前窗口 打开 商品列表",
                       "target":{
                         "targetType":"page",
-                        "url":"商品列表.html",
+                        "url":"商品列表_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2037,7 +2037,7 @@
                         "description":"在 当前窗口 打开 商品列表",
                         "target":{
                           "targetType":"page",
-                          "url":"商品列表.html",
+                          "url":"商品列表_1.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true},
