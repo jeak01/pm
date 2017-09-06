@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡列表.html",
-  "generationDate":new Date(1504687975524.51),
+  "generationDate":new Date(1504691807734.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3094,7 +3094,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u171.jpg"}},
+            "normal~":"images/主页/u167.jpg"}},
 {
           "id":"80cc440039094b1e8733c3f2368f13e8",
           "label":"",

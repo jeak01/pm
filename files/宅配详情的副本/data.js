@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情的副本.html",
-  "generationDate":new Date(1504687997956.87),
+  "generationDate":new Date(1504699086720.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -157,7 +157,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"d65c137f838d4f8cb5f733c504dc93c6",
           "label":"",
@@ -206,7 +206,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择城市/u4.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"cf921453cb69460e84151c8b384bc978",
           "label":"",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u23.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"d6ea308fadd64f0d8e736860118c9906",
           "label":"",
@@ -327,7 +327,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u23.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"8def823f3fbf4a4e82a80c5846b1f186",
           "label":"",
@@ -368,7 +368,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u23.png"}},
+            "normal~":"images/平台简介/u8.png"}},
 {
           "id":"884de3d6e3334e84aa48eb6cc14e5524",
           "label":"",
@@ -401,7 +401,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u16.jpg"}},
+            "normal~":"images/主页/u60.jpg"}},
 {
           "id":"51ce9cd3f47d47b6bf585ab2875640f4",
           "label":"",
@@ -423,7 +423,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/订单支付页/u11_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"2d7697c083134cf28f5953864517ddad",
           "label":"",
@@ -480,7 +480,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/订单支付页/u11_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"b4d4fa4356fe493d92d14f8dc262ddf6",
           "label":"",
@@ -599,7 +599,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/农场详情/u26.png"}},
 {
           "id":"c7b7c86cf3ca4027ab5b168e3c3698c8",
           "label":"",
@@ -673,7 +673,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u244.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"a1dc1fc14bd240e3979108acf290a745",
           "label":"",
@@ -718,12 +718,12 @@
                       "description":"在 当前窗口 打开 农场介绍",
                       "target":{
                         "targetType":"page",
-                        "url":"农场介绍_1.html",
+                        "url":"农场介绍.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/宅配详情/u37.png"}},
+            "normal~":"images/农场详情/u60.png"}},
 {
           "id":"03cb8e3c4dfb4c27b1d1cdecaa4f8f15",
           "label":"",
@@ -756,7 +756,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"e266eacb581e41fb9fe3263e02d898ee",
           "label":"",
@@ -3612,7 +3612,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u37.png"}},
+            "normal~":"images/农场详情/u60.png"}},
 {
           "id":"7dd734a881eb4946b7a397e5bbc75593",
           "label":"",
@@ -3706,7 +3706,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/订单支付页/u11_line.png"}},
+            "line~":"images/线路详情/u30_line.png"}},
 {
           "id":"c99a6c47794e47778ba542fdba9bf103",
           "label":"",
@@ -3772,7 +3772,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u39.png"}},
+            "normal~":"images/农场详情/u74.png"}},
 {
           "id":"2cca5950543048eba06492681621f115",
           "label":"",
@@ -3805,7 +3805,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u41.png"}},
+            "normal~":"images/农场详情/u76.png"}},
 {
           "id":"74338c1df4f440a28ee1e64e664bda72",
           "label":"",
@@ -3838,7 +3838,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u43.png"}},
+            "normal~":"images/农场详情/u78.png"}},
 {
           "id":"6669844813094425ae2efb3b14edda43",
           "label":"",
@@ -3871,7 +3871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u45.png"}},
+            "normal~":"images/农场详情/u80.png"}},
 {
           "id":"43262bf812574f22a89085b66c5283b5",
           "label":"",
@@ -3904,7 +3904,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"78bab94a992e43cb9df896bd333b8ede",
           "label":"",
@@ -4207,7 +4207,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u16.jpg"}},
+            "normal~":"images/宅配详情/u117.jpg"}},
 {
           "id":"0e25ecc57469469493e4eadec86a2800",
           "label":"",
@@ -4246,7 +4246,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u36.jpg"}},
+            "normal~":"images/宅配详情/u119.jpg"}},
 {
           "id":"2c1afdc8c05f45128a25f076a64c642b",
           "label":"",
@@ -4285,7 +4285,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u46.jpg"}},
+            "normal~":"images/宅配详情/u121.jpg"}},
 {
           "id":"cb921d53b61c4e9fa419bea6bdb2403a",
           "label":"",
@@ -4324,7 +4324,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u56.jpg"}},
+            "normal~":"images/宅配详情/u123.jpg"}},
 {
           "id":"b6d1a427355543279a8fc1fd4c4deb7f",
           "label":"",
@@ -4363,7 +4363,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/菜品列表/u66.jpg"}},
+            "normal~":"images/宅配详情/u125.jpg"}},
 {
           "id":"e234a187946245e0b21195f5cd40ad32",
           "label":"",
@@ -4653,7 +4653,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"4a2154e14c624bf6b4d1cdcbc4df96e1",
           "label":"",
@@ -4725,7 +4725,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/文章详情/u38.png"}},
 {
           "id":"1d40f458b00748fea7a4c90ff90f7f13",
           "label":"",
@@ -4832,7 +4832,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u244.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"22c785604a1044cc88168236d8ca272f",
           "label":"",
@@ -4871,7 +4871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/文章详情/u38.png"}},
 {
           "id":"3dd7e84e6c8642e88a698624d3fd9a40",
           "label":"",
@@ -4945,7 +4945,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u244.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"f9d1479b38a549d8a5a99ea3fb7eb401",
           "label":"",
@@ -4984,7 +4984,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/文章详情/u38.png"}},
 {
           "id":"5964b0cbe62c452283a0244b26c58f85",
           "label":"",
@@ -5058,7 +5058,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u244.png"}},
+            "normal~":"images/商品列表/u27.png"}},
 {
           "id":"3824ed92eaa04667a2dfeb410301de87",
           "label":"",
@@ -5327,7 +5327,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u126.png"}},
+            "normal~":"images/商品详情/u58.jpg"}},
 {
           "id":"084dec7394ee462bbf52a9b801d72327",
           "label":"",
@@ -5354,7 +5354,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情_1.html",
+                        "url":"菜品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5384,7 +5384,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情_1.html",
+                        "url":"菜品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5414,7 +5414,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情_1.html",
+                        "url":"菜品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5444,7 +5444,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情_1.html",
+                        "url":"菜品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5474,7 +5474,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情_1.html",
+                        "url":"菜品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5504,7 +5504,7 @@
                       "description":"在 当前窗口 打开 菜品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"菜品详情_1.html",
+                        "url":"菜品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5569,7 +5569,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/蜜桃/u40.png"}},
 {
                   "id":"283c67624ada4acfa27fd0c972a96217",
                   "label":"套餐价格（底部）",
@@ -5791,7 +5791,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/蜜桃/u40.png"}},
 {
                   "id":"dee1448c5dcc42c885eb89a0a9420b78",
                   "label":"套餐价格（底部）",

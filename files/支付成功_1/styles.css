@@ -192,35 +192,17 @@
   position:absolute;
   left:182px;
   top:180px;
+  width:117px;
+  height:40px;
 }
-#u16_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  background-image:none;
-}
-#u16_state0_content {
+#u16_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:1px;
-  height:1px;
+  width:117px;
+  height:40px;
 }
 #u17 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:117px;
-  height:40px;
-}
-#u17_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:117px;
-  height:40px;
-}
-#u18 {
   position:absolute;
   left:2px;
   top:12px;

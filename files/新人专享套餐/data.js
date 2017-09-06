@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1504687990888.28),
+  "generationDate":new Date(1504699077268.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -130,7 +130,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -179,7 +179,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择城市/u4.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -284,7 +284,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
           "id":"a2d765ed2d924d23bf5d6439f2af0ec0",
           "label":"",
@@ -365,7 +365,7 @@
                         "duration":500}}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农旅卡权益详情/u22.jpg"}},
+            "normal~":"images/新人专享套餐/u16.jpg"}},
 {
           "id":"45d6a82c4792482b819bd93ae56e790e",
           "label":"",
@@ -547,7 +547,7 @@
                         "duration":500}}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农旅卡权益详情/u10.jpg"}},
+            "normal~":"images/新人专享套餐/u24.jpg"}},
 {
           "id":"98c7efdccba94e56900e54efbcc3b411",
           "label":"",
@@ -638,7 +638,7 @@
                         "duration":500}}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/农旅卡权益详情/u18.jpg"}},
+            "normal~":"images/新人专享套餐/u28.jpg"}},
 {
           "id":"304199f84587494aa4be2a82117eafe8",
           "label":"",
@@ -1350,7 +1350,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
           "id":"53ffc3a401ac476b8f1feed2309a6ede",
           "label":"",
@@ -1494,7 +1494,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"dfad88d2ac6c401b93ccadfc8cc4acc3",
           "label":"",
@@ -1626,7 +1626,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
           "id":"8fb82b95a770498a8db9381d35800fc5",
           "label":"",
@@ -1803,7 +1803,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
           "id":"f736509b51e6443ca63f6c095b4ccfbd",
           "label":"",
@@ -3750,7 +3750,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
           "id":"48901446c082476db605e600f7337918",
           "label":"",
@@ -3828,7 +3828,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u38.png"}},
+            "normal~":"images/新人专享套餐/u187.png"}},
 {
           "id":"3da5f1b7cce7448689618f833f5461a3",
           "label":"",
@@ -3861,7 +3861,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"fd7fbea271b14b22830f1a7982b70f96",
           "label":"",
@@ -3943,7 +3943,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/农场详情/u26.png"}},
 {
           "id":"609ec88b904f41a89d4d6f3c91ec5218",
           "label":"",
@@ -4052,7 +4052,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u46.png"}},
+            "normal~":"images/新人专享套餐/u199.png"}},
 {
           "id":"9a27b72e1d7d41b1963cc2f88970d22f",
           "label":"",
@@ -4118,7 +4118,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u50.png"}},
+            "normal~":"images/新人专享套餐/u203.png"}},
 {
           "id":"99c43678c44c47948667f1c2bebbc3ac",
           "label":"",
@@ -4194,7 +4194,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u46.png"}},
+            "normal~":"images/新人专享套餐/u199.png"}},
 {
           "id":"854027bf4f074b24817398c1d7fd52d0",
           "label":"",
@@ -4260,7 +4260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u58.jpg"}},
+            "normal~":"images/新人专享套餐/u211.jpg"}},
 {
           "id":"286167a468e2449aa2deaed1aafab87a",
           "label":"",
@@ -4336,7 +4336,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u46.png"}},
+            "normal~":"images/新人专享套餐/u199.png"}},
 {
           "id":"123ad4117ff74fdc9d744d28fdd62a24",
           "label":"",
@@ -4402,7 +4402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u66.jpg"}},
+            "normal~":"images/新人专享套餐/u219.jpg"}},
 {
           "id":"1d45f5e3322b4e7484ba15ad3226238d",
           "label":"",
@@ -4478,7 +4478,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u46.png"}},
+            "normal~":"images/新人专享套餐/u199.png"}},
 {
           "id":"ce07188ea1314df59f7b7c2b42f7ec5e",
           "label":"",
@@ -4544,7 +4544,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u74.jpg"}},
+            "normal~":"images/新人专享套餐/u227.jpg"}},
 {
           "id":"a0a1c209822940b4bdd8d33fe9e7f8df",
           "label":"",
@@ -4620,7 +4620,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u46.png"}},
+            "normal~":"images/新人专享套餐/u199.png"}},
 {
           "id":"7788c4d175d1453587c4250f689f18ab",
           "label":"",
@@ -4686,7 +4686,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u82.png"}},
+            "normal~":"images/新人专享套餐/u235.png"}},
 {
           "id":"cc08e8225ebb4852b3c458351a033d93",
           "label":"",
@@ -4776,7 +4776,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u86.png"}},
+            "normal~":"images/新人专享套餐/u239.png"}},
 {
           "id":"0ca97d4902774ee89ee99a4d9a5eee83",
           "label":"",
@@ -4809,7 +4809,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u88.png"}},
+            "normal~":"images/新人专享套餐/u241.png"}},
 {
           "id":"cb3d9f25101c423eb9ac7d416e84b801",
           "label":"",
@@ -4842,7 +4842,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u88.png"}},
+            "normal~":"images/新人专享套餐/u241.png"}},
 {
           "id":"9a00edf830d746d3ad7d69493f3bf61d",
           "label":"",
@@ -4875,7 +4875,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u88.png"}},
+            "normal~":"images/新人专享套餐/u241.png"}},
 {
           "id":"09b4eeeecb6547aab1fd285b026f89c1",
           "label":"",
@@ -4902,7 +4902,7 @@
                       "description":"在 当前窗口 打开 选择城市",
                       "target":{
                         "targetType":"page",
-                        "url":"选择城市_1.html",
+                        "url":"选择城市.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4947,7 +4947,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_6.html",
+                        "url":"线路详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4992,7 +4992,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_7.html",
+                        "url":"线路详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5037,7 +5037,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_10.html",
+                        "url":"线路详情_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5082,7 +5082,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_8.html",
+                        "url":"线路详情_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5118,7 +5118,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u155.png"}},
+            "normal~":"images/新人专享套餐/u252.png"}},
 {
           "id":"e1f8f2ddaf974fdca462e705f693e0df",
           "label":"",
@@ -5151,7 +5151,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"6e05ec7255f84a64bc72796c679272f2",
           "label":"",
@@ -5256,7 +5256,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u155.png"}},
+                    "normal~":"images/新人专享套餐/u252.png"}},
 {
                   "id":"0f490ea23e294454a8c06c4e41199797",
                   "label":"",
@@ -5375,12 +5375,12 @@
                               "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单_2.html",
+                                "url":"确认订单.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u159.png"}}]}]},
+                    "normal~":"images/新人专享套餐/u263.png"}}]}]},
 {
           "id":"c55d455000764de2a94aef271586ce41",
           "label":"",
@@ -5413,7 +5413,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"65c152b1b8a84c5481dc38149cfb0b36",
           "label":"",

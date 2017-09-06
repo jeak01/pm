@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功_6.html",
-  "generationDate":new Date(1504688005761.45),
+  "generationDate":new Date(1504691837181.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -757,7 +757,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u244.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"e4fcedbfcfe64ddabb570c5dc924f40f",
           "label":"",
@@ -903,7 +903,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u244.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"0981b3f0ea504c86b71332925f96f202",
           "label":"",
@@ -1049,7 +1049,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u244.png"}},
+            "normal~":"images/主页/u240.png"}},
 {
           "id":"7ce9194dd85a48b79ca7afd953c2a6c8",
           "label":"",

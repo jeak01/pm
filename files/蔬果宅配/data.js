@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1504688008829.46),
+  "generationDate":new Date(1504699096447),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1442,7 +1442,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单（农旅）/u30.png"}},
+            "normal~":"images/确认订单/u259.png"}},
 {
           "id":"cd77f7c2bb304956898738fdcadc7252",
           "label":"",
@@ -1475,7 +1475,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/农场列表/u12.png"}},
 {
           "id":"b306601b32d4480b9fddb3bb38512b78",
           "label":"",
@@ -1508,7 +1508,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/农场列表/u12.png"}},
 {
           "id":"955ee2dc15b64a5cb65da9e1cf347953",
           "label":"",
@@ -1541,7 +1541,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u22.png"}},
+            "normal~":"images/选择农旅路线产品/u6.png"}},
 {
           "id":"2104df169d5642b3bd45219e5ecc9e8e",
           "label":"",
@@ -1615,7 +1615,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"a791c16980884ed391360ad134e9d5d3",
           "label":"",
@@ -1689,7 +1689,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"41ed8b1b9a204e25942fdf3931db48a9",
           "label":"",
@@ -1763,7 +1763,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"21b7c25f8d724007b35ba1bfc6b8cc24",
           "label":"",
@@ -1796,7 +1796,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表_1/u56.jpg"}},
+            "normal~":"images/主页/u82.jpg"}},
 {
           "id":"debabd145ff54c86ae242136ee79c71c",
           "label":"",
@@ -1948,7 +1948,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单（农旅）/u30.png"}},
+            "normal~":"images/确认订单/u259.png"}},
 {
           "id":"7e71d62dc2364f2188e6fd110f313305",
           "label":"",
@@ -1981,7 +1981,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u173.jpg"}},
+            "normal~":"images/主页/u71.jpg"}},
 {
           "id":"184c4f9ef4594926b0eecd38c87738b4",
           "label":"",
@@ -2133,7 +2133,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单（农旅）/u30.png"}},
+            "normal~":"images/确认订单/u259.png"}},
 {
           "id":"e7f2be4f73b94634a846bec3f7ae67c5",
           "label":"",
@@ -2166,7 +2166,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u16.jpg"}},
+            "normal~":"images/主页/u60.jpg"}},
 {
           "id":"8894e8bacd224777b591aaffef65f19d",
           "label":"",
@@ -2318,7 +2318,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单（农旅）/u30.png"}},
+            "normal~":"images/确认订单/u259.png"}},
 {
           "id":"858fde4ac45d472e8f8f313deefaecc0",
           "label":"",
@@ -2351,7 +2351,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单列表/u26.jpg"}},
+            "normal~":"images/主页/u93.jpg"}},
 {
           "id":"22a2623913d34ad29bc44ee5bafb5244",
           "label":"",
@@ -3241,7 +3241,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"a194aff1fb7744cf811aaa27c61878de",
           "label":"",
@@ -3407,7 +3407,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/特色活动/u20.png"}},
 {
           "id":"5f5c65ce074d445a8631b4852421f0c8",
           "label":"",
@@ -3448,7 +3448,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u56.png"}},
+            "normal~":"images/主页_安卓_/u12.png"}},
 {
           "id":"4d6bd3a263fe4645a9b474669693046d",
           "label":"",
@@ -3547,7 +3547,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u321.png"}},
+                      "normal~":"images/主页_安卓_/u241.png"}},
 {
                     "id":"dbd6a5f83af64ab191b7f078d53db2df",
                     "label":"",
@@ -3730,7 +3730,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u329.png"}},
+                      "normal~":"images/主页/u36.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",
@@ -3765,7 +3765,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u331.png"}},
+                      "normal~":"images/主页/u42.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",
@@ -3800,7 +3800,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u333.png"}},
+                      "normal~":"images/主页_安卓_/u255.png"}},
 {
                     "id":"0855a01c3bf8421f852d6f1786340508",
                     "label":"",
@@ -4031,7 +4031,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u337.png"}},
+                      "normal~":"images/主页_安卓_/u265.png"}},
 {
                     "id":"48809466f34a45c68290d9dd9dba692f",
                     "label":"",
@@ -4059,7 +4059,7 @@
                                 "description":"在 当前窗口 打开 农旅百科",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"农旅百科_1.html",
+                                  "url":"农旅百科.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

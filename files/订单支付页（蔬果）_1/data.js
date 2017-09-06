@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（蔬果）_1.html",
-  "generationDate":new Date(1503655503541.88),
+  "generationDate":new Date(1504699094863.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

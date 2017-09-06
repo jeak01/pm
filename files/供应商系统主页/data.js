@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"供应商系统主页.html",
-  "generationDate":new Date(1504687988421.06),
+  "generationDate":new Date(1504699093562.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"231e6cb489e64c9ca303b8bff0ab8a8d",
+    "packageId":"542c3e42e9e94fe191eeda19374bb149",
     "type":"Axure:Page",
     "name":"供应商系统主页",
     "notes":{
@@ -189,7 +189,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅百科/u72.png"}},
+            "normal~":"images/个人中心主页/u60.png"}},
 {
           "id":"1af5bd064b0740789ff4a52f4464186c",
           "label":"",
@@ -1190,7 +1190,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"7809ea9c5e0e402bb97c3b5649fafa22",
                   "label":"",
@@ -1252,7 +1252,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"f61f0098c33f462f9107e29ad855a16c",
                   "label":"",
@@ -2123,7 +2123,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"6ec7c71cf3a243f8a5f81f99859d764e",
                   "label":"",
@@ -3228,7 +3228,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"a9157f53c55d43668e0aef1d89237745",
                   "label":"",
@@ -4310,7 +4310,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"5c3570a16a2d4659833f947a20924a2e",
                   "label":"",
@@ -5392,7 +5392,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/确认订单/u64.png"}},
 {
                   "id":"06ffd68108b645eea2ca26fd00991f74",
                   "label":"",
@@ -6547,7 +6547,7 @@
                       "description":"在 当前窗口 打开 文章列表",
                       "target":{
                         "targetType":"page",
-                        "url":"文章列表_1.html",
+                        "url":"文章列表_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

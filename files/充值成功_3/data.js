@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功_3.html",
-  "generationDate":new Date(1504688003031.43),
+  "generationDate":new Date(1504699091591.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页_安卓_/top_u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择城市/u4.png"}},
+            "normal~":"images/平台简介/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -218,7 +218,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功/u8.png"}},
+            "normal~":"images/充值成功_1/u8.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功/u10.png"}},
+            "normal~":"images/支付成功（农旅）/u10.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -342,7 +342,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功/u14.png"}},
+            "normal~":"images/充值成功_1/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -398,7 +398,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/支付成功/u17.png"}}]}},
+            "normal~":"images/充值成功_1/u16.png"}}]}},
   "masters":{
 },
   "objectPaths":{
