@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_2.html",
-  "generationDate":new Date(1504681810618.73),
+  "generationDate":new Date(1504682478678.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -518,7 +518,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场主页/u221.jpg"}},
+            "normal~":"images/农场主页/u223.jpg"}},
 {
           "id":"9e6ee747a8194bb7a4a565917bea3a07",
           "label":"",

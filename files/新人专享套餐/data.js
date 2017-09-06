@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1504681817220.33),
+  "generationDate":new Date(1504682485034.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
