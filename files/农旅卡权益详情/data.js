@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1504789639506.38),
+  "generationDate":new Date(1504791113760.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3451,7 +3451,97 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u170.png"}}]}]}]}},
+                    "normal~":"images/农旅卡权益详情/u170.png"}}]}]},
+{
+          "id":"712b0f660fb141ae82f76647f05efe20",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":238},
+            "size":{
+              "width":360,
+              "height":69}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 蔬菜箱详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"蔬菜箱详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"c289bbad3c4e4026a53086f1383e66be",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":307.5},
+            "size":{
+              "width":360,
+              "height":69}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 走地鸡详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"走地鸡详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"2a6dd90ec0254b1d92ce0dc5e500315e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":377},
+            "size":{
+              "width":360,
+              "height":69}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 鸡蛋详情",
+                      "target":{
+                        "targetType":"page",
+                        "url":"鸡蛋详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -3798,4 +3888,10 @@
     "848987af2ac74d2a9cd9f421ea38ec92":{
       "scriptId":"u170"},
     "3d9b9fc4b6e048929ffe199fd277b39a":{
-      "scriptId":"u171"}}});
+      "scriptId":"u171"},
+    "712b0f660fb141ae82f76647f05efe20":{
+      "scriptId":"u172"},
+    "c289bbad3c4e4026a53086f1383e66be":{
+      "scriptId":"u173"},
+    "2a6dd90ec0254b1d92ce0dc5e500315e":{
+      "scriptId":"u174"}}});

@@ -1,0 +1,144 @@
+﻿$axure.loadCurrentPage({
+  "url":"鸡蛋详情.html",
+  "generationDate":new Date(1504791113998.78),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"status",
+"package",
+"payFrom"],
+  "page":{
+    "packageId":"6d36fda82e3a4a768d37ea59e78fd533",
+    "type":"Axure:Page",
+    "name":"鸡蛋详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0801636c49c84795937c78cb3e936b21",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":1310},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":0,
+          "fixedVertical":"bottom",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"1670e5afe62943288822558b6f4a5b1b",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"c94a79388d594169b46ba4a67438360f",
+                  "label":"",
+                  "parentDynamicPanel":"0801636c49c84795937c78cb3e936b21",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":360,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"80da90b8c74c4aeeab39b1987312489a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"0801636c49c84795937c78cb3e936b21",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":360,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 返回",
+                              "target":{
+                                "targetType":"backUrl",
+                                "includeVariables":false},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/主页/top_u46.png"}}]}]},
+{
+          "id":"38e93408ec794eccad020ba14f6c2317",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":361,
+              "height":1347}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"349e5ddd0e0a42b0bdfdfac191d92eff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":361,
+                  "height":1347}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/鸡蛋详情/u3.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0801636c49c84795937c78cb3e936b21":{
+      "scriptId":"u0"},
+    "c94a79388d594169b46ba4a67438360f":{
+      "scriptId":"u1"},
+    "80da90b8c74c4aeeab39b1987312489a":{
+      "scriptId":"u2"},
+    "38e93408ec794eccad020ba14f6c2317":{
+      "scriptId":"u3"},
+    "349e5ddd0e0a42b0bdfdfac191d92eff":{
+      "scriptId":"u4"}}});

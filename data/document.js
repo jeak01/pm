@@ -37,6 +37,18 @@
                 "type":"Wireframe",
                 "url":"农旅卡权益详情.html"},
 {
+                "pageName":"蔬菜箱详情",
+                "type":"Wireframe",
+                "url":"蔬菜箱详情.html"},
+{
+                "pageName":"走地鸡详情",
+                "type":"Wireframe",
+                "url":"走地鸡详情.html"},
+{
+                "pageName":"鸡蛋详情",
+                "type":"Wireframe",
+                "url":"鸡蛋详情.html"},
+{
                 "pageName":"农旅卡主题页",
                 "type":"Wireframe",
                 "url":"农旅卡主题页.html"}]},

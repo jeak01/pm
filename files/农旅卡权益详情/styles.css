@@ -1929,3 +1929,30 @@
   width:86px;
   word-wrap:break-word;
 }
+#u172 {
+  position:absolute;
+  left:0px;
+  top:238px;
+  width:360px;
+  height:69px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u173 {
+  position:absolute;
+  left:0px;
+  top:308px;
+  width:360px;
+  height:69px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u174 {
+  position:absolute;
+  left:0px;
+  top:377px;
+  width:360px;
+  height:69px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

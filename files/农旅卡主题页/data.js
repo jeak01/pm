@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡主题页.html",
-  "generationDate":new Date(1504789639744.54),
+  "generationDate":new Date(1504791114177.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -170,7 +170,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":144,
+              "x":152.5,
               "y":9},
             "size":{
               "width":55,
@@ -189,7 +189,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":144,
+                  "x":152.5,
                   "y":9},
                 "size":{
                   "width":55,
@@ -1253,11 +1253,11 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":17,
-              "y":1410},
+              "x":40,
+              "y":1400},
             "size":{
               "width":145,
-              "height":104}},
+              "height":74}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1270,11 +1270,11 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":17,
-                  "y":1410},
+                  "x":40,
+                  "y":1400},
                 "size":{
                   "width":145,
-                  "height":104}},
+                  "height":74}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1287,8 +1287,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":186,
-              "y":1410},
+              "x":209,
+              "y":1400},
             "size":{
               "width":97,
               "height":74}},
@@ -1303,8 +1303,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":186,
-                  "y":1410},
+                  "x":209,
+                  "y":1400},
                 "size":{
                   "width":97,
                   "height":74}},
