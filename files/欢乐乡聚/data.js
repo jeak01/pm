@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"欢乐乡聚.html",
-  "generationDate":new Date(1504751551074.13),
+  "generationDate":new Date(1504752079235.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

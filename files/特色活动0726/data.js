@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1504751560932.64),
+  "generationDate":new Date(1504752088055.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品详情.html",
-  "generationDate":new Date(1504751526254.51),
+  "generationDate":new Date(1504752058536.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -850,6 +850,21 @@
                           "height":50}},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 确认订单",
+                              "target":{
+                                "targetType":"page",
+                                "url":"确认订单.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"images/商品详情/u42.png"}},
 {
