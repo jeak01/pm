@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蜜桃.html",
-  "generationDate":new Date(1504752085244.15),
+  "generationDate":new Date(1504766219653.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -608,7 +608,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u156.jpg"}},
+            "normal~":"images/主页/u134.jpg"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",

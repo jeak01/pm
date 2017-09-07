@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单（农旅）_1.html",
-  "generationDate":new Date(1504752080453),
+  "generationDate":new Date(1504766214123.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -298,7 +298,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"e766b570020c43b5a23a3b7c8f485e47",
           "label":"",
@@ -444,7 +444,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"44aa3f10ef264c7dbc170ecaca21e9ec",
           "label":"",
@@ -1775,7 +1775,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u240.png"}},
+                    "normal~":"images/主页/u218.png"}},
 {
                   "id":"61bf5362c4f34826b9a42d856843dba2",
                   "label":"",
@@ -1929,7 +1929,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u240.png"}},
+                    "normal~":"images/主页/u218.png"}},
 {
                   "id":"791c80e1c8044d9dbe8b2ffc422796bf",
                   "label":"",
@@ -2588,7 +2588,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u240.png"}},
+                    "normal~":"images/主页/u218.png"}},
 {
                   "id":"5e1c0f72d5804242bd7a9fafd9410b7b",
                   "label":"",
@@ -3578,7 +3578,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u240.png"}},
+                    "normal~":"images/主页/u218.png"}},
 {
                   "id":"c97d08e4a9d14d9c909119189fa4e2bc",
                   "label":"",
@@ -3732,7 +3732,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u240.png"}},
+                    "normal~":"images/主页/u218.png"}},
 {
                   "id":"8ed288e3ccb74e788da6b84e86cbfeab",
                   "label":"",
@@ -4391,7 +4391,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u240.png"}},
+                    "normal~":"images/主页/u218.png"}},
 {
                   "id":"a99fb470c2a64d698e42dde788462b42",
                   "label":"",
@@ -4681,7 +4681,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"f9dab17058554be5b18c175fb324b295",
           "label":"",
@@ -4860,7 +4860,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u28.png"}},
+            "normal~":"images/确认订单_2/u257.png"}},
 {
           "id":"b14d3ca596594bb0a5c8e44e49b971ad",
           "label":"",
@@ -7436,7 +7436,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"1b797759f29e471cbb9112ba53b2bf05",
           "label":"",
@@ -7615,7 +7615,7 @@
                               "description":"在 当前窗口 打开 订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"订单支付页_4.html",
+                                "url":"订单支付页_5.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

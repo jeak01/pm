@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1504752084776.52),
+  "generationDate":new Date(1504766219190.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -368,7 +368,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u16.jpg"}},
+            "normal~":"images/农场列表/u87.jpg"}},
 {
           "id":"51ce9cd3f47d47b6bf585ab2875640f4",
           "label":"",
@@ -640,7 +640,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"d33df1ab0d7b400abc5ab58b1839e238",
           "label":"",
@@ -767,7 +767,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u231.jpg"}},
+            "normal~":"images/农场列表/u97.jpg"}},
 {
           "id":"da635c8bb4574240b60641d153495524",
           "label":"",
@@ -1372,7 +1372,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"2222bebc9332481fac41a3995748eff7",
           "label":"",
@@ -1881,7 +1881,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u378.png"}},
+              "normal~":"images/主页/u321.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -2010,7 +2010,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u380.png"}},
+              "normal~":"images/主页/u323.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

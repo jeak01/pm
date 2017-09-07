@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（已充）.html",
-  "generationDate":new Date(1504752074977.95),
+  "generationDate":new Date(1504766208629.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -742,7 +742,7 @@
                               "description":"在 当前窗口 打开 支付成功",
                               "target":{
                                 "targetType":"page",
-                                "url":"支付成功_3.html",
+                                "url":"支付成功_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

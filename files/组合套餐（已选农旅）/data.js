@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1504752074165.42),
+  "generationDate":new Date(1504766207739.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -877,7 +877,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"71c3d98006ba4aa19189aa764e1e47b4",
           "label":"",
@@ -1056,7 +1056,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组合套餐（初始）/u28.png"}},
+            "normal~":"images/确认订单_2/u257.png"}},
 {
           "id":"a1690a5729d343e2b43478dc3484dddc",
           "label":"",
@@ -1132,7 +1132,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"8a0f32078a654efe9c3c6338cd537bb7",
           "label":"",
@@ -1280,7 +1280,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"1e8313e3d95a4790ae387b7d467824b2",
           "label":"",
@@ -1441,7 +1441,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"b0a2137de7b04121becaa972de03dd57",
           "label":"",
@@ -1602,7 +1602,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"731cdf93511047ee8a6c6ac66ada9c99",
           "label":"",
@@ -3252,7 +3252,7 @@
                               "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单_3.html",
+                                "url":"确认订单_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

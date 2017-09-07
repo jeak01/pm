@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值.html",
-  "generationDate":new Date(1504752067565),
+  "generationDate":new Date(1504766200761.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -136,7 +136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u370.png"}},
+            "normal~":"images/主页/u313.png"}},
 {
           "id":"898b8dc43747405ead4300c3a3c9bcac",
           "label":"",

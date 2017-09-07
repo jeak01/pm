@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单详情.html",
-  "generationDate":new Date(1504752066379.22),
+  "generationDate":new Date(1504766199468.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅订单详情/u8.png"}},
+            "normal~":"images/订单详情_1/u19.png"}},
 {
           "id":"ea35a221ce334b5bb16138d714c97a7f",
           "label":"",
@@ -254,7 +254,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅订单详情/u10.png"}},
+            "normal~":"images/订单详情_1/u21.png"}},
 {
           "id":"11bb1d7bd2254d2ba32c01ee9e6824d4",
           "label":"",
@@ -456,7 +456,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u163.jpg"}},
+            "normal~":"images/主页/u141.jpg"}},
 {
           "id":"4ed723fd84814176b8728c57a64ef14b",
           "label":"",
@@ -698,7 +698,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u378.png"}},
+            "normal~":"images/主页/u321.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",

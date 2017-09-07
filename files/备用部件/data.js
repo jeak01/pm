@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1504752089392.12),
+  "generationDate":new Date(1504766224134.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -9115,7 +9115,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u82.png"}},
+            "normal~":"images/主页/u78.png"}},
 {
           "id":"978d7fa2af8046e5bc373860ea14e9e0",
           "label":"",
@@ -10755,7 +10755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u84.png"}},
+            "normal~":"images/主页/u80.png"}},
 {
           "id":"dbd14934a7124418b88cf56f999e2cf8",
           "label":"",

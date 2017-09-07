@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1504752085858.63),
+  "generationDate":new Date(1504766220241.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1981,7 +1981,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u169.jpg"}},
+            "normal~":"images/主页/u147.jpg"}},
 {
           "id":"184c4f9ef4594926b0eecd38c87738b4",
           "label":"",
@@ -2166,7 +2166,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u16.jpg"}},
+            "normal~":"images/农场列表/u87.jpg"}},
 {
           "id":"8894e8bacd224777b591aaffef65f19d",
           "label":"",
@@ -2351,7 +2351,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u231.jpg"}},
+            "normal~":"images/农场列表/u97.jpg"}},
 {
           "id":"22a2623913d34ad29bc44ee5bafb5244",
           "label":"",
@@ -3547,7 +3547,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u370.png"}},
+                      "normal~":"images/主页/u313.png"}},
 {
                     "id":"dbd6a5f83af64ab191b7f078d53db2df",
                     "label":"",
@@ -3730,7 +3730,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u378.png"}},
+                      "normal~":"images/主页/u321.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",
@@ -3765,7 +3765,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u380.png"}},
+                      "normal~":"images/主页/u323.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",
@@ -3800,7 +3800,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u382.png"}},
+                      "normal~":"images/主页_安卓_/u255.png"}},
 {
                     "id":"0855a01c3bf8421f852d6f1786340508",
                     "label":"",
@@ -4031,7 +4031,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u386.png"}},
+                      "normal~":"images/主页_安卓_/u265.png"}},
 {
                     "id":"48809466f34a45c68290d9dd9dba692f",
                     "label":"",

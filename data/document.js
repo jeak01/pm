@@ -147,7 +147,23 @@
         "children":[{
             "pageName":"线路详情",
             "type":"Wireframe",
-            "url":"线路详情_1.html"}]},
+            "url":"线路详情_1.html"},
+{
+            "pageName":"确认订单",
+            "type":"Wireframe",
+            "url":"确认订单_2.html",
+            "children":[{
+                "pageName":"订单支付页",
+                "type":"Wireframe",
+                "url":"订单支付页_2.html"},
+{
+                "pageName":"支付成功",
+                "type":"Wireframe",
+                "url":"支付成功_3.html"}]},
+{
+            "pageName":"订单详情",
+            "type":"Wireframe",
+            "url":"订单详情_1.html"}]},
 {
         "pageName":"农旅百科",
         "type":"Wireframe",
@@ -263,7 +279,7 @@
                 "children":[{
                     "pageName":"确认订单",
                     "type":"Wireframe",
-                    "url":"确认订单_2.html"}]},
+                    "url":"确认订单_3.html"}]},
 {
                 "pageName":"会员特权",
                 "type":"Wireframe",
@@ -323,11 +339,11 @@
 {
                     "pageName":"确认订单",
                     "type":"Wireframe",
-                    "url":"确认订单_3.html"},
+                    "url":"确认订单_4.html"},
 {
                     "pageName":"订单支付页",
                     "type":"Wireframe",
-                    "url":"订单支付页_2.html"},
+                    "url":"订单支付页_3.html"},
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
@@ -343,7 +359,7 @@
 {
                     "pageName":"支付成功",
                     "type":"Wireframe",
-                    "url":"支付成功_3.html"}]},
+                    "url":"支付成功_4.html"}]},
 {
                 "pageName":"选择配送农场（宅配）",
                 "type":"Wireframe",
@@ -367,7 +383,7 @@
 {
                     "pageName":"订单支付页",
                     "type":"Wireframe",
-                    "url":"订单支付页_3.html"},
+                    "url":"订单支付页_4.html"},
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
@@ -383,7 +399,7 @@
 {
                     "pageName":"支付成功",
                     "type":"Wireframe",
-                    "url":"支付成功_4.html"}]},
+                    "url":"支付成功_5.html"}]},
 {
                 "pageName":"主题农旅",
                 "type":"Wireframe",
@@ -427,7 +443,7 @@
                 "children":[{
                     "pageName":"订单支付页",
                     "type":"Wireframe",
-                    "url":"订单支付页_4.html"},
+                    "url":"订单支付页_5.html"},
 {
                     "pageName":"会员充值",
                     "type":"Wireframe",
@@ -443,7 +459,7 @@
 {
                     "pageName":"支付成功",
                     "type":"Wireframe",
-                    "url":"支付成功_5.html"}]}]},
+                    "url":"支付成功_6.html"}]}]},
 {
             "pageName":"会员充值",
             "type":"Wireframe",
@@ -503,11 +519,11 @@
 {
             "pageName":"订单支付页",
             "type":"Wireframe",
-            "url":"订单支付页_5.html"},
+            "url":"订单支付页_6.html"},
 {
             "pageName":"支付成功",
             "type":"Wireframe",
-            "url":"支付成功_6.html"},
+            "url":"支付成功_7.html"},
 {
             "pageName":"支付失败",
             "type":"Wireframe",
@@ -517,6 +533,10 @@
             "type":"Folder",
             "url":"",
             "children":[{
+                "pageName":"主页（0907）",
+                "type":"Wireframe",
+                "url":"主页（0907）.html"},
+{
                 "pageName":"主页0905",
                 "type":"Wireframe",
                 "url":"__0905.html"},

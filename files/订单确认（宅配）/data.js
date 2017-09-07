@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认（宅配）.html",
-  "generationDate":new Date(1504752076347.78),
+  "generationDate":new Date(1504766210076.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -298,7 +298,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"df862cc03401476586fb8a6c9cce680d",
           "label":"",
@@ -444,7 +444,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"5e903e77262342cf9c3cfefa24133ac9",
           "label":"",
@@ -623,7 +623,7 @@
                               "description":"在 当前窗口 打开 订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"订单支付页_3.html",
+                                "url":"订单支付页_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -766,7 +766,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_2/u289.png"}},
+            "normal~":"images/确认订单_3/u289.png"}},
 {
           "id":"a7b579a20bc842d2b64ade729f693f1c",
           "label":"",
@@ -974,7 +974,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_3/u225.png"}},
+            "normal~":"images/确认订单_4/u225.png"}},
 {
           "id":"fcb22bdf6fb94aa19ec44d86c726bab8",
           "label":"",
@@ -1272,7 +1272,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"fe6956b613dc4930b57292cac7fe61b1",
           "label":"",

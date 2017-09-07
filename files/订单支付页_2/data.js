@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页_2.html",
-  "generationDate":new Date(1504752074721.78),
+  "generationDate":new Date(1504766196934.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"efde365acc374b6aa37b4e864c40d97d",
+    "packageId":"8e0822a93fda40edac9c30f7a9165ae6",
     "type":"Axure:Page",
     "name":"订单支付页",
     "notes":{
@@ -377,10 +377,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":104,
+              "x":165,
               "y":44},
             "size":{
-              "width":245,
+              "width":184,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -394,10 +394,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":104,
+                  "x":165,
                   "y":44},
                 "size":{
-                  "width":245,
+                  "width":184,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -450,10 +450,10 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":291,
-              "y":97},
+              "x":299,
+              "y":96},
             "size":{
-              "width":58,
+              "width":51,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -470,10 +470,10 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":291,
-                  "y":97},
+                  "x":299,
+                  "y":96},
                 "size":{
-                  "width":58,
+                  "width":51,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -956,7 +956,7 @@
               "x":85,
               "y":163},
             "size":{
-              "width":223,
+              "width":144,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -977,7 +977,7 @@
                   "x":85,
                   "y":163},
                 "size":{
-                  "width":223,
+                  "width":144,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1063,10 +1063,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 会员充值",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"会员充值_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

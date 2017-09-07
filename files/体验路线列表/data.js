@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1504752088486.52),
+  "generationDate":new Date(1504766223023.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -644,7 +644,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/宅配详情/u16.jpg"}},
+            "normal~":"images/农场列表/u87.jpg"}},
 {
           "id":"db8e13db22054720b5f8665cf4adbc18",
           "label":"",
@@ -1301,7 +1301,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u169.jpg"}},
+            "normal~":"images/主页/u147.jpg"}},
 {
           "id":"60b79fc0c5ac4d9ea37179af85b8bcdb",
           "label":"",
@@ -1564,7 +1564,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u231.jpg"}},
+            "normal~":"images/农场列表/u97.jpg"}},
 {
           "id":"64545fc5270d479b95631900d15fd7ae",
           "label":"",
@@ -1999,7 +1999,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅订单详情_1/u72.png"}},
+                    "normal~":"images/订单详情_1/u72.png"}},
 {
                   "id":"b5e24405d0764010956a0b56323cc609",
                   "label":"爆款路线子类",
@@ -2545,7 +2545,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u378.png"}},
+              "normal~":"images/主页/u321.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -2674,7 +2674,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u380.png"}},
+              "normal~":"images/主页/u323.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情.html",
-  "generationDate":new Date(1504752066193.32),
+  "generationDate":new Date(1504766199298.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -885,7 +885,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u240.png"}},
+            "normal~":"images/主页/u218.png"}},
 {
           "id":"2dad89276cf047f5950e59c421ff6886",
           "label":"",
@@ -1095,7 +1095,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u378.png"}},
+            "normal~":"images/主页/u321.png"}},
 {
           "id":"591ce7cf3b8c4a9d87f6e86b2dcb484f",
           "label":"",
