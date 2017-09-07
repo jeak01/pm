@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1504699161650.64),
+  "generationDate":new Date(1504751525814.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3685,17 +3685,6 @@
                         "targetType":"page",
                         "url":"商品列表.html",
                         "includeVariables":true},
-                      "linkType":"current"}]},
-{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 商品列表",
-                      "target":{
-                        "targetType":"page",
-                        "url":"商品列表.html",
-                        "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
 {
@@ -3717,17 +3706,6 @@
             "onClick":{
               "description":"OnClick",
               "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 商品列表",
-                      "target":{
-                        "targetType":"page",
-                        "url":"商品列表.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]},
-{
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
@@ -3767,17 +3745,6 @@
                         "targetType":"page",
                         "url":"商品列表.html",
                         "includeVariables":true},
-                      "linkType":"current"}]},
-{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 商品列表",
-                      "target":{
-                        "targetType":"page",
-                        "url":"商品列表.html",
-                        "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
 {
@@ -3799,17 +3766,6 @@
             "onClick":{
               "description":"OnClick",
               "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 商品列表",
-                      "target":{
-                        "targetType":"page",
-                        "url":"商品列表.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]},
-{
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
