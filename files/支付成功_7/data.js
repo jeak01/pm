@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功_7.html",
-  "generationDate":new Date(1504766216958.12),
+  "generationDate":new Date(1504789669926.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -607,7 +607,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/线路详情/u200.png"}},
 {
           "id":"e2ce1ca14b324f7d868ff5538b758bcf",
           "label":"",
@@ -683,7 +683,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u230.jpg"}},
+            "normal~":"images/线路详情/u214.jpg"}},
 {
           "id":"1736bf5fb4cb4799af718c1ded901dd3",
           "label":"",
@@ -757,7 +757,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"e4fcedbfcfe64ddabb570c5dc924f40f",
           "label":"",
@@ -796,7 +796,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/线路详情/u200.png"}},
 {
           "id":"842c4501924748a5944ed1d21796bebc",
           "label":"",
@@ -829,7 +829,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u238.jpg"}},
+            "normal~":"images/线路详情/u222.jpg"}},
 {
           "id":"7a86f844fa594a108389d0ed8b0f7256",
           "label":"",
@@ -903,7 +903,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"0981b3f0ea504c86b71332925f96f202",
           "label":"",
@@ -942,7 +942,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/线路详情/u200.png"}},
 {
           "id":"e47c89d1d5524a969d73057ed41c5074",
           "label":"",
@@ -1049,7 +1049,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"7ce9194dd85a48b79ca7afd953c2a6c8",
           "label":"",

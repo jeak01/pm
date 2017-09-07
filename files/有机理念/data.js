@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"有机理念.html",
-  "generationDate":new Date(1504766198396.67),
+  "generationDate":new Date(1504789649995.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

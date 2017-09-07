@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值.html",
-  "generationDate":new Date(1504766200761.23),
+  "generationDate":new Date(1504789652576.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -44,7 +44,7 @@
               "color":0xFFDDDDDD},
             "size":{
               "width":360,
-              "height":720}},
+              "height":850}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -60,7 +60,7 @@
                   "color":0xFFDDDDDD},
                 "size":{
                   "width":360,
-                  "height":720}},
+                  "height":850}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -77,7 +77,7 @@
               "y":39},
             "size":{
               "width":370,
-              "height":211},
+              "height":331},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFFFFF}},
@@ -96,7 +96,7 @@
                   "y":39},
                 "size":{
                   "width":370,
-                  "height":211},
+                  "height":331},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFFFFF}},
@@ -136,7 +136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u313.png"}},
+            "normal~":"images/主页/u354.png"}},
 {
           "id":"898b8dc43747405ead4300c3a3c9bcac",
           "label":"",
@@ -234,7 +234,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":260},
+              "y":380},
             "size":{
               "width":360,
               "height":40},
@@ -253,7 +253,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":260},
+                  "y":380},
                 "size":{
                   "width":360,
                   "height":40},
@@ -273,7 +273,7 @@
           "style":{
             "location":{
               "x":13,
-              "y":272},
+              "y":392},
             "size":{
               "width":15,
               "height":16}},
@@ -289,7 +289,7 @@
               "style":{
                 "location":{
                   "x":13,
-                  "y":272},
+                  "y":392},
                 "size":{
                   "width":15,
                   "height":16}},
@@ -304,7 +304,7 @@
           "style":{
             "location":{
               "x":84,
-              "y":272},
+              "y":392},
             "size":{
               "width":53,
               "height":16}},
@@ -320,7 +320,7 @@
               "style":{
                 "location":{
                   "x":84,
-                  "y":272},
+                  "y":392},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -337,7 +337,7 @@
           "style":{
             "location":{
               "x":40,
-              "y":268},
+              "y":388},
             "size":{
               "width":25,
               "height":25}},
@@ -353,7 +353,7 @@
               "style":{
                 "location":{
                   "x":40,
-                  "y":268},
+                  "y":388},
                 "size":{
                   "width":25,
                   "height":25}},
@@ -370,10 +370,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":450},
+              "y":570},
             "size":{
               "width":360,
-              "height":210},
+              "height":230},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFFFFF}},
@@ -389,17 +389,17 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":450},
+                  "y":570},
                 "size":{
                   "width":360,
-                  "height":210},
+                  "height":230},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u17.png"}},
+            "normal~":"images/会员充值/u18.png"}},
 {
           "id":"53956dc72d8941ddbd88e2bff443b94f",
           "label":"",
@@ -415,7 +415,7 @@
               "opacity":1},
             "location":{
               "x":13,
-              "y":460},
+              "y":580},
             "size":{
               "width":66,
               "height":16}},
@@ -437,7 +437,7 @@
                   "opacity":1},
                 "location":{
                   "x":13,
-                  "y":460},
+                  "y":580},
                 "size":{
                   "width":66,
                   "height":16}},
@@ -454,7 +454,7 @@
           "style":{
             "location":{
               "x":13,
-              "y":486},
+              "y":606},
             "size":{
               "width":332,
               "height":160}},
@@ -470,7 +470,7 @@
               "style":{
                 "location":{
                   "x":13,
-                  "y":486},
+                  "y":606},
                 "size":{
                   "width":332,
                   "height":160}},
@@ -490,8 +490,8 @@
             "fontWeight":"700",
             "horizontalAlignment":"center",
             "location":{
-              "x":92,
-              "y":120},
+              "x":92.5,
+              "y":209.5},
             "size":{
               "width":176,
               "height":40}},
@@ -505,8 +505,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":42,
-              "y":120},
+              "x":42.5,
+              "y":209.5},
             "size":{
               "width":40,
               "height":40}},
@@ -521,8 +521,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":42,
-                  "y":120},
+                  "x":42.5,
+                  "y":209.5},
                 "size":{
                   "width":40,
                   "height":40}},
@@ -538,8 +538,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":278,
-              "y":120},
+              "x":278.5,
+              "y":209.5},
             "size":{
               "width":40,
               "height":40}},
@@ -554,8 +554,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":278,
-                  "y":120},
+                  "x":278.5,
+                  "y":209.5},
                 "size":{
                   "width":40,
                   "height":40}},
@@ -571,8 +571,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":283,
-              "y":125},
+              "x":283.5,
+              "y":214.5},
             "size":{
               "width":30,
               "height":30},
@@ -591,8 +591,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":283,
-                  "y":125},
+                  "x":283.5,
+                  "y":214.5},
                 "size":{
                   "width":30,
                   "height":30},
@@ -612,8 +612,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":47,
-              "y":125},
+              "x":47.5,
+              "y":214.5},
             "size":{
               "width":30,
               "height":30},
@@ -632,8 +632,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":47,
-                  "y":125},
+                  "x":47.5,
+                  "y":214.5},
                 "size":{
                   "width":30,
                   "height":30},
@@ -652,18 +652,13 @@
           "styleType":"h2",
           "visible":true,
           "style":{
-            "fontSize":"16px",
             "horizontalAlignment":"center",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFF0000,
-              "opacity":1},
             "location":{
-              "x":64,
-              "y":50},
+              "x":13,
+              "y":60},
             "size":{
-              "width":233,
-              "height":57}},
+              "width":332,
+              "height":140}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -674,18 +669,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontSize":"16px",
                 "horizontalAlignment":"center",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFF0000,
-                  "opacity":1},
                 "location":{
-                  "x":64,
-                  "y":50},
+                  "x":13,
+                  "y":60},
                 "size":{
-                  "width":233,
-                  "height":57}},
+                  "width":332,
+                  "height":140}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -698,8 +688,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":180},
+              "x":30,
+              "y":312},
             "size":{
               "width":300,
               "height":48}},
@@ -714,8 +704,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":180},
+                  "x":30,
+                  "y":312},
                 "size":{
                   "width":300,
                   "height":48}},
@@ -732,7 +722,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":310},
+              "y":430},
             "size":{
               "width":360,
               "height":130},
@@ -751,7 +741,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":310},
+                  "y":430},
                 "size":{
                   "width":360,
                   "height":130},
@@ -777,7 +767,7 @@
               "opacity":1},
             "location":{
               "x":42,
-              "y":328},
+              "y":448},
             "size":{
               "width":277,
               "height":14}},
@@ -799,7 +789,7 @@
                   "opacity":1},
                 "location":{
                   "x":42,
-                  "y":328},
+                  "y":448},
                 "size":{
                   "width":277,
                   "height":14}},
@@ -824,7 +814,7 @@
               "color":0xFFFF0033},
             "location":{
               "x":60,
-              "y":365},
+              "y":485},
             "size":{
               "width":230,
               "height":50},
@@ -853,7 +843,7 @@
                   "color":0xFFFF0033},
                 "location":{
                   "x":60,
-                  "y":365},
+                  "y":485},
                 "size":{
                   "width":230,
                   "height":50},
@@ -878,7 +868,42 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/会员充值/u41.png"}}]}},
+            "normal~":"images/会员充值/u41.png"}},
+{
+          "id":"1b5e69b5e503484c96bd0aed23ce1ee4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "location":{
+              "x":42,
+              "y":260},
+            "size":{
+              "width":276,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"efbb8aada1f54d2a878cd6950e7b670e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "location":{
+                  "x":42,
+                  "y":260},
+                "size":{
+                  "width":276,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -967,4 +992,8 @@
     "e387dab1524045348da2de4b07a5f701":{
       "scriptId":"u41"},
     "e7ec6d7832c245e6b30f8e5bbe08e8c5":{
-      "scriptId":"u42"}}});
+      "scriptId":"u42"},
+    "1b5e69b5e503484c96bd0aed23ce1ee4":{
+      "scriptId":"u43"},
+    "efbb8aada1f54d2a878cd6950e7b670e":{
+      "scriptId":"u44"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_5.html",
-  "generationDate":new Date(1504766206880.38),
+  "generationDate":new Date(1504789658875.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -486,7 +486,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u97.png"}},
+            "normal~":"images/农旅线路/u97.png"}},
 {
           "id":"9e6ee747a8194bb7a4a565917bea3a07",
           "label":"",
@@ -898,7 +898,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"78baf9a4f28d4a919807a49ff7d9c157",
           "label":"",
@@ -3776,7 +3776,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u196.png"}},
+                    "normal~":"images/线路详情_2/u196.png"}},
 {
                   "id":"e3d39b234a474c14acc31350dd81866e",
                   "label":"充值会员更优惠",
@@ -4060,7 +4060,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u206.png"}},
+                    "normal~":"images/线路详情_2/u206.png"}},
 {
                   "id":"893353d071524066ac5a675eeeeb6a98",
                   "label":"充值会员更优惠",

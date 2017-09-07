@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1504766224371.03),
+  "generationDate":new Date(1504789677868.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1570,7 +1570,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u321.png"}},
+              "normal~":"images/主页/u362.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -1699,7 +1699,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u323.png"}},
+              "normal~":"images/主页/u364.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

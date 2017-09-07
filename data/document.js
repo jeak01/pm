@@ -35,7 +35,11 @@
             "children":[{
                 "pageName":"农旅卡权益详情",
                 "type":"Wireframe",
-                "url":"农旅卡权益详情.html"}]},
+                "url":"农旅卡权益详情.html"},
+{
+                "pageName":"农旅卡主题页",
+                "type":"Wireframe",
+                "url":"农旅卡主题页.html"}]},
 {
             "pageName":"时令市场",
             "type":"Wireframe",
@@ -65,13 +69,13 @@
                 "type":"Wireframe",
                 "url":"订单详情.html"}]},
 {
-            "pageName":"蔬菜箱",
+            "pageName":"蔬菜宅配",
             "type":"Wireframe",
-            "url":"蔬菜箱.html",
+            "url":"蔬菜宅配.html",
             "children":[{
-                "pageName":"蔬菜箱",
+                "pageName":"蔬菜宅配",
                 "type":"Wireframe",
-                "url":"蔬菜箱_1.html"},
+                "url":"蔬菜宅配_1.html"},
 {
                 "pageName":"选择配送农场",
                 "type":"Wireframe",
@@ -95,7 +99,11 @@
                 "children":[{
                     "pageName":"订单提交成功",
                     "type":"Wireframe",
-                    "url":"订单提交成功.html"}]}]},
+                    "url":"订单提交成功.html"}]},
+{
+                "pageName":"蔬菜宅配服务说明",
+                "type":"Wireframe",
+                "url":"蔬菜宅配服务说明.html"}]},
 {
             "pageName":"订单支付页",
             "type":"Wireframe",
@@ -141,9 +149,9 @@
             "type":"Wireframe",
             "url":"农场主页.html"}]},
 {
-        "pageName":"农旅路线",
+        "pageName":"农旅线路",
         "type":"Wireframe",
-        "url":"农旅路线.html",
+        "url":"农旅线路.html",
         "children":[{
             "pageName":"线路详情",
             "type":"Wireframe",

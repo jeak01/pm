@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"供应商系统主页_1.html",
-  "generationDate":new Date(1504766216150.58),
+  "generationDate":new Date(1504789669166.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -189,7 +189,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u195.png"}},
+            "normal~":"images/农旅线路/u195.png"}},
 {
           "id":"1af5bd064b0740789ff4a52f4464186c",
           "label":"",

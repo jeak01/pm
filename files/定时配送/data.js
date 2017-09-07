@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送.html",
-  "generationDate":new Date(1504766219977.12),
+  "generationDate":new Date(1504789673290.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -272,7 +272,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"2735f93f895243108cc85079610768ff",
           "label":"",
@@ -414,7 +414,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"38473f7c025c42958424c2a2223adb2a",
           "label":"",
@@ -605,7 +605,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"465c68d9be364090899b4ee0ea656012",
           "label":"",
@@ -747,7 +747,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"5b56db548dcb45e8a8dd7e7fdaab1f12",
           "label":"",

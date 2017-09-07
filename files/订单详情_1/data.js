@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单详情_1.html",
-  "generationDate":new Date(1504766197165.82),
+  "generationDate":new Date(1504789648700.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -136,7 +136,7 @@
                       "description":"在 当前窗口 打开 全部订单",
                       "target":{
                         "targetType":"page",
-                        "url":"全部订单_1.html",
+                        "url":"全部订单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1585,7 +1585,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u321.png"}},
+            "normal~":"images/主页/u362.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",
@@ -1609,10 +1609,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 会员主页(安卓)",
+                      "description":"在 当前窗口 打开 主页",
                       "target":{
                         "targetType":"page",
-                        "url":"会员主页_安卓_.html",
+                        "url":"主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

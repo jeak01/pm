@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的农旅卡.html",
-  "generationDate":new Date(1504766198839.96),
+  "generationDate":new Date(1504789650408.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜箱/u0.png"}},
+            "normal~":"images/蔬菜宅配/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -224,7 +224,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/我的农旅卡/u8.png"}},
+            "normal~":"images/农旅卡主题页/u8.png"}},
 {
           "id":"5d041b146d7f432fad6603c7cc6b7a49",
           "label":"",
@@ -1625,7 +1625,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u313.png"}},
+                      "normal~":"images/主页/u354.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -1673,10 +1673,10 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":96,
+                        "x":92,
                         "y":47},
                       "size":{
-                        "width":31,
+                        "width":41,
                         "height":13}},
                     "adaptiveStyles":{
 },
@@ -1691,10 +1691,10 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":96,
+                            "x":92,
                             "y":47},
                           "size":{
-                            "width":31,
+                            "width":41,
                             "height":13}},
                         "adaptiveStyles":{
 }}],
@@ -1771,7 +1771,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u321.png"}},
+                      "normal~":"images/主页/u362.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -1806,7 +1806,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u323.png"}},
+                      "normal~":"images/主页/u364.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -1878,7 +1878,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u327.png"}},
+                      "normal~":"images/主页/u368.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -1921,7 +1921,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u329.png"}},
+                      "normal~":"images/主页/u370.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -1956,7 +1956,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u331.png"}},
+                      "normal~":"images/主页/u372.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",
@@ -2020,37 +2020,6 @@
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
 {
-                    "id":"8de9a287ce1540abbcb6ec1b3c3a6254",
-                    "label":"",
-                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
-                    "type":"imageMapRegion",
-                    "styleType":"imageMapRegion",
-                    "visible":true,
-                    "style":{
-                      "location":{
-                        "x":150,
-                        "y":0},
-                      "size":{
-                        "width":60,
-                        "height":63}},
-                    "adaptiveStyles":{
-},
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"用例 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"在 当前窗口 打开 会员充值",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"会员充值.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true},
-{
                     "id":"78c5dfdba7834f048ec91fe3d691915d",
                     "label":"",
                     "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
@@ -2108,7 +2077,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":86,
+                        "x":87,
                         "y":23},
                       "size":{
                         "width":50,
@@ -2123,10 +2092,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 蔬菜箱",
+                                "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜箱_1.html",
+                                  "url":"蔬菜宅配_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -2158,6 +2127,37 @@
                                 "target":{
                                   "targetType":"page",
                                   "url":"全部订单.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true},
+{
+                    "id":"8de9a287ce1540abbcb6ec1b3c3a6254",
+                    "label":"",
+                    "parentDynamicPanel":"d3980e768e434d6e8006717cfc1027d7",
+                    "type":"imageMapRegion",
+                    "styleType":"imageMapRegion",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":150,
+                        "y":0},
+                      "size":{
+                        "width":60,
+                        "height":63}},
+                    "adaptiveStyles":{
+},
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 会员充值",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"会员充值.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
@@ -2358,13 +2358,13 @@
         "scriptId":"u96"},
       "696eadac344b40088748cf59bc9aaa9b":{
         "scriptId":"u97"},
-      "8de9a287ce1540abbcb6ec1b3c3a6254":{
-        "scriptId":"u98"},
       "78c5dfdba7834f048ec91fe3d691915d":{
-        "scriptId":"u99"},
+        "scriptId":"u98"},
       "a4c5ad2e9ab441438619cc38629775f8":{
-        "scriptId":"u100"},
+        "scriptId":"u99"},
       "2d4f7c0004734a37855bb4385356382b":{
-        "scriptId":"u101"},
+        "scriptId":"u100"},
       "e89d265e971e4db3a287a12f25c2f503":{
+        "scriptId":"u101"},
+      "8de9a287ce1540abbcb6ec1b3c3a6254":{
         "scriptId":"u102"}}}});

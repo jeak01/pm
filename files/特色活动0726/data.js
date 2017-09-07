@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1504766222573.84),
+  "generationDate":new Date(1504789676043.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1590,7 +1590,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u95.png"}},
+            "normal~":"images/农旅线路/u95.png"}},
 {
           "id":"b2321e59ba904b69aaeb3b1a8adfcad1",
           "label":"",
@@ -2008,7 +2008,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u95.png"}},
+            "normal~":"images/农旅线路/u95.png"}},
 {
           "id":"1513d8806a2d45e184c503628b1dda1a",
           "label":"",
@@ -2426,7 +2426,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅路线/u95.png"}},
+            "normal~":"images/农旅线路/u95.png"}},
 {
           "id":"279984d8c10647468841574d8a212558",
           "label":"",
@@ -3056,7 +3056,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u321.png"}},
+              "normal~":"images/主页/u362.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -3185,7 +3185,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u323.png"}},
+              "normal~":"images/主页/u364.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

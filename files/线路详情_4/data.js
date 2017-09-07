@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_4.html",
-  "generationDate":new Date(1504766206578.18),
+  "generationDate":new Date(1504789658567.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -897,7 +897,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"78baf9a4f28d4a919807a49ff7d9c157",
           "label":"",
@@ -5416,7 +5416,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u196.png"}},
+                    "normal~":"images/线路详情_2/u196.png"}},
 {
                   "id":"ae75666ad52342afa400687e1bd0316b",
                   "label":"充值会员更优惠",
@@ -5700,7 +5700,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u206.png"}},
+                    "normal~":"images/线路详情_2/u206.png"}},
 {
                   "id":"34362bca8a6a46fc90e416f1ae1ecae3",
                   "label":"充值会员更优惠",
@@ -5944,7 +5944,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u214.png"}}]}]}]}},
+                    "normal~":"images/线路详情_2/u214.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

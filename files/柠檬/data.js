@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"柠檬.html",
-  "generationDate":new Date(1504766219760.97),
+  "generationDate":new Date(1504789673043.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u12.png"}},
+            "normal~":"images/农旅卡主题页/u16.png"}},
 {
           "id":"1cb0c75650c34777937a5cc0c100a0b1",
           "label":"",
@@ -321,7 +321,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u12.png"}},
+            "normal~":"images/农旅卡主题页/u16.png"}},
 {
           "id":"141fd32af15e426c9ada96e9c2a14b4a",
           "label":"",

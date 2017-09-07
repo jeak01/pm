@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情.html",
-  "generationDate":new Date(1504766209236.96),
+  "generationDate":new Date(1504789661471.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -673,7 +673,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"2961021a3ebb4340bcbe6f2bbb283e68",
           "label":"",
@@ -4725,7 +4725,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/线路详情/u200.png"}},
 {
           "id":"d672bbe64c194f67a0f82c47d26be4ba",
           "label":"",
@@ -4832,7 +4832,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"8bea3d9865c1438d866aa56f6e607c4b",
           "label":"",
@@ -4871,7 +4871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/线路详情/u200.png"}},
 {
           "id":"e66b23162a4840ca908f71246ebdb36b",
           "label":"",
@@ -4945,7 +4945,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"f2b35b17c1074999bf54a37c83dfc939",
           "label":"",
@@ -4984,7 +4984,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u216.png"}},
+            "normal~":"images/线路详情/u200.png"}},
 {
           "id":"64b62f6d75fc4508a8c7e6185eca3e88",
           "label":"",
@@ -5058,7 +5058,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u218.png"}},
+            "normal~":"images/主页/u223.png"}},
 {
           "id":"b9eae79b52074acf990bcb7cb42971b6",
           "label":"",
@@ -5974,7 +5974,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u206.png"}}]}]}]}},
+                    "normal~":"images/线路详情_2/u206.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
