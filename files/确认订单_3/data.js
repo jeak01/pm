@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_3.html",
-  "generationDate":new Date(1505095700273.3),
+  "generationDate":new Date(1505096832162.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -6060,7 +6060,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u33.png"}},
+            "normal~":"images/购买配送次数/u39.png"}},
 {
           "id":"1a2e82431cca4452a24f1aca8de245fa",
           "label":"",

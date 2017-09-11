@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1505095674109.82),
+  "generationDate":new Date(1505096814974.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1779,6 +1779,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/主页/u72.png"}},
 {
@@ -6210,10 +6225,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 农旅卡主题页",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"农旅卡主题页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -7481,10 +7496,10 @@
               "color":0xFF0099FF,
               "opacity":1},
             "location":{
-              "x":270,
+              "x":281,
               "y":186},
             "size":{
-              "width":80,
+              "width":69,
               "height":25},
             "borderFill":{
               "fillType":"solid",
@@ -7505,10 +7520,10 @@
                   "color":0xFF0099FF,
                   "opacity":1},
                 "location":{
-                  "x":270,
+                  "x":281,
                   "y":186},
                 "size":{
-                  "width":80,
+                  "width":69,
                   "height":25},
                 "borderFill":{
                   "fillType":"solid",

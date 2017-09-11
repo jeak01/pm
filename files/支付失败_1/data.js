@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付失败_1.html",
-  "generationDate":new Date(1505095717319.1),
+  "generationDate":new Date(1505096846981.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1139,7 +1139,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付失败/u19.png"}},
+            "normal~":"images/购买配送次数/u141.png"}},
 {
           "id":"ac9734797b9d42eb86b3c13617264312",
           "label":"",

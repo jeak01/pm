@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_1.html",
-  "generationDate":new Date(1505095683082.52),
+  "generationDate":new Date(1505096820749.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -270,11 +270,8 @@
                     "fill":{
                       "fillType":"solid",
                       "color":0xFFFF0000},
-                    "location":{
-                      "x":200,
-                      "y":0},
                     "size":{
-                      "width":160,
+                      "width":360,
                       "height":50},
                     "borderFill":{
                       "fillType":"solid",
@@ -298,11 +295,8 @@
                         "fill":{
                           "fillType":"solid",
                           "color":0xFFFF0000},
-                        "location":{
-                          "x":200,
-                          "y":0},
                         "size":{
-                          "width":160,
+                          "width":360,
                           "height":50},
                         "borderFill":{
                           "fillType":"solid",
@@ -325,7 +319,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单/u75.png"}}]}]},
+                    "normal~":"images/确认订单_1/u11.png"}}]}]},
 {
           "id":"ac27bf609e6c49109b39f25f52aafa5b",
           "label":"",
@@ -486,7 +480,7 @@
               "y":112},
             "size":{
               "width":360,
-              "height":128},
+              "height":158},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFCCCCCC}},
@@ -505,7 +499,7 @@
                   "y":112},
                 "size":{
                   "width":360,
-                  "height":128},
+                  "height":158},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFCCCCCC}},
@@ -637,7 +631,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":289},
+              "y":319},
             "size":{
               "width":360,
               "height":40},
@@ -656,7 +650,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":289},
+                  "y":319},
                 "size":{
                   "width":360,
                   "height":40},
@@ -676,7 +670,7 @@
           "style":{
             "location":{
               "x":8,
-              "y":301},
+              "y":331},
             "size":{
               "width":53,
               "height":16}},
@@ -692,7 +686,7 @@
               "style":{
                 "location":{
                   "x":8,
-                  "y":301},
+                  "y":331},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -709,7 +703,7 @@
           "style":{
             "location":{
               "x":331,
-              "y":293},
+              "y":323},
             "size":{
               "width":29,
               "height":30},
@@ -729,7 +723,7 @@
               "style":{
                 "location":{
                   "x":331,
-                  "y":293},
+                  "y":323},
                 "size":{
                   "width":29,
                   "height":30},
@@ -750,7 +744,7 @@
           "style":{
             "location":{
               "x":281,
-              "y":301},
+              "y":331},
             "size":{
               "width":53,
               "height":16}},
@@ -766,7 +760,7 @@
               "style":{
                 "location":{
                   "x":281,
-                  "y":301},
+                  "y":331},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -783,7 +777,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":250},
+              "y":280},
             "size":{
               "width":360,
               "height":40},
@@ -802,7 +796,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":250},
+                  "y":280},
                 "size":{
                   "width":360,
                   "height":40},
@@ -822,7 +816,7 @@
           "style":{
             "location":{
               "x":8,
-              "y":262},
+              "y":292},
             "size":{
               "width":53,
               "height":16}},
@@ -838,7 +832,7 @@
               "style":{
                 "location":{
                   "x":8,
-                  "y":262},
+                  "y":292},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -855,7 +849,7 @@
           "style":{
             "location":{
               "x":256,
-              "y":262},
+              "y":292},
             "size":{
               "width":92,
               "height":16}},
@@ -871,7 +865,7 @@
               "style":{
                 "location":{
                   "x":256,
-                  "y":262},
+                  "y":292},
                 "size":{
                   "width":92,
                   "height":16}},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1505095720455.48),
+  "generationDate":new Date(1505096849335.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3057,7 +3057,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/支付失败/u19.png"}},
+                    "normal~":"images/购买配送次数/u141.png"}},
 {
                   "id":"8baf658b6311459da983f992b5a6072b",
                   "label":"",
