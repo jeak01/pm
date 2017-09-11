@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页_5.html",
-  "generationDate":new Date(1504791141614.1),
+  "generationDate":new Date(1505095714353.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

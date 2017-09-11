@@ -105,7 +105,7 @@
 #u8 {
   position:absolute;
   left:20px;
-  top:150px;
+  top:174px;
   width:320px;
   height:40px;
   font-size:16px;
@@ -254,4 +254,24 @@
   font-weight:normal;
   font-style:normal;
   text-decoration:none;
+}
+#u20 {
+  position:absolute;
+  left:66px;
+  top:150px;
+  width:228px;
+  height:14px;
+  font-size:11px;
+}
+#u21 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:210px;
+  word-wrap:break-word;
+}
+#u20_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
 }

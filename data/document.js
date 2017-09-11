@@ -213,17 +213,21 @@
         "type":"Wireframe",
         "url":"个人中心主页.html",
         "children":[{
-            "pageName":"我的农旅卡",
-            "type":"Wireframe",
-            "url":"我的农旅卡.html"},
-{
             "pageName":"我的农旅卡（待激活）",
             "type":"Wireframe",
             "url":"我的农旅卡（待激活）.html"},
 {
             "pageName":"激活农旅卡",
             "type":"Wireframe",
-            "url":"激活农旅卡.html"},
+            "url":"激活农旅卡.html",
+            "children":[{
+                "pageName":"选择农旅卡套餐",
+                "type":"Wireframe",
+                "url":"选择农旅卡套餐.html"}]},
+{
+            "pageName":"我的农旅卡",
+            "type":"Wireframe",
+            "url":"我的农旅卡.html"},
 {
             "pageName":"全部订单",
             "type":"Wireframe",

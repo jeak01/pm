@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"激活农旅卡.html",
-  "generationDate":new Date(1504791125046.11),
+  "generationDate":new Date(1505095693342.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -209,7 +209,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":20,
-              "y":150},
+              "y":174},
             "size":{
               "width":320,
               "height":40},
@@ -237,7 +237,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":20,
-                  "y":150},
+                  "y":174},
                 "size":{
                   "width":320,
                   "height":40},
@@ -247,6 +247,21 @@
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 选择农旅卡套餐",
+                      "target":{
+                        "targetType":"page",
+                        "url":"选择农旅卡套餐.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/我的农旅卡（待激活）/u45.png"}},
 {
@@ -422,7 +437,42 @@
               "width":290,
               "height":25}},
           "adaptiveStyles":{
-}}]}},
+}},
+{
+          "id":"f80de6e2ee024db890fcb68443fe2f9a",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":66,
+              "y":150},
+            "size":{
+              "width":228,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e14890e11e18441482a1fbfdb369eadd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":66,
+                  "y":150},
+                "size":{
+                  "width":228,
+                  "height":14}},
+              "adaptiveStyles":{
+}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -465,4 +515,8 @@
     "52009fa9f3cd483cadd75685160d9eb6":{
       "scriptId":"u18"},
     "68740a9190fa490e8be1a83e948d7c80":{
-      "scriptId":"u19"}}});
+      "scriptId":"u19"},
+    "f80de6e2ee024db890fcb68443fe2f9a":{
+      "scriptId":"u20"},
+    "e14890e11e18441482a1fbfdb369eadd":{
+      "scriptId":"u21"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅路线产品.html",
-  "generationDate":new Date(1504791133765.89),
+  "generationDate":new Date(1505095706443.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
