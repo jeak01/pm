@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜宅配服务说明.html",
-  "generationDate":new Date(1505096820869.76),
+  "generationDate":new Date(1505815529113.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜宅配服务说明/u0.png"}},
+            "normal~":"images/4_1农场列表/u0.png"}},
 {
           "id":"913579d584ce46be8ef07cc1a1ff86ee",
           "label":"",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u2.png"}},
+            "normal~":"images/4_3_1文章列表/u2.png"}},
 {
           "id":"9476a6325614493e944d3e4dc075ced0",
           "label":"",
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择城市/u4.png"}},
+            "normal~":"images/0_0主页/u5.png"}},
 {
           "id":"aeca8c17c22641e3afb2258d0f003d67",
           "label":"",

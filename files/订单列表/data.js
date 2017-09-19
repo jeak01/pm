@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表.html",
-  "generationDate":new Date(1505096848649.47),
+  "generationDate":new Date(1505815533019.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u0.png"}},
+            "normal~":"images/1_2订单支付页/u0.png"}},
 {
           "id":"4b4656b338e140c4aa62f7b4a67b0b20",
           "label":"",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/0_0主页/top_u99.png"}},
 {
           "id":"4a528dd320764523b31951041a737b03",
           "label":"",
@@ -140,7 +140,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择城市/u4.png"}},
+            "normal~":"images/0_0主页/u5.png"}},
 {
           "id":"c1edc8dbfc3b4c0685a75b40198906d1",
           "label":"",
@@ -220,7 +220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u23.png"}},
+            "normal~":"images/4_1_1_1商品详情/u23.png"}},
 {
           "id":"fd52a68d6a274608b097c117535bbead",
           "label":"",
@@ -261,7 +261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u23.png"}},
+            "normal~":"images/4_1_1_1商品详情/u23.png"}},
 {
           "id":"c1510f8dea5740acab80fe6a40f0c8f0",
           "label":"",
@@ -302,7 +302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品详情/u23.png"}},
+            "normal~":"images/4_1_1_1商品详情/u23.png"}},
 {
           "id":"15bfd199c91542e9a3e3ab16166e20c2",
           "label":"",
@@ -474,15 +474,14 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅订单详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅订单详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/订单列表/u22.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"8ca1ec5d1f13462585acc4898fecb7f8",
           "label":"",
@@ -515,7 +514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/订单列表/u24.png"}},
 {
           "id":"e43de9cdf99c497497f976fbdf6ad381",
           "label":"",
@@ -548,7 +547,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u97.jpg"}},
+            "normal~":"images/1_0蔬菜宅配/u492.jpg"}},
 {
           "id":"6e8e49a49319474288d45282a702cd1d",
           "label":"",
@@ -734,10 +733,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅订单详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅订单详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -782,15 +780,14 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蔬果订单详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬果订单详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/订单列表/u22.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"5c52e2bbeffe4bdeb80f0f5cb93e1759",
           "label":"",
@@ -823,7 +820,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/订单列表/u24.png"}},
 {
           "id":"ad7ac70b27a64adc8f8cfce0b43b4b9b",
           "label":"",
@@ -856,7 +853,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u100.png"}},
+            "normal~":"images/主页（0907）/u122.png"}},
 {
           "id":"5cfe18c6b25c40389ec2f4e159397ac1",
           "label":"",
@@ -1042,10 +1039,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蔬果订单详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬果订单详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1090,15 +1086,14 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蔬果订单详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬果订单详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/订单列表/u22.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"671cab38f5e9473b9986e0c628b55d50",
           "label":"",
@@ -1131,7 +1126,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/订单列表/u24.png"}},
 {
           "id":"c39a5aa48b664b5e846f68aa93d052ef",
           "label":"",
@@ -1164,7 +1159,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u100.png"}},
+            "normal~":"images/主页（0907）/u122.png"}},
 {
           "id":"c22c421f8bbe4f85a16a9f3c189c4c0f",
           "label":"",
@@ -1350,10 +1345,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 蔬果订单详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬果订单详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

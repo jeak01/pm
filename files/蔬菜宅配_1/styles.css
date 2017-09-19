@@ -263,9 +263,9 @@
 }
 #u22 {
   position:absolute;
-  left:229px;
+  left:240px;
   top:47px;
-  width:41px;
+  width:21px;
   height:13px;
   font-size:10px;
 }
@@ -273,14 +273,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:41px;
+  width:21px;
   height:13px;
 }
 #u23 {
   position:absolute;
   left:0px;
   top:0px;
-  width:41px;
+  width:21px;
   white-space:nowrap;
 }
 #u24 {
@@ -369,12 +369,13 @@
 }
 #u32 {
   position:absolute;
-  left:159px;
-  top:14px;
-  width:42px;
-  height:32px;
+  left:162px;
+  top:8px;
+  width:36px;
+  height:42px;
   font-family:'Arial Negreta', 'Arial';
   font-weight:700;
+  font-size:11px;
   color:#FF0000;
   text-align:center;
 }
@@ -382,14 +383,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:32px;
+  width:36px;
+  height:42px;
 }
 #u33 {
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:36px;
   white-space:nowrap;
 }
 #u34 {
@@ -404,7 +405,7 @@
 #u35 {
   position:absolute;
   left:225px;
-  top:23px;
+  top:24px;
   width:50px;
   height:37px;
   overflow:hidden;
@@ -422,7 +423,7 @@
 #u37 {
   position:absolute;
   left:10px;
-  top:144px;
+  top:134px;
   width:340px;
   height:100px;
 }
@@ -444,7 +445,7 @@
 #u39 {
   position:absolute;
   left:12px;
-  top:120px;
+  top:110px;
   width:45px;
   height:14px;
   font-size:11px;
@@ -467,7 +468,7 @@
 #u41 {
   position:absolute;
   left:30px;
-  top:178px;
+  top:168px;
   width:97px;
   height:28px;
 }
@@ -488,7 +489,7 @@
 #u43 {
   position:absolute;
   left:250px;
-  top:180px;
+  top:170px;
   width:45px;
   height:28px;
 }
@@ -509,7 +510,7 @@
 #u45 {
   position:absolute;
   left:305px;
-  top:172px;
+  top:162px;
   width:45px;
   height:45px;
 }
@@ -531,7 +532,7 @@
 #u47 {
   position:absolute;
   left:18px;
-  top:216px;
+  top:206px;
   width:137px;
   height:14px;
   font-size:11px;
@@ -554,7 +555,7 @@
 #u49 {
   position:absolute;
   left:10px;
-  top:268px;
+  top:258px;
   width:340px;
   height:40px;
   color:#FFFFFF;
@@ -576,7 +577,7 @@
 #u51 {
   position:absolute;
   left:12px;
-  top:142px;
+  top:132px;
   width:338px;
   height:100px;
   overflow:hidden;
@@ -585,7 +586,7 @@
 #u52 {
   position:absolute;
   left:190px;
-  top:60px;
+  top:50px;
   width:150px;
   height:40px;
 }
@@ -606,7 +607,7 @@
 #u54 {
   position:absolute;
   left:18px;
-  top:60px;
+  top:50px;
   width:149px;
   height:40px;
 }
@@ -627,7 +628,7 @@
 #u56 {
   position:absolute;
   left:18px;
-  top:152px;
+  top:142px;
   width:56px;
   height:14px;
   font-size:11px;
@@ -650,7 +651,7 @@
 #u58 {
   position:absolute;
   left:210px;
-  top:156px;
+  top:146px;
   width:78px;
   height:14px;
   font-size:11px;

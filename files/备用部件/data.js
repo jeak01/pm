@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1505096853575.74),
+  "generationDate":new Date(1505815539046.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4646,7 +4646,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u6.png"}},
+            "normal~":"images/5_0个人中心主页/u6.png"}},
 {
           "id":"10d31e2ae63c4eec86a46e2927412341",
           "label":"",
@@ -4687,7 +4687,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u4.png"}},
+            "normal~":"images/5_0个人中心主页/u4.png"}},
 {
           "id":"db1979b800024137b7d793d5da312219",
           "label":"",
@@ -8828,7 +8828,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员充值/u29.png"}},
+            "normal~":"images/3_0会员充值/u23.png"}},
 {
           "id":"d67f01e170714d8a87cc50c0bc33668b",
           "label":"",
@@ -8869,7 +8869,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员充值/u31.png"}},
+            "normal~":"images/3_0会员充值/u25.png"}},
 {
           "id":"117f4a3738014e69a8ee6ebef5e0dcb4",
           "label":"",
@@ -8951,7 +8951,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u143.png"}},
+            "normal~":"images/1_0蔬菜宅配/u513.png"}},
 {
           "id":"78dceba3f5e349ada3d71ff9dfc6915a",
           "label":"",
@@ -9115,7 +9115,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u78.png"}},
+            "normal~":"images/0_0主页/u161.png"}},
 {
           "id":"978d7fa2af8046e5bc373860ea14e9e0",
           "label":"",
@@ -10755,7 +10755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u80.png"}},
+            "normal~":"images/0_0主页/u163.png"}},
 {
           "id":"dbd14934a7124418b88cf56f999e2cf8",
           "label":"",

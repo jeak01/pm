@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜宅配_1.html",
-  "generationDate":new Date(1505096819468.66),
+  "generationDate":new Date(1505815527799.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u2.png"}},
+            "normal~":"images/1_0蔬菜宅配/u331.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择城市/u4.png"}},
+            "normal~":"images/0_0主页/u5.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -214,7 +214,7 @@
           "style":{
             "location":{
               "x":10,
-              "y":144},
+              "y":134},
             "size":{
               "width":340,
               "height":100},
@@ -234,7 +234,7 @@
               "style":{
                 "location":{
                   "x":10,
-                  "y":144},
+                  "y":134},
                 "size":{
                   "width":340,
                   "height":100},
@@ -275,7 +275,7 @@
               "opacity":1},
             "location":{
               "x":12,
-              "y":120},
+              "y":110},
             "size":{
               "width":45,
               "height":14}},
@@ -296,7 +296,7 @@
                   "opacity":1},
                 "location":{
                   "x":12,
-                  "y":120},
+                  "y":110},
                 "size":{
                   "width":45,
                   "height":14}},
@@ -313,7 +313,7 @@
           "style":{
             "location":{
               "x":30,
-              "y":178},
+              "y":168},
             "size":{
               "width":97,
               "height":28}},
@@ -329,7 +329,7 @@
               "style":{
                 "location":{
                   "x":30,
-                  "y":178},
+                  "y":168},
                 "size":{
                   "width":97,
                   "height":28}},
@@ -346,7 +346,7 @@
           "style":{
             "location":{
               "x":250,
-              "y":180},
+              "y":170},
             "size":{
               "width":45,
               "height":28}},
@@ -362,7 +362,7 @@
               "style":{
                 "location":{
                   "x":250,
-                  "y":180},
+                  "y":170},
                 "size":{
                   "width":45,
                   "height":28}},
@@ -379,7 +379,7 @@
           "style":{
             "location":{
               "x":305,
-              "y":172},
+              "y":162},
             "size":{
               "width":45,
               "height":45},
@@ -399,7 +399,7 @@
               "style":{
                 "location":{
                   "x":305,
-                  "y":172},
+                  "y":162},
                 "size":{
                   "width":45,
                   "height":45},
@@ -410,7 +410,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u223.png"}},
+            "normal~":"images/1_0蔬菜宅配/u5.png"}},
 {
           "id":"ae2aac16b2dd4ab2b5c0923d9af70f49",
           "label":"",
@@ -425,7 +425,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":216},
+              "y":206},
             "size":{
               "width":137,
               "height":14}},
@@ -446,7 +446,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":216},
+                  "y":206},
                 "size":{
                   "width":137,
                   "height":14}},
@@ -470,7 +470,7 @@
               "color":0xFFFF6600},
             "location":{
               "x":10,
-              "y":268},
+              "y":258},
             "size":{
               "width":340,
               "height":40},
@@ -497,7 +497,7 @@
                   "color":0xFFFF6600},
                 "location":{
                   "x":10,
-                  "y":268},
+                  "y":258},
                 "size":{
                   "width":340,
                   "height":40},
@@ -533,7 +533,7 @@
           "style":{
             "location":{
               "x":12,
-              "y":142},
+              "y":132},
             "size":{
               "width":338,
               "height":100}},
@@ -563,7 +563,7 @@
           "style":{
             "location":{
               "x":190,
-              "y":60},
+              "y":50},
             "size":{
               "width":150,
               "height":40},
@@ -580,7 +580,7 @@
               "style":{
                 "location":{
                   "x":190,
-                  "y":60},
+                  "y":50},
                 "size":{
                   "width":150,
                   "height":40},
@@ -595,10 +595,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场列表",
+                      "description":"在 当前窗口 打开 4.1农场列表",
                       "target":{
                         "targetType":"page",
-                        "url":"农场列表.html",
+                        "url":"4_1农场列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -613,7 +613,7 @@
           "style":{
             "location":{
               "x":18,
-              "y":60},
+              "y":50},
             "size":{
               "width":149,
               "height":40},
@@ -630,7 +630,7 @@
               "style":{
                 "location":{
                   "x":18,
-                  "y":60},
+                  "y":50},
                 "size":{
                   "width":149,
                   "height":40},
@@ -668,7 +668,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":152},
+              "y":142},
             "size":{
               "width":56,
               "height":14}},
@@ -689,7 +689,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":152},
+                  "y":142},
                 "size":{
                   "width":56,
                   "height":14}},
@@ -711,7 +711,7 @@
               "opacity":1},
             "location":{
               "x":210,
-              "y":156},
+              "y":146},
             "size":{
               "width":78,
               "height":14}},
@@ -732,7 +732,7 @@
                   "opacity":1},
                 "location":{
                   "x":210,
-                  "y":156},
+                  "y":146},
                 "size":{
                   "width":78,
                   "height":14}},
@@ -831,7 +831,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u354.png"}},
+                      "normal~":"images/0_0主页/top_u3.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -977,7 +977,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u362.png"}},
+                      "normal~":"images/0_0主页/u127.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -1012,7 +1012,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u364.png"}},
+                      "normal~":"images/0_0主页/u129.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -1023,10 +1023,10 @@
                     "style":{
                       "fontSize":"10px",
                       "location":{
-                        "x":229,
+                        "x":240,
                         "y":47},
                       "size":{
-                        "width":41,
+                        "width":21,
                         "height":13}},
                     "adaptiveStyles":{
 },
@@ -1041,10 +1041,10 @@
                         "style":{
                           "fontSize":"10px",
                           "location":{
-                            "x":229,
+                            "x":240,
                             "y":47},
                           "size":{
-                            "width":41,
+                            "width":21,
                             "height":13}},
                         "adaptiveStyles":{
 }}],
@@ -1084,7 +1084,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u368.png"}},
+                      "normal~":"images/0_0主页/u133.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -1127,7 +1127,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u370.png"}},
+                      "normal~":"images/0_0主页/u135.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -1137,7 +1137,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":102.5,
+                        "x":102,
                         "y":27},
                       "size":{
                         "width":20,
@@ -1154,7 +1154,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":102.5,
+                            "x":102,
                             "y":27},
                           "size":{
                             "width":20,
@@ -1162,7 +1162,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u372.png"}},
+                      "normal~":"images/0_0主页/u137.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",
@@ -1187,10 +1187,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 个人中心主页",
+                                "description":"在 当前窗口 打开 5.0个人中心主页",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"个人中心主页.html",
+                                  "url":"5_0个人中心主页.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -1218,10 +1218,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页",
+                                "description":"在 当前窗口 打开 0.0主页",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页.html",
+                                  "url":"0_0主页.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -1234,6 +1234,7 @@
                     "visible":true,
                     "style":{
                       "fontName":"'Arial Negreta', 'Arial'",
+                      "fontSize":"11px",
                       "fontWeight":"700",
                       "horizontalAlignment":"center",
                       "foreGroundFill":{
@@ -1241,11 +1242,11 @@
                         "color":0xFFFF0000,
                         "opacity":1},
                       "location":{
-                        "x":159,
-                        "y":14},
+                        "x":162,
+                        "y":8},
                       "size":{
-                        "width":42,
-                        "height":32}},
+                        "width":36,
+                        "height":42}},
                     "adaptiveStyles":{
 },
                     "objects":[{
@@ -1258,6 +1259,7 @@
                         "visible":true,
                         "style":{
                           "fontName":"'Arial Negreta', 'Arial'",
+                          "fontSize":"11px",
                           "fontWeight":"700",
                           "horizontalAlignment":"center",
                           "foreGroundFill":{
@@ -1265,11 +1267,11 @@
                             "color":0xFFFF0000,
                             "opacity":1},
                           "location":{
-                            "x":159,
-                            "y":14},
+                            "x":162,
+                            "y":8},
                           "size":{
-                            "width":42,
-                            "height":32}},
+                            "width":36,
+                            "height":42}},
                         "adaptiveStyles":{
 }}],
                     "images":{
@@ -1298,10 +1300,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 蔬菜宅配",
+                                "description":"在 当前窗口 打开 1.0蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_1.html",
+                                  "url":"1_0蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -1315,7 +1317,7 @@
                     "style":{
                       "location":{
                         "x":225,
-                        "y":23},
+                        "y":24},
                       "size":{
                         "width":50,
                         "height":37}},
@@ -1329,10 +1331,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 全部订单",
+                                "description":"在 当前窗口 打开 4.0发现",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"全部订单.html",
+                                  "url":"4_0发现.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -1360,10 +1362,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 会员充值",
+                                "description":"在 当前窗口 打开 3.0会员充值",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"会员充值.html",
+                                  "url":"3_0会员充值.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},
