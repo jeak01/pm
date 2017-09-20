@@ -25,9 +25,13 @@
                 "type":"Wireframe",
                 "url":"0_1选择城市.html"}]},
 {
-            "pageName":"登录",
+            "pageName":"0.2登录",
             "type":"Wireframe",
-            "url":"登录.html"},
+            "url":"0_2登录.html"},
+{
+            "pageName":"0.3注册",
+            "type":"Wireframe",
+            "url":"0_3注册.html"},
 {
             "pageName":"1.0蔬菜宅配",
             "type":"Wireframe",
