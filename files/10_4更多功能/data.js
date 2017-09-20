@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_4更多功能.html",
-  "generationDate":new Date(1505873943030.85),
+  "generationDate":new Date(1505892285567.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -238,7 +238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_0个人中心主页/u42.png"}},
+            "normal~":"images/5_0个人中心主页/u20.png"}},
 {
           "id":"d73b0344a612446e914090082a7e7acc",
           "label":"",
@@ -351,7 +351,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_0个人中心主页/u48.png"}},
+            "normal~":"images/5_0个人中心主页/u26.png"}},
 {
           "id":"e347a17376da4c2191c9e7baaf02bc4c",
           "label":"",
@@ -390,7 +390,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_0个人中心主页/u42.png"}},
+            "normal~":"images/5_0个人中心主页/u20.png"}},
 {
           "id":"db0c8a6b50c448ba89da5714435ce350",
           "label":"",
@@ -503,7 +503,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_0个人中心主页/u48.png"}},
+            "normal~":"images/5_0个人中心主页/u26.png"}},
 {
           "id":"d5d024d1a6e54cce8fd3cf75947be4b5",
           "label":"",
@@ -585,7 +585,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_0个人中心主页/u42.png"}},
+            "normal~":"images/5_0个人中心主页/u20.png"}},
 {
           "id":"fc01d1c31ef54d7cbe7116d033db34c0",
           "label":"",
@@ -698,7 +698,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_0个人中心主页/u48.png"}}]}},
+            "normal~":"images/5_0个人中心主页/u26.png"}}]}},
   "masters":{
 },
   "objectPaths":{

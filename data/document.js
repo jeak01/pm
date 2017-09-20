@@ -219,7 +219,11 @@
 {
                 "pageName":"5.4待支付订单",
                 "type":"Wireframe",
-                "url":"5_4待支付订单.html"}]},
+                "url":"5_4待支付订单.html"},
+{
+                "pageName":"我的账户",
+                "type":"Wireframe",
+                "url":"我的账户.html"}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",
