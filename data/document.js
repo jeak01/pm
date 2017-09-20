@@ -21,13 +21,13 @@
             "type":"Wireframe",
             "url":"0_0主页.html",
             "children":[{
+                "pageName":"0.0主页二",
+                "type":"Wireframe",
+                "url":"0_0主页二.html"},
+{
                 "pageName":"0.1选择城市",
                 "type":"Wireframe",
                 "url":"0_1选择城市.html"}]},
-{
-            "pageName":"0.0主页2",
-            "type":"Wireframe",
-            "url":"0_0主页2.html"},
 {
             "pageName":"0.2登录",
             "type":"Wireframe",

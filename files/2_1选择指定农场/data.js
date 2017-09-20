@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1选择指定农场.html",
-  "generationDate":new Date(1505893758866.85),
+  "generationDate":new Date(1505894092266.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -864,7 +864,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页2/u189.jpg"}},
+            "normal~":"images/0_0主页二/u189.jpg"}},
 {
           "id":"55cbbd45dc0c4941811aed8351f14142",
           "label":"",
@@ -1995,7 +1995,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页2/u189.jpg"}},
+            "normal~":"images/0_0主页二/u189.jpg"}},
 {
           "id":"da76845f62014ef18c3ab91f218fc9bd",
           "label":"",
@@ -2827,7 +2827,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页2/u218.jpg"}},
+            "normal~":"images/0_0主页二/u218.jpg"}},
 {
           "id":"aa09b2cb6aef4ad6b905a9651a163f32",
           "label":"",
@@ -3659,7 +3659,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页2/u189.jpg"}},
+            "normal~":"images/0_0主页二/u189.jpg"}},
 {
           "id":"f62e5e0485124a1aaa6483ae5671333d",
           "label":"",
@@ -4491,7 +4491,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页2/u189.jpg"}},
+            "normal~":"images/0_0主页二/u189.jpg"}},
 {
           "id":"9349985c9559407b968426477b5bf68f",
           "label":"",
