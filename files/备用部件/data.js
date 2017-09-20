@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1505873119503.44),
+  "generationDate":new Date(1505873375187.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
