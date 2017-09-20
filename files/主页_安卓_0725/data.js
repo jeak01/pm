@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1505894108680.68),
+  "generationDate":new Date(1505894395318.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
