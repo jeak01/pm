@@ -25,6 +25,10 @@
                 "type":"Wireframe",
                 "url":"0_1选择城市.html"}]},
 {
+            "pageName":"0.0主页2",
+            "type":"Wireframe",
+            "url":"0_0主页2.html"},
+{
             "pageName":"0.2登录",
             "type":"Wireframe",
             "url":"0_2登录.html"},

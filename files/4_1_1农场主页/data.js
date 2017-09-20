@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1农场主页.html",
-  "generationDate":new Date(1505892278518.66),
+  "generationDate":new Date(1505893566709.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5714,7 +5714,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u247.jpg"}},
+                    "normal~":"images/0_0主页2/u218.jpg"}},
 {
                   "id":"6ea2792f71e445cc87f265af1efa4e21",
                   "label":"",
@@ -6015,7 +6015,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_1_1农场主页/u266.png"}},
+                    "normal~":"images/0_0主页2/u177.png"}},
 {
                   "id":"ffa4a39426c8449eb4f990fdae048409",
                   "label":"",
@@ -6267,7 +6267,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1选择指定农场/u40.jpg"}},
+                    "normal~":"images/0_0主页2/u189.jpg"}},
 {
                   "id":"e18bf649a36443739e1101d36be5e499",
                   "label":"",

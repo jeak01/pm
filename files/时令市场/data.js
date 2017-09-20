@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1505892287270.16),
+  "generationDate":new Date(1505893575370.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1755,7 +1755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1农场主页/u266.png"}},
+            "normal~":"images/0_0主页2/u177.png"}},
 {
           "id":"29b885f9d99940cea741ce7ff08ed47f",
           "label":"",
@@ -1995,7 +1995,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1选择指定农场/u40.jpg"}},
+            "normal~":"images/0_0主页2/u189.jpg"}},
 {
           "id":"6b5b25d880f54df8a9bd7e4fe6758020",
           "label":"",
@@ -2235,7 +2235,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u109.jpg"}},
+            "normal~":"images/0_0主页2/u197.jpg"}},
 {
           "id":"52751869bc834674885a32d348d33ce6",
           "label":"",
@@ -2475,7 +2475,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u121.jpg"}},
+            "normal~":"images/0_0主页2/u230.jpg"}},
 {
           "id":"684c5468ac51434c9c8158bb4d0aa528",
           "label":"",

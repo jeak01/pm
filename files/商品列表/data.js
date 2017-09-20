@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表.html",
-  "generationDate":new Date(1505892287485.3),
+  "generationDate":new Date(1505893575607.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1090,7 +1090,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u121.jpg"}},
+            "normal~":"images/0_0主页2/u230.jpg"}},
 {
           "id":"d20381cc1d284e5386358f3cb8eb5941",
           "label":"",
@@ -1360,7 +1360,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u121.jpg"}},
+            "normal~":"images/0_0主页2/u230.jpg"}},
 {
           "id":"8e409dfe333f4bdeb6f05cef67c7aad3",
           "label":"",
@@ -1630,7 +1630,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u121.jpg"}},
+            "normal~":"images/0_0主页2/u230.jpg"}},
 {
           "id":"b58422a4a8644133b63573d6d39e33be",
           "label":"",
@@ -1900,7 +1900,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u121.jpg"}},
+            "normal~":"images/0_0主页2/u230.jpg"}},
 {
           "id":"2ce2757bb3e94101ade0a859a25c4392",
           "label":"",
