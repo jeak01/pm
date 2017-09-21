@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_2走地鸡详情.html",
-  "generationDate":new Date(1505976854443.86),
+  "generationDate":new Date(1505986911790.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u0.jpg"}},
+            "normal~":"images/1_1_2走地鸡详情/u0.jpg"}},
 {
           "id":"62fd9b59f3f34f0fa95fbe589db70abb",
           "label":"",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u2.png"}},
+            "normal~":"images/1_1_2走地鸡详情/u2.png"}},
 {
           "id":"edbaf934bef64c9f8b61d49ba614a055",
           "label":"",
@@ -130,7 +130,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u4.jpg"}},
+            "normal~":"images/1_1_2走地鸡详情/u4.jpg"}},
 {
           "id":"014a8bc73e334a4f81e9c68d28443d1d",
           "label":"",
@@ -163,7 +163,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u6.jpg"}},
+            "normal~":"images/1_1_2走地鸡详情/u6.jpg"}},
 {
           "id":"0801636c49c84795937c78cb3e936b21",
           "label":"",
@@ -233,7 +233,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/top_u53.png"}}]}]},
+                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]},
 {
           "id":"5a749d43889c414f9c32e319d557ceba",
           "label":"",
@@ -260,7 +260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"fc680be1b52f43c69f2877cf7fac824b",
           "label":"",
@@ -309,7 +309,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"4b2078d0fde34e0fbc1c86e3590609f2",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_4支付失败.html",
-  "generationDate":new Date(1505976854706.04),
+  "generationDate":new Date(1505986912019.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -130,7 +130,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -179,7 +179,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -251,7 +251,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_4支付失败/u8.png"}},
+            "normal~":"images/1_4支付失败/u8.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -334,7 +334,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u14.png"}},
+            "normal~":"images/1_3支付成功_1/u14.png"}},
 {
           "id":"2e926c064b5f4ce389b1f0d0c54c343e",
           "label":"",
@@ -422,7 +422,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u17.png"}}]},
+                    "normal~":"images/1_3支付成功/u15.png"}}]},
 {
               "id":"0a0ec34e5b374c648cb24d0345a2032f",
               "label":"状态2",
@@ -492,7 +492,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u17.png"}}]}]},
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]},
 {
           "id":"b3843dd921554728829e90dd303ea5c6",
           "label":"",
@@ -533,7 +533,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u5.png"}},
+            "normal~":"images/1_4支付失败/u15.png"}},
 {
           "id":"ac9734797b9d42eb86b3c13617264312",
           "label":"",

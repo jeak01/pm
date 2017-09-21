@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_0810.html",
-  "generationDate":new Date(1505976873993.75),
+  "generationDate":new Date(1505986930767.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1141,7 +1141,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"c90c8b744af940c0867c366ab9ad0d1b",
           "label":"",
@@ -4090,7 +4090,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"cb3bcdd65ef744fe9a92d3e1ce75d1d8",
           "label":"",
@@ -4327,7 +4327,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"b68bb2b710564159aaaf893879dfecff",
           "label":"",
@@ -4613,7 +4613,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u73.png"}},
+                      "normal~":"images/1_1_4农场主页/u331.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -4796,7 +4796,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u81.png"}},
+                      "normal~":"images/1_1_4农场主页/u339.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -4831,7 +4831,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u83.png"}},
+                      "normal~":"images/1_1_4农场主页/u341.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -4901,7 +4901,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u91.png"}},
+                      "normal~":"images/1_1_4农场主页/u349.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",

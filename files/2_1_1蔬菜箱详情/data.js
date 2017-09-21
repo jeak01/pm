@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1蔬菜箱详情.html",
-  "generationDate":new Date(1505976854389.15),
+  "generationDate":new Date(1505986911765.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -64,7 +64,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_1蔬菜箱详情/u0.jpg"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u0.jpg"}},
 {
           "id":"a52cecb9c1da4a48bf067fe59c6c8f1c",
           "label":"",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_1蔬菜箱详情/u2.png"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u2.png"}},
 {
           "id":"4b3deebf160c4698a59702be5c4b4eee",
           "label":"",
@@ -130,7 +130,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_1蔬菜箱详情/u4.png"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u4.png"}},
 {
           "id":"f822ef37ddb74c2dac9613697eff03b6",
           "label":"",
@@ -163,7 +163,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_1蔬菜箱详情/u6.png"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u6.png"}},
 {
           "id":"d6141dfa40ef4139b0017f0edde28e52",
           "label":"",
@@ -233,7 +233,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/top_u53.png"}}]}]},
+                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]},
 {
           "id":"695f5c81161848a2b1998bdcd2c9add5",
           "label":"",
@@ -260,7 +260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"5660280881834dd591e3530cd97b477d",
           "label":"",
@@ -309,7 +309,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"08de5fd0645a49ea95183955e65457b2",
           "label":"",

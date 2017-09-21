@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单.html",
-  "generationDate":new Date(1505976866557.08),
+  "generationDate":new Date(1505986923194.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1确认订单/u0.png"}},
+            "normal~":"images/2_1我的农旅卡（待激活）/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u331.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -253,7 +253,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u293.png"}},
+                    "normal~":"images/2_2_2蔬菜宅配/u171.png"}},
 {
                   "id":"cca854aec8824de1ba1b6bd01f931ee9",
                   "label":"",
@@ -358,7 +358,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1确认订单/u8.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u13.png"}},
 {
           "id":"4aeca6d64fd7408f8e72bbb00bdf465c",
           "label":"",
@@ -545,7 +545,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1确认订单/u18.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u23.png"}},
 {
           "id":"445fba072e54450eb601036068ed1500",
           "label":"",
@@ -660,7 +660,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1确认订单/u24.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u39.png"}},
 {
           "id":"1214ccd204bb43538bee5ecca61e530e",
           "label":"",
@@ -734,7 +734,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u5.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
 {
           "id":"9e869899fe5a4870a380e4d7ca31d66e",
           "label":"",
@@ -806,7 +806,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1确认订单/u24.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u39.png"}},
 {
           "id":"656be12cd2ce4c1d9e31a76b72811f24",
           "label":"",

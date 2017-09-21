@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1505976871941.71),
+  "generationDate":new Date(1505986928604.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1442,7 +1442,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_2确认订单/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
 {
           "id":"cd77f7c2bb304956898738fdcadc7252",
           "label":"",
@@ -1948,7 +1948,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_2确认订单/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
 {
           "id":"7e71d62dc2364f2188e6fd110f313305",
           "label":"",
@@ -2133,7 +2133,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_2确认订单/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
 {
           "id":"e7f2be4f73b94634a846bec3f7ae67c5",
           "label":"",
@@ -2318,7 +2318,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_2确认订单/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
 {
           "id":"858fde4ac45d472e8f8f313deefaecc0",
           "label":"",
@@ -3241,7 +3241,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"a194aff1fb7744cf811aaa27c61878de",
           "label":"",
@@ -3547,7 +3547,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u73.png"}},
+                      "normal~":"images/1_1_4农场主页/u331.png"}},
 {
                     "id":"dbd6a5f83af64ab191b7f078d53db2df",
                     "label":"",
@@ -3730,7 +3730,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u81.png"}},
+                      "normal~":"images/1_1_4农场主页/u339.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",
@@ -3765,7 +3765,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u83.png"}},
+                      "normal~":"images/1_1_4农场主页/u341.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",

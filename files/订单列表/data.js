@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表.html",
-  "generationDate":new Date(1505976870335.64),
+  "generationDate":new Date(1505986927076.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"4a528dd320764523b31951041a737b03",
           "label":"",
@@ -140,7 +140,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"c1edc8dbfc3b4c0685a75b40198906d1",
           "label":"",
@@ -481,7 +481,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u6.png"}},
+            "normal~":"images/2_2_1_1订单详情/u30.png"}},
 {
           "id":"8ca1ec5d1f13462585acc4898fecb7f8",
           "label":"",
@@ -787,7 +787,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u6.png"}},
+            "normal~":"images/2_2_1_1订单详情/u30.png"}},
 {
           "id":"5c52e2bbeffe4bdeb80f0f5cb93e1759",
           "label":"",
@@ -1093,7 +1093,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u6.png"}},
+            "normal~":"images/2_2_1_1订单详情/u30.png"}},
 {
           "id":"671cab38f5e9473b9986e0c628b55d50",
           "label":"",

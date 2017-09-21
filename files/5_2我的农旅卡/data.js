@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2我的农旅卡.html",
-  "generationDate":new Date(1505976861797.85),
+  "generationDate":new Date(1505986918535.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1确认订单/u74.png"}},
+            "normal~":"images/2_2我的农旅卡/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u331.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -224,7 +224,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0农旅卡主题页/u8.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u8.png"}},
 {
           "id":"5d041b146d7f432fad6603c7cc6b7a49",
           "label":"",
@@ -267,7 +267,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_1我的农旅卡（待激活）/u10.png"}},
+            "normal~":"images/2_1我的农旅卡（待激活）/u10.png"}},
 {
           "id":"79584521515e4e9b82c47032ab9dd5a4",
           "label":"",
@@ -306,7 +306,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u12.png"}},
+            "normal~":"images/2_2我的农旅卡/u12.png"}},
 {
           "id":"6d335da4d7b5414490d520a1c4e1e96d",
           "label":"",
@@ -388,7 +388,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u16.png"}},
+            "normal~":"images/2_2我的农旅卡/u16.png"}},
 {
           "id":"8a64f1200d5a45328a1eaa021a894849",
           "label":"",
@@ -460,7 +460,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u20.png"}},
+            "normal~":"images/2_2我的农旅卡/u20.png"}},
 {
           "id":"652568487c1742fc99bc6ba8d1a01a3e",
           "label":"",
@@ -499,7 +499,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u22.png"}},
+            "normal~":"images/2_2我的农旅卡/u22.png"}},
 {
           "id":"a377618f44fc4b1fad517d01180ebccd",
           "label":"",
@@ -532,7 +532,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1选择指定农场/u36.jpg"}},
+            "normal~":"images/1_1选择指定农场/u36.jpg"}},
 {
           "id":"984a37744949498f962bff1de45098f2",
           "label":"",
@@ -565,7 +565,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1选择指定农场/u38.jpg"}},
+            "normal~":"images/1_1选择指定农场/u38.jpg"}},
 {
           "id":"b11382c4fb554e609abb93b8a491b654",
           "label":"",
@@ -598,7 +598,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1选择指定农场/u40.jpg"}},
+            "normal~":"images/1_1选择指定农场/u40.jpg"}},
 {
           "id":"01fdcba79cc34ce395b75fd22a36d5a7",
           "label":"",
@@ -777,7 +777,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/5_2我的农旅卡/u36.png"}},
+            "normal~":"images/2_2我的农旅卡/u36.png"}},
 {
           "id":"72a0fc2a4b564f63a6fa342426569a44",
           "label":"",
@@ -816,7 +816,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u16.png"}},
+            "normal~":"images/2_2我的农旅卡/u16.png"}},
 {
           "id":"c2b2c346cd864c90b26e70027b616f9f",
           "label":"",
@@ -888,7 +888,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u42.png"}},
+            "normal~":"images/2_2我的农旅卡/u42.png"}},
 {
           "id":"823e6f14666f49e0952c52ae7dd1a9a3",
           "label":"",
@@ -927,7 +927,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u22.png"}},
+            "normal~":"images/2_2我的农旅卡/u22.png"}},
 {
           "id":"34c7631c4fc14018babf4412212fdc57",
           "label":"",
@@ -997,7 +997,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/5_2我的农旅卡/u36.png"}},
+            "normal~":"images/2_2我的农旅卡/u36.png"}},
 {
           "id":"e5acda044ffa4ca99b41878e517034a8",
           "label":"",
@@ -1030,7 +1030,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u376.jpg"}},
+            "normal~":"images/1_1选择指定农场/u56.jpg"}},
 {
           "id":"20115b1804074cbf8c98f8269662c90b",
           "label":"",
@@ -1147,7 +1147,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u31.png"}},
+            "normal~":"images/1_1选择指定农场/u62.png"}},
 {
           "id":"a013d505bde74098bb79f18e195f010a",
           "label":"",
@@ -1229,7 +1229,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u16.png"}},
+            "normal~":"images/2_2我的农旅卡/u16.png"}},
 {
           "id":"e616de3670e8411fa50a80cc8b8c6275",
           "label":"",
@@ -1301,7 +1301,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u42.png"}},
+            "normal~":"images/2_2我的农旅卡/u42.png"}},
 {
           "id":"c0ed7d7ada6b4e8392e6823e6afca236",
           "label":"",
@@ -1340,7 +1340,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2我的农旅卡/u22.png"}},
+            "normal~":"images/2_2我的农旅卡/u22.png"}},
 {
           "id":"a48bbfcee64d48e7a21453ae931d421e",
           "label":"",
@@ -1410,7 +1410,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/5_2我的农旅卡/u36.png"}},
+            "normal~":"images/2_2我的农旅卡/u36.png"}},
 {
           "id":"050594f505a845c991c7ae601862ce7c",
           "label":"",
@@ -1640,7 +1640,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u73.png"}},
+                      "normal~":"images/1_1_4农场主页/u331.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -1786,7 +1786,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u81.png"}},
+                      "normal~":"images/1_1_4农场主页/u339.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -1821,7 +1821,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u83.png"}},
+                      "normal~":"images/1_1_4农场主页/u341.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -1893,7 +1893,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u87.png"}},
+                      "normal~":"images/1_1_4农场主页/u345.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -1936,7 +1936,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u89.png"}},
+                      "normal~":"images/1_1_4农场主页/u347.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -1971,7 +1971,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u91.png"}},
+                      "normal~":"images/1_1_4农场主页/u349.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

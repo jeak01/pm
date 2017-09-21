@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障.html",
-  "generationDate":new Date(1505976855157.24),
+  "generationDate":new Date(1505986912466.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u73.png"}},
+            "normal~":"images/1_1_4农场主页/u331.png"}},
 {
           "id":"e799989fe0b4400cbcfe23cd55d23bd5",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"fa66b8ee73174277a1325ee150d67e1b",
           "label":"",
@@ -973,7 +973,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/top_u53.png"}}]}]}]}},
+                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

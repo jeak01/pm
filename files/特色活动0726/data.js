@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1505976874334.98),
+  "generationDate":new Date(1505986931055.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"55299690e49545a192f0b731f464d86d",
           "label":"",
@@ -134,7 +134,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"b3225c715f3949f99f446744bc77addb",
           "label":"",
@@ -1789,7 +1789,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u31.png"}},
+            "normal~":"images/1_1选择指定农场/u62.png"}},
 {
           "id":"6114af9ecfa14ea9b87773dc2ccc8491",
           "label":"",
@@ -1830,7 +1830,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1农场主页/u302.png"}},
+            "normal~":"images/1_1_4农场主页/u296.png"}},
 {
           "id":"af435142c11a46f99cefc7d0652aa151",
           "label":"",
@@ -1871,7 +1871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1农场主页/u304.png"}},
+            "normal~":"images/1_1_4农场主页/u298.png"}},
 {
           "id":"ccecd0b70b8f4540a495b60e16958114",
           "label":"",
@@ -2207,7 +2207,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u31.png"}},
+            "normal~":"images/1_1选择指定农场/u62.png"}},
 {
           "id":"a67c7cacf7c74720b47598de54fe330e",
           "label":"",
@@ -2248,7 +2248,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1农场主页/u302.png"}},
+            "normal~":"images/1_1_4农场主页/u296.png"}},
 {
           "id":"d4b2da60dca04ba78fe164bbc2e3d145",
           "label":"",
@@ -2289,7 +2289,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1农场主页/u304.png"}},
+            "normal~":"images/1_1_4农场主页/u298.png"}},
 {
           "id":"3ad1f06603304788a0e4841124c907cf",
           "label":"",
@@ -2625,7 +2625,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u31.png"}},
+            "normal~":"images/1_1选择指定农场/u62.png"}},
 {
           "id":"62d26d4351c74e52b95d054c85c84c5c",
           "label":"",
@@ -2666,7 +2666,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1农场主页/u302.png"}},
+            "normal~":"images/1_1_4农场主页/u296.png"}},
 {
           "id":"1087f73e44b44575b41ee725c44e309f",
           "label":"",
@@ -2707,7 +2707,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1农场主页/u304.png"}},
+            "normal~":"images/1_1_4农场主页/u298.png"}},
 {
           "id":"812d609ac1e54daea46a434043f78009",
           "label":"",
@@ -2859,7 +2859,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/top_u53.png"}},
+              "normal~":"images/1_1选择指定农场/u2.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -3056,7 +3056,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u81.png"}},
+              "normal~":"images/1_1_4农场主页/u339.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -3184,7 +3184,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u83.png"}},
+              "normal~":"images/1_1_4农场主页/u341.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

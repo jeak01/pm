@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1505976867557.8),
+  "generationDate":new Date(1505986924066.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",
@@ -335,7 +335,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"5f390aa89e4442d89b609ac3c1b89e76",
           "label":"",
@@ -905,7 +905,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0农旅卡主题页/u16.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u16.png"}},
 {
           "id":"362d3e20e990433cba41d41c312f201c",
           "label":"",
@@ -940,7 +940,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0农旅卡主题页/u16.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u16.png"}},
 {
           "id":"8ba27d55e7084bbe9364491907d53a1e",
           "label":"",
@@ -989,7 +989,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u0.jpg"}},
+            "normal~":"images/1_1_2走地鸡详情/u0.jpg"}},
 {
           "id":"cb08ec63d9794f2fa467d189e4a01a1b",
           "label":"",
@@ -1022,7 +1022,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u2.png"}},
+            "normal~":"images/1_1_2走地鸡详情/u2.png"}},
 {
           "id":"853daf0417bd4c6f98ef555963389ef4",
           "label":"",
@@ -1055,7 +1055,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u4.jpg"}},
+            "normal~":"images/1_1_2走地鸡详情/u4.jpg"}},
 {
           "id":"4b7bca4c12bd4a6f9cf10eca721c2162",
           "label":"",
@@ -1088,7 +1088,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_2走地鸡详情/u6.jpg"}},
+            "normal~":"images/1_1_2走地鸡详情/u6.jpg"}},
 {
           "id":"b02470b1f82c45f9bea3832fe8d9678a",
           "label":"",
@@ -1123,7 +1123,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_2确认订单/u26.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u26.png"}},
 {
           "id":"450fa25d7b6449e1923e4e00704547db",
           "label":"",
@@ -1185,7 +1185,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1确认订单/u138.png"}},
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u240.png"}},
 {
                   "id":"bcb02cc1b40a4725a47806f7dc8de8e1",
                   "label":"",

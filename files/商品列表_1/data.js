@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1505976871156.18),
+  "generationDate":new Date(1505986927804.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -348,7 +348,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"8033dee7b4b949389e0dc18951a6c5f0",
           "label":"",
@@ -397,7 +397,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"8f09266445e543c8bcd69a181c097122",
           "label":"",
@@ -586,7 +586,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u5.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
 {
           "id":"49327d328d6d459ab2f4d3464d4aed2d",
           "label":"",
@@ -2121,7 +2121,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1确认订单/u138.png"}},
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u240.png"}},
 {
                   "id":"af738bca63a34705bd7cdf4012f0bafc",
                   "label":"",
@@ -2763,7 +2763,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/top_u53.png"}},
+                    "normal~":"images/1_1选择指定农场/u2.png"}},
 {
                   "id":"f661b9307bff4fbbb8dfeae515db3f77",
                   "label":"",
@@ -3057,7 +3057,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/u5.png"}},
+                    "normal~":"images/1_4支付失败/u15.png"}},
 {
                   "id":"8baf658b6311459da983f992b5a6072b",
                   "label":"",
@@ -3100,7 +3100,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u5.png"}},
+                    "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
 {
                   "id":"9bf86c05e933486c8ae4ebd93e926646",
                   "label":"",
@@ -3250,7 +3250,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u5.png"}}]}]},
+                    "normal~":"images/1_1_5_农场体验游详情/u40.png"}}]}]},
 {
           "id":"7842c6d82c78423aa06903dcff680333",
           "label":"购物车简栏",

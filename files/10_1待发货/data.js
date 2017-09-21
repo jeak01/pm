@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_1待发货.html",
-  "generationDate":new Date(1505976864133.16),
+  "generationDate":new Date(1505986920788.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -604,7 +604,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u331.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
 {
                   "id":"decca2d454a94250bb9d9707a72f6604",
                   "label":"",

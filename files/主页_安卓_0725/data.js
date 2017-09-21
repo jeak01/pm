@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1505976872349.97),
+  "generationDate":new Date(1505986929030.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3056,7 +3056,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
+            "normal~":"images/2_2_2_3订单详情/u42.png"}},
 {
           "id":"d3c877a063184890bc4fe7625db2698e",
           "label":"",
@@ -3319,7 +3319,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
+            "normal~":"images/2_2_2_3订单详情/u42.png"}},
 {
           "id":"53889eba41084d74b1c80f84974f0fa5",
           "label":"",
@@ -3582,7 +3582,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
+            "normal~":"images/2_2_2_3订单详情/u42.png"}},
 {
           "id":"70d3b65ddeb140fdaff0fbccb96e9822",
           "label":"",
@@ -5057,7 +5057,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/top_u53.png"}},
+              "normal~":"images/1_1选择指定农场/u2.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -5254,7 +5254,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u81.png"}},
+              "normal~":"images/1_1_4农场主页/u339.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -5382,7 +5382,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u83.png"}},
+              "normal~":"images/1_1_4农场主页/u341.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

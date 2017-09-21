@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_3充值优惠.html",
-  "generationDate":new Date(1505976855229.24),
+  "generationDate":new Date(1505986912540.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u73.png"}},
+            "normal~":"images/1_1_4农场主页/u331.png"}},
 {
           "id":"6342b492ddba42cf8689c1baed23fef6",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"25f9e7ec36da4792bfd56e4d4b1790d8",
           "label":"",
@@ -371,7 +371,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/top_u53.png"}}]}]}]}},
+                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

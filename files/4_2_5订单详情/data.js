@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_5订单详情.html",
-  "generationDate":new Date(1505976859862.39),
+  "generationDate":new Date(1505986916814.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -141,7 +141,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"c4448487167542c2a369b072d4da7484",
           "label":"",
@@ -402,7 +402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_5订单详情/u19.png"}},
+            "normal~":"images/2_2_1_1订单详情/u8.png"}},
 {
           "id":"ea35a221ce334b5bb16138d714c97a7f",
           "label":"",
@@ -443,7 +443,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_5订单详情/u21.png"}},
+            "normal~":"images/2_2_1_1订单详情/u10.png"}},
 {
           "id":"11bb1d7bd2254d2ba32c01ee9e6824d4",
           "label":"",
@@ -542,7 +542,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_2确认订单/u64.png"}},
+            "normal~":"images/2_2_1_1订单详情/u16.png"}},
 {
           "id":"18431b0fc5ae487e9dbcb2df4c1022b8",
           "label":"",
@@ -717,7 +717,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_5订单详情/u37.png"}},
+            "normal~":"images/2_2_1_1订单详情/u24.png"}},
 {
           "id":"4647f54371d742eb8bb57b2a21aeb408",
           "label":"",
@@ -832,7 +832,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_2确认订单/u64.png"}},
+            "normal~":"images/2_2_1_1订单详情/u16.png"}},
 {
           "id":"e729fd452101464983deacb16ef6bc7d",
           "label":"",
@@ -1089,7 +1089,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/top_u53.png"}},
+                    "normal~":"images/1_1选择指定农场/u2.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",
@@ -1169,7 +1169,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_4蔬菜宅配订单详情/u29.png"}},
+                    "normal~":"images/2_2_1_1订单详情/u45.png"}},
 {
                   "id":"07997d21e3ea48aca251e1332dd73be3",
                   "label":"",
@@ -1206,7 +1206,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_4蔬菜宅配订单详情/u29.png"}}]}]},
+                    "normal~":"images/2_2_1_1订单详情/u45.png"}}]}]},
 {
           "id":"75de5cb193924c4abcb480793686357d",
           "label":"",
@@ -1282,7 +1282,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_5订单详情/u68.png"}},
+            "normal~":"images/2_2_1_1订单详情/u49.png"}},
 {
           "id":"ec81a1ee9a9040c6ad28cc108a25d425",
           "label":"",
@@ -1383,7 +1383,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_5订单详情/u37.png"}},
+            "normal~":"images/2_2_1_1订单详情/u24.png"}},
 {
           "id":"eab3aebeb5cf4118ac6d57810dbef9a5",
           "label":"",
@@ -1517,7 +1517,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/4_2_5订单详情/u82_line.png"}},
+            "line~":"images/2_2_1_1订单详情/u53_line.png"}},
 {
           "id":"5266c9eb179141ce9c787c38724c3402",
           "label":"",
@@ -1585,7 +1585,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u81.png"}},
+            "normal~":"images/1_1_4农场主页/u339.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",

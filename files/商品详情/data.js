@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品详情.html",
-  "generationDate":new Date(1505976871724.56),
+  "generationDate":new Date(1505986928405.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0农旅卡主题页/u16.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u16.png"}},
 {
           "id":"1cb0c75650c34777937a5cc0c100a0b1",
           "label":"",
@@ -321,7 +321,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0农旅卡主题页/u16.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u16.png"}},
 {
           "id":"141fd32af15e426c9ada96e9c2a14b4a",
           "label":"",
@@ -364,7 +364,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",
@@ -413,7 +413,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"5f390aa89e4442d89b609ac3c1b89e76",
           "label":"",
@@ -882,7 +882,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1确认订单/u138.png"}},
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u240.png"}},
 {
                   "id":"500a2f9be094444a94502b67a79085f6",
                   "label":"",

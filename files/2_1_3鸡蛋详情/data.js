@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_3鸡蛋详情.html",
-  "generationDate":new Date(1505976854486.89),
+  "generationDate":new Date(1505986911811.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -101,7 +101,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/top_u53.png"}}]}]},
+                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]},
 {
           "id":"38e93408ec794eccad020ba14f6c2317",
           "label":"",
@@ -134,7 +134,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_1_3鸡蛋详情/u3.jpg"}},
+            "normal~":"images/1_1_3鸡蛋详情/u3.jpg"}},
 {
           "id":"af743d2a4c6642f9835f2f50309dbd35",
           "label":"",
@@ -161,7 +161,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u53.png"}},
+            "normal~":"images/1_1选择指定农场/u2.png"}},
 {
           "id":"2cb16791d65a481d8596182861145928",
           "label":"",
@@ -210,7 +210,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u201.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
 {
           "id":"ba029fbbe5e74f7bb37f05c11d9eaa82",
           "label":"",
