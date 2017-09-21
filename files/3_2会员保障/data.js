@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障.html",
-  "generationDate":new Date(1505987654974.64),
+  "generationDate":new Date(1505987836237.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

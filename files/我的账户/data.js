@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的账户.html",
-  "generationDate":new Date(1505987663505.82),
+  "generationDate":new Date(1505987843922.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

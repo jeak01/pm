@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0农旅卡主题页（极简）.html",
-  "generationDate":new Date(1505987644864.93),
+  "generationDate":new Date(1505987826579.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -282,7 +282,7 @@
               "color":0xFFFF9900},
             "location":{
               "x":215,
-              "y":118},
+              "y":128},
             "size":{
               "width":135,
               "height":40},
@@ -309,7 +309,7 @@
                   "color":0xFFFF9900},
                 "location":{
                   "x":215,
-                  "y":118},
+                  "y":128},
                 "size":{
                   "width":135,
                   "height":40},
