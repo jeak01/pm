@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_4蔬菜宅配订单详情.html",
-  "generationDate":new Date(1505986911094.44),
+  "generationDate":new Date(1505987653365.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_3订单详情/u8.png"}},
+            "normal~":"images/2_3_1订单详情/u8.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
@@ -312,7 +312,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_3订单详情/u42.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
 {
           "id":"12cbe6452eeb42efb2f189e4f60d4128",
           "label":"",
@@ -653,7 +653,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u33.png"}},
+            "normal~":"images/2_3_2蔬菜宅配订单详情/u33.png"}},
 {
           "id":"7308b18033f84838ac58e78ebc569c9b",
           "label":"",
@@ -1294,7 +1294,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u69.png"}},
+            "normal~":"images/2_3_2蔬菜宅配订单详情/u66.png"}},
 {
           "id":"40460546848240ae80de3babf671c2ee",
           "label":"",
@@ -1450,7 +1450,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/1_4蔬菜宅配订单详情/u79_line.png"}},
+            "line~":"images/2_3_2蔬菜宅配订单详情/u76_line.png"}},
 {
           "id":"3ff8ae17360a413897813be1dfa0b7c2",
           "label":"",

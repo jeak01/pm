@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_3鸡蛋详情.html",
-  "generationDate":new Date(1505986903089.12),
+  "generationDate":new Date(1505987645632.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

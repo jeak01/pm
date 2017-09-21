@@ -103,11 +103,7 @@
 {
                         "pageName":"2.2.2.2订单提交成功",
                         "type":"Wireframe",
-                        "url":"2_2_2_2订单提交成功.html"},
-{
-                        "pageName":"2.2.2.3订单详情",
-                        "type":"Wireframe",
-                        "url":"2_2_2_3订单详情.html"}]},
+                        "url":"2_2_2_2订单提交成功.html"}]},
 {
                     "pageName":"2.2.3.1确认订单（农旅）",
                     "type":"Wireframe",
@@ -123,7 +119,15 @@
 {
                 "pageName":"2.3我的订单",
                 "type":"Wireframe",
-                "url":"2_3我的订单.html"},
+                "url":"2_3我的订单.html",
+                "children":[{
+                    "pageName":"2.3.1订单详情",
+                    "type":"Wireframe",
+                    "url":"2_3_1订单详情.html"},
+{
+                    "pageName":"2.3.2蔬菜宅配订单详情",
+                    "type":"Wireframe",
+                    "url":"2_3_2蔬菜宅配订单详情.html"}]},
 {
                 "pageName":"2.4个人资料",
                 "type":"Wireframe",

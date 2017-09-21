@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_2订单提交成功.html",
-  "generationDate":new Date(1505986907462.03),
+  "generationDate":new Date(1505987649703.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -379,10 +379,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 2.2.2.3订单详情",
+                              "description":"在 当前窗口 打开 2.3我的订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"2_2_2_3订单详情.html",
+                                "url":"2_3我的订单.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

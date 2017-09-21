@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_3_3农旅订单详情.html",
-  "generationDate":new Date(1505986919641.11),
+  "generationDate":new Date(1505987663028.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -724,7 +724,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_3订单详情/u42.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
 {
           "id":"4fef747e8dc8448faa588c88d296cbc6",
           "label":"",

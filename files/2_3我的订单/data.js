@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3我的订单.html",
-  "generationDate":new Date(1505986908473.7),
+  "generationDate":new Date(1505987650522.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -330,10 +330,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.4蔬菜宅配订单详情",
+                      "description":"在 当前窗口 打开 2.3.2蔬菜宅配订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_4蔬菜宅配订单详情.html",
+                        "url":"2_3_2蔬菜宅配订单详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1053,10 +1053,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.2.3订单详情",
+                      "description":"在 当前窗口 打开 2.3.1订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_2_3订单详情.html",
+                        "url":"2_3_1订单详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1446,10 +1446,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.2.3订单详情",
+                      "description":"在 当前窗口 打开 2.3.1订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_2_3订单详情.html",
+                        "url":"2_3_1订单详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1723,7 +1723,70 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ad9895a8c99f4aeeaff54783b5aeea0f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":329,
+              "y":11},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3d071030e4c9445a8d2c1306ea6d135a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":329,
+                  "y":11},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_4农场主页/u341.png"}},
+{
+          "id":"5fb15a893e9d4b5e9f770eb9fac2dd5a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":315,
+              "y":0},
+            "size":{
+              "width":45,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.0个人中心主页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_0个人中心主页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1900,4 +1963,10 @@
     "5a9653d870654a07bb8e85a6abb7db9f":{
       "scriptId":"u85"},
     "dd7602c7db904f20a14d298d76229462":{
-      "scriptId":"u86"}}});
+      "scriptId":"u86"},
+    "ad9895a8c99f4aeeaff54783b5aeea0f":{
+      "scriptId":"u87"},
+    "3d071030e4c9445a8d2c1306ea6d135a":{
+      "scriptId":"u88"},
+    "5fb15a893e9d4b5e9f770eb9fac2dd5a":{
+      "scriptId":"u89"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1505986931497.99),
+  "generationDate":new Date(1505987675960.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -611,7 +611,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_3订单详情/u42.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
 {
           "id":"a625581f8dd24245a3c7ffddea2a97d1",
           "label":"",
@@ -1005,7 +1005,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_3订单详情/u42.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
 {
           "id":"37463dbba01f452083bbfcbb1708a6e6",
           "label":"",
@@ -1268,7 +1268,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_3订单详情/u42.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
 {
           "id":"2d3bca7698c74212b14d45041b33144a",
           "label":"",
@@ -1531,7 +1531,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_3订单详情/u42.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
 {
           "id":"fefea459588b475ca466657f44cd8a26",
           "label":"",

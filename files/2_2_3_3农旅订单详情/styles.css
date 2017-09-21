@@ -586,32 +586,32 @@
 }
 #u51 {
   position:absolute;
-  left:315px;
-  top:0px;
-  width:45px;
-  height:41px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u52 {
-  position:absolute;
   left:329px;
   top:11px;
   width:20px;
   height:20px;
 }
-#u52_img {
+#u51_img {
   position:absolute;
   left:0px;
   top:0px;
   width:20px;
   height:20px;
 }
-#u53 {
+#u52 {
   position:absolute;
   left:2px;
   top:2px;
   width:16px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u53 {
+  position:absolute;
+  left:315px;
+  top:0px;
+  width:45px;
+  height:41px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
