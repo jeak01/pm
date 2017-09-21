@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1505958837080.22),
+  "generationDate":new Date(1505976872349.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2269,7 +2269,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u400.jpg"}},
+            "normal~":"images/1_0蔬菜宅配/u398.jpg"}},
 {
           "id":"b775abc824664203a5da9cc30edd8a08",
           "label":"",
@@ -2486,7 +2486,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u446.jpg"}},
+            "normal~":"images/1_0蔬菜宅配/u436.jpg"}},
 {
           "id":"d72fa1e6176e4b228ce9b3c53685849b",
           "label":"",
@@ -3089,7 +3089,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u446.jpg"}},
+            "normal~":"images/1_0蔬菜宅配/u436.jpg"}},
 {
           "id":"307a6f7789944ad6a6a8f41de02a293c",
           "label":"",
@@ -3352,7 +3352,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u400.jpg"}},
+            "normal~":"images/1_0蔬菜宅配/u398.jpg"}},
 {
           "id":"0ba695397a0d4fc7bc28b1b6d8256955",
           "label":"",
@@ -3615,7 +3615,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u492.jpg"}},
+            "normal~":"images/1_0蔬菜宅配/u474.jpg"}},
 {
           "id":"028f661567cf49c88de60660ef4aca75",
           "label":"",

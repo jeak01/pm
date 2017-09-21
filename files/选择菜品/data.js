@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择菜品.html",
-  "generationDate":new Date(1505958831032.14),
+  "generationDate":new Date(1505976866389.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2691,7 +2691,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页二/u218.jpg"}},
+            "normal~":"images/1_0蔬菜宅配/u247.jpg"}},
 {
           "id":"a9da34c50c19481ca474cd8498ec8dce",
           "label":"",
@@ -3839,7 +3839,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u511.png"}},
+                    "normal~":"images/1_0蔬菜宅配/u513.png"}},
 {
                   "id":"5a4c1956dfd74053837cdc67864d21ae",
                   "label":"",
@@ -3874,7 +3874,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u511.png"}},
+                    "normal~":"images/1_0蔬菜宅配/u513.png"}},
 {
                   "id":"22635bc22a9e4a7ba5f034ed72a5a4cf",
                   "label":"",
@@ -5756,7 +5756,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u513.png"}},
+                    "normal~":"images/1_0蔬菜宅配/u515.png"}},
 {
                   "id":"424fad3def8d428ab63e68330ccd4c5b",
                   "label":"",

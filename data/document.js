@@ -21,10 +21,6 @@
             "type":"Wireframe",
             "url":"0_0主页.html",
             "children":[{
-                "pageName":"主页二",
-                "type":"Wireframe",
-                "url":"主页二.html"},
-{
                 "pageName":"0.1选择城市",
                 "type":"Wireframe",
                 "url":"0_1选择城市.html"}]},
@@ -95,7 +91,15 @@
             "children":[{
                 "pageName":"3.1充值成功",
                 "type":"Wireframe",
-                "url":"3_1充值成功.html"}]},
+                "url":"3_1充值成功.html"},
+{
+                "pageName":"3.2会员保障",
+                "type":"Wireframe",
+                "url":"3_2会员保障.html"},
+{
+                "pageName":"3.3充值优惠",
+                "type":"Wireframe",
+                "url":"3_3充值优惠.html"}]},
 {
             "pageName":"4.0发现",
             "type":"Wireframe",
@@ -257,6 +261,10 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"主页0920",
+            "type":"Wireframe",
+            "url":"__0920.html"},
+{
             "pageName":"蔬菜宅配",
             "type":"Wireframe",
             "url":"蔬菜宅配.html",
