@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1505894826174.65),
+  "generationDate":new Date(1505958835373.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -124,7 +124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u99.png"}},
+            "normal~":"images/0_0主页/top_u53.png"}},
 {
           "id":"d65c137f838d4f8cb5f733c504dc93c6",
           "label":"",
@@ -173,7 +173,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u5.png"}},
+            "normal~":"images/0_0主页/u201.png"}},
 {
           "id":"cf921453cb69460e84151c8b384bc978",
           "label":"",
@@ -1682,7 +1682,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/top_u99.png"}},
+              "normal~":"images/0_0主页/top_u53.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1879,7 +1879,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u127.png"}},
+              "normal~":"images/0_0主页/u81.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -2007,7 +2007,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u129.png"}},
+              "normal~":"images/0_0主页/u83.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

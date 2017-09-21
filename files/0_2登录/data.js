@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_2登录.html",
-  "generationDate":new Date(1505894804704.51),
+  "generationDate":new Date(1505958815978.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u111.png"}},
+            "normal~":"images/0_0主页/u65.png"}},
 {
           "id":"60fb413c57634c95be5989033edac766",
           "label":"",

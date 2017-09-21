@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_2走地鸡详情.html",
-  "generationDate":new Date(1505894808083.85),
+  "generationDate":new Date(1505958819963.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -233,7 +233,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/top_u99.png"}}]}]},
+                    "normal~":"images/0_0主页/top_u53.png"}}]}]},
 {
           "id":"5a749d43889c414f9c32e319d557ceba",
           "label":"",
@@ -260,7 +260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u99.png"}},
+            "normal~":"images/0_0主页/top_u53.png"}},
 {
           "id":"fc680be1b52f43c69f2877cf7fac824b",
           "label":"",
@@ -309,7 +309,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u5.png"}},
+            "normal~":"images/0_0主页/u201.png"}},
 {
           "id":"4b2078d0fde34e0fbc1c86e3590609f2",
           "label":"",
