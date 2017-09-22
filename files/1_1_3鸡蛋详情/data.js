@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_3鸡蛋详情.html",
-  "generationDate":new Date(1505987827381.58),
+  "generationDate":new Date(1506052549145.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -101,7 +101,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}}]}]},
 {
           "id":"38e93408ec794eccad020ba14f6c2317",
           "label":"",
@@ -161,7 +161,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"2cb16791d65a481d8596182861145928",
           "label":"",

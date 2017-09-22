@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_2走地鸡详情.html",
-  "generationDate":new Date(1505987835584.02),
+  "generationDate":new Date(1506052561377),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -233,7 +233,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}}]}]},
 {
           "id":"5a749d43889c414f9c32e319d557ceba",
           "label":"",
@@ -260,7 +260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"fc680be1b52f43c69f2877cf7fac824b",
           "label":"",

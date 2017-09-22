@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_6提交成功.html",
-  "generationDate":new Date(1505987828913.6),
+  "generationDate":new Date(1506052551917.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -118,7 +118,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -387,7 +387,40 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]},
+{
+          "id":"e3a9997240d643db81e863cf116b4e43",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":260},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"35e834842ab649aeac82f5f63c02eba0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":260},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -424,4 +457,8 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u15"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u16"}}});
+      "scriptId":"u16"},
+    "e3a9997240d643db81e863cf116b4e43":{
+      "scriptId":"u17"},
+    "35e834842ab649aeac82f5f63c02eba0":{
+      "scriptId":"u18"}}});

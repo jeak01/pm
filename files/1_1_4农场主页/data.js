@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_4农场主页.html",
-  "generationDate":new Date(1505987828195.12),
+  "generationDate":new Date(1506052550735.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -905,7 +905,7 @@
                       "height":40},
                     "borderFill":{
                       "fillType":"solid",
-                      "color":0xFFCCCCCC}},
+                      "color":0xFF0099FF}},
                   "adaptiveStyles":{
 },
                   "objects":[{
@@ -929,7 +929,7 @@
                           "height":40},
                         "borderFill":{
                           "fillType":"solid",
-                          "color":0xFFCCCCCC}},
+                          "color":0xFF0099FF}},
                       "adaptiveStyles":{
 }}],
                   "images":{
@@ -945,7 +945,7 @@
                     "fontSize":"11px",
                     "foreGroundFill":{
                       "fillType":"solid",
-                      "color":0xFF999999,
+                      "color":0xFF0099FF,
                       "opacity":1},
                     "location":{
                       "x":23,
@@ -970,7 +970,7 @@
                         "fontSize":"11px",
                         "foreGroundFill":{
                           "fillType":"solid",
-                          "color":0xFF999999,
+                          "color":0xFF0099FF,
                           "opacity":1},
                         "location":{
                           "x":23,
@@ -1033,7 +1033,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u34.png"}},
+                    "normal~":"images/1_1_4农场主页/u38.png"}},
 {
                   "id":"672c970c78974624b3dff5798e861d34",
                   "label":"",
@@ -1133,7 +1133,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u42.png"}},
+                    "normal~":"images/1_1_4农场主页/u34.png"}},
 {
                   "id":"6b38e0c0ce1f4d1da00dfddcb509f42c",
                   "label":"",
@@ -1233,7 +1233,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u42.png"}},
+                    "normal~":"images/1_1_4农场主页/u34.png"}},
 {
                   "id":"b1448db992b14d72b92e97a2f3d60de0",
                   "label":"",
@@ -1333,7 +1333,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u42.png"}},
+                    "normal~":"images/1_1_4农场主页/u34.png"}},
 {
                   "id":"e58b5fde6ba54a4598d94be8111723af",
                   "label":"",
@@ -1433,7 +1433,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u42.png"}},
+                    "normal~":"images/1_1_4农场主页/u34.png"}},
 {
                   "id":"abdfb02ca0334dd8bad4a8da9e977a37",
                   "label":"",
@@ -1533,7 +1533,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u42.png"}},
+                    "normal~":"images/1_1_4农场主页/u34.png"}},
 {
                   "id":"0412ff89396f427baee2090cdfc3aa86",
                   "label":"",
@@ -1633,7 +1633,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u34.png"}},
+                    "normal~":"images/1_1_4农场主页/u38.png"}},
 {
                   "id":"12cb35e052eb422bb1a883aba427884e",
                   "label":"",
@@ -1733,7 +1733,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u42.png"}},
+                    "normal~":"images/1_1_4农场主页/u34.png"}},
 {
                   "id":"2fb5ab70bf1d4b9d921da8a64159176c",
                   "label":"",
@@ -1833,7 +1833,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_4农场主页/u34.png"}},
+                    "normal~":"images/1_1_4农场主页/u38.png"}},
 {
                   "id":"e59e0feff0444327a0345e7d7ce1eb4f",
                   "label":"",

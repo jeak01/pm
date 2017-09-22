@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_3充值优惠.html",
-  "generationDate":new Date(1505987836301.5),
+  "generationDate":new Date(1506052563287.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -371,7 +371,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u2.png"}}]}]}]}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

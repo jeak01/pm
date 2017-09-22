@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"购买配送次数.html",
-  "generationDate":new Date(1505987846317.66),
+  "generationDate":new Date(1506052588189.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -250,7 +250,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -371,7 +371,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
@@ -2011,7 +2011,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u2.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
                   "id":"6ecde4b5615941e7aec564a2a74c7992",
                   "label":"",
@@ -3219,7 +3219,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_4支付失败/u15.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
 {
                   "id":"b789aac8e3ba4562b2c98c419b029e67",
                   "label":"",
@@ -3452,7 +3452,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u16.jpg"}}]}},
+            "normal~":"images/0_0主页/u7.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{

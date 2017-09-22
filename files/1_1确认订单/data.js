@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1确认订单.html",
-  "generationDate":new Date(1505987834525.32),
+  "generationDate":new Date(1506052560226.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1496,7 +1496,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u2.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
                   "id":"a7cf654438884b9a896044743d702a54",
                   "label":"",
@@ -2704,7 +2704,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_4支付失败/u15.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
 {
                   "id":"4ff37c693a494614954ce7e0516526bd",
                   "label":"",
