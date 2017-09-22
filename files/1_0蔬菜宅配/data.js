@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0蔬菜宅配.html",
-  "generationDate":new Date(1506061757494.31),
+  "generationDate":new Date(1506066795818.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8437,7 +8437,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"54aa4ba488a64f628ff416116e5b5534",
                                   "label":"",
@@ -8685,7 +8685,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"9ea1da40e8564c5f86f09b2eb0113994",
                                   "label":"",
@@ -8886,7 +8886,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"882f7bc4ed7649e39a09b626018de131",
                                   "label":"",
@@ -9087,7 +9087,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"685f62f0b7d0445eafd4bced15c62988",
                                   "label":"",
@@ -9288,7 +9288,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"a643bcdda3ff4072b40038a2749198a5",
                                   "label":"",
@@ -9785,7 +9785,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"1d4eded98342455ebe485a84773ece71",
                                   "label":"",
@@ -9986,7 +9986,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"4acdb17ded80420d93cdf241032db633",
                                   "label":"",
@@ -10187,7 +10187,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1_4农场主页/u358.png"}},
+                                    "normal~":"images/1_1_4农场主页/u328.png"}},
 {
                                   "id":"fa28ecbda730429d8c7b5dfd70fb358b",
                                   "label":"",

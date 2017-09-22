@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_5信息验证.html",
-  "generationDate":new Date(1506061753139.26),
+  "generationDate":new Date(1506066791258.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -265,7 +265,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"f45d5623c10d404b8d4020cc552863bf",
           "label":"",
@@ -352,7 +352,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"3177979b7e05469abc6381a9f23ec563",
           "label":"",
@@ -439,7 +439,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"48cb4998cd644d4d8f9bb6c0e3efd317",
           "label":"",
@@ -493,7 +493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"d28b7085a3a04f1797ad4b6ae930e242",
           "label":"",

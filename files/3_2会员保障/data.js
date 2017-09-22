@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障.html",
-  "generationDate":new Date(1506061759624.73),
+  "generationDate":new Date(1506066797890.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"e799989fe0b4400cbcfe23cd55d23bd5",
           "label":"",

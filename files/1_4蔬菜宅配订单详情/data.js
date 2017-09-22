@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_4蔬菜宅配订单详情.html",
-  "generationDate":new Date(1506061758251.82),
+  "generationDate":new Date(1506066796588.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1095,7 +1095,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u339.png"}},
+            "normal~":"images/0_0主页/u72.png"}},
 {
           "id":"591ce7cf3b8c4a9d87f6e86b2dcb484f",
           "label":"",

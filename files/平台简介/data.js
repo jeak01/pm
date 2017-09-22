@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台简介.html",
-  "generationDate":new Date(1506061778261.1),
+  "generationDate":new Date(1506066815307.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -687,7 +687,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_1_4农场主页/u339.png"}},
+              "normal~":"images/0_0主页/u72.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -815,7 +815,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_1_4农场主页/u341.png"}},
+              "normal~":"images/2_2_1_1订单详情/u59.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

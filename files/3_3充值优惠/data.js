@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_3充值优惠.html",
-  "generationDate":new Date(1506061759687.77),
+  "generationDate":new Date(1506066797948.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"6342b492ddba42cf8689c1baed23fef6",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_1_1激活农旅卡.html",
-  "generationDate":new Date(1506061764853.2),
+  "generationDate":new Date(1506066802987.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -302,7 +302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"ee466ecb2bd742238102295788b856bc",
           "label":"",
@@ -389,7 +389,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"2061561ab5c24ab8afc248cfddf9e438",
           "label":"",

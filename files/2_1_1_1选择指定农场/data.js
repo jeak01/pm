@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1_1选择指定农场.html",
-  "generationDate":new Date(1506061753842.73),
+  "generationDate":new Date(1506066791921.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -939,10 +939,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2我的农旅卡",
+                      "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2我的农旅卡.html",
+                        "url":"2_1_1激活农旅卡.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2070,10 +2070,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2我的农旅卡",
+                      "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2我的农旅卡.html",
+                        "url":"2_1_1激活农旅卡.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2902,10 +2902,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2我的农旅卡",
+                      "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2我的农旅卡.html",
+                        "url":"2_1_1激活农旅卡.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3734,10 +3734,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2我的农旅卡",
+                      "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2我的农旅卡.html",
+                        "url":"2_1_1激活农旅卡.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -4566,10 +4566,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2我的农旅卡",
+                      "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2我的农旅卡.html",
+                        "url":"2_1_1激活农旅卡.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

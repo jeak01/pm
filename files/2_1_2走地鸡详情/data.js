@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_2走地鸡详情.html",
-  "generationDate":new Date(1506061758909.25),
+  "generationDate":new Date(1506066797246.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

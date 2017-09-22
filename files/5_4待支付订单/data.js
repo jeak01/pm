@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_4待支付订单.html",
-  "generationDate":new Date(1506061767006.63),
+  "generationDate":new Date(1506066804961.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1225,7 +1225,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_4农场主页/u331.png"}},
+                      "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -1371,7 +1371,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_4农场主页/u339.png"}},
+                      "normal~":"images/0_0主页/u72.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -1406,7 +1406,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_4农场主页/u341.png"}},
+                      "normal~":"images/2_2_1_1订单详情/u59.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -1478,7 +1478,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_4农场主页/u345.png"}},
+                      "normal~":"images/0_0主页/u78.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -1521,7 +1521,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_4农场主页/u347.png"}},
+                      "normal~":"images/0_0主页/u80.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -1556,7 +1556,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_4农场主页/u349.png"}},
+                      "normal~":"images/0_0主页/u82.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

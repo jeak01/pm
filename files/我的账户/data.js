@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的账户.html",
-  "generationDate":new Date(1506061767100.69),
+  "generationDate":new Date(1506066805042.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
+            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
 {
           "id":"685ac2e7593e49fb9a50aa3a3fb08009",
           "label":"",
