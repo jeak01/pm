@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0727.html",
-  "generationDate":new Date(1505987853382.34),
+  "generationDate":new Date(1506052597340.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -150,7 +150,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u21.png"}},
+            "normal~":"images/0_0主页/u12.png"}},
 {
           "id":"fc52e3fba047438a9c38fedff74a920f",
           "label":"",
@@ -185,7 +185,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u23.png"}},
+            "normal~":"images/0_0主页/u14.png"}},
 {
           "id":"e9ceb532e1584b67a50fcedf8d0cd138",
           "label":"",
@@ -220,7 +220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u23.png"}},
+            "normal~":"images/0_0主页/u14.png"}},
 {
           "id":"ae5f0ac8319c46a08f179482fcd977af",
           "label":"",
@@ -247,7 +247,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"ff308dfbdd084dbe8a05a07c5e863d0e",
           "label":"",
@@ -413,7 +413,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"fcaedf909f23435aa332e87df49dc7a7",
           "label":"",
@@ -908,7 +908,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u63.png"}},
+            "normal~":"images/0_0主页/u54.png"}},
 {
           "id":"d5001257abe3470c832a742cdf760be1",
           "label":"",
@@ -982,7 +982,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"7a549e07a46e4f66a10f46e21a9c447c",
           "label":"",
@@ -1515,7 +1515,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u178.JPG"}},
+            "normal~":"images/0_0主页/u169.JPG"}},
 {
           "id":"e3458f9a8f6e4a558408a1607508d569",
           "label":"",

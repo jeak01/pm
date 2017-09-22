@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1505987851666.21),
+  "generationDate":new Date(1506052594830.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -348,7 +348,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"8033dee7b4b949389e0dc18951a6c5f0",
           "label":"",
@@ -2763,7 +2763,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u2.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
                   "id":"f661b9307bff4fbbb8dfeae515db3f77",
                   "label":"",
@@ -3057,7 +3057,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_4支付失败/u15.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
 {
                   "id":"8baf658b6311459da983f992b5a6072b",
                   "label":"",

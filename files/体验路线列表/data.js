@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1505987855603.82),
+  "generationDate":new Date(1506052599821.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"0d62b2a17a15404fb544a52017d90f50",
           "label":"",
@@ -430,7 +430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"a848e210655b4b0093cab41c3d42a9b6",
           "label":"",
@@ -504,7 +504,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"6869c294c8cb473c8be0f8dbcafbd00a",
           "label":"",
@@ -578,7 +578,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"c5af0d3c2b6e47e7baae66d6be66e107",
           "label":"",
@@ -2344,7 +2344,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_1选择指定农场/u2.png"}},
+              "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",

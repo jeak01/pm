@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台简介.html",
-  "generationDate":new Date(1505987855207.56),
+  "generationDate":new Date(1506052599423.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -490,7 +490,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_1选择指定农场/u2.png"}},
+              "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",

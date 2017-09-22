@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1505987853033.11),
+  "generationDate":new Date(1506052596809.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -435,7 +435,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u21.png"}},
+            "normal~":"images/0_0主页/u12.png"}},
 {
           "id":"fc52e3fba047438a9c38fedff74a920f",
           "label":"",
@@ -470,7 +470,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u23.png"}},
+            "normal~":"images/0_0主页/u14.png"}},
 {
           "id":"e9ceb532e1584b67a50fcedf8d0cd138",
           "label":"",
@@ -505,7 +505,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u23.png"}},
+            "normal~":"images/0_0主页/u14.png"}},
 {
           "id":"360c5b1ef13544859e8d4719c1894030",
           "label":"",
@@ -5057,7 +5057,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_1选择指定农场/u2.png"}},
+              "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",

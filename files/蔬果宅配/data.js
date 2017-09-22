@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1505987852504.76),
+  "generationDate":new Date(1506052595795.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1615,7 +1615,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"a791c16980884ed391360ad134e9d5d3",
           "label":"",
@@ -1689,7 +1689,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"41ed8b1b9a204e25942fdf3931db48a9",
           "label":"",
@@ -1763,7 +1763,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"21b7c25f8d724007b35ba1bfc6b8cc24",
           "label":"",
@@ -3241,7 +3241,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"a194aff1fb7744cf811aaa27c61878de",
           "label":"",
@@ -3407,7 +3407,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u61.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"5f5c65ce074d445a8631b4852421f0c8",
           "label":"",
@@ -3448,7 +3448,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u63.png"}},
+            "normal~":"images/0_0主页/u54.png"}},
 {
           "id":"4d6bd3a263fe4645a9b474669693046d",
           "label":"",

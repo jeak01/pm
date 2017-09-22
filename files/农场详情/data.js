@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1505987851166.88),
+  "generationDate":new Date(1506052594262.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -124,7 +124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
           "id":"d65c137f838d4f8cb5f733c504dc93c6",
           "label":"",
@@ -1682,7 +1682,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_1选择指定农场/u2.png"}},
+              "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
