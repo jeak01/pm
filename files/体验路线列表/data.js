@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1506066815617.84),
+  "generationDate":new Date(1506073431450.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"b9a08535a65345acb47616119d99461f",
     "type":"Axure:Page",
@@ -2669,7 +2670,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/2_2_1_1订单详情/u59.png"}},
+              "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

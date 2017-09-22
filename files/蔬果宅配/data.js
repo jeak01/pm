@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1506066812914.04),
+  "generationDate":new Date(1506073428573.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"84f0159b3bae4518800cde1f2937a138",
     "type":"Axure:Page",
@@ -3547,7 +3548,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+                      "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
                     "id":"dbd6a5f83af64ab191b7f078d53db2df",
                     "label":"",
@@ -3765,7 +3766,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_1_1订单详情/u59.png"}},
+                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",

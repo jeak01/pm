@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_3鸡蛋详情.html",
-  "generationDate":new Date(1506066797271.66),
+  "generationDate":new Date(1506073410242.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"6d36fda82e3a4a768d37ea59e78fd533",
     "type":"Axure:Page",
@@ -134,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_3鸡蛋详情/u3.jpg"}},
+            "normal~":"images/2_1_3鸡蛋详情/u3.jpg"}},
 {
           "id":"af743d2a4c6642f9835f2f50309dbd35",
           "label":"",

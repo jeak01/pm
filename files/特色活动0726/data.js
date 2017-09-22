@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1506066815167.54),
+  "generationDate":new Date(1506073431016.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"eccd5fd2210c4fe6bac62d985326dde4",
     "type":"Axure:Page",
@@ -1830,7 +1831,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u296.png"}},
+            "normal~":"images/1_1_3农场主页/u339.png"}},
 {
           "id":"af435142c11a46f99cefc7d0652aa151",
           "label":"",
@@ -1871,7 +1872,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u298.png"}},
+            "normal~":"images/1_1_3农场主页/u341.png"}},
 {
           "id":"ccecd0b70b8f4540a495b60e16958114",
           "label":"",
@@ -2248,7 +2249,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u296.png"}},
+            "normal~":"images/1_1_3农场主页/u339.png"}},
 {
           "id":"d4b2da60dca04ba78fe164bbc2e3d145",
           "label":"",
@@ -2289,7 +2290,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u298.png"}},
+            "normal~":"images/1_1_3农场主页/u341.png"}},
 {
           "id":"3ad1f06603304788a0e4841124c907cf",
           "label":"",
@@ -2666,7 +2667,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u296.png"}},
+            "normal~":"images/1_1_3农场主页/u339.png"}},
 {
           "id":"1087f73e44b44575b41ee725c44e309f",
           "label":"",
@@ -2707,7 +2708,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u298.png"}},
+            "normal~":"images/1_1_3农场主页/u341.png"}},
 {
           "id":"812d609ac1e54daea46a434043f78009",
           "label":"",
@@ -3184,7 +3185,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/2_2_1_1订单详情/u59.png"}},
+              "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

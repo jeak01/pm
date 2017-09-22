@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表.html",
-  "generationDate":new Date(1506066811294.97),
+  "generationDate":new Date(1506073426261.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"680cd2f73e39425d84cfa21b771d0d5d",
     "type":"Axure:Page",
@@ -481,7 +482,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u30.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"8ca1ec5d1f13462585acc4898fecb7f8",
           "label":"",
@@ -787,7 +788,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u30.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"5c52e2bbeffe4bdeb80f0f5cb93e1759",
           "label":"",
@@ -1093,7 +1094,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u30.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"671cab38f5e9473b9986e0c628b55d50",
           "label":"",

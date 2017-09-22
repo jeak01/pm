@@ -29,21 +29,13 @@
                     "type":"Wireframe",
                     "url":"1_1_1蔬菜箱详情.html"},
 {
-                    "pageName":"1.1.2走地鸡详情",
+                    "pageName":"1.1.2农场体验游详情",
                     "type":"Wireframe",
-                    "url":"1_1_2走地鸡详情.html"},
+                    "url":"1_1_2农场体验游详情.html"},
 {
-                    "pageName":"1.1.3鸡蛋详情",
+                    "pageName":"1.1.3农场主页",
                     "type":"Wireframe",
-                    "url":"1_1_3鸡蛋详情.html"},
-{
-                    "pageName":"1.1.4农场主页",
-                    "type":"Wireframe",
-                    "url":"1_1_4农场主页.html"},
-{
-                    "pageName":"1.1.5 农场体验游详情",
-                    "type":"Wireframe",
-                    "url":"1_1_5_农场体验游详情.html"}]},
+                    "url":"1_1_3农场主页.html"}]},
 {
                 "pageName":"1.2订单支付页",
                 "type":"Wireframe",
@@ -85,22 +77,14 @@
                 "type":"Wireframe",
                 "url":"2_2我的农旅卡.html",
                 "children":[{
-                    "pageName":"2.2.1优游权益门票",
+                    "pageName":"2.2.1优游通权益",
                     "type":"Wireframe",
-                    "url":"2_2_1优游权益门票.html",
-                    "children":[{
-                        "pageName":"2.2.1.1订单详情",
-                        "type":"Wireframe",
-                        "url":"2_2_1_1订单详情.html"}]},
+                    "url":"2_2_1优游通权益.html"},
 {
-                    "pageName":"2.2.2蔬菜宅配",
+                    "pageName":"2.2.2.1确认订单(宅配)",
                     "type":"Wireframe",
-                    "url":"2_2_2蔬菜宅配.html",
+                    "url":"2_2_2_1确认订单_宅配_.html",
                     "children":[{
-                        "pageName":"2.2.2.1确认订单(宅配)",
-                        "type":"Wireframe",
-                        "url":"2_2_2_1确认订单_宅配_.html"},
-{
                         "pageName":"2.2.2.2订单提交成功",
                         "type":"Wireframe",
                         "url":"2_2_2_2订单提交成功.html"}]},
@@ -385,6 +369,18 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"2.2.1优游权益门票",
+            "type":"Wireframe",
+            "url":"2_2_1优游权益门票.html",
+            "children":[{
+                "pageName":"2.2.1.1订单详情",
+                "type":"Wireframe",
+                "url":"2_2_1_1订单详情.html"}]},
+{
+            "pageName":"2.2.2蔬菜宅配",
+            "type":"Wireframe",
+            "url":"2_2_2蔬菜宅配.html"},
+{
             "pageName":"主页0920",
             "type":"Wireframe",
             "url":"__0920.html"},
@@ -560,7 +556,8 @@
     "onloadvariable":"",
     "status":"",
     "package":"",
-    "payfrom":""},
+    "payfrom":"",
+    "nc":""},
   "defaultAdaptiveView":{
     "name":"",
     "size":{

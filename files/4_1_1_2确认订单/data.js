@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_2确认订单.html",
-  "generationDate":new Date(1506066799352.04),
+  "generationDate":new Date(1506073412697.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"6be12571dab049489ed034530409a423",
     "type":"Axure:Page",
@@ -452,7 +453,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"f461aff4721d4ef2b098fbbf103be9bb",
           "label":"",
@@ -598,7 +599,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"9e869899fe5a4870a380e4d7ca31d66e",
           "label":"",

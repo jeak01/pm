@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_1_1订单详情.html",
-  "generationDate":new Date(1506066803703.93),
+  "generationDate":new Date(1506073417310.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"8451a0c834b544f0b1adc8c10b287104",
     "type":"Axure:Page",
@@ -212,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u8.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u8.png"}},
 {
           "id":"ea35a221ce334b5bb16138d714c97a7f",
           "label":"",
@@ -253,7 +254,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u10.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u10.png"}},
 {
           "id":"11bb1d7bd2254d2ba32c01ee9e6824d4",
           "label":"",
@@ -459,7 +460,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1优游权益门票/u29.png"}},
+            "normal~":"images/5_2_1优游权益门票/u29.png"}},
 {
           "id":"d8c048b841864c99933c141e04fc3e6c",
           "label":"",
@@ -492,7 +493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u24.png"}},
+            "normal~":"images/4_2_5订单详情/u37.png"}},
 {
           "id":"4647f54371d742eb8bb57b2a21aeb408",
           "label":"",
@@ -607,7 +608,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u30.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"e729fd452101464983deacb16ef6bc7d",
           "label":"",
@@ -874,7 +875,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_1_1订单详情/u45.png"}}]}]},
+                    "normal~":"images/2_2_3_3农旅订单详情/u31.png"}}]}]},
 {
           "id":"75de5cb193924c4abcb480793686357d",
           "label":"",
@@ -950,7 +951,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u49.png"}},
+            "normal~":"images/4_2_5订单详情/u68.png"}},
 {
           "id":"ec81a1ee9a9040c6ad28cc108a25d425",
           "label":"",
@@ -1008,7 +1009,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/2_2_1_1订单详情/u53_line.png"}},
+            "line~":"images/4_2_5订单详情/u82_line.png"}},
 {
           "id":"cda2f1b108fc4b978f532ce1a40920e3",
           "label":"",

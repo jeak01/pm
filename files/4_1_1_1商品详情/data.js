@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_1商品详情.html",
-  "generationDate":new Date(1506066799213.95),
+  "generationDate":new Date(1506073412541.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"0bcb36a32b29440689253fe4df8f6e40",
     "type":"Axure:Page",
@@ -161,7 +162,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u30.png"}},
+            "normal~":"images/4_1_1_1商品详情/u6.png"}},
 {
           "id":"5988d78ad6474af4adb8d691d62ea497",
           "label":"",

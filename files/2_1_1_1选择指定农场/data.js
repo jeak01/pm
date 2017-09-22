@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1_1选择指定农场.html",
-  "generationDate":new Date(1506066791921.11),
+  "generationDate":new Date(1506073404958.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"f4ac9e96e69045189ae33a4b183a9f78",
     "type":"Axure:Page",
@@ -938,6 +939,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 nc = &quot;hy&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"nc"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"hy",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
@@ -2069,6 +2085,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 nc = &quot;hj&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"nc"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"hj",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
@@ -2901,6 +2932,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 nc = &quot;gh&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"nc"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"gh",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
@@ -3733,6 +3779,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 nc = &quot;gh&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"nc"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"gh",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
@@ -4565,6 +4626,21 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 值于 nc = &quot;gh&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"nc"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"gh",
+                                "stos":[]}]}]}},
+{
                       "action":"linkWindow",
                       "description":"在 当前窗口 打开 2.1.1激活农旅卡",
                       "target":{
@@ -5190,10 +5266,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5220,10 +5296,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5250,10 +5326,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5280,10 +5356,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5310,10 +5386,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_3支付成功_1.html",
-  "generationDate":new Date(1506066796470.13),
+  "generationDate":new Date(1506073409334.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"2e9c849f74974e80ba536962acbc3f37",
     "type":"Axure:Page",
@@ -292,7 +293,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u252.png"}},
+            "normal~":"images/1_3支付成功/u10.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",

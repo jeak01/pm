@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_2走地鸡详情.html",
-  "generationDate":new Date(1506066797246.64),
+  "generationDate":new Date(1506073410101.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"b6cf98e475c84d4db1fff632fd296ac8",
     "type":"Axure:Page",
@@ -64,7 +65,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2走地鸡详情/u0.jpg"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u17.jpg"}},
 {
           "id":"62fd9b59f3f34f0fa95fbe589db70abb",
           "label":"",
@@ -97,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2走地鸡详情/u2.png"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u19.png"}},
 {
           "id":"edbaf934bef64c9f8b61d49ba614a055",
           "label":"",
@@ -130,7 +131,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2走地鸡详情/u4.jpg"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u21.jpg"}},
 {
           "id":"014a8bc73e334a4f81e9c68d28443d1d",
           "label":"",
@@ -163,7 +164,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2走地鸡详情/u6.jpg"}},
+            "normal~":"images/1_1_1蔬菜箱详情/u23.jpg"}},
 {
           "id":"0801636c49c84795937c78cb3e936b21",
           "label":"",

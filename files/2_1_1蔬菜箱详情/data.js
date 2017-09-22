@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1蔬菜箱详情.html",
-  "generationDate":new Date(1506066797220.62),
+  "generationDate":new Date(1506073410071.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"86f8280279dc4449a0912e0b5edb6ccc",
     "type":"Axure:Page",

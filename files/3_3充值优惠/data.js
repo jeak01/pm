@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_3充值优惠.html",
-  "generationDate":new Date(1506066797948.11),
+  "generationDate":new Date(1506073411072.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"5c86ecc3bf604b8cbddac604a843dedc",
     "type":"Axure:Page",
@@ -97,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"6342b492ddba42cf8689c1baed23fef6",
           "label":"",

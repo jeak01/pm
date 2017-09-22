@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"购买配送次数.html",
-  "generationDate":new Date(1506066807117.19),
+  "generationDate":new Date(1506073421782.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"ff3b4e3c633e43f1a8f03661d4f578f4",
     "type":"Axure:Page",
@@ -839,7 +840,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u67.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u65.png"}},
 {
           "id":"4dcac2896f854bbe9242c98e9841a9f2",
           "label":"",
@@ -913,7 +914,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"89532469b5ce4274a7c3f7f5e4a83cc2",
           "label":"",
@@ -985,7 +986,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u67.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u65.png"}},
 {
           "id":"b5b26086be0f473b9f7a8a4cec6dac13",
           "label":"",
@@ -1515,7 +1516,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u67.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u65.png"}},
 {
           "id":"8efb37e86ff74399af429e0d96c70f53",
           "label":"",

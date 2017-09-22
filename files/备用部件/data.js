@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1506066816659.53),
+  "generationDate":new Date(1506073432513.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"2fffebb8ead745c4939525caf0367a00",
     "type":"Axure:Page",
@@ -8951,7 +8952,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2蔬菜宅配/u219.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u170.png"}},
 {
           "id":"78dceba3f5e349ada3d71ff9dfc6915a",
           "label":"",

@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1激活农旅卡.html",
-  "generationDate":new Date(1506066791567.87),
+  "generationDate":new Date(1506073404505.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"2531748e939d4b48b7fce744237ad26f",
     "type":"Axure:Page",
@@ -30,7 +31,110 @@
     "adaptiveStyles":{
 },
     "interactionMap":{
-},
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1<br> (If 值于 nc 等于 &quot;gh&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"nc"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"gh",
+                "stos":[]}},
+            "actions":[{
+                "action":"setFunction",
+                "description":"设置 选中项于 (下拉列表框) = &quot;国汇农场&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["6e79d8498fba49b194fb39bdf201748f"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"国汇农场",
+                          "stos":[]}]}]}}]},
+{
+            "description":"用例 2<br> (Else If 值于 nc 等于 &quot;hy&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"nc"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"hy",
+                "stos":[]}},
+            "actions":[{
+                "action":"setFunction",
+                "description":"设置 选中项于 (下拉列表框) = &quot;慧扬农场&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["6e79d8498fba49b194fb39bdf201748f"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"慧扬农场",
+                          "stos":[]}]}]}}]},
+{
+            "description":"用例 3<br> (Else If 值于 nc 等于 &quot;hj&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"nc"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"hj",
+                "stos":[]}},
+            "actions":[{
+                "action":"setFunction",
+                "description":"设置 选中项于 (下拉列表框) = &quot;和记农庄&quot;",
+                "expr":{
+                  "exprType":"block",
+                  "subExprs":[{
+                      "exprType":"fcall",
+                      "functionName":"SetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["6e79d8498fba49b194fb39bdf201748f"]},
+{
+                          "exprType":"stringLiteral",
+                          "value":"和记农庄",
+                          "stos":[]}]}]}}]}]}},
     "diagram":{
       "objects":[{
           "id":"51c8fa84a4664c7dab516ee1a5ba4ce6",
@@ -302,7 +406,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"ee466ecb2bd742238102295788b856bc",
           "label":"",
@@ -389,7 +493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"2061561ab5c24ab8afc248cfddf9e438",
           "label":"",
@@ -511,7 +615,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"22c4f13a9a814370a46cc60626bd3ab6",
           "label":"",
@@ -598,7 +702,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"b7538796cbd0495d905299f3ff6f27a6",
           "label":"",
@@ -685,7 +789,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"00bb9d2122344640a76edec38d9c1283",
           "label":"",
@@ -739,7 +843,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"4efc368b50bc4b48acbcb18beb2f8aec",
           "label":"",
@@ -914,7 +1018,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"0e416bd3b50345a2b77152efd7350202",
           "label":"",
@@ -971,8 +1075,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":80,
-              "y":132},
+              "x":75,
+              "y":132.5},
             "size":{
               "width":280,
               "height":34}},

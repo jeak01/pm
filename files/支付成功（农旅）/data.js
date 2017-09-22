@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功（农旅）.html",
-  "generationDate":new Date(1506066811124.85),
+  "generationDate":new Date(1506073426091.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"2aaa88c95a5d49188f01e78a80c62b75",
     "type":"Axure:Page",
@@ -259,7 +260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u252.png"}},
+            "normal~":"images/1_3支付成功/u10.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",

@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页.html",
-  "generationDate":new Date(1506066791418.77),
+  "generationDate":new Date(1506073404328.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"63ad4bca343540bf97b39536bf9bf051",
     "type":"Axure:Page",
@@ -303,7 +304,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u36.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
 {
           "id":"c19f6ec8a5b54b64930468862336bcc4",
           "label":"",
@@ -377,7 +378,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"1b26eb65b6884485ae33fd1c4484018d",
           "label":"",
@@ -470,7 +471,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u36.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
 {
           "id":"755d3cf0e2af463da05ff6efd92f9e5f",
           "label":"",
@@ -544,7 +545,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"a466ddacdef2488f941d00b832ee3a5f",
           "label":"",
@@ -857,7 +858,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u36.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
 {
           "id":"4da18037b151433db797f0e1a16ee403",
           "label":"",
@@ -931,7 +932,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"ba3d2b7746e04a62849cc263469ed5a7",
           "label":"",

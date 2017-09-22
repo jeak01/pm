@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的账户.html",
-  "generationDate":new Date(1506066805042.82),
+  "generationDate":new Date(1506073418609.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"49bb714d802c4cbb86766838b4040e28",
     "type":"Axure:Page",
@@ -97,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
           "id":"685ac2e7593e49fb9a50aa3a3fb08009",
           "label":"",

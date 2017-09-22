@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1选择指定农场.html",
-  "generationDate":new Date(1506066789193.3),
+  "generationDate":new Date(1506073402308.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"3bc3762d6a084428806d74868a907b21",
     "type":"Axure:Page",
@@ -1777,10 +1778,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.4农场主页",
+                      "description":"在 当前窗口 打开 1.1.3农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_4农场主页.html",
+                        "url":"1_1_3农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2609,10 +2610,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.4农场主页",
+                      "description":"在 当前窗口 打开 1.1.3农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_4农场主页.html",
+                        "url":"1_1_3农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3441,10 +3442,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.4农场主页",
+                      "description":"在 当前窗口 打开 1.1.3农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_4农场主页.html",
+                        "url":"1_1_3农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -4273,10 +4274,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.4农场主页",
+                      "description":"在 当前窗口 打开 1.1.3农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_4农场主页.html",
+                        "url":"1_1_3农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -5105,10 +5106,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.4农场主页",
+                      "description":"在 当前窗口 打开 1.1.3农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_4农场主页.html",
+                        "url":"1_1_3农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -5122,11 +5123,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":57,
-              "y":294},
+              "x":50,
+              "y":288},
             "size":{
-              "width":60,
-              "height":88}},
+              "width":300,
+              "height":100}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -5141,66 +5142,6 @@
                       "target":{
                         "targetType":"page",
                         "url":"1_1_1蔬菜箱详情.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true},
-{
-          "id":"8ba7be4f1bf2430a9b8567997c850e75",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":138,
-              "y":295},
-            "size":{
-              "width":67,
-              "height":87}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2走地鸡详情",
-                      "target":{
-                        "targetType":"page",
-                        "url":"1_1_2走地鸡详情.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true},
-{
-          "id":"c264cb98347f455dbb4346314963eaf7",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":222,
-              "y":294},
-            "size":{
-              "width":60,
-              "height":88}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3鸡蛋详情",
-                      "target":{
-                        "targetType":"page",
-                        "url":"1_1_3鸡蛋详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5257,10 +5198,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2走地鸡详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2走地鸡详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5287,10 +5227,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3鸡蛋详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3鸡蛋详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5347,10 +5286,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2走地鸡详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2走地鸡详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5377,10 +5315,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3鸡蛋详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3鸡蛋详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5437,10 +5374,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2走地鸡详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2走地鸡详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5467,10 +5403,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3鸡蛋详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3鸡蛋详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5527,10 +5462,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2走地鸡详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2走地鸡详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5557,10 +5491,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3鸡蛋详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3鸡蛋详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5587,10 +5520,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5617,10 +5550,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5647,10 +5580,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5677,10 +5610,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5707,10 +5640,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.5 农场体验游详情",
+                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_5_农场体验游详情.html",
+                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -6238,45 +6171,41 @@
       "scriptId":"u241"},
     "881c9532931f402ca521468de7922722":{
       "scriptId":"u242"},
-    "8ba7be4f1bf2430a9b8567997c850e75":{
-      "scriptId":"u243"},
-    "c264cb98347f455dbb4346314963eaf7":{
-      "scriptId":"u244"},
     "6b68c57c98254cca876380c5988f3fec":{
-      "scriptId":"u245"},
+      "scriptId":"u243"},
     "d95ed09175d44593ad92647c3e046f45":{
-      "scriptId":"u246"},
+      "scriptId":"u244"},
     "573b70529c714785af3d2fc9d77f965f":{
-      "scriptId":"u247"},
+      "scriptId":"u245"},
     "1f580805bb654c30a43d2cf280c9320f":{
-      "scriptId":"u248"},
+      "scriptId":"u246"},
     "0d550d38a2934d27a5c63a630913b81b":{
-      "scriptId":"u249"},
+      "scriptId":"u247"},
     "97a4f94ff52c490494b57f14b73503ab":{
-      "scriptId":"u250"},
+      "scriptId":"u248"},
     "2300527ac1d1487a9bb89b4351e630c9":{
-      "scriptId":"u251"},
+      "scriptId":"u249"},
     "956d9eff4d44415e927a4b1ea7b34687":{
-      "scriptId":"u252"},
+      "scriptId":"u250"},
     "86f7b636fcb148b98fd107fa03db3303":{
-      "scriptId":"u253"},
+      "scriptId":"u251"},
     "1c35532e1f94402186b5193a1950fc81":{
-      "scriptId":"u254"},
+      "scriptId":"u252"},
     "4bd8322b25d7496f8873d1115ce11740":{
-      "scriptId":"u255"},
+      "scriptId":"u253"},
     "da36ca1c682d41ef9f9fb0094d18b5fa":{
-      "scriptId":"u256"},
+      "scriptId":"u254"},
     "7c2086bfd25f46f0bf70caef1a797e92":{
-      "scriptId":"u257"},
+      "scriptId":"u255"},
     "67bf56e68d794941b72be1e3ec098e18":{
-      "scriptId":"u258"},
+      "scriptId":"u256"},
     "58d1c34ee6bc4cd68541eda113dca0d3":{
-      "scriptId":"u259"},
+      "scriptId":"u257"},
     "d9e0d139a5ed4cbfb079434bf6e0d598":{
-      "scriptId":"u260"},
+      "scriptId":"u258"},
     "d8c41918d2d544668d838f8eac093add":{
-      "scriptId":"u261"},
+      "scriptId":"u259"},
     "c95c799ebd49485fa75a0ed4808faf0b":{
-      "scriptId":"u262"},
+      "scriptId":"u260"},
     "47968310586a401aa49aad818849d4a0":{
-      "scriptId":"u263"}}});
+      "scriptId":"u261"}}});

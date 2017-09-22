@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0727.html",
-  "generationDate":new Date(1506066813629.51),
+  "generationDate":new Date(1506073429407.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"2bca464474904d95a68f2c6dfad5c105",
     "type":"Axure:Page",
@@ -1304,7 +1305,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u296.png"}},
+            "normal~":"images/1_1_3农场主页/u339.png"}},
 {
           "id":"ce6fc90af6d4476884ac865891e1ccd8",
           "label":"",
@@ -1345,7 +1346,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u298.png"}},
+            "normal~":"images/1_1_3农场主页/u341.png"}},
 {
           "id":"f516512445994434b368b83052de9514",
           "label":"",
@@ -1722,7 +1723,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u296.png"}},
+            "normal~":"images/1_1_3农场主页/u339.png"}},
 {
           "id":"4a7a6243fc524535b26eb15acafc467c",
           "label":"",
@@ -1763,7 +1764,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u298.png"}},
+            "normal~":"images/1_1_3农场主页/u341.png"}},
 {
           "id":"a5ba1289704346e68e4c0575695fd5ff",
           "label":"",
@@ -2140,7 +2141,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u296.png"}},
+            "normal~":"images/1_1_3农场主页/u339.png"}},
 {
           "id":"fb13d48c965a4087b7952b697372aa49",
           "label":"",
@@ -2181,7 +2182,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u298.png"}},
+            "normal~":"images/1_1_3农场主页/u341.png"}},
 {
           "id":"9a0470753c324105a1c50840d719022c",
           "label":"",
@@ -2558,7 +2559,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u296.png"}},
+            "normal~":"images/1_1_3农场主页/u339.png"}},
 {
           "id":"2bf448f378684d9395add80f9598daba",
           "label":"",
@@ -2599,7 +2600,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_4农场主页/u298.png"}},
+            "normal~":"images/1_1_3农场主页/u341.png"}},
 {
           "id":"38e89ba9573e43f191d4356146d51a46",
           "label":"",
@@ -3376,7 +3377,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/1_1_5_农场体验游详情/u2.png"}},
+                      "normal~":"images/1_1_2农场体验游详情/u2.png"}},
 {
                     "id":"dbd6a5f83af64ab191b7f078d53db2df",
                     "label":"",
@@ -3594,7 +3595,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_1_1订单详情/u59.png"}},
+                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",

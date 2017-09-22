@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_0供应商系统主页.html",
-  "generationDate":new Date(1506066805363.03),
+  "generationDate":new Date(1506073419004.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"231e6cb489e64c9ca303b8bff0ab8a8d",
     "type":"Axure:Page",
@@ -1190,7 +1191,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2蔬菜宅配/u251.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
 {
                   "id":"7809ea9c5e0e402bb97c3b5649fafa22",
                   "label":"",
@@ -1252,7 +1253,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2蔬菜宅配/u251.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
 {
                   "id":"f61f0098c33f462f9107e29ad855a16c",
                   "label":"",
@@ -2123,7 +2124,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2蔬菜宅配/u251.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
 {
                   "id":"6ec7c71cf3a243f8a5f81f99859d764e",
                   "label":"",
@@ -3228,7 +3229,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2蔬菜宅配/u251.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
 {
                   "id":"a9157f53c55d43668e0aef1d89237745",
                   "label":"",
@@ -4310,7 +4311,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2蔬菜宅配/u251.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
 {
                   "id":"5c3570a16a2d4659833f947a20924a2e",
                   "label":"",
@@ -5392,7 +5393,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2蔬菜宅配/u251.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
 {
                   "id":"06ffd68108b645eea2ca26fd00991f74",
                   "label":"",

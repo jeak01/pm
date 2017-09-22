@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_3注册.html",
-  "generationDate":new Date(1506066795213.29),
+  "generationDate":new Date(1506073407860.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"0be300c4bd334e20a6bec862049eb11e",
     "type":"Axure:Page",

@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_2蔬菜宅配订单详情.html",
-  "generationDate":new Date(1506066794268.67),
+  "generationDate":new Date(1506073406880.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"a124373fa1894c5bafb44c5be729ef6b",
     "type":"Axure:Page",
@@ -579,7 +580,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_1_1订单详情/u45.png"}}]}]},
+                    "normal~":"images/2_2_3_3农旅订单详情/u31.png"}}]}]},
 {
           "id":"ae5e0e1696c54723832627145082dd0f",
           "label":"",
@@ -885,7 +886,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"2dad89276cf047f5950e59c421ff6886",
           "label":"",
@@ -1556,7 +1557,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_1_1订单详情/u59.png"}},
+            "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
 {
           "id":"b851d16fb041435fbd7c1d094f28f8c2",
           "label":"",

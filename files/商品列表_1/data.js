@@ -1,11 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1506066812070.48),
+  "generationDate":new Date(1506073427561.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc"],
   "page":{
     "packageId":"dc107768acaf4010aee2b2cc868e655c",
     "type":"Axure:Page",
@@ -586,7 +587,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
           "id":"49327d328d6d459ab2f4d3464d4aed2d",
           "label":"",
@@ -3100,7 +3101,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_5_农场体验游详情/u40.png"}},
+                    "normal~":"images/1_1_2农场体验游详情/u40.png"}},
 {
                   "id":"9bf86c05e933486c8ae4ebd93e926646",
                   "label":"",
@@ -3250,7 +3251,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_5_农场体验游详情/u40.png"}}]}]},
+                    "normal~":"images/1_1_2农场体验游详情/u40.png"}}]}]},
 {
           "id":"7842c6d82c78423aa06903dcff680333",
           "label":"购物车简栏",
