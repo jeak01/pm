@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1激活农旅卡.html",
-  "generationDate":new Date(1506052812919.52),
+  "generationDate":new Date(1506061753405.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -209,7 +209,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":20,
-              "y":334},
+              "y":410},
             "size":{
               "width":320,
               "height":40},
@@ -237,7 +237,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":20,
-                  "y":334},
+                  "y":410},
                 "size":{
                   "width":320,
                   "height":40},
@@ -255,10 +255,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.1.1.1选择指定农场",
+                      "description":"在 当前窗口 打开 2.2我的农旅卡",
                       "target":{
                         "targetType":"page",
-                        "url":"2_1_1_1选择指定农场.html",
+                        "url":"2_2我的农旅卡.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -449,7 +449,7 @@
             "verticalAlignment":"middle",
             "location":{
               "x":66,
-              "y":310},
+              "y":386},
             "size":{
               "width":228,
               "height":14}},
@@ -467,7 +467,7 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":66,
-                  "y":310},
+                  "y":386},
                 "size":{
                   "width":228,
                   "height":14}},
@@ -475,93 +475,6 @@
 }}]},
 {
           "id":"4c955aa8f4694e20812778e6f68408b3",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":129},
-            "size":{
-              "width":360,
-              "height":40},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"43211c08575849ab8442c42776ea0470",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":129},
-                "size":{
-                  "width":360,
-                  "height":40},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFCCCCCC}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/1_1_4农场主页/u331.png"}},
-{
-          "id":"22c4f13a9a814370a46cc60626bd3ab6",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":30,
-              "y":141},
-            "size":{
-              "width":40,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"d6b9ddff6b994e93987a2914f504782c",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":30,
-                  "y":141},
-                "size":{
-                  "width":40,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"cb523993554a4b849f2cfd6eedd1737a",
-          "label":"",
-          "type":"textBox",
-          "styleType":"textBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":80,
-              "y":137},
-            "size":{
-              "width":270,
-              "height":25}},
-          "adaptiveStyles":{
-}},
-{
-          "id":"eda0e6d718e74cae9b0e396a79f44db0",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -579,7 +492,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"56448dc64df043a29c6b7f74777107f2",
+              "id":"43211c08575849ab8442c42776ea0470",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -600,7 +513,7 @@
           "images":{
             "normal~":"images/1_1_4农场主页/u331.png"}},
 {
-          "id":"b7538796cbd0495d905299f3ff6f27a6",
+          "id":"22c4f13a9a814370a46cc60626bd3ab6",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -615,7 +528,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"71eb1544582b4bfc8562f0b72e56f7bb",
+              "id":"d6b9ddff6b994e93987a2914f504782c",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -633,7 +546,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"234fb56f698f4fd29e5323180767db34",
+          "id":"cb523993554a4b849f2cfd6eedd1737a",
           "label":"",
           "type":"textBox",
           "styleType":"textBox",
@@ -643,12 +556,12 @@
               "x":80,
               "y":176},
             "size":{
-              "width":152,
+              "width":270,
               "height":25}},
           "adaptiveStyles":{
 }},
 {
-          "id":"0a37c16677b14f48bb2a8823b26cde43",
+          "id":"eda0e6d718e74cae9b0e396a79f44db0",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -656,7 +569,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":208},
+              "y":207},
             "size":{
               "width":360,
               "height":40},
@@ -666,7 +579,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"13215642f3c244288ec66e0e5bfcb7ae",
+              "id":"56448dc64df043a29c6b7f74777107f2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -675,7 +588,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":208},
+                  "y":207},
                 "size":{
                   "width":360,
                   "height":40},
@@ -687,7 +600,40 @@
           "images":{
             "normal~":"images/1_1_4农场主页/u331.png"}},
 {
-          "id":"00bb9d2122344640a76edec38d9c1283",
+          "id":"b7538796cbd0495d905299f3ff6f27a6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":219},
+            "size":{
+              "width":40,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"71eb1544582b4bfc8562f0b72e56f7bb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":30,
+                  "y":219},
+                "size":{
+                  "width":40,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"234fb56f698f4fd29e5323180767db34",
           "label":"",
           "type":"textBox",
           "styleType":"textBox",
@@ -695,14 +641,14 @@
           "style":{
             "location":{
               "x":80,
-              "y":216},
+              "y":215},
             "size":{
-              "width":270,
+              "width":152,
               "height":25}},
           "adaptiveStyles":{
 }},
 {
-          "id":"2a8b4ccadcf34873b84a19364012cf09",
+          "id":"0a37c16677b14f48bb2a8823b26cde43",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -720,7 +666,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"9182b8d30b824ab896c877e35cb0e296",
+              "id":"13215642f3c244288ec66e0e5bfcb7ae",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -741,7 +687,7 @@
           "images":{
             "normal~":"images/1_1_4农场主页/u331.png"}},
 {
-          "id":"4efc368b50bc4b48acbcb18beb2f8aec",
+          "id":"00bb9d2122344640a76edec38d9c1283",
           "label":"",
           "type":"textBox",
           "styleType":"textBox",
@@ -756,6 +702,60 @@
           "adaptiveStyles":{
 }},
 {
+          "id":"2a8b4ccadcf34873b84a19364012cf09",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":286},
+            "size":{
+              "width":360,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9182b8d30b824ab896c877e35cb0e296",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":286},
+                "size":{
+                  "width":360,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_4农场主页/u331.png"}},
+{
+          "id":"4efc368b50bc4b48acbcb18beb2f8aec",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":80,
+              "y":294},
+            "size":{
+              "width":270,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
           "id":"4fb30ef5fcc843a5bd26cc5e1aeedd7a",
           "label":"",
           "type":"buttonShape",
@@ -764,7 +764,7 @@
           "style":{
             "location":{
               "x":17,
-              "y":222},
+              "y":261},
             "size":{
               "width":53,
               "height":16}},
@@ -780,7 +780,7 @@
               "style":{
                 "location":{
                   "x":17,
-                  "y":222},
+                  "y":261},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -797,7 +797,7 @@
           "style":{
             "location":{
               "x":17,
-              "y":258},
+              "y":297},
             "size":{
               "width":53,
               "height":16}},
@@ -813,7 +813,7 @@
               "style":{
                 "location":{
                   "x":17,
-                  "y":258},
+                  "y":297},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -838,7 +838,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":242,
-              "y":175},
+              "y":214},
             "size":{
               "width":108,
               "height":26},
@@ -865,7 +865,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":242,
-                  "y":175},
+                  "y":214},
                 "size":{
                   "width":108,
                   "height":26},
@@ -875,7 +875,124 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_5信息验证/u30.png"}}]}},
+            "normal~":"images/1_5信息验证/u30.png"}},
+{
+          "id":"0ff8640c64b84a03852da094746fa1cf",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":129},
+            "size":{
+              "width":360,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4bb3eb7c72f7436c84dfd63f168e2b93",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":129},
+                "size":{
+                  "width":360,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_4农场主页/u331.png"}},
+{
+          "id":"0e416bd3b50345a2b77152efd7350202",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":17,
+              "y":139},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d3b33360142d4d0496f6f6db88051306",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":17,
+                  "y":139},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6e79d8498fba49b194fb39bdf201748f",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":80,
+              "y":137},
+            "size":{
+              "width":270,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"278a06b60aed405583388b7b2e7aa4c6",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":80,
+              "y":132},
+            "size":{
+              "width":280,
+              "height":34}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.1.1.1选择指定农场",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_1_1_1选择指定农场.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -966,4 +1083,16 @@
     "8d1b4f31ec224f0a819e5bc60852adb9":{
       "scriptId":"u42"},
     "b7ec6875bce64685bd1c5fd92132aa7e":{
-      "scriptId":"u43"}}});
+      "scriptId":"u43"},
+    "0ff8640c64b84a03852da094746fa1cf":{
+      "scriptId":"u44"},
+    "4bb3eb7c72f7436c84dfd63f168e2b93":{
+      "scriptId":"u45"},
+    "0e416bd3b50345a2b77152efd7350202":{
+      "scriptId":"u46"},
+    "d3b33360142d4d0496f6f6db88051306":{
+      "scriptId":"u47"},
+    "6e79d8498fba49b194fb39bdf201748f":{
+      "scriptId":"u48"},
+    "278a06b60aed405583388b7b2e7aa4c6":{
+      "scriptId":"u49"}}});

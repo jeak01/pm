@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2我的农旅卡.html",
-  "generationDate":new Date(1506052813534.93),
+  "generationDate":new Date(1506061754031.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -323,7 +323,7 @@
               "x":90,
               "y":60},
             "size":{
-              "width":78,
+              "width":56,
               "height":18}},
           "adaptiveStyles":{
 },
@@ -344,7 +344,7 @@
                   "x":90,
                   "y":60},
                 "size":{
-                  "width":78,
+                  "width":56,
                   "height":18}},
               "adaptiveStyles":{
 }}],
