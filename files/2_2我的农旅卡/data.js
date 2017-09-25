@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2我的农旅卡.html",
-  "generationDate":new Date(1506073405199.97),
+  "generationDate":new Date(1506311044857.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -770,10 +770,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.2蔬菜宅配",
+                      "description":"在 当前窗口 打开 2.2.2.1确认订单(宅配)",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_2蔬菜宅配.html",
+                        "url":"2_2_2_1确认订单_宅配_.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1403,10 +1403,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.1优游权益门票",
+                      "description":"在 当前窗口 打开 2.2.1优游通权益",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_1优游权益门票.html",
+                        "url":"2_2_1优游通权益.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择菜品.html",
-  "generationDate":new Date(1506073422320.78),
+  "generationDate":new Date(1506311062018.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2986,7 +2986,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u11.png"}}]}]},
+                    "normal~":"images/1_0蔬菜宅配/u301.png"}}]}]},
 {
           "id":"a8ae843967e6476b84debafbd17a671b",
           "label":"s1",

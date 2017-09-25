@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_1确认订单_宅配_.html",
-  "generationDate":new Date(1506073405591.23),
+  "generationDate":new Date(1506311045366.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -264,18 +264,8 @@
                   "visible":true,
                   "style":{
                     "fontSize":"16px",
-                    "foreGroundFill":{
-                      "fillType":"solid",
-                      "color":0xFFFFFFFF,
-                      "opacity":1},
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFFF0000},
-                    "location":{
-                      "x":200,
-                      "y":0},
                     "size":{
-                      "width":160,
+                      "width":360,
                       "height":50},
                     "borderFill":{
                       "fillType":"solid",
@@ -292,18 +282,8 @@
                       "visible":true,
                       "style":{
                         "fontSize":"16px",
-                        "foreGroundFill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFFFF,
-                          "opacity":1},
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFF0000},
-                        "location":{
-                          "x":200,
-                          "y":0},
                         "size":{
-                          "width":160,
+                          "width":360,
                           "height":50},
                         "borderFill":{
                           "fillType":"solid",
