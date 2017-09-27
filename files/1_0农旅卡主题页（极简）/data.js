@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0农旅卡主题页（极简）.html",
-  "generationDate":new Date(1506311041940.02),
+  "generationDate":new Date(1506507917530.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -328,10 +328,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1选择指定农场",
+                      "description":"在 当前窗口 打开 1.2订单支付页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1选择指定农场.html",
+                        "url":"1_2订单支付页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2414,7 +2414,50 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"resources/images/transparent.gif"}}]}]}]}},
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"cdc9e14a926443a8bc6e84d15a045a20",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":40,
+              "y":1590},
+            "size":{
+              "width":225,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8b117f5769644cad82e4df4c41d16363",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":40,
+                  "y":1590},
+                "size":{
+                  "width":225,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2653,4 +2696,8 @@
     "4a1135faef524756ab308dab644b17a2":{
       "scriptId":"u116"},
     "6dd97d96e4394cfdb219721f3ab897e8":{
-      "scriptId":"u117"}}});
+      "scriptId":"u117"},
+    "cdc9e14a926443a8bc6e84d15a045a20":{
+      "scriptId":"u118"},
+    "8b117f5769644cad82e4df4c41d16363":{
+      "scriptId":"u119"}}});

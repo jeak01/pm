@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0919.html",
-  "generationDate":new Date(1506311063620.04),
+  "generationDate":new Date(1506507938583.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -377,7 +377,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/u7.jpg"}}]},
+                    "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]},
 {
               "id":"c3e9cf835a1f4e878f1fb7b1f2f8aacf",
               "label":"状态4",
@@ -3277,7 +3277,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"d286ba3f0fd64268ba51907f880c4bc5",
           "label":"",
@@ -3698,7 +3698,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u40.jpg"}},
+            "normal~":"images/1_1选择指定农场/u20.jpg"}},
 {
           "id":"0ff3615215c04a4f9d7d66b7f347de25",
           "label":"",
@@ -4340,7 +4340,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"67bbd349022044afbf213f9c813f6942",
           "label":"",
@@ -4755,7 +4755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"2b640c3d89914e9cbfa6556981215827",
           "label":"",
@@ -4932,7 +4932,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u132.jpg"}},
+            "normal~":"images/1_1选择指定农场/u112.jpg"}},
 {
           "id":"ce3c42dbd9bb4ec2830f77fae4d4cb19",
           "label":"",
@@ -5806,7 +5806,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_1选择指定农场/u108.jpg"}},
+            "normal~":"images/1_1选择指定农场/u88.jpg"}},
 {
           "id":"c7bb33012c664f48954b7cbc8523dc7b",
           "label":"",
@@ -5935,7 +5935,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"fea3a5b488034bf3b706ca947859d62c",
           "label":"",
@@ -7491,7 +7491,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u38.jpg"}},
+            "normal~":"images/1_1选择指定农场/u18.jpg"}},
 {
           "id":"ba099c4dbec047deb482e8811e83022c",
           "label":"",
@@ -8349,7 +8349,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

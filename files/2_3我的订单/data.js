@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3我的订单.html",
-  "generationDate":new Date(1506311046235.31),
+  "generationDate":new Date(1506507922195),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -331,10 +331,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.3.2蔬菜宅配订单详情",
+                      "description":"在 当前窗口 打开 2.3.2订单详情（蔬菜宅配）",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3_2蔬菜宅配订单详情.html",
+                        "url":"2_3_2订单详情（蔬菜宅配）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -741,10 +741,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.3.3农旅订单详情",
+                      "description":"在 当前窗口 打开 2.2.3.3订单详情（农旅）",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_3_3农旅订单详情.html",
+                        "url":"2_2_3_3订单详情（农旅）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1054,10 +1054,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.3.1订单详情",
+                      "description":"在 当前窗口 打开 2.3.1订单详情（单品）",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3_1订单详情.html",
+                        "url":"2_3_1订单详情（单品）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1447,10 +1447,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.3.1订单详情",
+                      "description":"在 当前窗口 打开 2.3.1订单详情（单品）",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3_1订单详情.html",
+                        "url":"2_3_1订单详情（单品）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1757,7 +1757,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+            "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
           "id":"5fb15a893e9d4b5e9f770eb9fac2dd5a",
           "label":"",

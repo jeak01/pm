@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1506311071635.96),
+  "generationDate":new Date(1506507946132.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8952,7 +8952,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u170.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u162.png"}},
 {
           "id":"78dceba3f5e349ada3d71ff9dfc6915a",
           "label":"",

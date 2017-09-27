@@ -49,9 +49,9 @@
                 "type":"Wireframe",
                 "url":"1_4支付失败.html"},
 {
-                "pageName":"1.5信息验证",
+                "pageName":"1.5完善信息",
                 "type":"Wireframe",
-                "url":"1_5信息验证.html"},
+                "url":"1_5完善信息.html"},
 {
                 "pageName":"1.6提交成功",
                 "type":"Wireframe",
@@ -97,21 +97,25 @@
                         "type":"Wireframe",
                         "url":"2_2_3_2订单提交成功.html"},
 {
-                        "pageName":"2.2.3.3农旅订单详情",
+                        "pageName":"2.2.3.3订单详情（农旅）",
                         "type":"Wireframe",
-                        "url":"2_2_3_3农旅订单详情.html"}]}]},
+                        "url":"2_2_3_3订单详情（农旅）.html"}]}]},
 {
                 "pageName":"2.3我的订单",
                 "type":"Wireframe",
                 "url":"2_3我的订单.html",
                 "children":[{
-                    "pageName":"2.3.1订单详情",
+                    "pageName":"2.3.1订单详情（单品）",
                     "type":"Wireframe",
-                    "url":"2_3_1订单详情.html"},
+                    "url":"2_3_1订单详情（单品）.html",
+                    "children":[{
+                        "pageName":"2.3.1.1物流跟踪",
+                        "type":"Wireframe",
+                        "url":"2_3_1_1物流跟踪.html"}]},
 {
-                    "pageName":"2.3.2蔬菜宅配订单详情",
+                    "pageName":"2.3.2订单详情（蔬菜宅配）",
                     "type":"Wireframe",
-                    "url":"2_3_2蔬菜宅配订单详情.html"}]},
+                    "url":"2_3_2订单详情（蔬菜宅配）.html"}]},
 {
                 "pageName":"2.4个人资料",
                 "type":"Wireframe",
@@ -120,6 +124,14 @@
                 "pageName":"2.5意见反馈",
                 "type":"Wireframe",
                 "url":"2_5意见反馈.html"}]}]},
+{
+        "pageName":"PC",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"首页",
+            "type":"Wireframe",
+            "url":"首页.html"}]},
 {
         "pageName":"0919",
         "type":"Folder",

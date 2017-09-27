@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0蔬菜宅配.html",
-  "generationDate":new Date(1506311048138.85),
+  "generationDate":new Date(1506507924244.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -661,7 +661,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u72.png"}},
 {
                           "id":"dbffc8ec28864532833cb8391ea9068f",
                           "label":"",
@@ -700,7 +700,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u80.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u72.png"}},
 {
                           "id":"31ebc692fe7943b3b3f7286574e4032d",
                           "label":"",
@@ -5060,7 +5060,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1选择指定农场/u90.jpg"}},
+                                    "normal~":"images/1_1选择指定农场/u70.jpg"}},
 {
                                   "id":"10aeaccd1087467daa74c00eb8385a12",
                                   "label":"",
@@ -5347,7 +5347,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1选择指定农场/u132.jpg"}},
+                                    "normal~":"images/1_1选择指定农场/u112.jpg"}},
 {
                                   "id":"a9da34c50c19481ca474cd8498ec8dce",
                                   "label":"",
@@ -8313,7 +8313,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1选择指定农场/u56.jpg"}},
+                                    "normal~":"images/1_1选择指定农场/u36.jpg"}},
 {
                                   "id":"74ebc6096d2c4e6589d88eb410318991",
                                   "label":"",
@@ -8561,7 +8561,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1选择指定农场/u108.jpg"}},
+                                    "normal~":"images/1_1选择指定农场/u88.jpg"}},
 {
                                   "id":"c5c0217f64094179843d6fc24db90163",
                                   "label":"",
@@ -9164,7 +9164,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/1_1选择指定农场/u148.jpg"}},
+                                    "normal~":"images/1_1选择指定农场/u128.jpg"}},
 {
                                   "id":"a9ed18e9176a4308b5fbbc385880d691",
                                   "label":"",
@@ -11302,7 +11302,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u76.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u68.png"}},
 {
                   "id":"c54f673790c94423b40c36804ad818e1",
                   "label":"",
@@ -11361,7 +11361,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u170.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u162.png"}},
 {
                   "id":"e4eabe61fd68440c81622e178037d9e6",
                   "label":"提示文字",

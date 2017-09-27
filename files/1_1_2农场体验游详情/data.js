@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_2农场体验游详情.html",
-  "generationDate":new Date(1506311042868.24),
+  "generationDate":new Date(1506507918712.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -848,7 +848,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}}]}},
+            "normal~":"images/1_1选择指定农场/u42.png"}}]}},
   "masters":{
 },
   "objectPaths":{

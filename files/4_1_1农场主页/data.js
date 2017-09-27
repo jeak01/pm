@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1农场主页.html",
-  "generationDate":new Date(1506311052571.8),
+  "generationDate":new Date(1506507927579.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -437,7 +437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u108.jpg"}},
+            "normal~":"images/1_1选择指定农场/u88.jpg"}},
 {
           "id":"c9f715ed1e16434394a739bbff1151df",
           "label":"",
@@ -591,7 +591,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"1db9b5b8b454435f88006cc98d85d1ed",
           "label":"",
@@ -2608,7 +2608,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u56.jpg"}},
+                    "normal~":"images/1_1选择指定农场/u36.jpg"}},
 {
                   "id":"443430a8fda24e7ba203a751e6a90b83",
                   "label":"",
@@ -5475,7 +5475,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u90.jpg"}},
+                    "normal~":"images/1_1选择指定农场/u70.jpg"}},
 {
                   "id":"f9bab79350de4075b9ecf47844a137f3",
                   "label":"",
@@ -5715,7 +5715,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u132.jpg"}},
+                    "normal~":"images/1_1选择指定农场/u112.jpg"}},
 {
                   "id":"6ea2792f71e445cc87f265af1efa4e21",
                   "label":"",
@@ -6268,7 +6268,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u40.jpg"}},
+                    "normal~":"images/1_1选择指定农场/u20.jpg"}},
 {
                   "id":"e18bf649a36443739e1101d36be5e499",
                   "label":"",
@@ -6760,7 +6760,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"ece2796527824f2da132a18b102788f2",
                   "label":"",
@@ -7198,7 +7198,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"ef2881958d5c4ef1a128053035e28dd3",
                   "label":"",
@@ -7894,7 +7894,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

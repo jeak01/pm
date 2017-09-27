@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_1我的农旅卡（待激活）.html",
-  "generationDate":new Date(1506311056674.41),
+  "generationDate":new Date(1506507931552.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -464,7 +464,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_5信息验证/u32.png"}}]}},
+            "normal~":"images/1_5完善信息/u32.png"}}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -737,7 +737,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

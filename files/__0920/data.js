@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0920.html",
-  "generationDate":new Date(1506311060907.24),
+  "generationDate":new Date(1506507935788.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1746,7 +1746,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/u7.jpg"}}]},
+                    "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]},
 {
               "id":"dd18dd9967fc418c8080ec952eb60e48",
               "label":"状态4",
@@ -3805,7 +3805,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u40.jpg"}},
+            "normal~":"images/1_1选择指定农场/u20.jpg"}},
 {
           "id":"12e2d7fbc683498abaef5837f45f9f1b",
           "label":"",
@@ -4424,7 +4424,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u132.jpg"}},
+            "normal~":"images/1_1选择指定农场/u112.jpg"}},
 {
           "id":"4e47511651aa407585afc7a028062b1d",
           "label":"",
@@ -6212,7 +6212,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

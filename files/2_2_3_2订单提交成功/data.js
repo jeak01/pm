@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_2订单提交成功.html",
-  "generationDate":new Date(1506311046036.18),
+  "generationDate":new Date(1506507921980.85),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -324,7 +324,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":122,
+              "x":183,
               "y":180},
             "size":{
               "width":10,
@@ -381,10 +381,84 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 2.2.3.3农旅订单详情",
+                              "description":"在 当前窗口 打开 2.2.3.3订单详情（农旅）",
                               "target":{
                                 "targetType":"page",
-                                "url":"2_2_3_3农旅订单详情.html",
+                                "url":"2_2_3_3订单详情（农旅）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]},
+{
+          "id":"79e04dce572c4b85bd9449f857ec28f0",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":41,
+              "y":180},
+            "size":{
+              "width":119,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"2915f3ba751943f88f148bc71ba2c151",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"624005691cbf48258a94f3651dc825c4",
+                  "label":"",
+                  "parentDynamicPanel":"79e04dce572c4b85bd9449f857ec28f0",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"fe835e1b135145b9b2c09a15b8736023",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"79e04dce572c4b85bd9449f857ec28f0",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 2.2我的农旅卡",
+                              "target":{
+                                "targetType":"page",
+                                "url":"2_2我的农旅卡.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -426,4 +500,10 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u15"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u16"}}});
+      "scriptId":"u16"},
+    "79e04dce572c4b85bd9449f857ec28f0":{
+      "scriptId":"u17"},
+    "624005691cbf48258a94f3651dc825c4":{
+      "scriptId":"u18"},
+    "fe835e1b135145b9b2c09a15b8736023":{
+      "scriptId":"u19"}}});

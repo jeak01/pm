@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2农旅线路.html",
-  "generationDate":new Date(1506311053796.61),
+  "generationDate":new Date(1506507928836.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -604,7 +604,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"f332c9384d7b48c2955b7769bca610cb",
                   "label":"",
@@ -1042,7 +1042,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"c078b2ffb29c469782c32b9dd157c43d",
                   "label":"",
@@ -1480,7 +1480,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"caaefebc50d4418d9d156fc716ef08a1",
                   "label":"",
@@ -1957,7 +1957,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"f2df960cff144a58aa3158e81e7a54e0",
                   "label":"",
@@ -2395,7 +2395,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"042bb51f7efe40bca28c9867a03eb75b",
                   "label":"",
@@ -2992,7 +2992,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"f5eda6bf7f0642a8a9c0fada380b7e2c",
                   "label":"",
@@ -3430,7 +3430,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"b8b345e0368842b297f5fd327f508049",
                   "label":"",
@@ -3868,7 +3868,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1选择指定农场/u62.png"}},
+                    "normal~":"images/1_1选择指定农场/u42.png"}},
 {
                   "id":"9eb638d8945b4f13b726aa53b107512b",
                   "label":"",
@@ -8227,7 +8227,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

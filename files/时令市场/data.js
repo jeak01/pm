@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1506311062730.45),
+  "generationDate":new Date(1506507937660.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1996,7 +1996,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u40.jpg"}},
+            "normal~":"images/1_1选择指定农场/u20.jpg"}},
 {
           "id":"6b5b25d880f54df8a9bd7e4fe6758020",
           "label":"",
@@ -4050,7 +4050,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

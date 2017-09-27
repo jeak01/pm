@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1506311066172.75),
+  "generationDate":new Date(1506507941090.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -567,7 +567,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"c7b7c86cf3ca4027ab5b168e3c3698c8",
           "label":"",
@@ -1257,7 +1257,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u65.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u57.png"}},
 {
           "id":"3a5e0a8d222047d8bb3d5f1e3ba6f6f2",
           "label":"",
@@ -2008,7 +2008,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+              "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_3支付成功.html",
-  "generationDate":new Date(1506311043871.33),
+  "generationDate":new Date(1506507919930.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -380,10 +380,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 1.5信息验证",
+                              "description":"在 当前窗口 打开 1.1选择指定农场",
                               "target":{
                                 "targetType":"page",
-                                "url":"1_5信息验证.html",
+                                "url":"1_1选择指定农场.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

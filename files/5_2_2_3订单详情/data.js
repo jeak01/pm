@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_2_3订单详情.html",
-  "generationDate":new Date(1506311057766.26),
+  "generationDate":new Date(1506507932637.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -214,7 +214,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1订单详情/u8.png"}},
+            "normal~":"images/2_3_1订单详情（单品）/u8.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
@@ -411,7 +411,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_3农旅订单详情/u31.png"}}]}]},
+                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}}]}]},
 {
           "id":"ae5e0e1696c54723832627145082dd0f",
           "label":"",
@@ -452,7 +452,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"2fd652a27d12486da195555779da14ef",
           "label":"",
@@ -797,7 +797,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u170.jpg"}},
+            "normal~":"images/1_1选择指定农场/u150.jpg"}},
 {
           "id":"03772a35dc554ec2b97d608bc5b23553",
           "label":"",
@@ -871,7 +871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
+            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
 {
           "id":"a77329affb9d4d90a4bd8a3e1a406971",
           "label":"",

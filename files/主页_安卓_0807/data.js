@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0807.html",
-  "generationDate":new Date(1506311069178.33),
+  "generationDate":new Date(1506507944041.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2965,7 +2965,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"c102c6bceb7246c693694549d1cbaf2c",
           "label":"",
@@ -3383,7 +3383,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"0c1d2864a5984e9a9207eb7b54683ccb",
           "label":"",
@@ -3801,7 +3801,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"da500bcf9c3f453ab8c86f725c4735ad",
           "label":"",
@@ -4256,7 +4256,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"5b2d9a1713fe48d58aa2f3b539b7bd2d",
           "label":"",
@@ -4761,7 +4761,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"9e1499dc3e9c4557adc8ded11168e691",
           "label":"",
@@ -6115,7 +6115,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2我的农旅卡.html",
-  "generationDate":new Date(1506311057330.85),
+  "generationDate":new Date(1506507932161.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -533,7 +533,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u36.jpg"}},
+            "normal~":"images/1_1选择指定农场/u16.jpg"}},
 {
           "id":"984a37744949498f962bff1de45098f2",
           "label":"",
@@ -566,7 +566,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u38.jpg"}},
+            "normal~":"images/1_1选择指定农场/u18.jpg"}},
 {
           "id":"b11382c4fb554e609abb93b8a491b654",
           "label":"",
@@ -599,7 +599,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u40.jpg"}},
+            "normal~":"images/1_1选择指定农场/u20.jpg"}},
 {
           "id":"01fdcba79cc34ce395b75fd22a36d5a7",
           "label":"",
@@ -1031,7 +1031,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u56.jpg"}},
+            "normal~":"images/1_1选择指定农场/u36.jpg"}},
 {
           "id":"20115b1804074cbf8c98f8269662c90b",
           "label":"",
@@ -1148,7 +1148,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"a013d505bde74098bb79f18e195f010a",
           "label":"",
@@ -1822,7 +1822,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

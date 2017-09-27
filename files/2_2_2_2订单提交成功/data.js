@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_2订单提交成功.html",
-  "generationDate":new Date(1506311045470.07),
+  "generationDate":new Date(1506507921399.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -323,7 +323,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":121.5,
+              "x":186,
               "y":180},
             "size":{
               "width":10,
@@ -388,6 +388,80 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]},
+{
+          "id":"ee31999092084df8a1e9f20c2f5b7277",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":57,
+              "y":180},
+            "size":{
+              "width":119,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"75d30c9765ef4b4e85f4f0b1a09fcb36",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"0da88205f8474eec93f35ff4fbd81f64",
+                  "label":"",
+                  "parentDynamicPanel":"ee31999092084df8a1e9f20c2f5b7277",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"386b4dc9d2344be2b34ab0dbed357195",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"ee31999092084df8a1e9f20c2f5b7277",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 2.2我的农旅卡",
+                              "target":{
+                                "targetType":"page",
+                                "url":"2_2我的农旅卡.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
                     "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
   "masters":{
 },
@@ -425,4 +499,10 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u15"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u16"}}});
+      "scriptId":"u16"},
+    "ee31999092084df8a1e9f20c2f5b7277":{
+      "scriptId":"u17"},
+    "0da88205f8474eec93f35ff4fbd81f64":{
+      "scriptId":"u18"},
+    "386b4dc9d2344be2b34ab0dbed357195":{
+      "scriptId":"u19"}}});

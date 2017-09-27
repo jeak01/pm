@@ -1434,3 +1434,26 @@
   width:265px;
   word-wrap:break-word;
 }
+#u118 {
+  position:absolute;
+  left:40px;
+  top:1590px;
+  width:225px;
+  height:14px;
+  font-size:11px;
+  color:#666666;
+}
+#u118_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:225px;
+  height:14px;
+}
+#u119 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:225px;
+  white-space:nowrap;
+}

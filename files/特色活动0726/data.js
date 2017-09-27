@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1506311070048.91),
+  "generationDate":new Date(1506507944684.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1790,7 +1790,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"6114af9ecfa14ea9b87773dc2ccc8491",
           "label":"",
@@ -2208,7 +2208,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"a67c7cacf7c74720b47598de54fe330e",
           "label":"",
@@ -2626,7 +2626,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"62d26d4351c74e52b95d054c85c84c5c",
           "label":"",
@@ -3185,7 +3185,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+              "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_1_1激活农旅卡.html",
-  "generationDate":new Date(1506311056733.45),
+  "generationDate":new Date(1506507931615.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -264,7 +264,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_5信息验证/u32.png"}},
+            "normal~":"images/1_5完善信息/u32.png"}},
 {
           "id":"2d68d933b9ac48f391625b996409b9fd",
           "label":"",

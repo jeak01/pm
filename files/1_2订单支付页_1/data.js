@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_2订单支付页_1.html",
-  "generationDate":new Date(1506311048814.3),
+  "generationDate":new Date(1506507924779.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -896,7 +896,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u7.jpg"}}]}},
+            "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{

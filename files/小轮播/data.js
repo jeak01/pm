@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1506311071909.14),
+  "generationDate":new Date(1506507946428.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -412,7 +412,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_3农旅订单详情/u33.png"}},
+                    "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
 {
                   "id":"367a21ae084047a795f4e26d2cd3d10e",
                   "label":"拖到面板",
@@ -1699,7 +1699,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+              "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

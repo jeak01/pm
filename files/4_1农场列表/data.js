@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1农场列表.html",
-  "generationDate":new Date(1506311051992.41),
+  "generationDate":new Date(1506507927087.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -595,7 +595,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u56.jpg"}},
+            "normal~":"images/1_1选择指定农场/u36.jpg"}},
 {
           "id":"94397e89a2ea4e63be8113c95175746d",
           "label":"",
@@ -712,7 +712,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"8164aef97ff641f0ae7a7e3b65417127",
           "label":"",
@@ -1266,7 +1266,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"6174fe093d6244cdb61af73733e0e10f",
           "label":"",
@@ -1385,7 +1385,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"fbda3903df9744cc9d1edbf60a27e804",
           "label":"",
@@ -1504,7 +1504,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"c46984e462644fed895d0ea6dc92bfd5",
           "label":"",
@@ -1623,7 +1623,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u62.png"}},
+            "normal~":"images/1_1选择指定农场/u42.png"}},
 {
           "id":"1cb41b52a87d43e781061dd5d59e83f5",
           "label":"",
@@ -3100,7 +3100,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3农旅订单详情/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
