@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜宅配服务说明.html",
-  "generationDate":new Date(1506507937235),
+  "generationDate":new Date(1506563584818.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1农场列表/u0.png"}},
+            "normal~":"images/1_7农场列表/u0.png"}},
 {
           "id":"913579d584ce46be8ef07cc1a1ff86ee",
           "label":"",

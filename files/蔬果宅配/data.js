@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1506507942254.33),
+  "generationDate":new Date(1506563589503.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1982,7 +1982,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u398.jpg"}},
+            "normal~":"images/1_7农场列表/u31.jpg"}},
 {
           "id":"184c4f9ef4594926b0eecd38c87738b4",
           "label":"",
@@ -2167,7 +2167,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1农场列表/u47.jpg"}},
+            "normal~":"images/1_7农场列表/u37.jpg"}},
 {
           "id":"8894e8bacd224777b591aaffef65f19d",
           "label":"",
@@ -2352,7 +2352,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u474.jpg"}},
+            "normal~":"images/1_7农场列表/u43.jpg"}},
 {
           "id":"22a2623913d34ad29bc44ee5bafb5244",
           "label":"",

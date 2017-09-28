@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0农旅卡主题页（极简）.html",
-  "generationDate":new Date(1506507917530.89),
+  "generationDate":new Date(1506563566759.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -605,7 +605,7 @@
               "y":492},
             "size":{
               "width":360,
-              "height":170}},
+              "height":138}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -621,7 +621,7 @@
                   "y":492},
                 "size":{
                   "width":360,
-                  "height":170}},
+                  "height":138}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -2457,7 +2457,77 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a9c7cb62e26d433cbec1498cb70a4b05",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF9900},
+            "location":{
+              "x":45,
+              "y":645.786804199219},
+            "size":{
+              "width":269,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3b32a460d2f4404f8476d99f9ac205e8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900},
+                "location":{
+                  "x":45,
+                  "y":645.786804199219},
+                "size":{
+                  "width":269,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 1.7农场列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"1_7农场列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/1_0农旅卡主题页（极简）/u60.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2700,4 +2770,8 @@
     "cdc9e14a926443a8bc6e84d15a045a20":{
       "scriptId":"u118"},
     "8b117f5769644cad82e4df4c41d16363":{
-      "scriptId":"u119"}}});
+      "scriptId":"u119"},
+    "a9c7cb62e26d433cbec1498cb70a4b05":{
+      "scriptId":"u120"},
+    "3b32a460d2f4404f8476d99f9ac205e8":{
+      "scriptId":"u121"}}});
