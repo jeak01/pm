@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0905.html",
-  "generationDate":new Date(1506563587373.99),
+  "generationDate":new Date(1506578464160.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4865,7 +4865,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_7农场列表/u31.jpg"}},
+                    "normal~":"images/1_7合作农场列表/u31.jpg"}},
 {
                   "id":"72184c45cc9645ceb8c4de7f83565972",
                   "label":"",

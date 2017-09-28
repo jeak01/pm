@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1506563592351.28),
+  "generationDate":new Date(1506578469650.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -645,7 +645,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u37.jpg"}},
+            "normal~":"images/1_7合作农场列表/u37.jpg"}},
 {
           "id":"db8e13db22054720b5f8665cf4adbc18",
           "label":"",
@@ -1302,7 +1302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u31.jpg"}},
+            "normal~":"images/1_7合作农场列表/u31.jpg"}},
 {
           "id":"60b79fc0c5ac4d9ea37179af85b8bcdb",
           "label":"",
@@ -1565,7 +1565,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u43.jpg"}},
+            "normal~":"images/1_7合作农场列表/u43.jpg"}},
 {
           "id":"64545fc5270d479b95631900d15fd7ae",
           "label":"",

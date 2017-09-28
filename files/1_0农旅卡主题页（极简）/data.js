@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0农旅卡主题页（极简）.html",
-  "generationDate":new Date(1506563566759.28),
+  "generationDate":new Date(1506578434016.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2519,10 +2519,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.7农场列表",
+                      "description":"在 当前窗口 打开 1.7合作农场列表",
                       "target":{
                         "targetType":"page",
-                        "url":"1_7农场列表.html",
+                        "url":"1_7合作农场列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

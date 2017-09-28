@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1506563588355.65),
+  "generationDate":new Date(1506578465425.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -369,7 +369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u37.jpg"}},
+            "normal~":"images/1_7合作农场列表/u37.jpg"}},
 {
           "id":"51ce9cd3f47d47b6bf585ab2875640f4",
           "label":"",
@@ -768,7 +768,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u43.jpg"}},
+            "normal~":"images/1_7合作农场列表/u43.jpg"}},
 {
           "id":"da635c8bb4574240b60641d153495524",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1506563590008.75),
+  "generationDate":new Date(1506578467018.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2053,7 +2053,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u37.jpg"}},
+            "normal~":"images/1_7合作农场列表/u37.jpg"}},
 {
           "id":"11121f84097c45f4be187b25d15f56bb",
           "label":"",
@@ -2270,7 +2270,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u31.jpg"}},
+            "normal~":"images/1_7合作农场列表/u31.jpg"}},
 {
           "id":"b775abc824664203a5da9cc30edd8a08",
           "label":"",
@@ -2704,7 +2704,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u37.jpg"}},
+            "normal~":"images/1_7合作农场列表/u37.jpg"}},
 {
           "id":"d650671a93e44cf5b258ae5f1337069d",
           "label":"",
@@ -3353,7 +3353,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u31.jpg"}},
+            "normal~":"images/1_7合作农场列表/u31.jpg"}},
 {
           "id":"0ba695397a0d4fc7bc28b1b6d8256955",
           "label":"",
@@ -3616,7 +3616,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_7农场列表/u43.jpg"}},
+            "normal~":"images/1_7合作农场列表/u43.jpg"}},
 {
           "id":"028f661567cf49c88de60660ef4aca75",
           "label":"",

@@ -57,9 +57,9 @@
                 "type":"Wireframe",
                 "url":"1_6提交成功.html"},
 {
-                "pageName":"1.7农场列表",
+                "pageName":"1.7合作农场列表",
                 "type":"Wireframe",
-                "url":"1_7农场列表.html"}]},
+                "url":"1_7合作农场列表.html"}]},
 {
             "pageName":"2.0个人中心主页",
             "type":"Wireframe",
