@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1激活农旅卡.html",
-  "generationDate":new Date(1507529676010.71),
+  "generationDate":new Date(1507533664412.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1096,6 +1096,36 @@
                         "url":"2_1_1_1选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"1752785d183d4fabbd312db9829a35f9",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":160,
+              "y":381},
+            "size":{
+              "width":129,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 1.8服务条款",
+                      "target":{
+                        "targetType":"page",
+                        "url":"1_8服务条款.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -1199,4 +1229,6 @@
     "6e79d8498fba49b194fb39bdf201748f":{
       "scriptId":"u48"},
     "278a06b60aed405583388b7b2e7aa4c6":{
-      "scriptId":"u49"}}});
+      "scriptId":"u49"},
+    "1752785d183d4fabbd312db9829a35f9":{
+      "scriptId":"u50"}}});

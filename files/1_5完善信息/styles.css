@@ -105,7 +105,7 @@
 #u8 {
   position:absolute;
   left:34px;
-  top:308px;
+  top:360px;
   width:292px;
   height:28px;
   font-size:11px;
@@ -410,7 +410,7 @@
 #u32 {
   position:absolute;
   left:20px;
-  top:258px;
+  top:310px;
   width:320px;
   height:40px;
   font-size:16px;
@@ -500,6 +500,35 @@
   top:54px;
   width:280px;
   height:34px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u40 {
+  position:absolute;
+  left:56px;
+  top:276px;
+  width:228px;
+  height:14px;
+  font-size:11px;
+}
+#u41 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:210px;
+  word-wrap:break-word;
+}
+#u40_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u42 {
+  position:absolute;
+  left:155px;
+  top:271px;
+  width:129px;
+  height:24px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_5完善信息.html",
-  "generationDate":new Date(1507529674784.9),
+  "generationDate":new Date(1507533663794.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -306,7 +306,7 @@
             "fontSize":"11px",
             "location":{
               "x":34,
-              "y":308},
+              "y":360},
             "size":{
               "width":292,
               "height":28}},
@@ -323,7 +323,7 @@
                 "fontSize":"11px",
                 "location":{
                   "x":34,
-                  "y":308},
+                  "y":360},
                 "size":{
                   "width":292,
                   "height":28}},
@@ -751,7 +751,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":20,
-              "y":258},
+              "y":310},
             "size":{
               "width":320,
               "height":40},
@@ -779,7 +779,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":20,
-                  "y":258},
+                  "y":310},
                 "size":{
                   "width":320,
                   "height":40},
@@ -922,6 +922,71 @@
                         "url":"1_1选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"c5de3fcd4862446f91b98ba71d54fb75",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":56.5,
+              "y":276},
+            "size":{
+              "width":228,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bdd92f95cae1409abe7d297c00b32476",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":56.5,
+                  "y":276},
+                "size":{
+                  "width":228,
+                  "height":14}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"d5eb1ae10f36426aa9a5e258b7f22d15",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":155,
+              "y":271},
+            "size":{
+              "width":129,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 1.8服务条款",
+                      "target":{
+                        "targetType":"page",
+                        "url":"1_8服务条款.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -1005,4 +1070,10 @@
     "960792adfa1a4577bbe7428b8d0bffe4":{
       "scriptId":"u38"},
     "a9eb0c9939c04cfe9978a98878367439":{
-      "scriptId":"u39"}}});
+      "scriptId":"u39"},
+    "c5de3fcd4862446f91b98ba71d54fb75":{
+      "scriptId":"u40"},
+    "bdd92f95cae1409abe7d297c00b32476":{
+      "scriptId":"u41"},
+    "d5eb1ae10f36426aa9a5e258b7f22d15":{
+      "scriptId":"u42"}}});
