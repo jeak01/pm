@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认页.html",
-  "generationDate":new Date(1506578464427.61),
+  "generationDate":new Date(1507529717627.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1794,7 +1794,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_1确认订单（农旅）/u240.png"}},
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u232.png"}},
 {
                   "id":"6ac36212810b4201a39fbd335e24ee37",
                   "label":"",
@@ -1959,7 +1959,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u26.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u18.png"}},
 {
           "id":"2ed028dc076d4275be075ea660070b38",
           "label":"",

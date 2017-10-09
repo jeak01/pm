@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_2_1确认订单_宅配_.html",
-  "generationDate":new Date(1506578456009.01),
+  "generationDate":new Date(1507529706023.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -552,7 +552,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u23.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u45.png"}},
 {
           "id":"445fba072e54450eb601036068ed1500",
           "label":"",
@@ -667,7 +667,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u29.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
 {
           "id":"7f8f7e7a3aae47edb8e277b590acc84d",
           "label":"",
@@ -846,7 +846,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u39.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
 {
           "id":"1214ccd204bb43538bee5ecca61e530e",
           "label":"",
@@ -992,7 +992,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u39.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
 {
           "id":"656be12cd2ce4c1d9e31a76b72811f24",
           "label":"",
@@ -1097,7 +1097,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u23.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u45.png"}},
 {
           "id":"4988e77ab7354f698af43264ca42884b",
           "label":"",

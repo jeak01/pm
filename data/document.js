@@ -135,7 +135,19 @@
         "children":[{
             "pageName":"首页",
             "type":"Wireframe",
-            "url":"首页.html"}]},
+            "url":"首页.html"},
+{
+            "pageName":"优游农旅卡",
+            "type":"Wireframe",
+            "url":"优游农旅卡.html"},
+{
+            "pageName":"农旅结合",
+            "type":"Wireframe",
+            "url":"农旅结合.html"},
+{
+            "pageName":"关于我们",
+            "type":"Wireframe",
+            "url":"关于我们.html"}]},
 {
         "pageName":"0919",
         "type":"Folder",

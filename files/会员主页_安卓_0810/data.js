@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_0810.html",
-  "generationDate":new Date(1506578468919.6),
+  "generationDate":new Date(1507529731097.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4832,7 +4832,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",

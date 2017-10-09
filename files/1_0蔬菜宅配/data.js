@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0蔬菜宅配.html",
-  "generationDate":new Date(1506578447496.35),
+  "generationDate":new Date(1507529686330.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -661,7 +661,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u72.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
 {
                           "id":"dbffc8ec28864532833cb8391ea9068f",
                           "label":"",
@@ -700,7 +700,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u72.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
 {
                           "id":"31ebc692fe7943b3b3f7286574e4032d",
                           "label":"",
@@ -11302,7 +11302,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u68.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
 {
                   "id":"c54f673790c94423b40c36804ad818e1",
                   "label":"",
@@ -11361,7 +11361,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u162.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u154.png"}},
 {
                   "id":"e4eabe61fd68440c81622e178037d9e6",
                   "label":"提示文字",

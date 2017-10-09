@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_3订单详情（农旅）.html",
-  "generationDate":new Date(1506578445166.8),
+  "generationDate":new Date(1507529678737.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -642,7 +642,7 @@
               "y":187},
             "size":{
               "width":360,
-              "height":100}},
+              "height":73}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -658,7 +658,7 @@
                   "y":187},
                 "size":{
                   "width":360,
-                  "height":100}},
+                  "height":73}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -800,74 +800,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"57a66b4a5024461fb701682a2d1de3f2",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":10,
-              "y":237},
-            "size":{
-              "width":56,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"412a2fee2ca24cfc8dfc9efc764c40de",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":10,
-                  "y":237},
-                "size":{
-                  "width":56,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"d3abfea963e849eeb95624339cf556b5",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":73,
-              "y":237},
-            "size":{
-              "width":53,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"5b8625bd361c4722a26bb07637dbe2b8",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":73,
-                  "y":237},
-                "size":{
-                  "width":53,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"cf0662b0df6e4a3bb8df243a5fffea87",
           "label":"",
           "type":"buttonShape",
@@ -877,7 +809,7 @@
             "fontSize":"11px",
             "location":{
               "x":10,
-              "y":258},
+              "y":234},
             "size":{
               "width":56,
               "height":14}},
@@ -894,7 +826,7 @@
                 "fontSize":"11px",
                 "location":{
                   "x":10,
-                  "y":258},
+                  "y":234},
                 "size":{
                   "width":56,
                   "height":14}},
@@ -911,7 +843,7 @@
           "style":{
             "location":{
               "x":73,
-              "y":256},
+              "y":232},
             "size":{
               "width":14,
               "height":16}},
@@ -927,7 +859,7 @@
               "style":{
                 "location":{
                   "x":73,
-                  "y":256},
+                  "y":232},
                 "size":{
                   "width":14,
                   "height":16}},
@@ -967,7 +899,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
+            "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
 {
           "id":"75b0c49fea4743f4a17b6c5325f3e789",
           "label":"",
@@ -1087,25 +1019,17 @@
       "scriptId":"u41"},
     "857f637f4a594bdb9f1c6bf24b2534e8":{
       "scriptId":"u42"},
-    "57a66b4a5024461fb701682a2d1de3f2":{
-      "scriptId":"u43"},
-    "412a2fee2ca24cfc8dfc9efc764c40de":{
-      "scriptId":"u44"},
-    "d3abfea963e849eeb95624339cf556b5":{
-      "scriptId":"u45"},
-    "5b8625bd361c4722a26bb07637dbe2b8":{
-      "scriptId":"u46"},
     "cf0662b0df6e4a3bb8df243a5fffea87":{
-      "scriptId":"u47"},
+      "scriptId":"u43"},
     "1d7dbefd21a74f3ea150ab789368f4a1":{
-      "scriptId":"u48"},
+      "scriptId":"u44"},
     "f8feb024f26948818ecd534254219466":{
-      "scriptId":"u49"},
+      "scriptId":"u45"},
     "a49145e8d5cd4cd085fce207ff81b631":{
-      "scriptId":"u50"},
+      "scriptId":"u46"},
     "0e2fbcd82ce1435c8fdc8d49dea227eb":{
-      "scriptId":"u51"},
+      "scriptId":"u47"},
     "09edbd11305d441baca91b70f4bdad1d":{
-      "scriptId":"u52"},
+      "scriptId":"u48"},
     "75b0c49fea4743f4a17b6c5325f3e789":{
-      "scriptId":"u53"}}});
+      "scriptId":"u49"}}});

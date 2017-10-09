@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1506578462220.14),
+  "generationDate":new Date(1507529714972.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1124,7 +1124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u26.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u18.png"}},
 {
           "id":"450fa25d7b6449e1923e4e00704547db",
           "label":"",
@@ -1186,7 +1186,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_1确认订单（农旅）/u240.png"}},
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u232.png"}},
 {
                   "id":"bcb02cc1b40a4725a47806f7dc8de8e1",
                   "label":"",

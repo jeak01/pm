@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"柠檬.html",
-  "generationDate":new Date(1506578466031.68),
+  "generationDate":new Date(1507529726090.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -817,7 +817,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_1确认订单（农旅）/u240.png"}},
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u232.png"}},
 {
                   "id":"bcb02cc1b40a4725a47806f7dc8de8e1",
                   "label":"",

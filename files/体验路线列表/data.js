@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1506578469650.08),
+  "generationDate":new Date(1507529733226.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -612,7 +612,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
+            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"a625581f8dd24245a3c7ffddea2a97d1",
           "label":"",
@@ -1006,7 +1006,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
+            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"37463dbba01f452083bbfcbb1708a6e6",
           "label":"",
@@ -1269,7 +1269,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
+            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"2d3bca7698c74212b14d45041b33144a",
           "label":"",
@@ -1532,7 +1532,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
+            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"fefea459588b475ca466657f44cd8a26",
           "label":"",
@@ -2670,7 +2670,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
+              "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

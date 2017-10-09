@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1506578449429.64),
+  "generationDate":new Date(1507529690842.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1603,7 +1603,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
+            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"bd5e5aa63f244ba2a6e6a2c46028d022",
           "label":"",
@@ -3028,7 +3028,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

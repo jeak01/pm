@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_1订单详情（单品）.html",
-  "generationDate":new Date(1506578445442.99),
+  "generationDate":new Date(1507529679104.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -788,7 +788,7 @@
               "y":250},
             "size":{
               "width":360,
-              "height":100}},
+              "height":70}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -804,11 +804,11 @@
                   "y":250},
                 "size":{
                   "width":360,
-                  "height":100}},
+                  "height":70}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
+            "normal~":"images/1_3支付成功/u17.png"}},
 {
           "id":"a77329affb9d4d90a4bd8a3e1a406971",
           "label":"",
@@ -946,74 +946,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"6f66abe9450a41bb9a13a0a48f5b97f7",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":10,
-              "y":300},
-            "size":{
-              "width":56,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"8fc666ada0024fe19019c1370324dde3",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":10,
-                  "y":300},
-                "size":{
-                  "width":56,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"fdc25c34e1c1471aa9b33ec38fda294c",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":73,
-              "y":300},
-            "size":{
-              "width":53,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"168f0ba9649b4597afba0ad2a9b6e0d5",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":73,
-                  "y":300},
-                "size":{
-                  "width":53,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"886060f67e124c3081fba2391e5ddeac",
           "label":"",
           "type":"buttonShape",
@@ -1023,7 +955,7 @@
             "fontSize":"11px",
             "location":{
               "x":10,
-              "y":321},
+              "y":297},
             "size":{
               "width":56,
               "height":14}},
@@ -1040,7 +972,7 @@
                 "fontSize":"11px",
                 "location":{
                   "x":10,
-                  "y":321},
+                  "y":297},
                 "size":{
                   "width":56,
                   "height":14}},
@@ -1057,7 +989,7 @@
           "style":{
             "location":{
               "x":73,
-              "y":319},
+              "y":295},
             "size":{
               "width":14,
               "height":16}},
@@ -1073,7 +1005,7 @@
               "style":{
                 "location":{
                   "x":73,
-                  "y":319},
+                  "y":295},
                 "size":{
                   "width":14,
                   "height":16}},
@@ -1113,7 +1045,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
+            "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
 {
           "id":"1a3174ecaed442649990df515de28fde",
           "label":"",
@@ -1279,27 +1211,19 @@
       "scriptId":"u49"},
     "ebf24c40eba74a0283ea3cd7d76ba3dc":{
       "scriptId":"u50"},
-    "6f66abe9450a41bb9a13a0a48f5b97f7":{
-      "scriptId":"u51"},
-    "8fc666ada0024fe19019c1370324dde3":{
-      "scriptId":"u52"},
-    "fdc25c34e1c1471aa9b33ec38fda294c":{
-      "scriptId":"u53"},
-    "168f0ba9649b4597afba0ad2a9b6e0d5":{
-      "scriptId":"u54"},
     "886060f67e124c3081fba2391e5ddeac":{
-      "scriptId":"u55"},
+      "scriptId":"u51"},
     "de9b91cd31e549e8886347410c28ff39":{
-      "scriptId":"u56"},
+      "scriptId":"u52"},
     "c93bbf73ee7b48b8bce0ca280f93f3a4":{
-      "scriptId":"u57"},
+      "scriptId":"u53"},
     "dee31af7f90f408bbbd48c27b9450ab7":{
-      "scriptId":"u58"},
+      "scriptId":"u54"},
     "825f4f3aeb204b9f9485619433a0bc9e":{
-      "scriptId":"u59"},
+      "scriptId":"u55"},
     "2811e1e1faf443b292b74833f97d0ad0":{
-      "scriptId":"u60"},
+      "scriptId":"u56"},
     "1a3174ecaed442649990df515de28fde":{
-      "scriptId":"u61"},
+      "scriptId":"u57"},
     "bb7ca568db724ac8959917719a2862c9":{
-      "scriptId":"u62"}}});
+      "scriptId":"u58"}}});

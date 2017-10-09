@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0727.html",
-  "generationDate":new Date(1506578467554.69),
+  "generationDate":new Date(1507529729381.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -942,7 +942,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页_安卓_0727/u46.png"}},
+            "normal~":"images/首页/u4.png"}},
 {
           "id":"57372656f6184d4fa5df7f78e055aa61",
           "label":"",
@@ -3595,7 +3595,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",

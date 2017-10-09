@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1506578466595.05),
+  "generationDate":new Date(1507529726725.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1443,7 +1443,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
 {
           "id":"cd77f7c2bb304956898738fdcadc7252",
           "label":"",
@@ -1949,7 +1949,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
 {
           "id":"7e71d62dc2364f2188e6fd110f313305",
           "label":"",
@@ -2134,7 +2134,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
 {
           "id":"e7f2be4f73b94634a846bec3f7ae67c5",
           "label":"",
@@ -2319,7 +2319,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u30.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
 {
           "id":"858fde4ac45d472e8f8f313deefaecc0",
           "label":"",
@@ -3766,7 +3766,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u51.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",
