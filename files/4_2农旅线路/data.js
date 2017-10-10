@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2农旅线路.html",
-  "generationDate":new Date(1507533673211.71),
+  "generationDate":new Date(1507600719738.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8227,7 +8227,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u48.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

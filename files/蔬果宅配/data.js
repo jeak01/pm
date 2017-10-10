@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1507533686747.71),
+  "generationDate":new Date(1507600736623.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3766,7 +3766,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u48.png"}},
 {
                     "id":"806e77a021e44ddb9e4b2ec499bc008e",
                     "label":"",

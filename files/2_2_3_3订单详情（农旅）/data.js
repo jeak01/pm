@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_3订单详情（农旅）.html",
-  "generationDate":new Date(1507533666252.08),
+  "generationDate":new Date(1507600709979.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -629,7 +629,35 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}}]}]},
+                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}},
+{
+                  "id":"a714214b279341d8b93c77cd5a0589d4",
+                  "label":"",
+                  "parentDynamicPanel":"467075897b654158bb9bb9763f929e2f",
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":80,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 2.5意见反馈",
+                              "target":{
+                                "targetType":"page",
+                                "url":"2_5意见反馈.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}]},
 {
           "id":"0c5e7ef332814deea74b33b5ae16e1f2",
           "label":"",
@@ -662,7 +690,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u33.png"}},
+            "normal~":"images/2_2_3_3订单详情（农旅）/u34.png"}},
 {
           "id":"4fef747e8dc8448faa588c88d296cbc6",
           "label":"",
@@ -899,7 +927,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
+            "normal~":"images/2_2_3_3订单详情（农旅）/u48.png"}},
 {
           "id":"75b0c49fea4743f4a17b6c5325f3e789",
           "label":"",
@@ -999,37 +1027,39 @@
       "scriptId":"u31"},
     "2c4bc03fb9104c6dad170512fc70b19c":{
       "scriptId":"u32"},
-    "0c5e7ef332814deea74b33b5ae16e1f2":{
+    "a714214b279341d8b93c77cd5a0589d4":{
       "scriptId":"u33"},
-    "e83b8b5c52774b209d4db4934a816821":{
+    "0c5e7ef332814deea74b33b5ae16e1f2":{
       "scriptId":"u34"},
-    "4fef747e8dc8448faa588c88d296cbc6":{
+    "e83b8b5c52774b209d4db4934a816821":{
       "scriptId":"u35"},
-    "4d9d31770d07497ca642a6e83d212cae":{
+    "4fef747e8dc8448faa588c88d296cbc6":{
       "scriptId":"u36"},
-    "4f1055006a564a4283be5fdcf6a2ac5f":{
+    "4d9d31770d07497ca642a6e83d212cae":{
       "scriptId":"u37"},
-    "496ebf0036b24f81843da05225e1bd91":{
+    "4f1055006a564a4283be5fdcf6a2ac5f":{
       "scriptId":"u38"},
-    "81f7e004cf814531ae06021188bc080c":{
+    "496ebf0036b24f81843da05225e1bd91":{
       "scriptId":"u39"},
-    "4560ea9980cc4add985f56269b766721":{
+    "81f7e004cf814531ae06021188bc080c":{
       "scriptId":"u40"},
-    "560fe9e54fc441b19684e0c502677dcf":{
+    "4560ea9980cc4add985f56269b766721":{
       "scriptId":"u41"},
-    "857f637f4a594bdb9f1c6bf24b2534e8":{
+    "560fe9e54fc441b19684e0c502677dcf":{
       "scriptId":"u42"},
-    "cf0662b0df6e4a3bb8df243a5fffea87":{
+    "857f637f4a594bdb9f1c6bf24b2534e8":{
       "scriptId":"u43"},
-    "1d7dbefd21a74f3ea150ab789368f4a1":{
+    "cf0662b0df6e4a3bb8df243a5fffea87":{
       "scriptId":"u44"},
-    "f8feb024f26948818ecd534254219466":{
+    "1d7dbefd21a74f3ea150ab789368f4a1":{
       "scriptId":"u45"},
-    "a49145e8d5cd4cd085fce207ff81b631":{
+    "f8feb024f26948818ecd534254219466":{
       "scriptId":"u46"},
-    "0e2fbcd82ce1435c8fdc8d49dea227eb":{
+    "a49145e8d5cd4cd085fce207ff81b631":{
       "scriptId":"u47"},
-    "09edbd11305d441baca91b70f4bdad1d":{
+    "0e2fbcd82ce1435c8fdc8d49dea227eb":{
       "scriptId":"u48"},
+    "09edbd11305d441baca91b70f4bdad1d":{
+      "scriptId":"u49"},
     "75b0c49fea4743f4a17b6c5325f3e789":{
-      "scriptId":"u49"}}});
+      "scriptId":"u50"}}});

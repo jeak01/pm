@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1农场主页.html",
-  "generationDate":new Date(1507533672036.93),
+  "generationDate":new Date(1507600718117.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -7894,7 +7894,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u48.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",

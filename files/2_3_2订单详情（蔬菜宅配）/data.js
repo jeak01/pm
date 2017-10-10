@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_2订单详情（蔬菜宅配）.html",
-  "generationDate":new Date(1507533666659.35),
+  "generationDate":new Date(1507600710503.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -580,7 +580,35 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}}]}]},
+                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}},
+{
+                  "id":"10b030cb4eb646c18366e6dcc6d1de51",
+                  "label":"",
+                  "parentDynamicPanel":"81a1742bc4a94ff1915e44de10267543",
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":80,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 2.5意见反馈",
+                              "target":{
+                                "targetType":"page",
+                                "url":"2_5意见反馈.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}]},
 {
           "id":"ae5e0e1696c54723832627145082dd0f",
           "label":"",
@@ -870,7 +898,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
+            "normal~":"images/2_2_3_3订单详情（农旅）/u48.png"}},
 {
           "id":"b851d16fb041435fbd7c1d094f28f8c2",
           "label":"",
@@ -1171,59 +1199,61 @@
       "scriptId":"u29"},
     "84d6dc9faf694e5f9c3eadf10dc77404":{
       "scriptId":"u30"},
-    "ae5e0e1696c54723832627145082dd0f":{
+    "10b030cb4eb646c18366e6dcc6d1de51":{
       "scriptId":"u31"},
-    "59b6eab8e508496e998912204d7ecdff":{
+    "ae5e0e1696c54723832627145082dd0f":{
       "scriptId":"u32"},
-    "2fd652a27d12486da195555779da14ef":{
+    "59b6eab8e508496e998912204d7ecdff":{
       "scriptId":"u33"},
-    "99b4996757b944bfaec45a364b78a2d7":{
+    "2fd652a27d12486da195555779da14ef":{
       "scriptId":"u34"},
-    "b83fb0e072064b058c1609d19c308866":{
+    "99b4996757b944bfaec45a364b78a2d7":{
       "scriptId":"u35"},
-    "7c0fcdefc8774df28e6a01896fc1d948":{
+    "b83fb0e072064b058c1609d19c308866":{
       "scriptId":"u36"},
-    "2dad89276cf047f5950e59c421ff6886":{
+    "7c0fcdefc8774df28e6a01896fc1d948":{
       "scriptId":"u37"},
-    "d5dd5d71e1cf4a42b0b351e2d463ac70":{
+    "2dad89276cf047f5950e59c421ff6886":{
       "scriptId":"u38"},
-    "0d84f1ca714f45edb8385b9abc77911c":{
+    "d5dd5d71e1cf4a42b0b351e2d463ac70":{
       "scriptId":"u39"},
-    "d8803394313745ac8db0816d27588f4c":{
+    "0d84f1ca714f45edb8385b9abc77911c":{
       "scriptId":"u40"},
-    "90810df82a854d36a0edc6ccae12ec0d":{
+    "d8803394313745ac8db0816d27588f4c":{
       "scriptId":"u41"},
-    "1c774beb09a44de1b3eee9a60ff5bac6":{
+    "90810df82a854d36a0edc6ccae12ec0d":{
       "scriptId":"u42"},
-    "5dead737bcf94d9da2c53566eff2fdd5":{
+    "1c774beb09a44de1b3eee9a60ff5bac6":{
       "scriptId":"u43"},
-    "46aaae04cc7c49198f7944b5f720a41e":{
+    "5dead737bcf94d9da2c53566eff2fdd5":{
       "scriptId":"u44"},
-    "97c64bfacee24a8297dc8a51bf133a5e":{
+    "46aaae04cc7c49198f7944b5f720a41e":{
       "scriptId":"u45"},
-    "d45bb8132f484ddfa846af15f4f8db70":{
+    "97c64bfacee24a8297dc8a51bf133a5e":{
       "scriptId":"u46"},
-    "b851d16fb041435fbd7c1d094f28f8c2":{
+    "d45bb8132f484ddfa846af15f4f8db70":{
       "scriptId":"u47"},
-    "eb9272332fb44fa483cb4276c8364edd":{
+    "b851d16fb041435fbd7c1d094f28f8c2":{
       "scriptId":"u48"},
-    "541d91a93ae448f88394e2068e2c34c0":{
+    "eb9272332fb44fa483cb4276c8364edd":{
       "scriptId":"u49"},
-    "a1dbc28cf9ff4c10b0e8e116088af650":{
+    "541d91a93ae448f88394e2068e2c34c0":{
       "scriptId":"u50"},
-    "1105721ff7c44bd18957f33ad212cda6":{
+    "a1dbc28cf9ff4c10b0e8e116088af650":{
       "scriptId":"u51"},
-    "beff460ff52c42abb80088a3d1718258":{
+    "1105721ff7c44bd18957f33ad212cda6":{
       "scriptId":"u52"},
-    "7c5008eb01394fa5a6e52c6b47059039":{
+    "beff460ff52c42abb80088a3d1718258":{
       "scriptId":"u53"},
-    "e172b448c8f14c3bb7c726bf5094764e":{
+    "7c5008eb01394fa5a6e52c6b47059039":{
       "scriptId":"u54"},
-    "4d7d34e6a58b483b897433ba613408d2":{
+    "e172b448c8f14c3bb7c726bf5094764e":{
       "scriptId":"u55"},
-    "8108fc6bae084c40aa4975bbda2d05dc":{
+    "4d7d34e6a58b483b897433ba613408d2":{
       "scriptId":"u56"},
-    "224dcc48fdd148d3befbac3d8466d461":{
+    "8108fc6bae084c40aa4975bbda2d05dc":{
       "scriptId":"u57"},
+    "224dcc48fdd148d3befbac3d8466d461":{
+      "scriptId":"u58"},
     "4de9ac5b1e1a4008963d57c4723c1c9b":{
-      "scriptId":"u58"}}});
+      "scriptId":"u59"}}});

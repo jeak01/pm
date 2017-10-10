@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1507533670754.08),
+  "generationDate":new Date(1507600716158.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3028,7 +3028,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/2_2_3_3订单详情（农旅）/u47.png"}},
+                      "normal~":"images/2_2_3_3订单详情（农旅）/u48.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
