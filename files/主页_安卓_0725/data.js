@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1507600737251.43),
+  "generationDate":new Date(1507779915219.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2487,7 +2487,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u436.jpg"}},
+            "normal~":"images/2_0蔬菜宅配/u436.jpg"}},
 {
           "id":"d72fa1e6176e4b228ce9b3c53685849b",
           "label":"",
@@ -3057,7 +3057,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
+            "normal~":"images/2_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"d3c877a063184890bc4fe7625db2698e",
           "label":"",
@@ -3090,7 +3090,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u436.jpg"}},
+            "normal~":"images/2_0蔬菜宅配/u436.jpg"}},
 {
           "id":"307a6f7789944ad6a6a8f41de02a293c",
           "label":"",
@@ -3320,7 +3320,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
+            "normal~":"images/2_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"53889eba41084d74b1c80f84974f0fa5",
           "label":"",
@@ -3583,7 +3583,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
+            "normal~":"images/2_4蔬菜宅配订单详情/u14.png"}},
 {
           "id":"70d3b65ddeb140fdaff0fbccb96e9822",
           "label":"",

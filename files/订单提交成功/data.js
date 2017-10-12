@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单提交成功.html",
-  "generationDate":new Date(1507600730606.67),
+  "generationDate":new Date(1507779908946.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -364,7 +364,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功_1/u14.png"}},
+            "normal~":"images/2_3支付成功/u14.png"}},
 {
           "id":"2e926c064b5f4ce389b1f0d0c54c343e",
           "label":"",
@@ -430,10 +430,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 1.4蔬菜宅配订单详情",
+                              "description":"在 当前窗口 打开 2.4蔬菜宅配订单详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"1_4蔬菜宅配订单详情.html",
+                                "url":"2_4蔬菜宅配订单详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

@@ -161,25 +161,37 @@
             "type":"Wireframe",
             "url":"0_0主页.html",
             "children":[{
-                "pageName":"0.1选择城市",
+                "pageName":"*0.1选择城市",
                 "type":"Wireframe",
-                "url":"0_1选择城市.html"}]},
+                "url":"_0_1选择城市.html"}]},
 {
-            "pageName":"0.2登录",
+            "pageName":"*0.2登录",
             "type":"Wireframe",
-            "url":"0_2登录.html"},
+            "url":"_0_2登录.html"},
 {
-            "pageName":"0.3注册",
+            "pageName":"*0.3注册",
             "type":"Wireframe",
-            "url":"0_3注册.html"},
+            "url":"_0_3注册.html"},
 {
-            "pageName":"1.0蔬菜宅配",
+            "pageName":"*1.0农旅卡主题页",
             "type":"Wireframe",
-            "url":"1_0蔬菜宅配.html",
+            "url":"_1_0农旅卡主题页.html",
             "children":[{
-                "pageName":"1.1确认订单",
+                "pageName":"1.1选择指定农场",
                 "type":"Wireframe",
-                "url":"1_1确认订单.html"},
+                "url":"1_1选择指定农场_1.html",
+                "children":[{
+                    "pageName":"1.1.1蔬菜箱详情",
+                    "type":"Wireframe",
+                    "url":"1_1_1蔬菜箱详情_1.html"},
+{
+                    "pageName":"1.1.2农场体验游详情",
+                    "type":"Wireframe",
+                    "url":"1_1_2农场体验游详情_1.html"},
+{
+                    "pageName":"1.1.3农场主页",
+                    "type":"Wireframe",
+                    "url":"1_1_3农场主页_1.html"}]},
 {
                 "pageName":"1.2订单支付页",
                 "type":"Wireframe",
@@ -189,29 +201,33 @@
                 "type":"Wireframe",
                 "url":"1_3支付成功_1.html"},
 {
-                "pageName":"1.4蔬菜宅配订单详情",
+                "pageName":"1.4支付失败",
                 "type":"Wireframe",
-                "url":"1_4蔬菜宅配订单详情.html"}]},
+                "url":"1_4支付失败_1.html"},
 {
-            "pageName":"2.0农旅卡主题页",
+                "pageName":"1.5完善信息",
+                "type":"Wireframe",
+                "url":"1_5完善信息_1.html"},
+{
+                "pageName":"1.6提交成功",
+                "type":"Wireframe",
+                "url":"1_6提交成功_1.html"},
+{
+                "pageName":"1.7合作农场列表",
+                "type":"Wireframe",
+                "url":"1_7合作农场列表_1.html"},
+{
+                "pageName":"1.8服务条款",
+                "type":"Wireframe",
+                "url":"1_8服务条款_1.html"}]},
+{
+            "pageName":"2.0蔬菜宅配",
             "type":"Wireframe",
-            "url":"2_0农旅卡主题页.html",
+            "url":"2_0蔬菜宅配.html",
             "children":[{
-                "pageName":"2.1选择指定农场",
+                "pageName":"2.1确认订单",
                 "type":"Wireframe",
-                "url":"2_1选择指定农场.html",
-                "children":[{
-                    "pageName":"2.1.1蔬菜箱详情",
-                    "type":"Wireframe",
-                    "url":"2_1_1蔬菜箱详情.html"},
-{
-                    "pageName":"2.1.2走地鸡详情",
-                    "type":"Wireframe",
-                    "url":"2_1_2走地鸡详情.html"},
-{
-                    "pageName":"2.1.3鸡蛋详情",
-                    "type":"Wireframe",
-                    "url":"2_1_3鸡蛋详情.html"}]},
+                "url":"2_1确认订单.html"},
 {
                 "pageName":"2.2订单支付页",
                 "type":"Wireframe",
@@ -221,17 +237,17 @@
                 "type":"Wireframe",
                 "url":"2_3支付成功.html"},
 {
-                "pageName":"2.4支付失败",
+                "pageName":"2.4蔬菜宅配订单详情",
                 "type":"Wireframe",
-                "url":"2_4支付失败.html"}]},
+                "url":"2_4蔬菜宅配订单详情.html"}]},
 {
             "pageName":"3.0会员充值",
             "type":"Wireframe",
             "url":"3_0会员充值.html",
             "children":[{
-                "pageName":"3.1充值成功",
+                "pageName":"*3.1充值成功",
                 "type":"Wireframe",
-                "url":"3_1充值成功.html"},
+                "url":"_3_1充值成功.html"},
 {
                 "pageName":"3.2会员保障",
                 "type":"Wireframe",
@@ -241,9 +257,9 @@
                 "type":"Wireframe",
                 "url":"3_3充值优惠.html"}]},
 {
-            "pageName":"4.0发现",
+            "pageName":"*4.0发现",
             "type":"Wireframe",
-            "url":"4_0发现.html",
+            "url":"_4_0发现.html",
             "children":[{
                 "pageName":"4.1农场列表",
                 "type":"Wireframe",
@@ -305,9 +321,9 @@
                     "type":"Wireframe",
                     "url":"4_3_1文章列表.html",
                     "children":[{
-                        "pageName":"4.3.1.1文章详情",
+                        "pageName":"*4.3.1.1文章详情",
                         "type":"Wireframe",
-                        "url":"4_3_1_1文章详情.html"}]}]}]},
+                        "url":"_4_3_1_1文章详情.html"}]}]}]},
 {
             "pageName":"5.0个人中心主页",
             "type":"Wireframe",
@@ -369,9 +385,17 @@
                 "type":"Wireframe",
                 "url":"5_4待支付订单.html"},
 {
-                "pageName":"我的账户",
+                "pageName":"5.5我的账户",
                 "type":"Wireframe",
-                "url":"我的账户.html"}]},
+                "url":"5_5我的账户.html"},
+{
+                "pageName":"5.6个人资料",
+                "type":"Wireframe",
+                "url":"5_6个人资料.html"},
+{
+                "pageName":"5.7设置",
+                "type":"Wireframe",
+                "url":"5_7设置.html"}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",

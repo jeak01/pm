@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3支付成功.html",
-  "generationDate":new Date(1507600715728.34),
+  "generationDate":new Date(1507779896448.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"96a19ebf0a6f40cbbd93e4f9a19c6884",
+    "packageId":"2e9c849f74974e80ba536962acbc3f37",
     "type":"Axure:Page",
     "name":"2.3支付成功",
     "notes":{
@@ -376,7 +376,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功_1/u14.png"}},
+            "normal~":"images/2_3支付成功/u14.png"}},
 {
           "id":"2e926c064b5f4ce389b1f0d0c54c343e",
           "label":"",
@@ -442,10 +442,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 5.2我的农旅卡",
+                              "description":"在 当前窗口 打开 2.4蔬菜宅配订单详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"5_2我的农旅卡.html",
+                                "url":"2_4蔬菜宅配订单详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -520,40 +520,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u15.png"}}]}]},
-{
-          "id":"9adc94a5d07b4c7ab9cca68880bbfb60",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":264},
-            "size":{
-              "width":360,
-              "height":156}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"aa21881cc110419f94f7c7ef1dcdf306",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":264},
-                "size":{
-                  "width":360,
-                  "height":156}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]}},
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -598,8 +565,4 @@
     "3c0c70fb9a424a1bb4f04ede0d901c66":{
       "scriptId":"u19"},
     "a096680bbe55419a91e6a12da7c31010":{
-      "scriptId":"u20"},
-    "9adc94a5d07b4c7ab9cca68880bbfb60":{
-      "scriptId":"u21"},
-    "aa21881cc110419f94f7c7ef1dcdf306":{
-      "scriptId":"u22"}}});
+      "scriptId":"u20"}}});

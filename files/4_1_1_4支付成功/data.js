@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_4支付成功.html",
-  "generationDate":new Date(1507600718634.98),
+  "generationDate":new Date(1507779898603.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -364,7 +364,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功_1/u14.png"}},
+            "normal~":"images/2_3支付成功/u14.png"}},
 {
           "id":"2e926c064b5f4ce389b1f0d0c54c343e",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1农场列表.html",
-  "generationDate":new Date(1507600717540.01),
+  "generationDate":new Date(1507779897577.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -334,7 +334,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_0发现/u8.png"}},
+            "normal~":"images/_4_0发现/u8.png"}},
 {
           "id":"f50af3a3516642c79723190819b27984",
           "label":"",
@@ -1999,10 +1999,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.0发现",
+                      "description":"在 当前窗口 打开 *4.0发现",
                       "target":{
                         "targetType":"page",
-                        "url":"4_0发现.html",
+                        "url":"_4_0发现.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3388,10 +3388,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 1.0蔬菜宅配",
+                                "description":"在 当前窗口 打开 2.0蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"1_0蔬菜宅配.html",
+                                  "url":"2_0蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -3419,10 +3419,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 4.0发现",
+                                "description":"在 当前窗口 打开 *4.0发现",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"4_0发现.html",
+                                  "url":"_4_0发现.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

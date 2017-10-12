@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_0个人中心主页.html",
-  "generationDate":new Date(1507600723797.06),
+  "generationDate":new Date(1507779902664.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1186,158 +1186,6 @@
           "images":{
             "normal~":"images/2_0个人中心主页/u18.png"}},
 {
-          "id":"e10fbaa5aaec4bf3b092aca69f90a07b",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":440},
-            "size":{
-              "width":360,
-              "height":40},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFDDDDDD}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"3869f37fdd2e4a3d98987e9b5727fbeb",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":440},
-                "size":{
-                  "width":360,
-                  "height":40},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFDDDDDD}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
-{
-          "id":"755d3cf0e2af463da05ff6efd92f9e5f",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":54,
-              "y":452},
-            "size":{
-              "width":53,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"5d5ee0621f6c4820b9185c5c3be99d99",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":54,
-                  "y":452},
-                "size":{
-                  "width":53,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"35ddea7790c0416ca8a7ad335f28cfdc",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":326,
-              "y":448},
-            "size":{
-              "width":25,
-              "height":25},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF000000}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"7ac4e0473db449da82e59431f9e2d5b7",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":326,
-                  "y":448},
-                "size":{
-                  "width":25,
-                  "height":25},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
-{
-          "id":"a466ddacdef2488f941d00b832ee3a5f",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":19,
-              "y":448},
-            "size":{
-              "width":25,
-              "height":25},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF666666}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"2f7e83d150004f5d97becc126045a468",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":19,
-                  "y":448},
-                "size":{
-                  "width":25,
-                  "height":25},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF666666}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}},
-{
           "id":"69268cfb5b4e4dbfad47174575afd505",
           "label":"",
           "type":"buttonShape",
@@ -1570,7 +1418,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_0个人中心主页/u106.png"}},
+            "normal~":"images/5_0个人中心主页/u98.png"}},
 {
           "id":"42939e0d934a4cdeb70f4d41ced31c71",
           "label":"",
@@ -1843,6 +1691,78 @@
                       "target":{
                         "targetType":"page",
                         "url":"5_2我的农旅卡.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"03fa21cc2a644c2cb7d20608670c3c29",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":45},
+            "size":{
+              "width":360,
+              "height":92}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 5.6个人资料",
+                      "target":{
+                        "targetType":"page",
+                        "url":"5_6个人资料.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7af13600ac294dc6ad8cc1ccbfb9f455",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":44,
+              "height":40}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ff0c995d6107418d8aaad507bbbd7923",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":237,
+              "y":153},
+            "size":{
+              "width":95,
+              "height":57}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 5.5我的账户",
+                      "target":{
+                        "targetType":"page",
+                        "url":"5_5我的账户.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
@@ -2406,10 +2326,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 1.0蔬菜宅配",
+                                "description":"在 当前窗口 打开 2.0蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"1_0蔬菜宅配.html",
+                                  "url":"2_0蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -2437,10 +2357,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 4.0发现",
+                                "description":"在 当前窗口 打开 *4.0发现",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"4_0发现.html",
+                                  "url":"_4_0发现.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -2596,127 +2516,117 @@
       "scriptId":"u58"},
     "5e2fe27cbbc24d419c9d7e9439cc1088":{
       "scriptId":"u59"},
-    "e10fbaa5aaec4bf3b092aca69f90a07b":{
-      "scriptId":"u60"},
-    "3869f37fdd2e4a3d98987e9b5727fbeb":{
-      "scriptId":"u61"},
-    "755d3cf0e2af463da05ff6efd92f9e5f":{
-      "scriptId":"u62"},
-    "5d5ee0621f6c4820b9185c5c3be99d99":{
-      "scriptId":"u63"},
-    "35ddea7790c0416ca8a7ad335f28cfdc":{
-      "scriptId":"u64"},
-    "7ac4e0473db449da82e59431f9e2d5b7":{
-      "scriptId":"u65"},
-    "a466ddacdef2488f941d00b832ee3a5f":{
-      "scriptId":"u66"},
-    "2f7e83d150004f5d97becc126045a468":{
-      "scriptId":"u67"},
     "69268cfb5b4e4dbfad47174575afd505":{
-      "scriptId":"u68"},
+      "scriptId":"u60"},
     "109e4360e470447c8aee6d146c773539":{
-      "scriptId":"u69"},
+      "scriptId":"u61"},
     "553fc75910c945fe8e3a6b1677dc0f83":{
-      "scriptId":"u70"},
+      "scriptId":"u62"},
     "d6b923a20b3d4f8896ecdb042cb4507a":{
-      "scriptId":"u71"},
+      "scriptId":"u63"},
     "48a7c921d2784b0ebae873a25f2b6b85":{
-      "scriptId":"u72"},
+      "scriptId":"u64"},
     "3a65952981064a158d0ed09ff2bae17b":{
-      "scriptId":"u73"},
+      "scriptId":"u65"},
     "241884bee06a41299aa8e41e5a235bf8":{
-      "scriptId":"u74"},
+      "scriptId":"u66"},
     "484fd89cb2eb4151a277f6612da201d9":{
-      "scriptId":"u75"},
+      "scriptId":"u67"},
     "d9a439021e6b4a51982c6b319e7273de":{
-      "scriptId":"u76"},
+      "scriptId":"u68"},
     "dd8fb6310836474797c177db500d46c5":{
-      "scriptId":"u77",
+      "scriptId":"u69",
       "d3980e768e434d6e8006717cfc1027d7":{
-        "scriptId":"u78"},
+        "scriptId":"u70"},
       "23869cb13512415b8b7971a663608747":{
-        "scriptId":"u79"},
+        "scriptId":"u71"},
       "3217ebd80ccd40c586ae39ff3ebb1543":{
-        "scriptId":"u80"},
+        "scriptId":"u72"},
       "d004dced895a4eacb5efe917cca36edf":{
-        "scriptId":"u81"},
+        "scriptId":"u73"},
       "c8814745f745428db1ec799978487b14":{
-        "scriptId":"u82"},
+        "scriptId":"u74"},
       "410ed3b8921c4b049c59109bbeab49e3":{
-        "scriptId":"u83"},
+        "scriptId":"u75"},
       "a651b47d1e6e452cad7dfe30c2a0ae7c":{
-        "scriptId":"u84"},
+        "scriptId":"u76"},
       "910efa73a76d4b0d9db84006f75ec976":{
-        "scriptId":"u85"},
+        "scriptId":"u77"},
       "a42ded06f7a7420f807e1369cb460d27":{
-        "scriptId":"u86"},
+        "scriptId":"u78"},
       "6d5a344f556a43e6a407001e342fbfea":{
-        "scriptId":"u87"},
+        "scriptId":"u79"},
       "0b939d02785c48368653a620956655b4":{
-        "scriptId":"u88"},
+        "scriptId":"u80"},
       "fcf6bc000ad54b73a898b7612b0fd1be":{
-        "scriptId":"u89"},
+        "scriptId":"u81"},
       "e8182f657e0a44b2a22072f4fe191a65":{
-        "scriptId":"u90"},
+        "scriptId":"u82"},
       "469056e6db7b48ea8beb0cde764fda32":{
-        "scriptId":"u91"},
+        "scriptId":"u83"},
       "5cd991483bf843d1ae7045e6e98ebf9b":{
-        "scriptId":"u92"},
+        "scriptId":"u84"},
       "78876019e8d742938da830e4d8d4574a":{
-        "scriptId":"u93"},
+        "scriptId":"u85"},
       "29d462b7bb7a493b87ec072faf2f5d57":{
-        "scriptId":"u94"},
+        "scriptId":"u86"},
       "e54b788ac95740f0a17b53707d224d1e":{
-        "scriptId":"u95"},
+        "scriptId":"u87"},
       "0322dabe132f4082bf7d358e28e63678":{
-        "scriptId":"u96"},
+        "scriptId":"u88"},
       "e0c8b35ab6c640e4bfa3685c98588a2d":{
-        "scriptId":"u97"},
+        "scriptId":"u89"},
       "645a1aecdf08437f99fc444dc99f3e10":{
-        "scriptId":"u98"},
+        "scriptId":"u90"},
       "c6e97157c788455f9783097231226f7e":{
-        "scriptId":"u99"},
+        "scriptId":"u91"},
       "696eadac344b40088748cf59bc9aaa9b":{
-        "scriptId":"u100"},
+        "scriptId":"u92"},
       "78c5dfdba7834f048ec91fe3d691915d":{
-        "scriptId":"u101"},
+        "scriptId":"u93"},
       "a4c5ad2e9ab441438619cc38629775f8":{
-        "scriptId":"u102"},
+        "scriptId":"u94"},
       "2d4f7c0004734a37855bb4385356382b":{
-        "scriptId":"u103"},
+        "scriptId":"u95"},
       "e89d265e971e4db3a287a12f25c2f503":{
-        "scriptId":"u104"},
+        "scriptId":"u96"},
       "8de9a287ce1540abbcb6ec1b3c3a6254":{
-        "scriptId":"u105"}},
+        "scriptId":"u97"}},
     "cb0118178ab54dbd8a457ee711fe4ab1":{
-      "scriptId":"u106"},
+      "scriptId":"u98"},
     "cd68c5a621fd49aaa9929056794f659f":{
-      "scriptId":"u107"},
+      "scriptId":"u99"},
     "42939e0d934a4cdeb70f4d41ced31c71":{
-      "scriptId":"u108"},
+      "scriptId":"u100"},
     "7747a6250f5843d38ed496c7804cba19":{
-      "scriptId":"u109"},
+      "scriptId":"u101"},
     "068ca2da4b90451ab45d4fc5cc523c18":{
-      "scriptId":"u110"},
+      "scriptId":"u102"},
     "7b99ad3f4c7c468f9bbaaac379a8386c":{
-      "scriptId":"u111"},
+      "scriptId":"u103"},
     "3d51e8c91267446390b19564ff5ed2f3":{
-      "scriptId":"u112"},
+      "scriptId":"u104"},
     "7a4fd8145f89435bb1374f8f7bfe525b":{
-      "scriptId":"u113"},
+      "scriptId":"u105"},
     "2082cefef4ac4471b1e5e7f18e8f97ef":{
-      "scriptId":"u114"},
+      "scriptId":"u106"},
     "05e761a99e8a4b28a89fb70e7d472113":{
-      "scriptId":"u115"},
+      "scriptId":"u107"},
     "3c3f9c0b4dfc439f9184f49184cf9699":{
-      "scriptId":"u116"},
+      "scriptId":"u108"},
     "8bca748f415244299572f625d2fb9606":{
-      "scriptId":"u117"},
+      "scriptId":"u109"},
     "4ba7a73ad17c4d8ba2c4901f5259582a":{
-      "scriptId":"u118"},
+      "scriptId":"u110"},
     "fc8396790eb146ee82b12a4387691233":{
-      "scriptId":"u119"},
+      "scriptId":"u111"},
     "cedfffe66a4748e9b70762ae1fa6e4b2":{
-      "scriptId":"u120"},
+      "scriptId":"u112"},
     "d5cc9b1b1bca4622a01e1721a786a269":{
-      "scriptId":"u121"}}});
+      "scriptId":"u113"},
+    "03fa21cc2a644c2cb7d20608670c3c29":{
+      "scriptId":"u114"},
+    "7af13600ac294dc6ad8cc1ccbfb9f455":{
+      "scriptId":"u115"},
+    "ff0c995d6107418d8aaad507bbbd7923":{
+      "scriptId":"u116"}}});

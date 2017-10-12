@@ -262,25 +262,3 @@
   width:113px;
   word-wrap:break-word;
 }
-#u21 {
-  position:absolute;
-  left:0px;
-  top:264px;
-  width:360px;
-  height:156px;
-}
-#u21_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:360px;
-  height:156px;
-}
-#u22 {
-  position:absolute;
-  left:2px;
-  top:70px;
-  width:356px;
-  visibility:hidden;
-  word-wrap:break-word;
-}

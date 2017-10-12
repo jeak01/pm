@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择菜品.html",
-  "generationDate":new Date(1507600730331.47),
+  "generationDate":new Date(1507779908675.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -231,7 +231,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u125.png"}},
+            "normal~":"images/2_0蔬菜宅配/u125.png"}},
 {
           "id":"5197b257253847f2aedc6e18490c1f09",
           "label":"",
@@ -270,7 +270,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u127.png"}},
+            "normal~":"images/2_0蔬菜宅配/u127.png"}},
 {
           "id":"5e5d9eff6eb84ceeaae280180f565a26",
           "label":"",
@@ -2986,7 +2986,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u301.png"}}]}]},
+                    "normal~":"images/2_0蔬菜宅配/u301.png"}}]}]},
 {
           "id":"a8ae843967e6476b84debafbd17a671b",
           "label":"s1",
@@ -3068,7 +3068,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u252.png"}},
+                    "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
                   "id":"9f513c1ba3b3440c9f6f4d2041f88e85",
                   "label":"",
@@ -3193,7 +3193,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u252.png"}},
+                    "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
                   "id":"1983e212fa92480d9a88957fe722dff7",
                   "label":"",
@@ -3283,7 +3283,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u252.png"}},
+            "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
           "id":"d6273e5eb19b4f9d95872336394c88bf",
           "label":"",
@@ -3371,7 +3371,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u252.png"}},
+            "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
           "id":"d7c3d42d806e4256ae8092bd71b88415",
           "label":"",
@@ -3459,7 +3459,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u252.png"}},
+            "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
           "id":"e312c2bc4afe47a9a49ea311b56e1340",
           "label":"",
@@ -3547,7 +3547,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u252.png"}},
+            "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
           "id":"46f480a927bb43de99b57d9ce73678c7",
           "label":"",
@@ -3627,7 +3627,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u1.png"}},
+            "normal~":"images/2_0蔬菜宅配/u1.png"}},
 {
           "id":"2cea959dd2794ec8a8bf028288de54fb",
           "label":"",
@@ -5906,7 +5906,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u252.png"}},
+                    "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
                   "id":"cfd295c51317468abc2e78a03a6a9997",
                   "label":"",
@@ -6031,7 +6031,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u252.png"}},
+                    "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
                   "id":"6355cccf64a1401abf3163fcd41a268d",
                   "label":"",
@@ -6156,7 +6156,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0蔬菜宅配/u252.png"}},
+                    "normal~":"images/2_0蔬菜宅配/u252.png"}},
 {
                   "id":"915b41a77d0f482ca89354c51db49583",
                   "label":"",

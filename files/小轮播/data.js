@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1507600741477.99),
+  "generationDate":new Date(1507779919172.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -412,7 +412,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_4蔬菜宅配订单详情/u14.png"}},
+                    "normal~":"images/2_4蔬菜宅配订单详情/u14.png"}},
 {
                   "id":"367a21ae084047a795f4e26d2cd3d10e",
                   "label":"拖到面板",

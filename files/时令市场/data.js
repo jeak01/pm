@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1507600731365.91),
+  "generationDate":new Date(1507779909723.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4338,10 +4338,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 1.0蔬菜宅配",
+                                "description":"在 当前窗口 打开 2.0蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"1_0蔬菜宅配.html",
+                                  "url":"2_0蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -4369,10 +4369,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 4.0发现",
+                                "description":"在 当前窗口 打开 *4.0发现",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"4_0发现.html",
+                                  "url":"_4_0发现.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

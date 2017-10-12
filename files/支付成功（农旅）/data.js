@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功（农旅）.html",
-  "generationDate":new Date(1507600734658.91),
+  "generationDate":new Date(1507779912781.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -342,7 +342,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功_1/u14.png"}},
+            "normal~":"images/2_3支付成功/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",

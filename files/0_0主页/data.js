@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_0主页.html",
-  "generationDate":new Date(1507600712323.03),
+  "generationDate":new Date(1507779892785.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -243,10 +243,9 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 2.0农旅卡主题页",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"2_0农旅卡主题页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -291,10 +290,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 1.0蔬菜宅配",
+                              "description":"在 当前窗口 打开 2.0蔬菜宅配",
                               "target":{
                                 "targetType":"page",
-                                "url":"1_0蔬菜宅配.html",
+                                "url":"2_0蔬菜宅配.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -1572,10 +1571,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.0农旅卡主题页",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"2_0农旅卡主题页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1833,10 +1831,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.0农旅卡主题页",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"2_0农旅卡主题页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3531,10 +3528,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.3.1.1文章详情",
+                      "description":"在 当前窗口 打开 *4.3.1.1文章详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_3_1_1文章详情.html",
+                        "url":"_4_3_1_1文章详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5525,10 +5522,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 1.0蔬菜宅配",
+                                "description":"在 当前窗口 打开 2.0蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"1_0蔬菜宅配.html",
+                                  "url":"2_0蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -5556,10 +5553,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 4.0发现",
+                                "description":"在 当前窗口 打开 *4.0发现",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"4_0发现.html",
+                                  "url":"_4_0发现.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

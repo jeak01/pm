@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（蔬果）.html",
-  "generationDate":new Date(1507600734589.86),
+  "generationDate":new Date(1507779912726.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -936,7 +936,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_2订单支付页_1/u34.png"}}]}},
+            "normal~":"images/2_2订单支付页/u34.png"}}]}},
   "masters":{
 },
   "objectPaths":{
