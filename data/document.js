@@ -397,6 +397,10 @@
                 "type":"Wireframe",
                 "url":"5_7设置.html"}]},
 {
+            "pageName":"6.0现场消费",
+            "type":"Wireframe",
+            "url":"6_0现场消费.html"},
+{
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",
             "url":"10_0供应商系统主页.html",
@@ -425,6 +429,10 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"2.0蔬菜宅配（1012）",
+            "type":"Wireframe",
+            "url":"2_0蔬菜宅配（1012）.html"},
+{
             "pageName":"2.2.1优游权益门票",
             "type":"Wireframe",
             "url":"2_2_1优游权益门票.html",

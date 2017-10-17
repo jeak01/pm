@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表.html",
-  "generationDate":new Date(1507885489704.46),
+  "generationDate":new Date(1508227701182.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1081,7 +1081,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u532.jpg"}},
+            "normal~":"images/2_0蔬菜宅配/u494.jpg"}},
 {
           "id":"e32013581cc44590ae7cb8d49fd84580",
           "label":"",
