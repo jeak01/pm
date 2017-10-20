@@ -169,10 +169,6 @@
             "type":"Wireframe",
             "url":"_0_2登录.html"},
 {
-            "pageName":"*0.3注册",
-            "type":"Wireframe",
-            "url":"_0_3注册.html"},
-{
             "pageName":"*1.0农旅卡主题页",
             "type":"Wireframe",
             "url":"_1_0农旅卡主题页.html",
@@ -397,9 +393,13 @@
                 "type":"Wireframe",
                 "url":"5_7设置.html"}]},
 {
-            "pageName":"6.0现场消费",
+            "pageName":"6.0电子收银台",
             "type":"Wireframe",
-            "url":"6_0现场消费.html"},
+            "url":"6_0电子收银台.html",
+            "children":[{
+                "pageName":"6.1现场充值",
+                "type":"Wireframe",
+                "url":"6_1现场充值.html"}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",
@@ -417,9 +417,9 @@
                     "type":"Wireframe",
                     "url":"10_2_1菜品详情.html"}]},
 {
-                "pageName":"10.3文章列表",
+                "pageName":"10.3会员管理",
                 "type":"Wireframe",
-                "url":"10_3文章列表.html"},
+                "url":"10_3会员管理.html"},
 {
                 "pageName":"10.4更多功能",
                 "type":"Wireframe",
@@ -429,6 +429,14 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"10.3文章列表",
+            "type":"Wireframe",
+            "url":"10_3文章列表.html"},
+{
+            "pageName":"6.0电子收银台（1017）",
+            "type":"Wireframe",
+            "url":"6_0电子收银台（1017）.html"},
+{
             "pageName":"2.0蔬菜宅配（1012）",
             "type":"Wireframe",
             "url":"2_0蔬菜宅配（1012）.html"},

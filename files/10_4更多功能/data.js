@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_4更多功能.html",
-  "generationDate":new Date(1508227692107.02),
+  "generationDate":new Date(1508479524500.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -45,7 +45,7 @@
               "color":0xFFF1F1F1},
             "size":{
               "width":360,
-              "height":710},
+              "height":667},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFF1F1F1}},
@@ -64,14 +64,14 @@
                   "color":0xFFF1F1F1},
                 "size":{
                   "width":360,
-                  "height":710},
+                  "height":667},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFF1F1F1}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/10_2菜品列表/u0.png"}},
+            "normal~":"images/1_7合作农场列表/u0.png"}},
 {
           "id":"ba1050bd091849359880aa2c73bb4441",
           "label":"",
@@ -202,7 +202,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"ed8cb80310944974958eb97655bac8a6",
+          "id":"e347a17376da4c2191c9e7baaf02bc4c",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -220,7 +220,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"b322d36dd239468c8da5c79d23992d7b",
+              "id":"c6cc484e7a7d4e4ca62a5c4abe9c9893",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -241,7 +241,7 @@
           "images":{
             "normal~":"images/1_1_2农场体验游详情/u36.png"}},
 {
-          "id":"d73b0344a612446e914090082a7e7acc",
+          "id":"db0c8a6b50c448ba89da5714435ce350",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -256,7 +256,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"ffcc2bbdad19497db43f02e43ad6303b",
+              "id":"5c22681626474eff8f32c6407982273f",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -274,158 +274,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"71b92e5c451848b09d1e563f46e8ee5c",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":326,
-              "y":58},
-            "size":{
-              "width":25,
-              "height":25},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF000000}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"21b945b0ba784f7d83679fcc555361e6",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":326,
-                  "y":58},
-                "size":{
-                  "width":25,
-                  "height":25},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
-{
-          "id":"5dad2a7fcfe04852bae895bf4baafadb",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":19,
-              "y":58},
-            "size":{
-              "width":25,
-              "height":25},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF666666}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"f6ee067831c2474d92bc8051dce488f3",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":19,
-                  "y":58},
-                "size":{
-                  "width":25,
-                  "height":25},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF666666}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}},
-{
-          "id":"e347a17376da4c2191c9e7baaf02bc4c",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":89},
-            "size":{
-              "width":360,
-              "height":40},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFDDDDDD}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"c6cc484e7a7d4e4ca62a5c4abe9c9893",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":89},
-                "size":{
-                  "width":360,
-                  "height":40},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFDDDDDD}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
-{
-          "id":"db0c8a6b50c448ba89da5714435ce350",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":54,
-              "y":101},
-            "size":{
-              "width":53,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"5c22681626474eff8f32c6407982273f",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":54,
-                  "y":101},
-                "size":{
-                  "width":53,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"c7d85d81da3b4ee9a0b2f06c4579aba5",
           "label":"",
           "type":"imageBox",
@@ -434,7 +282,7 @@
           "style":{
             "location":{
               "x":326,
-              "y":97},
+              "y":58},
             "size":{
               "width":25,
               "height":25},
@@ -454,7 +302,7 @@
               "style":{
                 "location":{
                   "x":326,
-                  "y":97},
+                  "y":58},
                 "size":{
                   "width":25,
                   "height":25},
@@ -475,7 +323,7 @@
           "style":{
             "location":{
               "x":19,
-              "y":97},
+              "y":58},
             "size":{
               "width":25,
               "height":25},
@@ -494,7 +342,7 @@
               "style":{
                 "location":{
                   "x":19,
-                  "y":97},
+                  "y":58},
                 "size":{
                   "width":25,
                   "height":25},
@@ -506,49 +354,6 @@
           "images":{
             "normal~":"images/2_0个人中心主页/u18.png"}},
 {
-          "id":"d5d024d1a6e54cce8fd3cf75947be4b5",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF666666,
-              "opacity":1},
-            "location":{
-              "x":302,
-              "y":62},
-            "size":{
-              "width":24,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"548e4247ba794f1e81eb592fd8e84619",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF666666,
-                  "opacity":1},
-                "location":{
-                  "x":302,
-                  "y":62},
-                "size":{
-                  "width":24,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"f09347bb411043818d661d21644e4834",
           "label":"",
           "type":"buttonShape",
@@ -557,7 +362,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":139},
+              "y":100},
             "size":{
               "width":360,
               "height":40},
@@ -576,7 +381,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":139},
+                  "y":100},
                 "size":{
                   "width":360,
                   "height":40},
@@ -596,7 +401,7 @@
           "style":{
             "location":{
               "x":54,
-              "y":151},
+              "y":112},
             "size":{
               "width":79,
               "height":16}},
@@ -612,7 +417,7 @@
               "style":{
                 "location":{
                   "x":54,
-                  "y":151},
+                  "y":112},
                 "size":{
                   "width":79,
                   "height":16}},
@@ -629,7 +434,7 @@
           "style":{
             "location":{
               "x":326,
-              "y":147},
+              "y":108},
             "size":{
               "width":25,
               "height":25},
@@ -649,7 +454,7 @@
               "style":{
                 "location":{
                   "x":326,
-                  "y":147},
+                  "y":108},
                 "size":{
                   "width":25,
                   "height":25},
@@ -670,7 +475,7 @@
           "style":{
             "location":{
               "x":19,
-              "y":147},
+              "y":108},
             "size":{
               "width":25,
               "height":25},
@@ -689,7 +494,7 @@
               "style":{
                 "location":{
                   "x":19,
-                  "y":147},
+                  "y":108},
                 "size":{
                   "width":25,
                   "height":25},
@@ -699,7 +504,50 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}}]}},
+            "normal~":"images/2_0个人中心主页/u18.png"}},
+{
+          "id":"3f9494c56f0842a98a979ee951c1e806",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"18px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":79,
+              "y":530},
+            "size":{
+              "width":202,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ed46be4b22464fe0b14dc484ca69ac36",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"18px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":79,
+                  "y":530},
+                "size":{
+                  "width":202,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -719,55 +567,39 @@
       "scriptId":"u6"},
     "df7304c95e2e454199b389fdf1238a85":{
       "scriptId":"u7"},
-    "ed8cb80310944974958eb97655bac8a6":{
-      "scriptId":"u8"},
-    "b322d36dd239468c8da5c79d23992d7b":{
-      "scriptId":"u9"},
-    "d73b0344a612446e914090082a7e7acc":{
-      "scriptId":"u10"},
-    "ffcc2bbdad19497db43f02e43ad6303b":{
-      "scriptId":"u11"},
-    "71b92e5c451848b09d1e563f46e8ee5c":{
-      "scriptId":"u12"},
-    "21b945b0ba784f7d83679fcc555361e6":{
-      "scriptId":"u13"},
-    "5dad2a7fcfe04852bae895bf4baafadb":{
-      "scriptId":"u14"},
-    "f6ee067831c2474d92bc8051dce488f3":{
-      "scriptId":"u15"},
     "e347a17376da4c2191c9e7baaf02bc4c":{
-      "scriptId":"u16"},
+      "scriptId":"u8"},
     "c6cc484e7a7d4e4ca62a5c4abe9c9893":{
-      "scriptId":"u17"},
+      "scriptId":"u9"},
     "db0c8a6b50c448ba89da5714435ce350":{
-      "scriptId":"u18"},
+      "scriptId":"u10"},
     "5c22681626474eff8f32c6407982273f":{
-      "scriptId":"u19"},
+      "scriptId":"u11"},
     "c7d85d81da3b4ee9a0b2f06c4579aba5":{
-      "scriptId":"u20"},
+      "scriptId":"u12"},
     "320c2c4302dd4eeb815bf033fccacfcb":{
-      "scriptId":"u21"},
+      "scriptId":"u13"},
     "3bbe206b35c842689d0b4b862993e1d2":{
-      "scriptId":"u22"},
+      "scriptId":"u14"},
     "d6aa41d04f7f4a4dab9a99fb331ca295":{
-      "scriptId":"u23"},
-    "d5d024d1a6e54cce8fd3cf75947be4b5":{
-      "scriptId":"u24"},
-    "548e4247ba794f1e81eb592fd8e84619":{
-      "scriptId":"u25"},
+      "scriptId":"u15"},
     "f09347bb411043818d661d21644e4834":{
-      "scriptId":"u26"},
+      "scriptId":"u16"},
     "585ff2c2b28648efb16a2cb94f7c237a":{
-      "scriptId":"u27"},
+      "scriptId":"u17"},
     "fc01d1c31ef54d7cbe7116d033db34c0":{
-      "scriptId":"u28"},
+      "scriptId":"u18"},
     "9e818ad3c62d41ee83a0a2a22bc7930e":{
-      "scriptId":"u29"},
+      "scriptId":"u19"},
     "15132c9392354672a1b84059ebd27061":{
-      "scriptId":"u30"},
+      "scriptId":"u20"},
     "f53888b61e0946e5b401bd5691f87fb7":{
-      "scriptId":"u31"},
+      "scriptId":"u21"},
     "d2e19419698f496dad72d043ae4b9592":{
-      "scriptId":"u32"},
+      "scriptId":"u22"},
     "011fecdf6f9244eeb9a440e1d169e8aa":{
-      "scriptId":"u33"}}});
+      "scriptId":"u23"},
+    "3f9494c56f0842a98a979ee951c1e806":{
+      "scriptId":"u24"},
+    "ed46be4b22464fe0b14dc484ca69ac36":{
+      "scriptId":"u25"}}});

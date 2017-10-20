@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页.html",
-  "generationDate":new Date(1508227670413.65),
+  "generationDate":new Date(1508479507096.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1018,7 +1018,7 @@
               "x":84,
               "y":394},
             "size":{
-              "width":193,
+              "width":202,
               "height":22}},
           "adaptiveStyles":{
 },
@@ -1039,7 +1039,7 @@
                   "x":84,
                   "y":394},
                 "size":{
-                  "width":193,
+                  "width":202,
                   "height":22}},
               "adaptiveStyles":{
 }}],

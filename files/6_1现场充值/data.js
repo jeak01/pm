@@ -1,0 +1,214 @@
+﻿$axure.loadCurrentPage({
+  "url":"6_1现场充值.html",
+  "generationDate":new Date(1508479523306.66),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"status",
+"package",
+"payFrom",
+"nc"],
+  "page":{
+    "packageId":"b91cfedeace4455fb85ac59b5d666226",
+    "type":"Axure:Page",
+    "name":"6.1现场充值",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"04a495cc32c64861970525bed3ab4f2b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD},
+            "size":{
+              "width":360,
+              "height":670},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5047a7a90fa6438080dd4e7da054132c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD},
+                "size":{
+                  "width":360,
+                  "height":670},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/_0_2登录/u0.png"}},
+{
+          "id":"cb4feb9d256645c09d79c785ab96503c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":360,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6975e0488124494aa5ffb3b2fcb35981",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":360,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+{
+          "id":"cabfb608f0a24298ae208aedc69e8229",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":39,
+              "height":41},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe7ff855f46d4d5499a6b4f6c025fc8c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":39,
+                  "height":41},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+{
+          "id":"d973a9c32dd34be286df45a873c91118",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"18px",
+            "fontWeight":"400",
+            "location":{
+              "x":144,
+              "y":9},
+            "size":{
+              "width":91,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e030f8cc12bb4ee6821a717552e0742d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"18px",
+                "fontWeight":"400",
+                "location":{
+                  "x":144,
+                  "y":9},
+                "size":{
+                  "width":91,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "04a495cc32c64861970525bed3ab4f2b":{
+      "scriptId":"u0"},
+    "5047a7a90fa6438080dd4e7da054132c":{
+      "scriptId":"u1"},
+    "cb4feb9d256645c09d79c785ab96503c":{
+      "scriptId":"u2"},
+    "6975e0488124494aa5ffb3b2fcb35981":{
+      "scriptId":"u3"},
+    "cabfb608f0a24298ae208aedc69e8229":{
+      "scriptId":"u4"},
+    "fe7ff855f46d4d5499a6b4f6c025fc8c":{
+      "scriptId":"u5"},
+    "d973a9c32dd34be286df45a873c91118":{
+      "scriptId":"u6"},
+    "e030f8cc12bb4ee6821a717552e0742d":{
+      "scriptId":"u7"}}});

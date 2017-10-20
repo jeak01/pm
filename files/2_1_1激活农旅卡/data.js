@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1激活农旅卡.html",
-  "generationDate":new Date(1508227670622.78),
+  "generationDate":new Date(1508479507328.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -367,7 +367,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_5完善信息/u32.png"}},
+            "normal~":"images/1_5完善信息/u20.png"}},
 {
           "id":"2d68d933b9ac48f391625b996409b9fd",
           "label":"",
@@ -814,7 +814,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":286},
+              "y":285},
             "size":{
               "width":360,
               "height":40},
@@ -833,7 +833,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":286},
+                  "y":285},
                 "size":{
                   "width":360,
                   "height":40},
@@ -853,7 +853,7 @@
           "style":{
             "location":{
               "x":80,
-              "y":294},
+              "y":293},
             "size":{
               "width":270,
               "height":25}},
@@ -979,7 +979,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_5完善信息/u30.png"}},
+            "normal~":"images/2_1_1激活农旅卡/u42.png"}},
 {
           "id":"0ff8640c64b84a03852da094746fa1cf",
           "label":"",

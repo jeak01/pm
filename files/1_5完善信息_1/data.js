@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_5完善信息_1.html",
-  "generationDate":new Date(1508227677302.21),
+  "generationDate":new Date(1508479512982.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -733,7 +733,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_5完善信息/u30.png"}},
+            "normal~":"images/2_1_1激活农旅卡/u42.png"}},
 {
           "id":"931920e3ec4a428ba7de1aa83eef765d",
           "label":"",
@@ -805,7 +805,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_5完善信息/u32.png"}},
+            "normal~":"images/1_5完善信息/u20.png"}},
 {
           "id":"6aa6a0264ed54d9a80f251e159f7cc27",
           "label":"",
