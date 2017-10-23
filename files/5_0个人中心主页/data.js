@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_0个人中心主页.html",
-  "generationDate":new Date(1508479520621.62),
+  "generationDate":new Date(1508738568444.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1765,6 +1765,36 @@
                         "url":"5_5我的账户.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a219208505324abc95ed794c93505c75",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":220},
+            "size":{
+              "width":360,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 5.8优惠卡券",
+                      "target":{
+                        "targetType":"page",
+                        "url":"5_8优惠卡券.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
@@ -2629,4 +2659,6 @@
     "7af13600ac294dc6ad8cc1ccbfb9f455":{
       "scriptId":"u115"},
     "ff0c995d6107418d8aaad507bbbd7923":{
-      "scriptId":"u116"}}});
+      "scriptId":"u116"},
+    "a219208505324abc95ed794c93505c75":{
+      "scriptId":"u117"}}});

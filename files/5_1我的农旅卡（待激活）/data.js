@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_1我的农旅卡（待激活）.html",
-  "generationDate":new Date(1508479520741.7),
+  "generationDate":new Date(1508738568546.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

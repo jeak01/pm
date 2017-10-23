@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_1线路详情.html",
-  "generationDate":new Date(1508479518763.72),
+  "generationDate":new Date(1508738566487.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2708,7 +2708,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":143.5,
+              "x":144,
               "y":9},
             "size":{
               "width":73,
@@ -2727,7 +2727,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":143.5,
+                  "x":144,
                   "y":9},
                 "size":{
                   "width":73,

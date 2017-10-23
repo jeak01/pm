@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_1确认订单（农旅）.html",
-  "generationDate":new Date(1508479508939.69),
+  "generationDate":new Date(1508738556531.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -464,7 +464,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
+            "normal~":"images/2_2_3_4选择地址/u6.png"}},
 {
           "id":"32f8a4a42cb440d9be9917ad77f5e424",
           "label":"",
@@ -690,7 +690,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
+            "normal~":"images/2_2_3_4选择地址/u6.png"}},
 {
           "id":"1bab5e646aa54b81b3da7cbc737718fb",
           "label":"",
@@ -1974,6 +1974,21 @@
                           "height":16}},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 2.2.3.4选择联系人",
+                              "target":{
+                                "targetType":"page",
+                                "url":"2_2_3_4选择联系人.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"resources/images/transparent.gif"}},
 {
@@ -2729,7 +2744,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
+                    "normal~":"images/2_2_3_4选择地址/u6.png"}},
 {
                   "id":"2ccca8ccead34220a97d5032f4716db9",
                   "label":"",
@@ -3347,6 +3362,21 @@
                           "height":16}},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 2.2.3.4选择联系人",
+                              "target":{
+                                "targetType":"page",
+                                "url":"2_2_3_4选择联系人.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"resources/images/transparent.gif"}},
 {

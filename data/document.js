@@ -95,7 +95,11 @@
                     "children":[{
                         "pageName":"2.2.2.2订单提交成功",
                         "type":"Wireframe",
-                        "url":"2_2_2_2订单提交成功.html"}]},
+                        "url":"2_2_2_2订单提交成功.html"},
+{
+                        "pageName":"2.2.3.4选择地址",
+                        "type":"Wireframe",
+                        "url":"2_2_3_4选择地址.html"}]},
 {
                     "pageName":"2.2.3.1确认订单（农旅）",
                     "type":"Wireframe",
@@ -107,7 +111,11 @@
 {
                         "pageName":"2.2.3.3订单详情（农旅）",
                         "type":"Wireframe",
-                        "url":"2_2_3_3订单详情（农旅）.html"}]}]},
+                        "url":"2_2_3_3订单详情（农旅）.html"},
+{
+                        "pageName":"2.2.3.4选择联系人",
+                        "type":"Wireframe",
+                        "url":"2_2_3_4选择联系人.html"}]}]},
 {
                 "pageName":"2.3我的订单",
                 "type":"Wireframe",
@@ -131,7 +139,23 @@
 {
                 "pageName":"2.5意见反馈",
                 "type":"Wireframe",
-                "url":"2_5意见反馈.html"}]}]},
+                "url":"2_5意见反馈.html"},
+{
+                "pageName":"2.6常用游客",
+                "type":"Wireframe",
+                "url":"2_6常用游客.html",
+                "children":[{
+                    "pageName":"2.6.1 游客信息新增/编辑",
+                    "type":"Wireframe",
+                    "url":"2_6_1_游客信息新增_编辑.html"}]},
+{
+                "pageName":"2.7收货地址",
+                "type":"Wireframe",
+                "url":"2_7收货地址.html",
+                "children":[{
+                    "pageName":"2.7.1 收货地址新增/编辑",
+                    "type":"Wireframe",
+                    "url":"2_7_1_收货地址新增_编辑.html"}]}]}]},
 {
         "pageName":"PC",
         "type":"Folder",
@@ -391,15 +415,39 @@
 {
                 "pageName":"5.7设置",
                 "type":"Wireframe",
-                "url":"5_7设置.html"}]},
+                "url":"5_7设置.html"},
 {
-            "pageName":"6.0电子收银台",
-            "type":"Wireframe",
-            "url":"6_0电子收银台.html",
-            "children":[{
-                "pageName":"6.1现场充值",
+                "pageName":"5.8优惠卡券",
                 "type":"Wireframe",
-                "url":"6_1现场充值.html"}]},
+                "url":"5_8优惠卡券.html"}]},
+{
+            "pageName":"6.0现场特惠专题",
+            "type":"Wireframe",
+            "url":"6_0现场特惠专题.html",
+            "children":[{
+                "pageName":"6.1电子收银台",
+                "type":"Wireframe",
+                "url":"6_1电子收银台.html"},
+{
+                "pageName":"6.2配送套餐",
+                "type":"Wireframe",
+                "url":"6_2配送套餐.html"},
+{
+                "pageName":"3.0会员充值",
+                "type":"Wireframe",
+                "url":"3_0会员充值_1.html",
+                "children":[{
+                    "pageName":"6.3.1充值成功",
+                    "type":"Wireframe",
+                    "url":"6_3_1充值成功.html"},
+{
+                    "pageName":"3.2会员保障",
+                    "type":"Wireframe",
+                    "url":"3_2会员保障_1.html"},
+{
+                    "pageName":"3.3充值优惠",
+                    "type":"Wireframe",
+                    "url":"3_3充值优惠_1.html"}]}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_1蔬菜箱详情.html",
-  "generationDate":new Date(1508479504691.56),
+  "generationDate":new Date(1508738552438.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -322,7 +322,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":143.5,
+              "x":144,
               "y":9},
             "size":{
               "width":73,
@@ -341,7 +341,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":143.5,
+                  "x":144,
                   "y":9},
                 "size":{
                   "width":73,

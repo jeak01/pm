@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2蔬菜宅配.html",
-  "generationDate":new Date(1508479526655.83),
+  "generationDate":new Date(1508738575096.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4635,7 +4635,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u317.png"}},
+            "normal~":"images/2_0蔬菜宅配/u325.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -4819,7 +4819,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_0蔬菜宅配/u600.png"}},
+                    "normal~":"images/2_0蔬菜宅配/u599.png"}},
 {
                   "id":"720bd1b33f2f41bd80adac5c8a46d16f",
                   "label":"",

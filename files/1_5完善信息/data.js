@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_5完善信息.html",
-  "generationDate":new Date(1508479506491.03),
+  "generationDate":new Date(1508738554081.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -704,7 +704,7 @@
             "fontSize":"11px",
             "verticalAlignment":"middle",
             "location":{
-              "x":56.5,
+              "x":56,
               "y":276},
             "size":{
               "width":228,
@@ -722,7 +722,7 @@
                 "fontSize":"11px",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":56.5,
+                  "x":56,
                   "y":276},
                 "size":{
                   "width":228,

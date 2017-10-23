@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页.html",
-  "generationDate":new Date(1508479507096.75),
+  "generationDate":new Date(1508738554540.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -288,21 +288,6 @@
                   "color":0xFFDDDDDD}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.4个人资料",
-                      "target":{
-                        "targetType":"page",
-                        "url":"2_4个人资料.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
             "normal~":"images/1_1_2农场体验游详情/u36.png"}},
 {
@@ -455,21 +440,6 @@
                   "color":0xFFDDDDDD}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.5意见反馈",
-                      "target":{
-                        "targetType":"page",
-                        "url":"2_5意见反馈.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
             "normal~":"images/1_1_2农场体验游详情/u36.png"}},
 {
@@ -1015,8 +985,8 @@
               "color":0xFF999999,
               "opacity":1},
             "location":{
-              "x":84,
-              "y":394},
+              "x":79,
+              "y":488},
             "size":{
               "width":202,
               "height":22}},
@@ -1036,15 +1006,379 @@
                   "color":0xFF999999,
                   "opacity":1},
                 "location":{
-                  "x":84,
-                  "y":394},
+                  "x":79,
+                  "y":488},
                 "size":{
                   "width":202,
                   "height":22}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"66dfb1a70620410f9fa367ed4d89e853",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":331},
+            "size":{
+              "width":360,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b892c9f572f34ab78f42559940f8fbac",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":331},
+                "size":{
+                  "width":360,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.4个人资料",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_4个人资料.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
+{
+          "id":"ae133ff1cc374b0ab62d1d7ced9f879f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":54,
+              "y":343},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c635f8b8404a4c8f9b18ea76db1c3075",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":54,
+                  "y":343},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bb304c5a81204ff491b3cf7827d1a886",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":326,
+              "y":339},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dba554dbbba244639e53a62fb981a14e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":326,
+                  "y":339},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
+{
+          "id":"a6d25c2bf1a04a3faba84e85b0ae5e92",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":19,
+              "y":339},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f45f2bb5e14a44158c9afbe2477a0665",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":19,
+                  "y":339},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/2_0个人中心主页/u18.png"}},
+{
+          "id":"a527d953a4fb4ea28b0938af04d8aea1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":370},
+            "size":{
+              "width":360,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7364ff218c2a46cd8755c886b0b46d1c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":370},
+                "size":{
+                  "width":360,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.5意见反馈",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_5意见反馈.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
+{
+          "id":"0388e014a42045698b39532506281456",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":54,
+              "y":382},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"78ab3c63b0ae4f6192bf32d2b29092ec",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":54,
+                  "y":382},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"85d6f098d9e74d0aa18b50bdb785c021",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":326,
+              "y":378},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d3a3257c00394277afe53b6e2e25f4e9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":326,
+                  "y":378},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
+{
+          "id":"ea7d34dbd9a74554b49dd15ca317e609",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":19,
+              "y":378},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d421d08e38924ca99f6ceb5e34ff4fb9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":19,
+                  "y":378},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/2_0个人中心主页/u18.png"}},
+{
+          "id":"bc33d4ac13384f3b96482eaf0816303a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":277},
+            "size":{
+              "width":360,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.6常用游客",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_6常用游客.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1149,4 +1483,38 @@
     "f08d5e62fbb44c4b97cd72cab9c83862":{
       "scriptId":"u49"},
     "b474906e59e24347becb699dad084107":{
-      "scriptId":"u50"}}});
+      "scriptId":"u50"},
+    "66dfb1a70620410f9fa367ed4d89e853":{
+      "scriptId":"u51"},
+    "b892c9f572f34ab78f42559940f8fbac":{
+      "scriptId":"u52"},
+    "ae133ff1cc374b0ab62d1d7ced9f879f":{
+      "scriptId":"u53"},
+    "c635f8b8404a4c8f9b18ea76db1c3075":{
+      "scriptId":"u54"},
+    "bb304c5a81204ff491b3cf7827d1a886":{
+      "scriptId":"u55"},
+    "dba554dbbba244639e53a62fb981a14e":{
+      "scriptId":"u56"},
+    "a6d25c2bf1a04a3faba84e85b0ae5e92":{
+      "scriptId":"u57"},
+    "f45f2bb5e14a44158c9afbe2477a0665":{
+      "scriptId":"u58"},
+    "a527d953a4fb4ea28b0938af04d8aea1":{
+      "scriptId":"u59"},
+    "7364ff218c2a46cd8755c886b0b46d1c":{
+      "scriptId":"u60"},
+    "0388e014a42045698b39532506281456":{
+      "scriptId":"u61"},
+    "78ab3c63b0ae4f6192bf32d2b29092ec":{
+      "scriptId":"u62"},
+    "85d6f098d9e74d0aa18b50bdb785c021":{
+      "scriptId":"u63"},
+    "d3a3257c00394277afe53b6e2e25f4e9":{
+      "scriptId":"u64"},
+    "ea7d34dbd9a74554b49dd15ca317e609":{
+      "scriptId":"u65"},
+    "d421d08e38924ca99f6ceb5e34ff4fb9":{
+      "scriptId":"u66"},
+    "bc33d4ac13384f3b96482eaf0816303a":{
+      "scriptId":"u67"}}});

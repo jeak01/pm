@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_7设置.html",
-  "generationDate":new Date(1508479523064.59),
+  "generationDate":new Date(1508738571192.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -165,7 +165,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":161.5,
+              "x":162,
               "y":9},
             "size":{
               "width":37,
@@ -184,7 +184,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":161.5,
+                  "x":162,
                   "y":9},
                 "size":{
                   "width":37,

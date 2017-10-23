@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0电子收银台（1017）.html",
-  "generationDate":new Date(1508479524690.5),
+  "generationDate":new Date(1508738573336.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -104,7 +104,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0电子收银台/u2.png"}},
+            "normal~":"images/6_1电子收银台/u2.png"}},
 {
           "id":"a5c77d5d58c2476dab66a62675bc4ce9",
           "label":"",
@@ -139,7 +139,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0电子收银台/u4.png"}},
+            "normal~":"images/6_1电子收银台/u4.png"}},
 {
           "id":"612c47edf02e429e8ff0faa92e62acc6",
           "label":"",
@@ -337,7 +337,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0电子收银台/u15.png"}},
+            "normal~":"images/6_0电子收银台（1017）/u15.png"}},
 {
           "id":"dd6b3f7262074b598a0d5f087f184a6e",
           "label":"",
@@ -805,7 +805,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0电子收银台/u39.png"}},
+            "normal~":"images/6_0电子收银台（1017）/u39.png"}},
 {
           "id":"48bbaecc511b470c8ee0c32c665d9c5e",
           "label":"",
@@ -1006,7 +1006,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_0电子收银台/u51_line.png"}},
+            "line~":"images/6_0电子收银台（1017）/u51_line.png"}},
 {
           "id":"d93d4589b48b4a399e09b948744f6711",
           "label":"",
@@ -1469,7 +1469,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0电子收银台/u74.png"}}]}},
+            "normal~":"images/6_1电子收银台/u27.png"}}]}},
   "masters":{
 },
   "objectPaths":{

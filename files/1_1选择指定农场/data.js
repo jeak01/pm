@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1选择指定农场.html",
-  "generationDate":new Date(1508479504354.49),
+  "generationDate":new Date(1508738552248.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -159,7 +159,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":98.5,
+              "x":98,
               "y":9},
             "size":{
               "width":163,
@@ -178,7 +178,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":98.5,
+                  "x":98,
                   "y":9},
                 "size":{
                   "width":163,

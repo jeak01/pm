@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_2确认订单.html",
-  "generationDate":new Date(1508479519304.84),
+  "generationDate":new Date(1508738567102.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -610,7 +610,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
+            "normal~":"images/2_2_3_4选择地址/u6.png"}},
 {
           "id":"32f8a4a42cb440d9be9917ad77f5e424",
           "label":"",
@@ -836,7 +836,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
+            "normal~":"images/2_2_3_4选择地址/u6.png"}},
 {
           "id":"1bab5e646aa54b81b3da7cbc737718fb",
           "label":"",
@@ -2188,7 +2188,7 @@
                     "fontWeight":"400",
                     "location":{
                       "x":126,
-                      "y":9.5},
+                      "y":10},
                     "size":{
                       "width":109,
                       "height":22}},
@@ -2208,7 +2208,7 @@
                         "fontWeight":"400",
                         "location":{
                           "x":126,
-                          "y":9.5},
+                          "y":10},
                         "size":{
                           "width":109,
                           "height":22}},
@@ -2360,7 +2360,7 @@
                       "opacity":1},
                     "location":{
                       "x":38,
-                      "y":86.5},
+                      "y":86},
                     "size":{
                       "width":73,
                       "height":33}},
@@ -2382,7 +2382,7 @@
                           "opacity":1},
                         "location":{
                           "x":38,
-                          "y":86.5},
+                          "y":86},
                         "size":{
                           "width":73,
                           "height":33}},
@@ -2616,7 +2616,7 @@
                       "opacity":1},
                     "location":{
                       "x":38,
-                      "y":171.5},
+                      "y":172},
                     "size":{
                       "width":73,
                       "height":33}},
@@ -2638,7 +2638,7 @@
                           "opacity":1},
                         "location":{
                           "x":38,
-                          "y":171.5},
+                          "y":172},
                         "size":{
                           "width":73,
                           "height":33}},
@@ -2872,7 +2872,7 @@
                       "opacity":1},
                     "location":{
                       "x":38,
-                      "y":256.5},
+                      "y":256},
                     "size":{
                       "width":73,
                       "height":33}},
@@ -2894,7 +2894,7 @@
                           "opacity":1},
                         "location":{
                           "x":38,
-                          "y":256.5},
+                          "y":256},
                         "size":{
                           "width":73,
                           "height":33}},
@@ -3173,7 +3173,7 @@
                       "opacity":1},
                     "location":{
                       "x":52,
-                      "y":371.5},
+                      "y":372},
                     "size":{
                       "width":45,
                       "height":33}},
@@ -3195,7 +3195,7 @@
                           "opacity":1},
                         "location":{
                           "x":52,
-                          "y":371.5},
+                          "y":372},
                         "size":{
                           "width":45,
                           "height":33}},
@@ -3781,7 +3781,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_1确认订单（农旅）/u22.png"}},
+                    "normal~":"images/2_2_3_4选择地址/u6.png"}},
 {
                   "id":"2ccca8ccead34220a97d5032f4716db9",
                   "label":"",
