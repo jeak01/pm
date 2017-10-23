@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_7_1_收货地址新增_编辑.html",
-  "generationDate":new Date(1508738557680.13),
+  "generationDate":new Date(1508740432541.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -649,7 +649,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_6_1_游客信息新增_编辑/u31.png"}}]}},
+            "normal~":"images/2_2_3_5收货地址新增_编辑/u31.png"}}]}},
   "masters":{
 },
   "objectPaths":{

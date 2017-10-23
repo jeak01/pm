@@ -99,7 +99,11 @@
 {
                         "pageName":"2.2.3.4选择地址",
                         "type":"Wireframe",
-                        "url":"2_2_3_4选择地址.html"}]},
+                        "url":"2_2_3_4选择地址.html",
+                        "children":[{
+                            "pageName":"2.2.3.5收货地址新增/编辑",
+                            "type":"Wireframe",
+                            "url":"2_2_3_5收货地址新增_编辑.html"}]}]},
 {
                     "pageName":"2.2.3.1确认订单（农旅）",
                     "type":"Wireframe",

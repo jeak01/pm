@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页.html",
-  "generationDate":new Date(1508738554540.52),
+  "generationDate":new Date(1508740429494.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1378,6 +1378,36 @@
                         "url":"2_6常用游客.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"cf2439cbd7d9422cb2340fd3cee1f211",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":240},
+            "size":{
+              "width":360,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.7收货地址",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_7收货地址.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -1517,4 +1547,6 @@
     "d421d08e38924ca99f6ceb5e34ff4fb9":{
       "scriptId":"u66"},
     "bc33d4ac13384f3b96482eaf0816303a":{
-      "scriptId":"u67"}}});
+      "scriptId":"u67"},
+    "cf2439cbd7d9422cb2340fd3cee1f211":{
+      "scriptId":"u68"}}});
