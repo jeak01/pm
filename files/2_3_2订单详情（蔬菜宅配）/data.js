@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_2订单详情（蔬菜宅配）.html",
-  "generationDate":new Date(1508740432174.82),
+  "generationDate":new Date(1508741982327.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -313,7 +313,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_1确认订单（农旅）/u51.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u49.png"}},
 {
           "id":"12cbe6452eeb42efb2f189e4f60d4128",
           "label":"",

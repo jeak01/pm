@@ -117,9 +117,13 @@
                         "type":"Wireframe",
                         "url":"2_2_3_3订单详情（农旅）.html"},
 {
-                        "pageName":"2.2.3.4选择联系人",
+                        "pageName":"2.2.3.4修改游客信息",
                         "type":"Wireframe",
-                        "url":"2_2_3_4选择联系人.html"}]}]},
+                        "url":"2_2_3_4修改游客信息.html",
+                        "children":[{
+                            "pageName":"2.2.3.5 游客信息新增/编辑",
+                            "type":"Wireframe",
+                            "url":"2_2_3_5_游客信息新增_编辑.html"}]}]}]},
 {
                 "pageName":"2.3我的订单",
                 "type":"Wireframe",
