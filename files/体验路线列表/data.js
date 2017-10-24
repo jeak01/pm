@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1508744146429.22),
+  "generationDate":new Date(1508839161685.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1039,7 +1039,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u494.jpg"}},
+            "normal~":"images/2_0购买宅配套餐/u159.jpg"}},
 {
           "id":"78ca2b9413b34e21a8b885cb6218b47f",
           "label":"",
@@ -2542,7 +2542,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u72.png"}},
+              "normal~":"images/0_0主页/u221.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_5我的账户.html",
-  "generationDate":new Date(1508744131971.61),
+  "generationDate":new Date(1508839143726.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -389,7 +389,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u187.png"}},
+            "normal~":"images/2_0购买宅配套餐/u11.png"}},
 {
           "id":"c50a45abef36432a91a116c17b6d57a5",
           "label":"",
@@ -570,7 +570,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u187.png"}},
+            "normal~":"images/2_0购买宅配套餐/u11.png"}},
 {
           "id":"936220df7679492f9a3f16d3adcaa4f6",
           "label":"",

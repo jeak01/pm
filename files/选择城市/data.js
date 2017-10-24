@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择城市.html",
-  "generationDate":new Date(1508744139951.91),
+  "generationDate":new Date(1508839153989.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u0.png"}},
+            "normal~":"images/0_1选择城市/u0.png"}},
 {
           "id":"0f17684f7e1b486b9ff015d56664c569",
           "label":"",
@@ -104,7 +104,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u2.png"}},
+            "normal~":"images/0_1选择城市/u2.png"}},
 {
           "id":"d4d8cb00187f41b5b763d9c25aa65c14",
           "label":"",
@@ -200,7 +200,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u6.png"}},
+            "normal~":"images/0_1选择城市/u6.png"}},
 {
           "id":"86e978164ae944b4bfe3b4c14024ac01",
           "label":"",
@@ -479,7 +479,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u20.png"}},
+            "normal~":"images/0_1选择城市/u20.png"}},
 {
           "id":"f8070f2a16034266a28fc5d22a602c1a",
           "label":"",
@@ -514,7 +514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"dde262f3cff24bf581db134334e26b29",
           "label":"",
@@ -549,7 +549,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"3d165de89eca462db432cc282a7b20e9",
           "label":"",
@@ -584,7 +584,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"27113612022c4ae993c0cb0972fe28e3",
           "label":"",
@@ -619,7 +619,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"b9a7c43cf0eb45469ef758dfbeb5d924",
           "label":"",
@@ -654,7 +654,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"f8d8fe88da744e6fa8de0030c38b58bf",
           "label":"",
@@ -689,7 +689,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"fa840db30c63449a861a289ebbf5572d",
           "label":"",
@@ -724,7 +724,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"aefd81254550452dbba8b2cd73586e7e",
           "label":"",
@@ -759,7 +759,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_1选择城市/u22.png"}},
+            "normal~":"images/0_1选择城市/u22.png"}},
 {
           "id":"e9397e7de016435ba0e01d82723c6eb0",
           "label":"",

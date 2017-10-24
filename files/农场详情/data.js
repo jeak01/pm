@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1508744142280.46),
+  "generationDate":new Date(1508839156634.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -823,7 +823,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u494.jpg"}},
+            "normal~":"images/2_0购买宅配套餐/u159.jpg"}},
 {
           "id":"f88752d9d7734738811cdda2134aeb68",
           "label":"",
@@ -1880,7 +1880,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u72.png"}},
+              "normal~":"images/0_0主页/u221.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",

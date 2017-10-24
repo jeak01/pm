@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1508744145973.92),
+  "generationDate":new Date(1508839160880.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3057,7 +3057,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u72.png"}},
+              "normal~":"images/0_0主页/u221.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",

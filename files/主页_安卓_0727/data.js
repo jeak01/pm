@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0727.html",
-  "generationDate":new Date(1508744144309.81),
+  "generationDate":new Date(1508839159139.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1516,7 +1516,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u169.JPG"}},
+            "normal~":"images/0_0主页/u139.JPG"}},
 {
           "id":"e3458f9a8f6e4a558408a1607508d569",
           "label":"",
@@ -3560,7 +3560,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u72.png"}},
+                      "normal~":"images/0_0主页/u221.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",

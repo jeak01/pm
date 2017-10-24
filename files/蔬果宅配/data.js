@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1508744143514.28),
+  "generationDate":new Date(1508839158013.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1797,7 +1797,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u494.jpg"}},
+            "normal~":"images/2_0购买宅配套餐/u159.jpg"}},
 {
           "id":"debabd145ff54c86ae242136ee79c71c",
           "label":"",
@@ -3731,7 +3731,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u72.png"}},
+                      "normal~":"images/0_0主页/u221.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",

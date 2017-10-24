@@ -193,17 +193,17 @@
             "type":"Wireframe",
             "url":"0_0主页.html",
             "children":[{
-                "pageName":"*0.1选择城市",
+                "pageName":"0.1选择城市",
                 "type":"Wireframe",
-                "url":"_0_1选择城市.html"}]},
+                "url":"0_1选择城市.html"}]},
 {
-            "pageName":"*0.2登录",
+            "pageName":"0.2登录",
             "type":"Wireframe",
-            "url":"_0_2登录.html"},
+            "url":"0_2登录.html"},
 {
-            "pageName":"*1.0农旅卡主题页",
+            "pageName":"1.0农旅卡主题页",
             "type":"Wireframe",
-            "url":"_1_0农旅卡主题页.html",
+            "url":"1_0农旅卡主题页.html",
             "children":[{
                 "pageName":"1.1选择指定农场",
                 "type":"Wireframe",
@@ -249,9 +249,9 @@
                 "type":"Wireframe",
                 "url":"1_8服务条款_1.html"}]},
 {
-            "pageName":"2.0蔬菜宅配",
+            "pageName":"2.0购买宅配套餐",
             "type":"Wireframe",
-            "url":"2_0蔬菜宅配.html",
+            "url":"2_0购买宅配套餐.html",
             "children":[{
                 "pageName":"2.1确认订单",
                 "type":"Wireframe",
@@ -269,13 +269,21 @@
                 "type":"Wireframe",
                 "url":"2_4蔬菜宅配订单详情.html"}]},
 {
+            "pageName":"2.5宅配选菜",
+            "type":"Wireframe",
+            "url":"2_5宅配选菜.html",
+            "children":[{
+                "pageName":"2.5.1宅配设置",
+                "type":"Wireframe",
+                "url":"2_5_1宅配设置.html"}]},
+{
             "pageName":"3.0会员充值",
             "type":"Wireframe",
             "url":"3_0会员充值.html",
             "children":[{
-                "pageName":"*3.1充值成功",
+                "pageName":"3.1充值成功",
                 "type":"Wireframe",
-                "url":"_3_1充值成功.html"},
+                "url":"3_1充值成功.html"},
 {
                 "pageName":"3.2会员保障",
                 "type":"Wireframe",
@@ -285,9 +293,9 @@
                 "type":"Wireframe",
                 "url":"3_3充值优惠.html"}]},
 {
-            "pageName":"*4.0发现",
+            "pageName":"4.0发现",
             "type":"Wireframe",
-            "url":"_4_0发现.html",
+            "url":"4_0发现.html",
             "children":[{
                 "pageName":"4.1农场列表",
                 "type":"Wireframe",
@@ -349,9 +357,9 @@
                     "type":"Wireframe",
                     "url":"4_3_1文章列表.html",
                     "children":[{
-                        "pageName":"*4.3.1.1文章详情",
+                        "pageName":"4.3.1.1文章详情",
                         "type":"Wireframe",
-                        "url":"_4_3_1_1文章详情.html"}]}]}]},
+                        "url":"4_3_1_1文章详情.html"}]}]}]},
 {
             "pageName":"5.0个人中心主页",
             "type":"Wireframe",
@@ -433,9 +441,13 @@
             "type":"Wireframe",
             "url":"6_0现场特惠专题.html",
             "children":[{
-                "pageName":"6.1电子收银台",
+                "pageName":"6.1现场采购清单",
                 "type":"Wireframe",
-                "url":"6_1电子收银台.html"},
+                "url":"6_1现场采购清单.html",
+                "children":[{
+                    "pageName":"6.1.1 采购支付",
+                    "type":"Wireframe",
+                    "url":"6_1_1_采购支付.html"}]},
 {
                 "pageName":"6.2配送套餐",
                 "type":"Wireframe",
@@ -485,6 +497,14 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"2.0购买宅配套餐（1024）",
+            "type":"Wireframe",
+            "url":"2_0购买宅配套餐（1024）.html"},
+{
+            "pageName":"6.1电子收银台",
+            "type":"Wireframe",
+            "url":"6_1电子收银台.html"},
+{
             "pageName":"10.3文章列表",
             "type":"Wireframe",
             "url":"10_3文章列表.html"},

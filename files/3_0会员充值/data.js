@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1508744124000.32),
+  "generationDate":new Date(1508839134056.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -501,10 +501,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 *3.1充值成功",
+                      "description":"在 当前窗口 打开 3.1充值成功",
                       "target":{
                         "targetType":"page",
-                        "url":"_3_1充值成功.html",
+                        "url":"3_1充值成功.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2043,7 +2043,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u72.png"}},
+                      "normal~":"images/0_0主页/u221.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -2150,7 +2150,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u78.png"}},
+                      "normal~":"images/0_0主页/u227.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -2193,7 +2193,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u80.png"}},
+                      "normal~":"images/0_0主页/u229.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -2228,7 +2228,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u82.png"}},
+                      "normal~":"images/0_0主页/u231.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",
@@ -2366,10 +2366,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 2.0蔬菜宅配",
+                                "description":"在 当前窗口 打开 2.0购买宅配套餐",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"2_0蔬菜宅配.html",
+                                  "url":"2_0购买宅配套餐.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -2397,10 +2397,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 *4.0发现",
+                                "description":"在 当前窗口 打开 4.0发现",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"_4_0发现.html",
+                                  "url":"4_0发现.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

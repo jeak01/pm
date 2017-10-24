@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1508744143923.56),
+  "generationDate":new Date(1508839158715.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2487,7 +2487,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u494.jpg"}},
+            "normal~":"images/2_0购买宅配套餐/u159.jpg"}},
 {
           "id":"d72fa1e6176e4b228ce9b3c53685849b",
           "label":"",
@@ -3090,7 +3090,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0蔬菜宅配/u494.jpg"}},
+            "normal~":"images/2_0购买宅配套餐/u159.jpg"}},
 {
           "id":"307a6f7789944ad6a6a8f41de02a293c",
           "label":"",
@@ -5255,7 +5255,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/0_0主页/u72.png"}},
+              "normal~":"images/0_0主页/u221.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",

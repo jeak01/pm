@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1电子收银台.html",
-  "generationDate":new Date(1508744132427.92),
+  "generationDate":new Date(1508839147426.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_2登录/u0.png"}},
+            "normal~":"images/0_2登录/u0.png"}},
 {
           "id":"11cba25a54af4671a1fb36f3b289a27a",
           "label":"",
@@ -110,7 +110,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1电子收银台/u2.png"}},
+            "normal~":"images/6_1现场采购清单/u2.png"}},
 {
           "id":"a5c77d5d58c2476dab66a62675bc4ce9",
           "label":"",
@@ -145,7 +145,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1电子收银台/u4.png"}},
+            "normal~":"images/6_1现场采购清单/u4.png"}},
 {
           "id":"612c47edf02e429e8ff0faa92e62acc6",
           "label":"",
@@ -566,7 +566,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/6_1电子收银台/u26.png"}},
+                    "normal~":"images/6_1现场采购清单/u137.png"}},
 {
                   "id":"a04f2203d73846639d2de113b6f3bfe8",
                   "label":"",

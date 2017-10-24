@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_2_3订单详情.html",
-  "generationDate":new Date(1508744130596.7),
+  "generationDate":new Date(1508839142564.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -633,7 +633,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u72.png"}},
+            "normal~":"images/0_0主页/u221.png"}},
 {
           "id":"1a3174ecaed442649990df515de28fde",
           "label":"",

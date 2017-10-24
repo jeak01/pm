@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0电子收银台（1017）.html",
-  "generationDate":new Date(1508744134455.26),
+  "generationDate":new Date(1508839147732.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_0_2登录/u0.png"}},
+            "normal~":"images/0_2登录/u0.png"}},
 {
           "id":"11cba25a54af4671a1fb36f3b289a27a",
           "label":"",
@@ -104,7 +104,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1电子收银台/u2.png"}},
+            "normal~":"images/6_1现场采购清单/u2.png"}},
 {
           "id":"a5c77d5d58c2476dab66a62675bc4ce9",
           "label":"",
@@ -139,7 +139,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1电子收银台/u4.png"}},
+            "normal~":"images/6_1现场采购清单/u4.png"}},
 {
           "id":"612c47edf02e429e8ff0faa92e62acc6",
           "label":"",
@@ -1282,10 +1282,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 *3.1充值成功",
+                      "description":"在 当前窗口 打开 3.1充值成功",
                       "target":{
                         "targetType":"page",
-                        "url":"_3_1充值成功.html",
+                        "url":"3_1充值成功.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

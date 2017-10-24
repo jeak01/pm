@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0807.html",
-  "generationDate":new Date(1508744145268.45),
+  "generationDate":new Date(1508839160205.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -6080,7 +6080,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u72.png"}},
+                      "normal~":"images/0_0主页/u221.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",

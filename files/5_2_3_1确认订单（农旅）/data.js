@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_3_1确认订单（农旅）.html",
-  "generationDate":new Date(1508744131182.09),
+  "generationDate":new Date(1508839142983.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4701,7 +4701,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单/u180.png"}},
+                    "normal~":"images/2_0购买宅配套餐/u9.png"}},
 {
                   "id":"1ef29a62589a483885b748e00179c71a",
                   "label":"",
