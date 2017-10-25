@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场采购清单.html",
-  "generationDate":new Date(1508913015929.75),
+  "generationDate":new Date(1508913809545.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2517,6 +2517,21 @@
                           "height":50}},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 6.1.1 采购支付",
+                              "target":{
+                                "targetType":"page",
+                                "url":"6_1_1_采购支付.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"images/6_1现场采购清单/u137.png"}},
 {

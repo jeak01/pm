@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_1_采购支付.html",
-  "generationDate":new Date(1508913016065.84),
+  "generationDate":new Date(1508913809676.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1115,6 +1115,21 @@
                   "height":40}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 6.1.2支付成功",
+                      "target":{
+                        "targetType":"page",
+                        "url":"6_1_2支付成功.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/6_1_1_采购支付/u58.png"}},
 {
