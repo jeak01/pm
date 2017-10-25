@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_1_采购支付.html",
-  "generationDate":new Date(1508839144421.5),
+  "generationDate":new Date(1508913016065.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -968,7 +968,7 @@
               "x":85,
               "y":377},
             "size":{
-              "width":144,
+              "width":248,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -989,7 +989,7 @@
                   "x":85,
                   "y":377},
                 "size":{
-                  "width":144,
+                  "width":248,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1040,7 +1040,7 @@
               "color":0xFF0099FF,
               "opacity":1},
             "location":{
-              "x":220,
+              "x":306,
               "y":357},
             "size":{
               "width":27,
@@ -1060,7 +1060,7 @@
                   "color":0xFF0099FF,
                   "opacity":1},
                 "location":{
-                  "x":220,
+                  "x":306,
                   "y":357},
                 "size":{
                   "width":27,
@@ -1116,7 +1116,48 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1_采购支付/u58.png"}}]}},
+            "normal~":"images/6_1_1_采购支付/u58.png"}},
+{
+          "id":"713afce7e0eb4b3fa54308170e66a3dd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":217,
+              "y":357},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8a4feacef9bc4a6491c9375a3ad213c4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":217,
+                  "y":357},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1239,4 +1280,8 @@
     "104dc6e42d924ab19e0aae4c903b2a68":{
       "scriptId":"u58"},
     "5164ce53496348f7a3859dcb02a2288d":{
-      "scriptId":"u59"}}});
+      "scriptId":"u59"},
+    "713afce7e0eb4b3fa54308170e66a3dd":{
+      "scriptId":"u60"},
+    "8a4feacef9bc4a6491c9375a3ad213c4":{
+      "scriptId":"u61"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1508839134056.62),
+  "generationDate":new Date(1508913006929.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1160,8 +1160,8 @@
           "visible":false,
           "style":{
             "location":{
-              "x":14,
-              "y":270},
+              "x":13,
+              "y":240},
             "size":{
               "width":10,
               "height":10},
@@ -1312,8 +1312,8 @@
           "visible":false,
           "style":{
             "location":{
-              "x":14,
-              "y":340},
+              "x":13,
+              "y":310},
             "size":{
               "width":10,
               "height":10},
@@ -1464,8 +1464,8 @@
           "visible":false,
           "style":{
             "location":{
-              "x":185,
-              "y":270},
+              "x":184,
+              "y":240},
             "size":{
               "width":10,
               "height":10},
@@ -2366,10 +2366,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 2.0购买宅配套餐",
+                                "description":"在 当前窗口 打开 2.5宅配选菜",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"2_0购买宅配套餐.html",
+                                  "url":"2_5宅配选菜.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

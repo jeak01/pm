@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_5宅配选菜.html",
-  "generationDate":new Date(1508839133656.35),
+  "generationDate":new Date(1508913006098.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -6118,6 +6118,21 @@
                           "color":0xFFFFFF}},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 2.5.2提交成功",
+                              "target":{
+                                "targetType":"page",
+                                "url":"2_5_2提交成功.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"images/2_5宅配选菜/u282.png"}}]}]},
 {

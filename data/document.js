@@ -275,7 +275,15 @@
             "children":[{
                 "pageName":"2.5.1宅配设置",
                 "type":"Wireframe",
-                "url":"2_5_1宅配设置.html"}]},
+                "url":"2_5_1宅配设置.html"},
+{
+                "pageName":"2.5.2提交成功",
+                "type":"Wireframe",
+                "url":"2_5_2提交成功.html"},
+{
+                "pageName":"2.5.3宅配信息",
+                "type":"Wireframe",
+                "url":"2_5_3宅配信息.html"}]},
 {
             "pageName":"3.0会员充值",
             "type":"Wireframe",
@@ -435,7 +443,27 @@
 {
                 "pageName":"5.8优惠卡券",
                 "type":"Wireframe",
-                "url":"5_8优惠卡券.html"}]},
+                "url":"5_8优惠卡券.html"},
+{
+                "pageName":"5.9常用游客的副本",
+                "type":"Wireframe",
+                "url":"5_9常用游客的副本.html",
+                "children":[{
+                    "pageName":"5.9.1 游客信息新增/编辑",
+                    "type":"Wireframe",
+                    "url":"5_9_1_游客信息新增_编辑.html"}]},
+{
+                "pageName":"5.10收货地址的副本",
+                "type":"Wireframe",
+                "url":"5_10收货地址的副本.html",
+                "children":[{
+                    "pageName":"5.10.1 收货地址新增/编辑",
+                    "type":"Wireframe",
+                    "url":"5_10_1_收货地址新增_编辑.html"}]},
+{
+                "pageName":"5.11意见反馈",
+                "type":"Wireframe",
+                "url":"5_11意见反馈.html"}]},
 {
             "pageName":"6.0现场特惠专题",
             "type":"Wireframe",
@@ -447,7 +475,15 @@
                 "children":[{
                     "pageName":"6.1.1 采购支付",
                     "type":"Wireframe",
-                    "url":"6_1_1_采购支付.html"}]},
+                    "url":"6_1_1_采购支付.html"},
+{
+                    "pageName":"6.1.2支付成功",
+                    "type":"Wireframe",
+                    "url":"6_1_2支付成功.html"},
+{
+                    "pageName":"6.1.3采购订单详情",
+                    "type":"Wireframe",
+                    "url":"6_1_3采购订单详情.html"}]},
 {
                 "pageName":"6.2配送套餐",
                 "type":"Wireframe",

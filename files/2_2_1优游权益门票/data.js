@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_1优游权益门票.html",
-  "generationDate":new Date(1508839148959.52),
+  "generationDate":new Date(1508913020640.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
