@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_3采购订单详情.html",
-  "generationDate":new Date(1508989709740.65),
+  "generationDate":new Date(1509002606933.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -973,6 +973,39 @@
               "adaptiveStyles":{
 }}],
           "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ed5d06fd4e314c9195c3a5d8ab34d351",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":200,
+              "y":101},
+            "size":{
+              "width":61,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12a519ef726c42fc8d3a54967831ac97",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":200,
+                  "y":101},
+                "size":{
+                  "width":61,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
@@ -1076,4 +1109,8 @@
     "f7c7de2158624674af4f60194687e202":{
       "scriptId":"u48"},
     "62433f95d75748eb89eccf7ddb6682a3":{
-      "scriptId":"u49"}}});
+      "scriptId":"u49"},
+    "ed5d06fd4e314c9195c3a5d8ab34d351":{
+      "scriptId":"u50"},
+    "12a519ef726c42fc8d3a54967831ac97":{
+      "scriptId":"u51"}}});

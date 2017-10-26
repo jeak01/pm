@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2农旅线路.html",
-  "generationDate":new Date(1508989704311.04),
+  "generationDate":new Date(1509002601265.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4299,7 +4299,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_0购买宅配套餐/u159.jpg"}},
+                    "normal~":"images/2_0购买宅配套餐/u161.jpg"}},
 {
                   "id":"4cd112e9438c475388f62cf4b72d007f",
                   "label":"",

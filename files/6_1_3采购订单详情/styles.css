@@ -605,3 +605,24 @@
   width:155px;
   white-space:nowrap;
 }
+#u50 {
+  position:absolute;
+  left:200px;
+  top:101px;
+  width:61px;
+  height:19px;
+}
+#u50_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  height:19px;
+}
+#u51 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  white-space:nowrap;
+}
