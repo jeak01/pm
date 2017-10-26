@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_3采购订单详情.html",
-  "generationDate":new Date(1508989213760.8),
+  "generationDate":new Date(1508989709740.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -134,11 +134,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 5.3全部订单",
+                      "description":"在 当前窗口 打开 返回",
                       "target":{
-                        "targetType":"page",
-                        "url":"5_3全部订单.html",
-                        "includeVariables":true},
+                        "targetType":"backUrl",
+                        "includeVariables":false},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
@@ -311,6 +310,21 @@
                         "cornerRadiusTopLeft":"5"},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 6.1.4账单",
+                              "target":{
+                                "targetType":"page",
+                                "url":"6_1_4账单.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}},
 {

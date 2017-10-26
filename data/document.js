@@ -509,9 +509,9 @@
                     "type":"Wireframe",
                     "url":"3_3充值优惠_1.html"}]}]},
 {
-            "pageName":"6.3采购信息查询（导游端）",
+            "pageName":"6.3采购信息查询（管理端）",
             "type":"Wireframe",
-            "url":"6_3采购信息查询（导游端）.html",
+            "url":"6_3采购信息查询（管理端）.html",
             "children":[{
                 "pageName":"6.3.1 采购订单列表",
                 "type":"Wireframe",
