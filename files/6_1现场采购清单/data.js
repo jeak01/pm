@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场采购清单.html",
-  "generationDate":new Date(1508913809545.31),
+  "generationDate":new Date(1508989213529.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2525,10 +2525,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 6.1.1 采购支付",
+                              "description":"在 当前窗口 打开 6.1.1采购支付",
                               "target":{
                                 "targetType":"page",
-                                "url":"6_1_1_采购支付.html",
+                                "url":"6_1_1采购支付.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -2608,6 +2608,21 @@
                   "height":16}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 6.1.4账单",
+                      "target":{
+                        "targetType":"page",
+                        "url":"6_1_4账单.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{

@@ -473,9 +473,9 @@
                 "type":"Wireframe",
                 "url":"6_1现场采购清单.html",
                 "children":[{
-                    "pageName":"6.1.1 采购支付",
+                    "pageName":"6.1.1采购支付",
                     "type":"Wireframe",
-                    "url":"6_1_1_采购支付.html"},
+                    "url":"6_1_1采购支付.html"},
 {
                     "pageName":"6.1.2支付成功",
                     "type":"Wireframe",
@@ -483,7 +483,11 @@
 {
                     "pageName":"6.1.3采购订单详情",
                     "type":"Wireframe",
-                    "url":"6_1_3采购订单详情.html"}]},
+                    "url":"6_1_3采购订单详情.html"},
+{
+                    "pageName":"6.1.4账单",
+                    "type":"Wireframe",
+                    "url":"6_1_4账单.html"}]},
 {
                 "pageName":"6.2配送套餐",
                 "type":"Wireframe",
@@ -493,9 +497,9 @@
                 "type":"Wireframe",
                 "url":"3_0会员充值_1.html",
                 "children":[{
-                    "pageName":"6.3.1充值成功",
+                    "pageName":"3.1充值成功",
                     "type":"Wireframe",
-                    "url":"6_3_1充值成功.html"},
+                    "url":"3_1充值成功_1.html"},
 {
                     "pageName":"3.2会员保障",
                     "type":"Wireframe",
@@ -504,6 +508,18 @@
                     "pageName":"3.3充值优惠",
                     "type":"Wireframe",
                     "url":"3_3充值优惠_1.html"}]}]},
+{
+            "pageName":"6.3采购信息查询（导游端）",
+            "type":"Wireframe",
+            "url":"6_3采购信息查询（导游端）.html",
+            "children":[{
+                "pageName":"6.3.1 采购订单列表",
+                "type":"Wireframe",
+                "url":"6_3_1_采购订单列表.html"},
+{
+                "pageName":"6.3.2 采购订单详情",
+                "type":"Wireframe",
+                "url":"6_3_2_采购订单详情.html"}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",

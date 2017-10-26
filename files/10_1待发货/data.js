@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_1待发货.html",
-  "generationDate":new Date(1508913811032.3),
+  "generationDate":new Date(1508989214934.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -239,7 +239,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1_采购支付/u16.png"}},
+            "normal~":"images/6_1_1采购支付/u16.png"}},
 {
           "id":"e033aed51e15470ca55a841e442811e1",
           "label":"",
@@ -1096,7 +1096,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1_采购支付/u16.png"}},
+            "normal~":"images/6_1_1采购支付/u16.png"}},
 {
           "id":"9977742ccd8c44a2a4410a28da9426e1",
           "label":"",
@@ -1421,7 +1421,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1_采购支付/u16.png"}},
+            "normal~":"images/6_1_1采购支付/u16.png"}},
 {
           "id":"6af93e5df59349d5b244f8a524e0508f",
           "label":"",
@@ -1746,7 +1746,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1_采购支付/u16.png"}},
+            "normal~":"images/6_1_1采购支付/u16.png"}},
 {
           "id":"f05d15ff94464f5682c54add3840e542",
           "label":"",

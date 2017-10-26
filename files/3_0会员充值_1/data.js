@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值_1.html",
-  "generationDate":new Date(1508913810125.69),
+  "generationDate":new Date(1508989214015.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -501,10 +501,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.3.1充值成功",
+                      "description":"在 当前窗口 打开 3.1充值成功",
                       "target":{
                         "targetType":"page",
-                        "url":"6_3_1充值成功.html",
+                        "url":"3_1充值成功_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
