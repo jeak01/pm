@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功（蔬果）.html",
-  "generationDate":new Date(1509354090620.78),
+  "generationDate":new Date(1509355522842),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

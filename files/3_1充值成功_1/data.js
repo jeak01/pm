@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功_1.html",
-  "generationDate":new Date(1509354080391.01),
+  "generationDate":new Date(1509355513072.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

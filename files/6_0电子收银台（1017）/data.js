@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0电子收银台（1017）.html",
-  "generationDate":new Date(1509354083368.98),
+  "generationDate":new Date(1509355515959.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -104,7 +104,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场采购清单/u2.png"}},
+            "normal~":"images/6_1电子收银台/u2.png"}},
 {
           "id":"a5c77d5d58c2476dab66a62675bc4ce9",
           "label":"",
@@ -139,7 +139,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场采购清单/u4.png"}},
+            "normal~":"images/6_1电子收银台/u4.png"}},
 {
           "id":"612c47edf02e429e8ff0faa92e62acc6",
           "label":"",
