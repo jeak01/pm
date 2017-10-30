@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_1_1订单详情.html",
-  "generationDate":new Date(1509002604604.15),
+  "generationDate":new Date(1509354082040.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -460,7 +460,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2_1优游权益门票/u29.png"}},
+            "normal~":"images/2_2_1优游权益门票/u29.png"}},
 {
           "id":"d8c048b841864c99933c141e04fc3e6c",
           "label":"",

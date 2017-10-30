@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_4支付失败.html",
-  "generationDate":new Date(1509002589956.41),
+  "generationDate":new Date(1509354057862.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -297,10 +297,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 5.4待支付订单",
+                      "description":"在 当前窗口 打开 2.3.3待支付订单",
                       "target":{
                         "targetType":"page",
-                        "url":"5_4待支付订单.html",
+                        "url":"2_3_3待支付订单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

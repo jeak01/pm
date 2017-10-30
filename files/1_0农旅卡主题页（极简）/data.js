@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0农旅卡主题页（极简）.html",
-  "generationDate":new Date(1509002588024.13),
+  "generationDate":new Date(1509354054131.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1975,10 +1975,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 1.1选择指定农场",
+                              "description":"在 当前窗口 打开 1.2订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"1_1选择指定农场.html",
+                                "url":"1_2订单支付页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

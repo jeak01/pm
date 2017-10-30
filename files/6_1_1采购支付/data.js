@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_1采购支付.html",
-  "generationDate":new Date(1509002606789.6),
+  "generationDate":new Date(1509354079888.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -854,7 +854,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2订单支付页/u25.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u29.png"}},
 {
           "id":"a032431009204fd88939fe4795493193",
           "label":"",
@@ -951,7 +951,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2订单支付页/u34.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u42.png"}},
 {
           "id":"b7703b0f06cf4ca7bb4df28add51762c",
           "label":"",

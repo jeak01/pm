@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（农旅）.html",
-  "generationDate":new Date(1509002616403.99),
+  "generationDate":new Date(1509354090422.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -936,7 +936,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2订单支付页/u34.png"}}]}},
+            "normal~":"images/4_1_1_3订单支付页/u42.png"}}]}},
   "masters":{
 },
   "objectPaths":{

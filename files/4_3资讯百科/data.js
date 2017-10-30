@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3资讯百科.html",
-  "generationDate":new Date(1509002603174.2),
+  "generationDate":new Date(1509354076060.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3620,10 +3620,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 5.0个人中心主页",
+                                "description":"在 当前窗口 打开 2.0个人中心主页",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"5_0个人中心主页.html",
+                                  "url":"2_0个人中心主页_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -3733,10 +3733,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 2.5宅配选菜",
+                                "description":"在 当前窗口 打开 5.5宅配选菜",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"2_5宅配选菜.html",
+                                  "url":"5_5宅配选菜.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

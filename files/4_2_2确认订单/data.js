@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_2确认订单.html",
-  "generationDate":new Date(1509002602549.78),
+  "generationDate":new Date(1509354075269.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2075,7 +2075,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_1确认订单/u142.png"}}]}]},
+                    "normal~":"images/4_1_1_2确认订单/u79.png"}}]}]},
 {
           "id":"c46fe622a38c48729a82ec21c2012aac",
           "label":"卡券面板",
@@ -2295,7 +2295,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u82.png"}},
+                    "normal~":"images/2_10优惠卡券/u6.png"}},
 {
                   "id":"02f3270a89ac443eb3c8d8bd3675737b",
                   "label":"",
@@ -2344,7 +2344,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u84.png"}},
+                    "normal~":"images/2_10优惠卡券/u8.png"}},
 {
                   "id":"7f16b951c5bc49eb9e73d45ed73bb08b",
                   "label":"",
@@ -2551,7 +2551,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u82.png"}},
+                    "normal~":"images/2_10优惠卡券/u6.png"}},
 {
                   "id":"ecdd251ae486438db795211332072696",
                   "label":"",
@@ -2600,7 +2600,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u84.png"}},
+                    "normal~":"images/2_10优惠卡券/u8.png"}},
 {
                   "id":"8e8fb4fd66a140f4882bd361a9c7a743",
                   "label":"",
@@ -2807,7 +2807,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u82.png"}},
+                    "normal~":"images/2_10优惠卡券/u6.png"}},
 {
                   "id":"df536e20c45a4bb7aa1520caecb28b06",
                   "label":"",
@@ -2856,7 +2856,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u84.png"}},
+                    "normal~":"images/2_10优惠卡券/u8.png"}},
 {
                   "id":"024bc2cbf66d449091ccccfe395f6f72",
                   "label":"",
@@ -3108,7 +3108,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u82.png"}},
+                    "normal~":"images/2_10优惠卡券/u6.png"}},
 {
                   "id":"3d8c9e4a751d41d392337ebd1ea315a7",
                   "label":"",
@@ -3157,7 +3157,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_1确认订单/u122.png"}},
+                    "normal~":"images/4_2_2确认订单/u159.png"}},
 {
                   "id":"de6bb2d581244c8d843d76d8d0adbb1d",
                   "label":"",
@@ -3653,7 +3653,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_0购买宅配套餐/u9.png"}},
+                    "normal~":"images/4_2_2确认订单/u180.png"}},
 {
                   "id":"1ef29a62589a483885b748e00179c71a",
                   "label":"",

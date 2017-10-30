@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_1优游权益门票.html",
-  "generationDate":new Date(1509002611117.48),
+  "generationDate":new Date(1509354081955.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"b61e260c337940f09d551381324d2275",
+    "packageId":"4c54924b3b0744f8ad6a37da9ce67453",
     "type":"Axure:Page",
     "name":"2.2.1优游权益门票",
     "notes":{
@@ -48,7 +48,7 @@
               "y":-17},
             "size":{
               "width":360,
-              "height":667}},
+              "height":777}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -67,11 +67,11 @@
                   "y":-17},
                 "size":{
                   "width":360,
-                  "height":667}},
+                  "height":777}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_2订单支付页/u0.png"}},
+            "normal~":"images/2_2我的农旅卡/u0.png"}},
 {
           "id":"bb7515a65f144987b1064f1bb515b649",
           "label":"",
@@ -227,7 +227,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2_1优游权益门票/u8.png"}},
+            "normal~":"images/2_2_1优游权益门票/u8.png"}},
 {
           "id":"2bbadf925421416cb42e463055ecab9e",
           "label":"",
@@ -262,7 +262,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2_1优游权益门票/u8.png"}},
+            "normal~":"images/2_2_1优游权益门票/u8.png"}},
 {
           "id":"7fe02eb5578648fb990dc8b71d1d16d1",
           "label":"",
@@ -389,7 +389,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2_1优游权益门票/u16.png"}},
+            "normal~":"images/2_2_1优游权益门票/u16.png"}},
 {
           "id":"77defda4b2a343e49fd372b6a9d2cce7",
           "label":"",
@@ -422,7 +422,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2_1优游权益门票/u18.jpg"}},
+            "normal~":"images/2_2_1优游权益门票/u18.jpg"}},
 {
           "id":"e68eccaa87b14a118fc99984571e01e8",
           "label":"",
@@ -557,10 +557,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.1.1订单详情",
+                      "description":"在 当前窗口 打开 5.2.1.1订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_1_1订单详情.html",
+                        "url":"5_2_1_1订单详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -604,7 +604,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2_1优游权益门票/u16.png"}},
+            "normal~":"images/2_2_1优游权益门票/u16.png"}},
 {
           "id":"fba1ba57bace43a8b46db22b08a5f853",
           "label":"",
@@ -637,7 +637,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/5_2_1优游权益门票/u29.png"}},
+            "normal~":"images/2_2_1优游权益门票/u29.png"}},
 {
           "id":"253576c96ab246ff89f34230a20bed6d",
           "label":"",
@@ -772,10 +772,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.1.1订单详情",
+                      "description":"在 当前窗口 打开 5.2.1.1订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_1_1订单详情.html",
+                        "url":"5_2_1_1订单详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
