@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_1采购支付.html",
-  "generationDate":new Date(1509355512544.18),
+  "generationDate":new Date(1509586876329.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"ad601912e6334128a8e5d9b1f5e454c5",
+    "packageId":"bb39c900b40648688be8200760bef242",
     "type":"Axure:Page",
     "name":"6.1.1采购支付",
     "notes":{
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_2登录/u0.png"}},
+            "normal~":"images/6_1现场特惠卖单/u0.png"}},
 {
           "id":"fff60701c84b40baa1598e2ea1921069",
           "label":"",
@@ -231,7 +231,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场采购清单/u16.png"}},
+            "normal~":"images/6_1现场特惠卖单/u14.png"}},
 {
           "id":"4bab04e0ec654c43a31a3ec420d11ba0",
           "label":"",
@@ -854,7 +854,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_3订单支付页/u29.png"}},
+            "normal~":"images/6_1_1采购支付/u44.png"}},
 {
           "id":"a032431009204fd88939fe4795493193",
           "label":"",
@@ -951,7 +951,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_3订单支付页/u42.png"}},
+            "normal~":"images/6_1_1采购支付/u50.png"}},
 {
           "id":"b7703b0f06cf4ca7bb4df28add51762c",
           "label":"",
@@ -1078,7 +1078,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值_1.html",
+                        "url":"3_0会员充值.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0电子收银台（1017）.html",
-  "generationDate":new Date(1509355515959.44),
+  "generationDate":new Date(1509586897489.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_2登录/u0.png"}},
+            "normal~":"images/6_1现场特惠卖单/u0.png"}},
 {
           "id":"11cba25a54af4671a1fb36f3b289a27a",
           "label":"",
@@ -296,7 +296,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u2.png"}},
+            "normal~":"images/3_0会员充值_1/u2.png"}},
 {
           "id":"27b4445f1fec40f1a2cf18911d7fdd89",
           "label":"",
@@ -1285,7 +1285,7 @@
                       "description":"在 当前窗口 打开 3.1充值成功",
                       "target":{
                         "targetType":"page",
-                        "url":"3_1充值成功.html",
+                        "url":"3_1充值成功_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

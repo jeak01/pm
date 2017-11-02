@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_5_2提交成功.html",
-  "generationDate":new Date(1509355511880.74),
+  "generationDate":new Date(1509586892955.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -453,7 +453,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/3_1充值成功/u14.png"}}]}},
+            "normal~":"images/6_1_2支付成功/u14.png"}}]}},
   "masters":{
 },
   "objectPaths":{

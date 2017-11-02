@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2订单支付页.html",
-  "generationDate":new Date(1509355511034.18),
+  "generationDate":new Date(1509586892231.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -548,7 +548,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_3订单支付页/u29.png"}},
+            "normal~":"images/6_1_1采购支付/u44.png"}},
 {
           "id":"2c99f5ed755344b48c5d887f2120b1be",
           "label":"",
@@ -716,7 +716,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_3订单支付页/u42.png"}},
+            "normal~":"images/6_1_1采购支付/u50.png"}},
 {
           "id":"608ed929c8804bb3a9ca3d73cd6fdfdb",
           "label":"",
@@ -843,7 +843,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值.html",
+                        "url":"3_0会员充值_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -891,7 +891,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值.html",
+                        "url":"3_0会员充值_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

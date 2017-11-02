@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_2配送套餐.html",
-  "generationDate":new Date(1509355512833.37),
+  "generationDate":new Date(1509586876591.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"3fdc08c8eab64c969de96de98772459c",
+    "packageId":"83b01573d91f455d92dc22058402d37b",
     "type":"Axure:Page",
     "name":"6.2配送套餐",
     "notes":{
@@ -219,7 +219,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0现场特惠专题/u8.png"}},
+            "normal~":"images/6_0农场专题/u8.png"}},
 {
           "id":"44e2583c23004088aeeaba4045a1e66b",
           "label":"",
@@ -341,7 +341,7 @@
               "y":220},
             "size":{
               "width":360,
-              "height":380}},
+              "height":430}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -357,7 +357,7 @@
                   "y":220},
                 "size":{
                   "width":360,
-                  "height":380}},
+                  "height":430}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -511,8 +511,8 @@
           "style":{
             "fontSize":"18px",
             "location":{
-              "x":142,
-              "y":230},
+              "x":143.5,
+              "y":238},
             "size":{
               "width":73,
               "height":22}},
@@ -528,8 +528,8 @@
               "style":{
                 "fontSize":"18px",
                 "location":{
-                  "x":142,
-                  "y":230},
+                  "x":143.5,
+                  "y":238},
                 "size":{
                   "width":73,
                   "height":22}},
@@ -746,161 +746,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"6c96ebf7882b4f76abd54267a8499bd3",
-          "label":"",
-          "type":"dynamicPanel",
-          "styleType":"dynamicPanel",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":600},
-            "size":{
-              "width":10,
-              "height":10}},
-          "adaptiveStyles":{
-},
-          "fixedHorizontal":"left",
-          "fixedMarginHorizontal":0,
-          "fixedVertical":"bottom",
-          "fixedMarginVertical":0,
-          "fixedKeepInFront":true,
-          "scrollbars":"none",
-          "fitToContent":true,
-          "propagate":false,
-          "diagrams":[{
-              "id":"cf6c374437674619b367b0f2932302d6",
-              "label":"状态1",
-              "type":"Axure:PanelDiagram",
-              "objects":[{
-                  "id":"113366f3b0e141c2bd5fc5eae5a78330",
-                  "label":"",
-                  "parentDynamicPanel":"6c96ebf7882b4f76abd54267a8499bd3",
-                  "type":"buttonShape",
-                  "styleType":"buttonShape",
-                  "visible":true,
-                  "style":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFDDDDDD},
-                    "size":{
-                      "width":360,
-                      "height":50}},
-                  "adaptiveStyles":{
-},
-                  "objects":[{
-                      "id":"9e344664f4784924a52a3edd457cd68c",
-                      "label":"",
-                      "isContained":true,
-                      "parentDynamicPanel":"6c96ebf7882b4f76abd54267a8499bd3",
-                      "type":"richTextPanel",
-                      "styleType":"paragraph",
-                      "visible":true,
-                      "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFDDDDDD},
-                        "size":{
-                          "width":360,
-                          "height":50}},
-                      "adaptiveStyles":{
-}}],
-                  "images":{
-                    "normal~":"images/2_2_3_1确认订单（农旅）/u73.png"}},
-{
-                  "id":"ee1c6e434b5b48f292b746ce2e3e0664",
-                  "label":"",
-                  "parentDynamicPanel":"6c96ebf7882b4f76abd54267a8499bd3",
-                  "type":"buttonShape",
-                  "styleType":"buttonShape",
-                  "visible":true,
-                  "style":{
-                    "location":{
-                      "x":240,
-                      "y":0},
-                    "size":{
-                      "width":120,
-                      "height":50}},
-                  "adaptiveStyles":{
-},
-                  "objects":[{
-                      "id":"717e027005af4c91852ca70a166c9eea",
-                      "label":"",
-                      "isContained":true,
-                      "parentDynamicPanel":"6c96ebf7882b4f76abd54267a8499bd3",
-                      "type":"richTextPanel",
-                      "styleType":"paragraph",
-                      "visible":true,
-                      "style":{
-                        "location":{
-                          "x":240,
-                          "y":0},
-                        "size":{
-                          "width":120,
-                          "height":50}},
-                      "adaptiveStyles":{
-}}],
-                  "interactionMap":{
-                    "onClick":{
-                      "description":"OnClick",
-                      "cases":[{
-                          "description":"用例 1",
-                          "isNewIfGroup":false,
-                          "actions":[]}]}},
-                  "tabbable":true,
-                  "images":{
-                    "normal~":"images/4_1_1_1商品详情/u42.png"}},
-{
-                  "id":"a79c71a7d5dc439e9017997c0fff8493",
-                  "label":"",
-                  "parentDynamicPanel":"6c96ebf7882b4f76abd54267a8499bd3",
-                  "type":"buttonShape",
-                  "styleType":"paragraph",
-                  "visible":true,
-                  "style":{
-                    "fontName":"'Arial Negreta', 'Arial'",
-                    "fontSize":"16px",
-                    "fontWeight":"700",
-                    "foreGroundFill":{
-                      "fillType":"solid",
-                      "color":0xFFFF0000,
-                      "opacity":1},
-                    "location":{
-                      "x":15,
-                      "y":16},
-                    "size":{
-                      "width":72,
-                      "height":19}},
-                  "adaptiveStyles":{
-},
-                  "objects":[{
-                      "id":"8cb9a39a98fa4123a3ebb4cb3df61b7b",
-                      "label":"",
-                      "isContained":true,
-                      "parentDynamicPanel":"6c96ebf7882b4f76abd54267a8499bd3",
-                      "type":"richTextPanel",
-                      "styleType":"paragraph",
-                      "visible":true,
-                      "style":{
-                        "fontName":"'Arial Negreta', 'Arial'",
-                        "fontSize":"16px",
-                        "fontWeight":"700",
-                        "foreGroundFill":{
-                          "fillType":"solid",
-                          "color":0xFFFF0000,
-                          "opacity":1},
-                        "location":{
-                          "x":15,
-                          "y":16},
-                        "size":{
-                          "width":72,
-                          "height":19}},
-                      "adaptiveStyles":{
-}}],
-                  "images":{
-                    "normal~":"resources/images/transparent.gif"}}]}]}]}},
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -983,18 +829,4 @@
     "f5c473c583f64010ab43c3c99226265f":{
       "scriptId":"u38"},
     "2e98a2c84c12463db692ac12437d840a":{
-      "scriptId":"u39"},
-    "6c96ebf7882b4f76abd54267a8499bd3":{
-      "scriptId":"u40"},
-    "113366f3b0e141c2bd5fc5eae5a78330":{
-      "scriptId":"u41"},
-    "9e344664f4784924a52a3edd457cd68c":{
-      "scriptId":"u42"},
-    "ee1c6e434b5b48f292b746ce2e3e0664":{
-      "scriptId":"u43"},
-    "717e027005af4c91852ca70a166c9eea":{
-      "scriptId":"u44"},
-    "a79c71a7d5dc439e9017997c0fff8493":{
-      "scriptId":"u45"},
-    "8cb9a39a98fa4123a3ebb4cb3df61b7b":{
-      "scriptId":"u46"}}});
+      "scriptId":"u39"}}});

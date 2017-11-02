@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_4账单.html",
-  "generationDate":new Date(1509355512753.31),
+  "generationDate":new Date(1509586876524.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"bf92d48875fb4a2fa6a8ede0f834d3ad",
+    "packageId":"ad19784fca074d3b9f07ca423bdc24a9",
     "type":"Axure:Page",
     "name":"6.1.4账单",
     "notes":{

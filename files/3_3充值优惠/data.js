@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_3充值优惠.html",
-  "generationDate":new Date(1509355505702.64),
+  "generationDate":new Date(1509586876907.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"5c86ecc3bf604b8cbddac604a843dedc",
+    "packageId":"a646216b6af849e59819bb4fe909b03f",
     "type":"Axure:Page",
     "name":"3.3充值优惠",
     "notes":{

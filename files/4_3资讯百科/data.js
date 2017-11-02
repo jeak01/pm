@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3资讯百科.html",
-  "generationDate":new Date(1509355509715.31),
+  "generationDate":new Date(1509586890683.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3410,7 +3410,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u221.png"}},
+                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -3798,7 +3798,7 @@
                                 "description":"在 当前窗口 打开 3.0会员充值",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"3_0会员充值.html",
+                                  "url":"3_0会员充值_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

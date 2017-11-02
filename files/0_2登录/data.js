@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_2登录.html",
-  "generationDate":new Date(1509355499796.73),
+  "generationDate":new Date(1509586878938.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_2登录/u0.png"}},
+            "normal~":"images/6_1现场特惠卖单/u0.png"}},
 {
           "id":"b84bf0c862e34e8f8c8f2ffb3dfc8d2d",
           "label":"",

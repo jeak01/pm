@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功.html",
-  "generationDate":new Date(1509355505603.58),
+  "generationDate":new Date(1509586876804.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"2d6b6bc21c4942f7abbd01cedef9c110",
+    "packageId":"81f0acbe941440238d402307a88ca4c6",
     "type":"Axure:Page",
     "name":"3.1充值成功",
     "notes":{
@@ -199,7 +199,7 @@
               "y":60},
             "size":{
               "width":360,
-              "height":180}},
+              "height":190}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -215,11 +215,11 @@
                   "y":60},
                 "size":{
                   "width":360,
-                  "height":180}},
+                  "height":190}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_3支付成功/u8.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u16.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -335,15 +335,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
+                      "description":"在 当前窗口 打开 6.0农场专题",
                       "target":{
                         "targetType":"page",
-                        "url":"0_0主页.html",
+                        "url":"6_0农场专题.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/3_1充值成功/u14.png"}},
+            "normal~":"images/6_1_2支付成功/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -391,15 +391,63 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 3.0会员充值",
+                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值.html",
+                        "url":"6_1现场特惠卖单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u15.png"}}]}},
+            "normal~":"images/1_3支付成功/u15.png"}},
+{
+          "id":"346faa3338144a17af6b8a4b55967099",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":270},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2ab064b315864e59953f0407f728539d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":270},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 6.2配送套餐",
+                      "target":{
+                        "targetType":"page",
+                        "url":"6_2配送套餐.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -438,4 +486,8 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u16"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"}}});
+      "scriptId":"u17"},
+    "346faa3338144a17af6b8a4b55967099":{
+      "scriptId":"u18"},
+    "2ab064b315864e59953f0407f728539d":{
+      "scriptId":"u19"}}});

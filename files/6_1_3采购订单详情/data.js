@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_3采购订单详情.html",
-  "generationDate":new Date(1509355512700.28),
+  "generationDate":new Date(1509586876463.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"02b9295ba402454694e5aa532bba644e",
+    "packageId":"8a56f59369124ac5bca547917473b650",
     "type":"Axure:Page",
     "name":"6.1.3采购订单详情",
     "notes":{
@@ -370,10 +370,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 6.1现场采购清单",
+                              "description":"在 当前窗口 打开 6.1现场特惠卖单",
                               "target":{
                                 "targetType":"page",
-                                "url":"6_1现场采购清单.html",
+                                "url":"6_1现场特惠卖单.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -411,7 +411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u221.png"}},
+            "normal~":"images/6_1_3采购订单详情/u17.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",

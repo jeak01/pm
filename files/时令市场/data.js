@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1509355519918.06),
+  "generationDate":new Date(1509586901480.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2236,7 +2236,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__0920/u197.jpg"}},
+            "normal~":"images/6_0农场专题/u42.jpg"}},
 {
           "id":"52751869bc834674885a32d348d33ce6",
           "label":"",
@@ -2476,7 +2476,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__0920/u230.jpg"}},
+            "normal~":"images/6_0农场专题/u56.jpg"}},
 {
           "id":"684c5468ac51434c9c8158bb4d0aa528",
           "label":"",
@@ -2716,7 +2716,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u133.jpg"}},
+            "normal~":"images/6_0农场专题/u84.jpg"}},
 {
           "id":"22796b4fde634c1a8265bd5610db5afe",
           "label":"",
@@ -2956,7 +2956,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/时令市场/u145.jpg"}},
+            "normal~":"images/6_0农场专题/u70.jpg"}},
 {
           "id":"af9f031fb3a9473393a9d4fe08443f59",
           "label":"",
@@ -3576,8 +3576,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":440,
-              "y":1127},
+              "x":187,
+              "y":1147},
             "size":{
               "width":173,
               "height":243}},
@@ -4015,7 +4015,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u221.png"}},
+                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -4403,7 +4403,7 @@
                                 "description":"在 当前窗口 打开 3.0会员充值",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"3_0会员充值.html",
+                                  "url":"3_0会员充值_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

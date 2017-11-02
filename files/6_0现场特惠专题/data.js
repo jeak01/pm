@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0现场特惠专题.html",
-  "generationDate":new Date(1509355512239.97),
+  "generationDate":new Date(1509586895955.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"8190795248a0419d88dcfa6fa0eb572f",
+    "packageId":"9785fb7151ef40e7bae12e845a5a4240",
     "type":"Axure:Page",
     "name":"6.0现场特惠专题",
     "notes":{
@@ -225,7 +225,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0现场特惠专题/u8.png"}},
+            "normal~":"images/6_0农场专题/u8.png"}},
 {
           "id":"f3ef48c76f1c4d48a857addd398e74fa",
           "label":"",
@@ -274,7 +274,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值_1.html",
+                        "url":"3_0会员充值_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -328,7 +328,7 @@
                       "description":"在 当前窗口 打开 6.2配送套餐",
                       "target":{
                         "targetType":"page",
-                        "url":"6_2配送套餐.html",
+                        "url":"6_2配送套餐_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -874,7 +874,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值_1.html",
+                        "url":"3_0会员充值_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -922,7 +922,7 @@
                       "description":"在 当前窗口 打开 6.2配送套餐",
                       "target":{
                         "targetType":"page",
-                        "url":"6_2配送套餐.html",
+                        "url":"6_2配送套餐_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

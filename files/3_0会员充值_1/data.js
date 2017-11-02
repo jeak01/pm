@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值_1.html",
-  "generationDate":new Date(1509355512962.45),
+  "generationDate":new Date(1509586884352.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"9d322d841e984a0fa22ea0ff65340c19",
+    "packageId":"c7b10b805f2149c88618a71ed5d76fea",
     "type":"Axure:Page",
     "name":"3.0会员充值",
     "notes":{
@@ -104,7 +104,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u2.png"}},
+            "normal~":"images/3_0会员充值_1/u2.png"}},
 {
           "id":"f42628a40acb4ca2804b9ea99a3aee25",
           "label":"",
@@ -1209,7 +1209,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u88.png"}},
+                    "normal~":"images/3_0会员充值/u57.png"}},
 {
                   "id":"f2441bf38e924007b9c4dc9b36dc2e66",
                   "label":"",
@@ -1361,7 +1361,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u88.png"}},
+                    "normal~":"images/3_0会员充值/u57.png"}},
 {
                   "id":"770d83479afa4a9186244ce959c87693",
                   "label":"",
@@ -1513,7 +1513,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u88.png"}},
+                    "normal~":"images/3_0会员充值/u57.png"}},
 {
                   "id":"fb276279b10741509fe6996017263e23",
                   "label":"",
@@ -2043,7 +2043,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u221.png"}},
+                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -2431,7 +2431,7 @@
                                 "description":"在 当前窗口 打开 3.0会员充值",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"3_0会员充值.html",
+                                  "url":"3_0会员充值_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

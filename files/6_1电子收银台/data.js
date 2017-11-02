@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1电子收银台.html",
-  "generationDate":new Date(1509355515765.31),
+  "generationDate":new Date(1509586897197.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_2登录/u0.png"}},
+            "normal~":"images/6_1现场特惠卖单/u0.png"}},
 {
           "id":"11cba25a54af4671a1fb36f3b289a27a",
           "label":"",
@@ -450,7 +450,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值_1.html",
+                        "url":"3_0会员充值_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -566,7 +566,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/6_1现场采购清单/u121.png"}},
+                    "normal~":"images/6_1现场特惠卖单/u119.png"}},
 {
                   "id":"a04f2203d73846639d2de113b6f3bfe8",
                   "label":"",

@@ -163,7 +163,51 @@
                 "children":[{
                     "pageName":"2.7.1 收货地址新增/编辑",
                     "type":"Wireframe",
-                    "url":"2_7_1_收货地址新增_编辑.html"}]}]}]},
+                    "url":"2_7_1_收货地址新增_编辑.html"}]}]},
+{
+            "pageName":"6.0农场专题",
+            "type":"Wireframe",
+            "url":"6_0农场专题.html",
+            "children":[{
+                "pageName":"6.1现场特惠卖单",
+                "type":"Wireframe",
+                "url":"6_1现场特惠卖单.html",
+                "children":[{
+                    "pageName":"6.1.1采购支付",
+                    "type":"Wireframe",
+                    "url":"6_1_1采购支付.html"},
+{
+                    "pageName":"6.1.2支付成功",
+                    "type":"Wireframe",
+                    "url":"6_1_2支付成功.html"},
+{
+                    "pageName":"6.1.3采购订单详情",
+                    "type":"Wireframe",
+                    "url":"6_1_3采购订单详情.html"},
+{
+                    "pageName":"6.1.4账单",
+                    "type":"Wireframe",
+                    "url":"6_1_4账单.html"}]},
+{
+                "pageName":"6.2配送套餐",
+                "type":"Wireframe",
+                "url":"6_2配送套餐.html"},
+{
+                "pageName":"3.0会员充值",
+                "type":"Wireframe",
+                "url":"3_0会员充值.html",
+                "children":[{
+                    "pageName":"3.1充值成功",
+                    "type":"Wireframe",
+                    "url":"3_1充值成功.html"},
+{
+                    "pageName":"3.2会员保障",
+                    "type":"Wireframe",
+                    "url":"3_2会员保障.html"},
+{
+                    "pageName":"3.3充值优惠",
+                    "type":"Wireframe",
+                    "url":"3_3充值优惠.html"}]}]}]},
 {
         "pageName":"PC",
         "type":"Folder",
@@ -359,7 +403,11 @@
                 "children":[{
                     "pageName":"2.8.1资金账单",
                     "type":"Wireframe",
-                    "url":"2_8_1资金账单.html"}]},
+                    "url":"2_8_1资金账单.html"},
+{
+                    "pageName":"2.8.2 设置支付密码",
+                    "type":"Wireframe",
+                    "url":"2_8_2_设置支付密码.html"}]},
 {
                 "pageName":"2.9设置",
                 "type":"Wireframe",
@@ -379,19 +427,19 @@
 {
             "pageName":"3.0会员充值",
             "type":"Wireframe",
-            "url":"3_0会员充值.html",
+            "url":"3_0会员充值_1.html",
             "children":[{
                 "pageName":"3.1充值成功",
                 "type":"Wireframe",
-                "url":"3_1充值成功.html"},
+                "url":"3_1充值成功_1.html"},
 {
                 "pageName":"3.2会员保障",
                 "type":"Wireframe",
-                "url":"3_2会员保障.html"},
+                "url":"3_2会员保障_1.html"},
 {
                 "pageName":"3.3充值优惠",
                 "type":"Wireframe",
-                "url":"3_3充值优惠.html"}]},
+                "url":"3_3充值优惠_1.html"}]},
 {
             "pageName":"4.0发现",
             "type":"Wireframe",
@@ -497,49 +545,49 @@
                 "type":"Wireframe",
                 "url":"5_5_3宅配信息.html"}]},
 {
-            "pageName":"6.0现场特惠专题",
+            "pageName":"6.0农场专题",
             "type":"Wireframe",
-            "url":"6_0现场特惠专题.html",
+            "url":"6_0农场专题_1.html",
             "children":[{
-                "pageName":"6.1现场采购清单",
+                "pageName":"6.1现场特惠卖单",
                 "type":"Wireframe",
-                "url":"6_1现场采购清单.html",
+                "url":"6_1现场特惠卖单_1.html",
                 "children":[{
                     "pageName":"6.1.1采购支付",
                     "type":"Wireframe",
-                    "url":"6_1_1采购支付.html"},
+                    "url":"6_1_1采购支付_1.html"},
 {
                     "pageName":"6.1.2支付成功",
                     "type":"Wireframe",
-                    "url":"6_1_2支付成功.html"},
+                    "url":"6_1_2支付成功_1.html"},
 {
                     "pageName":"6.1.3采购订单详情",
                     "type":"Wireframe",
-                    "url":"6_1_3采购订单详情.html"},
+                    "url":"6_1_3采购订单详情_1.html"},
 {
                     "pageName":"6.1.4账单",
                     "type":"Wireframe",
-                    "url":"6_1_4账单.html"}]},
+                    "url":"6_1_4账单_1.html"}]},
 {
                 "pageName":"6.2配送套餐",
                 "type":"Wireframe",
-                "url":"6_2配送套餐.html"},
+                "url":"6_2配送套餐_1.html"},
 {
                 "pageName":"3.0会员充值",
                 "type":"Wireframe",
-                "url":"3_0会员充值_1.html",
+                "url":"3_0会员充值_2.html",
                 "children":[{
                     "pageName":"3.1充值成功",
                     "type":"Wireframe",
-                    "url":"3_1充值成功_1.html"},
+                    "url":"3_1充值成功_2.html"},
 {
                     "pageName":"3.2会员保障",
                     "type":"Wireframe",
-                    "url":"3_2会员保障_1.html"},
+                    "url":"3_2会员保障_2.html"},
 {
                     "pageName":"3.3充值优惠",
                     "type":"Wireframe",
-                    "url":"3_3充值优惠_1.html"}]}]},
+                    "url":"3_3充值优惠_2.html"}]}]},
 {
             "pageName":"6.3采购信息查询（管理端）",
             "type":"Wireframe",
@@ -581,6 +629,10 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"6.0现场特惠专题",
+            "type":"Wireframe",
+            "url":"6_0现场特惠专题.html"},
+{
             "pageName":"2.2.1优游权益门票",
             "type":"Wireframe",
             "url":"2_2_1优游权益门票.html",

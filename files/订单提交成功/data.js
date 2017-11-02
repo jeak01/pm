@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单提交成功.html",
-  "generationDate":new Date(1509355519507.79),
+  "generationDate":new Date(1509586900872.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -364,7 +364,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/3_1充值成功/u14.png"}},
+            "normal~":"images/6_1_2支付成功/u14.png"}},
 {
           "id":"2e926c064b5f4ce389b1f0d0c54c343e",
           "label":"",

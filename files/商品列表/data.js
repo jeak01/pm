@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表.html",
-  "generationDate":new Date(1509355520133.2),
+  "generationDate":new Date(1509586901741.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1091,7 +1091,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__0920/u230.jpg"}},
+            "normal~":"images/6_0农场专题/u56.jpg"}},
 {
           "id":"d20381cc1d284e5386358f3cb8eb5941",
           "label":"",
@@ -1361,7 +1361,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__0920/u230.jpg"}},
+            "normal~":"images/6_0农场专题/u56.jpg"}},
 {
           "id":"8e409dfe333f4bdeb6f05cef67c7aad3",
           "label":"",
@@ -1631,7 +1631,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__0920/u230.jpg"}},
+            "normal~":"images/6_0农场专题/u56.jpg"}},
 {
           "id":"b58422a4a8644133b63573d6d39e33be",
           "label":"",
@@ -1901,7 +1901,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__0920/u230.jpg"}},
+            "normal~":"images/6_0农场专题/u56.jpg"}},
 {
           "id":"2ce2757bb3e94101ade0a859a25c4392",
           "label":"",
@@ -2471,7 +2471,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u221.png"}},
+                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -2859,7 +2859,7 @@
                                 "description":"在 当前窗口 打开 3.0会员充值",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"3_0会员充值.html",
+                                  "url":"3_0会员充值_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

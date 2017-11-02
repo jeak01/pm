@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障.html",
-  "generationDate":new Date(1509355505655.61),
+  "generationDate":new Date(1509586876856.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"a56d04347f284fa29d6d645928c5fa48",
+    "packageId":"451da071143f4afa9cdb9c7ba7dd9af4",
     "type":"Axure:Page",
     "name":"3.2会员保障",
     "notes":{

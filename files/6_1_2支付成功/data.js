@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_2支付成功.html",
-  "generationDate":new Date(1509355512627.23),
+  "generationDate":new Date(1509586876388.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"8420bfb366d64f5bba9a204da28d62e2",
+    "packageId":"7fff70b20fb84beda975a32d8e1eed52",
     "type":"Axure:Page",
     "name":"6.1.2支付成功",
     "notes":{
@@ -343,7 +343,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/3_1充值成功/u14.png"}},
+            "normal~":"images/6_1_2支付成功/u14.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8我的账户.html",
-  "generationDate":new Date(1509355504998.18),
+  "generationDate":new Date(1509586883816.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1478,6 +1478,36 @@
                         "url":"2_8_1资金账单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a1c6925d013f48ef81e90913a1c7f849",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":159},
+            "size":{
+              "width":360,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.8.2 设置支付密码",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_8_2_设置支付密码.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -1625,4 +1655,6 @@
     "6362412ff34147db8388672ec998e9ee":{
       "scriptId":"u70"},
     "fc9a1ed9116949348f055c31c8cef15d":{
-      "scriptId":"u71"}}});
+      "scriptId":"u71"},
+    "a1c6925d013f48ef81e90913a1c7f849":{
+      "scriptId":"u72"}}});
