@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页（0907）.html",
-  "generationDate":new Date(1509586903160.37),
+  "generationDate":new Date(1509692803879.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2905,7 +2905,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/时令市场/u21.jpg"}},
+                            "normal~":"images/7_0农产优品/u21.jpg"}},
 {
                           "id":"dff09c18b9b14dc7a17bc92673be34bf",
                           "label":"",
@@ -3069,7 +3069,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/时令市场/u29.png"}},
+                            "normal~":"images/7_0农产优品/u29.png"}},
 {
                           "id":"f36fd29e0e9444c287f868ad6b2b3af9",
                           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场特惠卖单_1.html",
-  "generationDate":new Date(1509586893501.18),
+  "generationDate":new Date(1509692793735.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -124,7 +124,7 @@
                       "description":"在 当前窗口 打开 6.2配送套餐",
                       "target":{
                         "targetType":"page",
-                        "url":"6_2配送套餐_1.html",
+                        "url":"6_2配送套餐.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

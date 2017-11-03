@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1509586901900.53),
+  "generationDate":new Date(1509692802601.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/限时特惠详情页/u0.png"}},
+            "normal~":"images/7_2限时特惠详情页/u0.png"}},
 {
           "id":"46b2ef1c9492489bab8340d0605e8ac1",
           "label":"",
@@ -104,7 +104,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u2.png"}},
+            "normal~":"images/6_2商品详情/u26.png"}},
 {
           "id":"37dc69d67e394d7c9aa70a0f2fe15ff7",
           "label":"",
@@ -174,7 +174,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/限时特惠详情页/u6.png"}},
+            "normal~":"images/7_2限时特惠详情页/u6.png"}},
 {
           "id":"5988d78ad6474af4adb8d691d62ea497",
           "label":"",
@@ -416,7 +416,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"3442dcf864574d40b3f4a09debee2259",
           "label":"",
@@ -457,7 +457,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"9d7890b6cde1427881b7e4ee839a7ad0",
           "label":"",
@@ -498,7 +498,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"53be98881e8f423d9eb2a5f625217141",
           "label":"",
@@ -539,7 +539,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/限时特惠详情页/u24.png"}},
+            "normal~":"images/7_2限时特惠详情页/u24.png"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",
@@ -699,7 +699,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/限时特惠详情页/u32.png"}},
+            "normal~":"images/7_2限时特惠详情页/u32.png"}},
 {
           "id":"5c9dff48e37e4d1190116ec3f0351a8d",
           "label":"",

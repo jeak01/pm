@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1509586906000.52),
+  "generationDate":new Date(1509692806622.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1476,7 +1476,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"b306601b32d4480b9fddb3bb38512b78",
           "label":"",
@@ -1509,7 +1509,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"955ee2dc15b64a5cb65da9e1cf347953",
           "label":"",
@@ -1542,7 +1542,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u22.png"}},
+            "normal~":"images/7_1优品列表/u22.png"}},
 {
           "id":"2104df169d5642b3bd45219e5ecc9e8e",
           "label":"",

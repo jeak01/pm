@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功.html",
-  "generationDate":new Date(1509586876804.35),
+  "generationDate":new Date(1509692778812.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -439,10 +439,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.2配送套餐",
+                      "description":"在 当前窗口 打开 6.2商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"6_2配送套餐.html",
+                        "url":"6_2商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

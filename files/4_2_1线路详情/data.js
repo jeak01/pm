@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_1线路详情.html",
-  "generationDate":new Date(1509586889203.54),
+  "generationDate":new Date(1509692788954.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2776,7 +2776,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"1095b6aaa09a4e79b08c8cb1c8292c95",
           "label":"",
@@ -2817,7 +2817,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"c46432eebce64b69a48af648b4a0350e",
           "label":"",
@@ -2858,7 +2858,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"b116755253274ef1906025fd8b5099a7",
           "label":"",

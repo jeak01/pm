@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_0主页.html",
-  "generationDate":new Date(1509586878496.72),
+  "generationDate":new Date(1509692779762.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5917,7 +5917,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u24.png"}},
+            "normal~":"images/6_0农场专题/u22.png"}},
 {
           "id":"08bd4a74bb214619b89c05276c1e5d0a",
           "label":"",
@@ -6028,7 +6028,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u24.png"}},
+            "normal~":"images/6_0农场专题/u22.png"}},
 {
           "id":"9a1fc35c3e7e4b00a3438abece045f01",
           "label":"",
@@ -6065,7 +6065,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bc6f5ee3440a4be09d144a49e442f789",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":182,
+              "y":226},
+            "size":{
+              "width":158,
+              "height":44}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.0农产优品",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_0农产优品.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -6598,4 +6628,6 @@
     "9a1fc35c3e7e4b00a3438abece045f01":{
       "scriptId":"u263"},
     "28fa01572aaf4f639ce757806a2b9847":{
-      "scriptId":"u264"}}});
+      "scriptId":"u264"},
+    "bc6f5ee3440a4be09d144a49e442f789":{
+      "scriptId":"u265"}}});

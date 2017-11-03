@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0农旅卡主题页.html",
-  "generationDate":new Date(1509586879126.14),
+  "generationDate":new Date(1509692780466.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -331,7 +331,7 @@
                       "description":"在 当前窗口 打开 1.2订单支付页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_2订单支付页_1.html",
+                        "url":"1_2订单支付页_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表.html",
-  "generationDate":new Date(1509586909179.08),
+  "generationDate":new Date(1509692809141.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -176,7 +176,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"98f12138c6ab4d54a44f41123cde1b5e",
           "label":"",

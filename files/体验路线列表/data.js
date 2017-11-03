@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1509586909329.18),
+  "generationDate":new Date(1509692809322.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -176,7 +176,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"c6de04125e7d408e9d117072f7138636",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"f18f47d8b945460f98de5e1f4b9182c4",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"d2414ef6bbe340479493dab369a6c50b",
           "label":"",
@@ -291,7 +291,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"7df562a8daec436eae140ee906e4fa26",
           "label":"",
@@ -324,7 +324,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"da6b20f39507454a98dc26233e7722b5",
           "label":"",
@@ -357,7 +357,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u22.png"}},
+            "normal~":"images/7_1优品列表/u22.png"}},
 {
           "id":"e03ad03a8e6849298ee168df9b69dc4f",
           "label":"",

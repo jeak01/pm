@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表.html",
-  "generationDate":new Date(1509586904587.84),
+  "generationDate":new Date(1509692805313.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -176,7 +176,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u23.png"}},
+            "normal~":"images/6_2商品详情/u47.png"}},
 {
           "id":"1735d451609c461cbca800f807245f9e",
           "label":"",
@@ -291,7 +291,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"c9febc3da0dc4c878a4cc98d416d6d3c",
           "label":"",
@@ -324,7 +324,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u18.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"a12e41862d354fe98be8a84b7412ceb2",
           "label":"",
@@ -357,7 +357,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/商品列表/u22.png"}},
+            "normal~":"images/7_1优品列表/u22.png"}},
 {
           "id":"d7327940ef7e4b6488a19c7e92e74406",
           "label":"",

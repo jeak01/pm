@@ -189,9 +189,25 @@
                     "type":"Wireframe",
                     "url":"6_1_4账单.html"}]},
 {
-                "pageName":"6.2配送套餐",
+                "pageName":"6.2商品详情",
                 "type":"Wireframe",
-                "url":"6_2配送套餐.html"},
+                "url":"6_2商品详情.html"},
+{
+                "pageName":"2.2.2.1确认订单",
+                "type":"Wireframe",
+                "url":"2_2_2_1确认订单.html",
+                "children":[{
+                    "pageName":"1.2订单支付页",
+                    "type":"Wireframe",
+                    "url":"1_2订单支付页_1.html"},
+{
+                    "pageName":"2.2.2.2支付成功",
+                    "type":"Wireframe",
+                    "url":"2_2_2_2支付成功.html"},
+{
+                    "pageName":"2.3.1订单详情",
+                    "type":"Wireframe",
+                    "url":"2_3_1订单详情.html"}]},
 {
                 "pageName":"3.0会员充值",
                 "type":"Wireframe",
@@ -267,7 +283,7 @@
 {
                 "pageName":"1.2订单支付页",
                 "type":"Wireframe",
-                "url":"1_2订单支付页_1.html"},
+                "url":"1_2订单支付页_2.html"},
 {
                 "pageName":"1.3支付成功",
                 "type":"Wireframe",
@@ -571,7 +587,7 @@
 {
                 "pageName":"6.2配送套餐",
                 "type":"Wireframe",
-                "url":"6_2配送套餐_1.html"},
+                "url":"6_2配送套餐.html"},
 {
                 "pageName":"3.0会员充值",
                 "type":"Wireframe",
@@ -600,6 +616,18 @@
                 "pageName":"6.3.2 采购订单详情",
                 "type":"Wireframe",
                 "url":"6_3_2_采购订单详情.html"}]},
+{
+            "pageName":"7.0农产优品",
+            "type":"Wireframe",
+            "url":"7_0农产优品.html",
+            "children":[{
+                "pageName":"7.1优品列表",
+                "type":"Wireframe",
+                "url":"7_1优品列表.html"},
+{
+                "pageName":"7.2限时特惠详情页",
+                "type":"Wireframe",
+                "url":"7_2限时特惠详情页.html"}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0现场特惠专题.html",
-  "generationDate":new Date(1509586895955.56),
+  "generationDate":new Date(1509692796883.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -328,7 +328,7 @@
                       "description":"在 当前窗口 打开 6.2配送套餐",
                       "target":{
                         "targetType":"page",
-                        "url":"6_2配送套餐_1.html",
+                        "url":"6_2配送套餐.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -922,7 +922,7 @@
                       "description":"在 当前窗口 打开 6.2配送套餐",
                       "target":{
                         "targetType":"page",
-                        "url":"6_2配送套餐_1.html",
+                        "url":"6_2配送套餐.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

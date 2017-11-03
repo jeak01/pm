@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0920.html",
-  "generationDate":new Date(1509586899570.93),
+  "generationDate":new Date(1509692800577.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3945,7 +3945,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u42.jpg"}},
+            "normal~":"images/6_0农场专题/u40.jpg"}},
 {
           "id":"fc3bb455251c4f84a954d570ceedf804",
           "label":"",
@@ -4666,7 +4666,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u56.jpg"}},
+            "normal~":"images/6_0农场专题/u54.jpg"}},
 {
           "id":"cdca1836b2b44803a5b9cad3384b80c6",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_0购买宅配套餐.html",
-  "generationDate":new Date(1509586891714.07),
+  "generationDate":new Date(1509692791274.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1728,7 +1728,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_0农场专题/u89.png"}}]}]},
+                    "normal~":"images/6_0农场专题/u87.png"}}]}]},
 {
           "id":"706f8418aec242f187e72ebfa162fe09",
           "label":"选择农场状态",
