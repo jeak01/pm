@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_1确认订单（农旅）.html",
-  "generationDate":new Date(1509693749090.87),
+  "generationDate":new Date(1509696514115.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3645,7 +3645,340 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"resources/images/transparent.gif"}}]}]}]}]}]}},
+                            "normal~":"resources/images/transparent.gif"}}]}]}]}]},
+{
+          "id":"49a7f16200054448b82045dbbe1c8634",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":399},
+            "size":{
+              "width":360,
+              "height":39}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 订单留言 灯箱效果",
+                      "objectsToFades":[{
+                          "objectPath":["b9d1c71381864810991a83a27fe28c76"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"lightbox",
+                              "lightbox":{
+                                "r":47,
+                                "g":79,
+                                "b":79,
+                                "a":155}}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"b9d1c71381864810991a83a27fe28c76",
+          "label":"订单留言",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":20,
+              "y":76},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onDrag":{
+              "description":"OnDrag",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"Move Widget",
+                      "objectsToMoves":[]}]}]}},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":20,
+          "fixedVertical":"middle",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"d9b7dc4c477444438afc09800d500197",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"ea27fb7cd1e746cbb2aa9c75214543bc",
+                  "label":"",
+                  "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":29},
+                    "size":{
+                      "width":320,
+                      "height":221}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7e05727ac6f141ec82a5871dbd28114d",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":29},
+                        "size":{
+                          "width":320,
+                          "height":221}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u190.png"}},
+{
+                  "id":"c36dc7667be54d06a6c67c9d7f2dba89",
+                  "label":"",
+                  "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0ef0b7429f9b4f9b8fdbb0c1633459ca",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":320,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
+{
+                  "id":"73345944df83428fb0c2fa377e9f6010",
+                  "label":"",
+                  "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":290,
+                      "y":0},
+                    "size":{
+                      "width":30,
+                      "height":31},
+                    "rotation":"0",
+                    "textRotation":"0",
+                    "borderWidth":"0",
+                    "cornerRadiusTopLeft":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ed167968747e448b8062ec0aa5fb2ada",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":290,
+                          "y":0},
+                        "size":{
+                          "width":30,
+                          "height":31},
+                        "rotation":"0",
+                        "textRotation":"0",
+                        "borderWidth":"0",
+                        "cornerRadiusTopLeft":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 订单留言",
+                              "objectsToFades":[{
+                                  "objectPath":["b9d1c71381864810991a83a27fe28c76"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u154.png"}},
+{
+                  "id":"8cd256c18ec74f28b59c5bcd1bbd8aae",
+                  "label":"",
+                  "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                  "type":"textArea",
+                  "styleType":"textArea",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF999999,
+                      "opacity":1},
+                    "location":{
+                      "x":10,
+                      "y":40},
+                    "size":{
+                      "width":300,
+                      "height":150}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"66738b2c07464c42b53ef3fef0b6356b",
+                  "label":"",
+                  "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":210},
+                    "size":{
+                      "width":160,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"6e4e690ff8464dd0b149b88de897e77e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":210},
+                        "size":{
+                          "width":160,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 订单留言",
+                              "objectsToFades":[{
+                                  "objectPath":["b9d1c71381864810991a83a27fe28c76"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u197.png"}},
+{
+                  "id":"fc6d326293ab45fd8f415eea43672be4",
+                  "label":"",
+                  "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF009DD9},
+                    "location":{
+                      "x":160,
+                      "y":210},
+                    "size":{
+                      "width":160,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3ce7e511df204cb6a426a986716b2eb5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b9d1c71381864810991a83a27fe28c76",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF009DD9},
+                        "location":{
+                          "x":160,
+                          "y":210},
+                        "size":{
+                          "width":160,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 订单留言",
+                              "objectsToFades":[{
+                                  "objectPath":["b9d1c71381864810991a83a27fe28c76"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u199.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -4024,4 +4357,30 @@
     "22e3561b9a154bc2ab5fa7cf954fb435":{
       "scriptId":"u186"},
     "dda8ca81324f4f34a4097c8dbf45cf5d":{
-      "scriptId":"u187"}}});
+      "scriptId":"u187"},
+    "49a7f16200054448b82045dbbe1c8634":{
+      "scriptId":"u188"},
+    "b9d1c71381864810991a83a27fe28c76":{
+      "scriptId":"u189"},
+    "ea27fb7cd1e746cbb2aa9c75214543bc":{
+      "scriptId":"u190"},
+    "7e05727ac6f141ec82a5871dbd28114d":{
+      "scriptId":"u191"},
+    "c36dc7667be54d06a6c67c9d7f2dba89":{
+      "scriptId":"u192"},
+    "0ef0b7429f9b4f9b8fdbb0c1633459ca":{
+      "scriptId":"u193"},
+    "73345944df83428fb0c2fa377e9f6010":{
+      "scriptId":"u194"},
+    "ed167968747e448b8062ec0aa5fb2ada":{
+      "scriptId":"u195"},
+    "8cd256c18ec74f28b59c5bcd1bbd8aae":{
+      "scriptId":"u196"},
+    "66738b2c07464c42b53ef3fef0b6356b":{
+      "scriptId":"u197"},
+    "6e4e690ff8464dd0b149b88de897e77e":{
+      "scriptId":"u198"},
+    "fc6d326293ab45fd8f415eea43672be4":{
+      "scriptId":"u199"},
+    "3ce7e511df204cb6a426a986716b2eb5":{
+      "scriptId":"u200"}}});
