@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2农旅线路.html",
-  "generationDate":new Date(1509696526064.47),
+  "generationDate":new Date(1509704797938.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -49,7 +49,7 @@
               "color":0xFF00CCFF},
             "location":{
               "x":229,
-              "y":233},
+              "y":203},
             "size":{
               "width":100,
               "height":30},
@@ -75,7 +75,7 @@
                   "color":0xFF00CCFF},
                 "location":{
                   "x":229,
-                  "y":233},
+                  "y":203},
                 "size":{
                   "width":100,
                   "height":30},
@@ -102,7 +102,7 @@
               "color":0xFF00CCFF},
             "location":{
               "x":129,
-              "y":233},
+              "y":203},
             "size":{
               "width":100,
               "height":30},
@@ -128,7 +128,7 @@
                   "color":0xFF00CCFF},
                 "location":{
                   "x":129,
-                  "y":233},
+                  "y":203},
                 "size":{
                   "width":100,
                   "height":30},
@@ -187,7 +187,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":273},
+              "y":243},
             "size":{
               "width":10,
               "height":10}},
@@ -6623,7 +6623,7 @@
           "style":{
             "location":{
               "x":1,
-              "y":80},
+              "y":50},
             "size":{
               "width":358,
               "height":143}},
@@ -6874,7 +6874,7 @@
           "style":{
             "location":{
               "x":150,
-              "y":203},
+              "y":173},
             "size":{
               "width":10,
               "height":10}},
@@ -7352,7 +7352,7 @@
               "opacity":1},
             "location":{
               "x":129,
-              "y":233},
+              "y":203},
             "size":{
               "width":100,
               "height":30},
@@ -7375,7 +7375,7 @@
                   "opacity":1},
                 "location":{
                   "x":129,
-                  "y":233},
+                  "y":203},
                 "size":{
                   "width":100,
                   "height":30},
@@ -7436,7 +7436,7 @@
           "style":{
             "location":{
               "x":31,
-              "y":233},
+              "y":203},
             "size":{
               "width":100,
               "height":30},
@@ -7455,7 +7455,7 @@
               "style":{
                 "location":{
                   "x":31,
-                  "y":233},
+                  "y":203},
                 "size":{
                   "width":100,
                   "height":30},
@@ -7533,7 +7533,7 @@
               "opacity":1},
             "location":{
               "x":229,
-              "y":233},
+              "y":203},
             "size":{
               "width":100,
               "height":30},
@@ -7556,7 +7556,7 @@
                   "opacity":1},
                 "location":{
                   "x":229,
-                  "y":233},
+                  "y":203},
                 "size":{
                   "width":100,
                   "height":30},
@@ -7624,7 +7624,7 @@
               "color":0xFF00CCFF},
             "location":{
               "x":31,
-              "y":233},
+              "y":203},
             "size":{
               "width":100,
               "height":30},
@@ -7650,7 +7650,7 @@
                   "color":0xFF00CCFF},
                 "location":{
                   "x":31,
-                  "y":233},
+                  "y":203},
                 "size":{
                   "width":100,
                   "height":30},
@@ -7660,301 +7660,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/游记_u0.png"}},
-{
-          "id":"bb2b00c8dd444b78ad3a004e90d20d0f",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":39},
-            "size":{
-              "width":360,
-              "height":30},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"bbb7687aac374e7c85caf61b589699c4",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":39},
-                "size":{
-                  "width":360,
-                  "height":30},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/4_1农场列表/u121.png"}},
-{
-          "id":"8db4c7e23caf4e83932ccfb31a665c05",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":0,
-              "y":39},
-            "size":{
-              "width":91,
-              "height":29},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"b8cd28089db34d99b6a36146ed5fa3fb",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":0,
-                  "y":39},
-                "size":{
-                  "width":91,
-                  "height":29},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.0发现",
-                      "target":{
-                        "targetType":"page",
-                        "url":"4_0发现.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/4_1农场列表/u123.png"}},
-{
-          "id":"c128931364fd4fd1943df5563faf3f96",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":91,
-              "y":39},
-            "size":{
-              "width":91,
-              "height":29},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"2ba4ec969d604ea6aa0aaf48660f923e",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":91,
-                  "y":39},
-                "size":{
-                  "width":91,
-                  "height":29},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1农场列表",
-                      "target":{
-                        "targetType":"page",
-                        "url":"4_1农场列表.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/4_1农场列表/u123.png"}},
-{
-          "id":"570f8afc7393479f8a4a684a5c5bd905",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF0099FF,
-              "opacity":1},
-            "location":{
-              "x":182,
-              "y":39},
-            "size":{
-              "width":91,
-              "height":29},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"a3bb434569974eeaa209641cde0402ba",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF0099FF,
-                  "opacity":1},
-                "location":{
-                  "x":182,
-                  "y":39},
-                "size":{
-                  "width":91,
-                  "height":29},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.2农旅线路",
-                      "target":{
-                        "targetType":"page",
-                        "url":"4_2农旅线路.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/4_1农场列表/u123.png"}},
-{
-          "id":"3b2b1763c040492c95b5ea9aa5c2a2e4",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":269,
-              "y":39},
-            "size":{
-              "width":91,
-              "height":29},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"e7cc6d4055404f2084627efc935cf96f",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":269,
-                  "y":39},
-                "size":{
-                  "width":91,
-                  "height":29},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.3资讯百科",
-                      "target":{
-                        "targetType":"page",
-                        "url":"4_3资讯百科.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/4_1农场列表/u123.png"}},
-{
-          "id":"393afb02ce404c2e96b0ab2f2f573640",
-          "label":"",
-          "type":"horizontalLine",
-          "styleType":"horizontalLine",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":182,
-              "y":63},
-            "size":{
-              "width":91,
-              "height":10},
-            "borderWidth":"2",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF0099FF}},
-          "adaptiveStyles":{
-},
-          "images":{
-            "start~":"resources/images/transparent.gif",
-            "end~":"resources/images/transparent.gif",
-            "line~":"images/4_1农场列表/u131_line.png"}}]}},
+            "normal~":"images/4_2农旅线路/游记_u0.png"}}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -9352,26 +9058,4 @@
     "87050eb878a94315b447e5652bd74d1c":{
       "scriptId":"u382"},
     "be29cdf91cd24e55aaf2302153d141ef":{
-      "scriptId":"u383"},
-    "bb2b00c8dd444b78ad3a004e90d20d0f":{
-      "scriptId":"u384"},
-    "bbb7687aac374e7c85caf61b589699c4":{
-      "scriptId":"u385"},
-    "8db4c7e23caf4e83932ccfb31a665c05":{
-      "scriptId":"u386"},
-    "b8cd28089db34d99b6a36146ed5fa3fb":{
-      "scriptId":"u387"},
-    "c128931364fd4fd1943df5563faf3f96":{
-      "scriptId":"u388"},
-    "2ba4ec969d604ea6aa0aaf48660f923e":{
-      "scriptId":"u389"},
-    "570f8afc7393479f8a4a684a5c5bd905":{
-      "scriptId":"u390"},
-    "a3bb434569974eeaa209641cde0402ba":{
-      "scriptId":"u391"},
-    "3b2b1763c040492c95b5ea9aa5c2a2e4":{
-      "scriptId":"u392"},
-    "e7cc6d4055404f2084627efc935cf96f":{
-      "scriptId":"u393"},
-    "393afb02ce404c2e96b0ab2f2f573640":{
-      "scriptId":"u394"}}});
+      "scriptId":"u383"}}});

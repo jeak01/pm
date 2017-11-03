@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0农场专题_1.html",
-  "generationDate":new Date(1509696530597.49),
+  "generationDate":new Date(1509704802559.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2155,7 +2155,37 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c3c79d228a8a4b5b9c385e3c3f52e76f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":41},
+            "size":{
+              "width":360,
+              "height":126}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
+                      "target":{
+                        "targetType":"page",
+                        "url":"6_1现场特惠卖单_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2376,4 +2406,6 @@
     "30cac0940fd4438a9fad8e816e189302":{
       "scriptId":"u107"},
     "beeeeb2464d54bcfbb0c6dea2e87e661":{
-      "scriptId":"u108"}}});
+      "scriptId":"u108"},
+    "c3c79d228a8a4b5b9c385e3c3f52e76f":{
+      "scriptId":"u109"}}});

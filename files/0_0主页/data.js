@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_0主页.html",
-  "generationDate":new Date(1509696517751.93),
+  "generationDate":new Date(1509704789198.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -6095,6 +6095,36 @@
                         "url":"7_0农产优品.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a8bb631b0af0494cb008c88b2e526d47",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":14,
+              "y":226},
+            "size":{
+              "width":158,
+              "height":44}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 4.2农旅线路",
+                      "target":{
+                        "targetType":"page",
+                        "url":"4_2农旅线路.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -6630,4 +6660,6 @@
     "28fa01572aaf4f639ce757806a2b9847":{
       "scriptId":"u264"},
     "bc6f5ee3440a4be09d144a49e442f789":{
-      "scriptId":"u265"}}});
+      "scriptId":"u265"},
+    "a8bb631b0af0494cb008c88b2e526d47":{
+      "scriptId":"u266"}}});

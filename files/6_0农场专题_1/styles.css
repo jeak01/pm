@@ -1264,3 +1264,12 @@
   width:10px;
   white-space:nowrap;
 }
+#u109 {
+  position:absolute;
+  left:0px;
+  top:41px;
+  width:360px;
+  height:126px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
