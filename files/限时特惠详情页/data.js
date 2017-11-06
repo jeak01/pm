@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1509704811475.8),
+  "generationDate":new Date(1509969947596.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1228,15 +1228,14 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 4.1.1.2确认订单",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"4_1_1_2确认订单.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_1_1_1商品详情/u42.png"}},
+                    "normal~":"images/6_2配送套餐/u43.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

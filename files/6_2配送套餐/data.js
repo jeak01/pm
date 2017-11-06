@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_2配送套餐.html",
-  "generationDate":new Date(1509704803098.22),
+  "generationDate":new Date(1509969932575.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -851,7 +851,7 @@
                           "actions":[]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_1_1_1商品详情/u42.png"}},
+                    "normal~":"images/6_2配送套餐/u43.png"}},
 {
                   "id":"a79c71a7d5dc439e9017997c0fff8493",
                   "label":"",

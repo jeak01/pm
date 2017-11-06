@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_1优品列表.html",
-  "generationDate":new Date(1509704804312.03),
+  "generationDate":new Date(1509969934471.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -169,10 +169,10 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":143,
-              "y":10},
+              "x":161,
+              "y":9},
             "size":{
-              "width":73,
+              "width":37,
               "height":22}},
           "adaptiveStyles":{
 },
@@ -192,10 +192,10 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":143,
-                  "y":10},
+                  "x":161,
+                  "y":9},
                 "size":{
-                  "width":73,
+                  "width":37,
                   "height":22}},
               "adaptiveStyles":{
 }}],
@@ -406,6 +406,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.4优品购物车",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_4优品购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/1_1_3农场主页/u311.png"}},
 {
@@ -985,6 +1000,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.4优品购物车",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_4优品购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/1_1_3农场主页/u311.png"}},
 {
@@ -1258,6 +1288,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.4优品购物车",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_4优品购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/1_1_3农场主页/u311.png"}},
 {
@@ -1272,7 +1317,7 @@
               "y":327},
             "size":{
               "width":173,
-              "height":243}},
+              "height":200}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -1283,10 +1328,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1528,6 +1573,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.4优品购物车",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_4优品购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/1_1_3农场主页/u311.png"}},
 {
@@ -1542,7 +1602,7 @@
               "y":327},
             "size":{
               "width":173,
-              "height":243}},
+              "height":200}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -1553,10 +1613,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1798,6 +1858,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.4优品购物车",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_4优品购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/1_1_3农场主页/u311.png"}},
 {
@@ -1812,7 +1887,7 @@
               "y":575},
             "size":{
               "width":173,
-              "height":243}},
+              "height":200}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -1823,10 +1898,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2068,6 +2143,21 @@
                   "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.4优品购物车",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_4优品购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/1_1_3农场主页/u311.png"}},
 {
@@ -2082,7 +2172,7 @@
               "y":575},
             "size":{
               "width":173,
-              "height":243}},
+              "height":204}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -2093,10 +2183,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2132,7 +2222,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u29.jpg"}},
+            "normal~":"images/7_0农产优品/u41.jpg"}},
 {
           "id":"63f662dc5e3e4cd2bc1f9349ff278a15",
           "label":"",
@@ -2145,7 +2235,7 @@
               "y":79},
             "size":{
               "width":173,
-              "height":243}},
+              "height":200}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -2156,10 +2246,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2175,7 +2265,7 @@
               "y":79},
             "size":{
               "width":173,
-              "height":243}},
+              "height":200}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -2186,10 +2276,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2233,7 +2323,185 @@
                       "height":63}},
                   "adaptiveStyles":{
 },
-                  "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"}]}]}]}},
+                  "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"}]}]},
+{
+          "id":"9416ddede6724f24a463cffa0150e2f7",
+          "label":"购物车入口",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":480,
+              "y":330},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.4优品购物车",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_4优品购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "fixedHorizontal":"right",
+          "fixedMarginHorizontal":20,
+          "fixedVertical":"bottom",
+          "fixedMarginVertical":80,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"ae0f5d8aee654946b287d5b70c71685a",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"f9411f03fb1d4eeba833e7dcfd16139d",
+                  "label":"",
+                  "parentDynamicPanel":"9416ddede6724f24a463cffa0150e2f7",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":40,
+                      "height":40},
+                    "cornerRadiusTopLeft":"50"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"02d794d57ea841738fb06d3858e40d6f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9416ddede6724f24a463cffa0150e2f7",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":40,
+                          "height":40},
+                        "cornerRadiusTopLeft":"50"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/7_1优品列表/u137.png"}},
+{
+                  "id":"cd200b925e0e478b96ce3280854cd5ca",
+                  "label":"",
+                  "parentDynamicPanel":"9416ddede6724f24a463cffa0150e2f7",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":8,
+                      "y":8},
+                    "size":{
+                      "width":24,
+                      "height":23},
+                    "rotation":"0",
+                    "textRotation":"0",
+                    "borderWidth":"0",
+                    "cornerRadiusTopLeft":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d66e3beae8eb47d1b563d2254818a185",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9416ddede6724f24a463cffa0150e2f7",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":8,
+                          "y":8},
+                        "size":{
+                          "width":24,
+                          "height":23},
+                        "rotation":"0",
+                        "textRotation":"0",
+                        "borderWidth":"0",
+                        "cornerRadiusTopLeft":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/7_1优品列表/u139.png"}},
+{
+                  "id":"5f5d1da543c6485fb859a9adec8e4dc4",
+                  "label":"",
+                  "parentDynamicPanel":"9416ddede6724f24a463cffa0150e2f7",
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":40,
+                      "height":40}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"8e2593f0595f43e4a87c69a0eddf858e",
+                  "label":"",
+                  "parentDynamicPanel":"9416ddede6724f24a463cffa0150e2f7",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000},
+                    "location":{
+                      "x":25,
+                      "y":8},
+                    "size":{
+                      "width":10,
+                      "height":10},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "cornerRadiusTopLeft":"10"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0b8129dddf6f4f8283071c6defb6f236",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9416ddede6724f24a463cffa0150e2f7",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000},
+                        "location":{
+                          "x":25,
+                          "y":8},
+                        "size":{
+                          "width":10,
+                          "height":10},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "cornerRadiusTopLeft":"10"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/7_1优品列表/u142.png"}}]}]}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -3135,4 +3403,20 @@
       "e89d265e971e4db3a287a12f25c2f503":{
         "scriptId":"u134"},
       "8de9a287ce1540abbcb6ec1b3c3a6254":{
-        "scriptId":"u135"}}}});
+        "scriptId":"u135"}},
+    "9416ddede6724f24a463cffa0150e2f7":{
+      "scriptId":"u136"},
+    "f9411f03fb1d4eeba833e7dcfd16139d":{
+      "scriptId":"u137"},
+    "02d794d57ea841738fb06d3858e40d6f":{
+      "scriptId":"u138"},
+    "cd200b925e0e478b96ce3280854cd5ca":{
+      "scriptId":"u139"},
+    "d66e3beae8eb47d1b563d2254818a185":{
+      "scriptId":"u140"},
+    "5f5d1da543c6485fb859a9adec8e4dc4":{
+      "scriptId":"u141"},
+    "8e2593f0595f43e4a87c69a0eddf858e":{
+      "scriptId":"u142"},
+    "0b8129dddf6f4f8283071c6defb6f236":{
+      "scriptId":"u143"}}});

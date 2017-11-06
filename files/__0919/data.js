@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0919.html",
-  "generationDate":new Date(1509704812007.15),
+  "generationDate":new Date(1509969948219.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4463,10 +4463,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4493,10 +4493,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4523,10 +4523,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5372,10 +5372,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5402,10 +5402,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.1.1.1商品详情",
+                      "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"4_1_1_1商品详情.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

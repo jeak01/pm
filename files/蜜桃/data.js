@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蜜桃.html",
-  "generationDate":new Date(1509704814972.13),
+  "generationDate":new Date(1509969951763.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -59,7 +59,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u0.png"}},
+            "normal~":"images/农场列表/u0.png"}},
 {
           "id":"46b2ef1c9492489bab8340d0605e8ac1",
           "label":"",
@@ -609,7 +609,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u29.jpg"}},
+            "normal~":"images/7_0农产优品/u41.jpg"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",
@@ -755,7 +755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u37.png"}},
+            "normal~":"images/7_7商品详情/u35.png"}},
 {
           "id":"450fa25d7b6449e1923e4e00704547db",
           "label":"",
@@ -852,7 +852,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_1_1_1商品详情/u42.png"}},
+                    "normal~":"images/6_2配送套餐/u43.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

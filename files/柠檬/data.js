@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"柠檬.html",
-  "generationDate":new Date(1509704815068.19),
+  "generationDate":new Date(1509969951880.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -59,7 +59,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_1商品详情/u0.png"}},
+            "normal~":"images/农场列表/u0.png"}},
 {
           "id":"46b2ef1c9492489bab8340d0605e8ac1",
           "label":"",
@@ -852,7 +852,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_1_1_1商品详情/u42.png"}},
+                    "normal~":"images/6_2配送套餐/u43.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",
