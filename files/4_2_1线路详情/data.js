@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_1线路详情.html",
-  "generationDate":new Date(1509969926572.28),
+  "generationDate":new Date(1510019212699.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5302,7 +5302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u26.png"}},
+            "normal~":"images/6_1现场特惠卖单/u20.png"}},
 {
           "id":"6c0696ee41c84ef9b8da22876252973c",
           "label":"",
@@ -5891,7 +5891,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/6_1现场特惠卖单/u26.png"}},
+                    "normal~":"images/6_1现场特惠卖单/u20.png"}},
 {
                   "id":"6cb9bef0b80e4eaf87bcf1eefae98211",
                   "label":"",
@@ -6082,7 +6082,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/6_1现场特惠卖单/u26.png"}},
+                    "normal~":"images/6_1现场特惠卖单/u20.png"}},
 {
                   "id":"aa34d210fca34c86baf76e713141a2f6",
                   "label":"",

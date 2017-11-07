@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_1支付成功.html",
-  "generationDate":new Date(1509969935701.36),
+  "generationDate":new Date(1510019199183.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"567749517d3b468a8b943f8024b6fd2c",
+    "packageId":"bd0d3300c57a4fdfbcdc3754a493cc85",
     "type":"Axure:Page",
     "name":"7.5.1支付成功",
     "notes":{
@@ -454,10 +454,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.0农产优品",
+                              "description":"在 当前窗口 打开 7.3农场店铺页",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_0农产优品.html",
+                                "url":"7_3农场店铺页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

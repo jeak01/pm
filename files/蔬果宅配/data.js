@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1509969952635.64),
+  "generationDate":new Date(1510019234366.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1476,7 +1476,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u18.png"}},
+            "normal~":"images/7_3农场店铺页/u6.png"}},
 {
           "id":"b306601b32d4480b9fddb3bb38512b78",
           "label":"",
@@ -1509,7 +1509,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u18.png"}},
+            "normal~":"images/7_3农场店铺页/u6.png"}},
 {
           "id":"955ee2dc15b64a5cb65da9e1cf347953",
           "label":"",
@@ -1542,7 +1542,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u22.png"}},
+            "normal~":"images/7_3农场店铺页/u10.png"}},
 {
           "id":"2104df169d5642b3bd45219e5ecc9e8e",
           "label":"",
@@ -1616,7 +1616,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"a791c16980884ed391360ad134e9d5d3",
           "label":"",
@@ -1690,7 +1690,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"41ed8b1b9a204e25942fdf3931db48a9",
           "label":"",
@@ -1764,7 +1764,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"21b7c25f8d724007b35ba1bfc6b8cc24",
           "label":"",
@@ -3408,7 +3408,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"5f5c65ce074d445a8631b4852421f0c8",
           "label":"",
@@ -3449,7 +3449,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"4d6bd3a263fe4645a9b474669693046d",
           "label":"",

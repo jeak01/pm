@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1509969947596.29),
+  "generationDate":new Date(1510019230040.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1235,7 +1235,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_2配送套餐/u43.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

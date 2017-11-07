@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0蔬菜宅配（1012）.html",
-  "generationDate":new Date(1509969943376.48),
+  "generationDate":new Date(1510019226435.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -9942,7 +9942,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u52.png"}},
+                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
                   "id":"dd545e0883934f9491f11e06e4a47627",
                   "label":"",
@@ -10022,7 +10022,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u52.png"}},
+                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
                   "id":"0aa26c0f0aaf44f1803be4f870c388f4",
                   "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_2确认订单.html",
-  "generationDate":new Date(1509969939255.73),
+  "generationDate":new Date(1510019223063.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1399,7 +1399,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品/u41.jpg"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u41.jpg"}},
 {
           "id":"c9af071e8b8e475381f40baa1dc9ca59",
           "label":"",
@@ -1545,12 +1545,12 @@
                               "description":"在 当前窗口 打开 4.1.1.3订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"4_1_1_3订单支付页_1.html",
+                                "url":"4_1_1_3订单支付页_2.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_2_2确认订单/u108.png"}}]}]}]}},
+                    "normal~":"images/7_5确认订单_优品_/u193.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

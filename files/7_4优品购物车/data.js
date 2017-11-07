@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_4优品购物车.html",
-  "generationDate":new Date(1509969935163),
+  "generationDate":new Date(1510019198693.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"c78f414f33b849a398ea9e7fcad79ed9",
+    "packageId":"46a8e242b97342a5a5031aace32ee698",
     "type":"Axure:Page",
     "name":"7.4优品购物车",
     "notes":{
@@ -546,7 +546,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"bb34603390e345cd81a5646c6520c9b6",
           "label":"",
@@ -581,7 +581,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"a269ecb5b1234ee3becd9377ae77971d",
           "label":"",
@@ -869,7 +869,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"3cfc37796b4949b0b539fc70254666d0",
           "label":"",
@@ -904,7 +904,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"690af2d475184e0e8590ac5365eb13e0",
           "label":"",
@@ -1192,7 +1192,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"2d185fe174c84a7fa9481429bd6dc0f4",
           "label":"",
@@ -1227,7 +1227,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"d876f993cfc94c19bb2591ef3c8ad7e1",
           "label":"",
@@ -1624,7 +1624,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"8cba27f44c88450bb35aee0571c96329",
           "label":"",
@@ -1659,7 +1659,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"5b5cb5b1268b4ec0a77cf6baf3b83b5c",
           "label":"",
@@ -2112,7 +2112,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_0农场专题/u87.png"}},
+                    "normal~":"images/6_0农场专题（弃用）/u87.png"}},
 {
                   "id":"efdfedccab704615b8aecfe67c34d484",
                   "label":"",

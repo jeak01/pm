@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0920.html",
-  "generationDate":new Date(1509969945281.74),
+  "generationDate":new Date(1510019227880.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -284,7 +284,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u54.png"}},
+                    "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
                   "id":"4bcf0963a0794636af31c0a9a280929b",
                   "label":"搜索框",
@@ -2611,7 +2611,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"6315cb4a4eab4ecdb69c98e382ca4985",
           "label":"",
@@ -2652,7 +2652,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"02790c8390c94419b5aea1f997d934d9",
           "label":"",
@@ -3945,7 +3945,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u40.jpg"}},
+            "normal~":"images/6_0农场专题（弃用）/u40.jpg"}},
 {
           "id":"fc3bb455251c4f84a954d570ceedf804",
           "label":"",
@@ -4246,7 +4246,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情.html",
+                        "url":"7_7商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4276,7 +4276,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情.html",
+                        "url":"7_7商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4306,7 +4306,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情.html",
+                        "url":"7_7商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4666,7 +4666,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u54.jpg"}},
+            "normal~":"images/6_0农场专题（弃用）/u54.jpg"}},
 {
           "id":"cdca1836b2b44803a5b9cad3384b80c6",
           "label":"",
@@ -4865,7 +4865,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情.html",
+                        "url":"7_7商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -4895,7 +4895,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情.html",
+                        "url":"7_7商品详情_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -6282,7 +6282,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u227.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -6325,7 +6325,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u229.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -6360,7 +6360,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u231.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

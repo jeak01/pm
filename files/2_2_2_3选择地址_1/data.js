@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_3选择地址_1.html",
-  "generationDate":new Date(1509969935834.45),
+  "generationDate":new Date(1510019205409.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"4daa276362fd43099c385106234acec3",
+    "packageId":"9020c9ccf4f641faa3e36a0bcd0c4b95",
     "type":"Axure:Page",
     "name":"2.2.2.3选择地址",
     "notes":{
@@ -458,10 +458,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.5确认订单(优品)",
+                      "description":"在 当前窗口 打开 2.2.2.1确认订单(宅配)",
                       "target":{
                         "targetType":"page",
-                        "url":"7_5确认订单_优品_.html",
+                        "url":"2_2_2_1确认订单_宅配__1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

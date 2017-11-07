@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_3采购订单详情.html",
-  "generationDate":new Date(1509969911851.47),
+  "generationDate":new Date(1510019196247.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -435,10 +435,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.0农场专题",
+                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
                       "target":{
                         "targetType":"page",
-                        "url":"6_0农场专题.html",
+                        "url":"6_1现场特惠卖单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

@@ -165,9 +165,9 @@
                     "type":"Wireframe",
                     "url":"2_7_1_收货地址新增_编辑.html"}]}]},
 {
-            "pageName":"6.0农场专题",
+            "pageName":"6.0农场专题（弃用）",
             "type":"Wireframe",
-            "url":"6_0农场专题.html",
+            "url":"6_0农场专题（弃用）.html",
             "children":[{
                 "pageName":"6.1现场特惠卖单",
                 "type":"Wireframe",
@@ -223,7 +223,71 @@
 {
                     "pageName":"3.3充值优惠",
                     "type":"Wireframe",
-                    "url":"3_3充值优惠.html"}]}]}]},
+                    "url":"3_3充值优惠.html"}]}]},
+{
+            "pageName":"6.3采购信息查询（管理端）",
+            "type":"Wireframe",
+            "url":"6_3采购信息查询（管理端）.html",
+            "children":[{
+                "pageName":"6.3.1 采购订单列表",
+                "type":"Wireframe",
+                "url":"6_3_1_采购订单列表.html"},
+{
+                "pageName":"6.3.2 采购订单详情",
+                "type":"Wireframe",
+                "url":"6_3_2_采购订单详情.html"}]},
+{
+            "pageName":"7.0农产优品（1.0不用做）",
+            "type":"Wireframe",
+            "url":"7_0农产优品（1_0不用做）.html",
+            "children":[{
+                "pageName":"7.2限时特惠详情页",
+                "type":"Wireframe",
+                "url":"7_2限时特惠详情页.html"},
+{
+                "pageName":"7.3农场店铺页",
+                "type":"Wireframe",
+                "url":"7_3农场店铺页.html"},
+{
+                "pageName":"7.4优品购物车",
+                "type":"Wireframe",
+                "url":"7_4优品购物车.html"},
+{
+                "pageName":"7.5确认订单(优品)",
+                "type":"Wireframe",
+                "url":"7_5确认订单_优品_.html",
+                "children":[{
+                    "pageName":"4.1.1.3订单支付页",
+                    "type":"Wireframe",
+                    "url":"4_1_1_3订单支付页.html"},
+{
+                    "pageName":"7.5.1支付成功",
+                    "type":"Wireframe",
+                    "url":"7_5_1支付成功.html"},
+{
+                    "pageName":"2.2.2.3选择地址",
+                    "type":"Wireframe",
+                    "url":"2_2_2_3选择地址.html",
+                    "children":[{
+                        "pageName":"2.2.2.4收货地址新增/编辑",
+                        "type":"Wireframe",
+                        "url":"2_2_2_4收货地址新增_编辑.html"}]},
+{
+                    "pageName":"2.2.2.5宅配商品清单",
+                    "type":"Wireframe",
+                    "url":"2_2_2_5宅配商品清单.html"}]},
+{
+                "pageName":"7.6我的订单（优品）",
+                "type":"Wireframe",
+                "url":"7_6我的订单（优品）.html",
+                "children":[{
+                    "pageName":"7.6.1物流跟踪",
+                    "type":"Wireframe",
+                    "url":"7_6_1物流跟踪.html"}]},
+{
+                "pageName":"7.7商品详情",
+                "type":"Wireframe",
+                "url":"7_7商品详情.html"}]}]},
 {
         "pageName":"PC",
         "type":"Folder",
@@ -343,11 +407,11 @@
 {
                         "pageName":"2.2.2.3选择地址",
                         "type":"Wireframe",
-                        "url":"2_2_2_3选择地址.html",
+                        "url":"2_2_2_3选择地址_1.html",
                         "children":[{
                             "pageName":"2.2.2.4收货地址新增/编辑",
                             "type":"Wireframe",
-                            "url":"2_2_2_4收货地址新增_编辑.html"}]}]},
+                            "url":"2_2_2_4收货地址新增_编辑_1.html"}]}]},
 {
                     "pageName":"2.2.3.1确认订单（农旅）",
                     "type":"Wireframe",
@@ -543,7 +607,7 @@
 {
             "pageName":"6.0农场专题",
             "type":"Wireframe",
-            "url":"6_0农场专题_1.html",
+            "url":"6_0农场专题.html",
             "children":[{
                 "pageName":"6.1现场特惠卖单",
                 "type":"Wireframe",
@@ -587,15 +651,15 @@
 {
             "pageName":"6.3采购信息查询（管理端）",
             "type":"Wireframe",
-            "url":"6_3采购信息查询（管理端）.html",
+            "url":"6_3采购信息查询（管理端）_1.html",
             "children":[{
                 "pageName":"6.3.1 采购订单列表",
                 "type":"Wireframe",
-                "url":"6_3_1_采购订单列表.html"},
+                "url":"6_3_1_采购订单列表_1.html"},
 {
                 "pageName":"6.3.2 采购订单详情",
                 "type":"Wireframe",
-                "url":"6_3_2_采购订单详情.html"}]},
+                "url":"6_3_2_采购订单详情_1.html"}]},
 {
             "pageName":"7.0农产优品",
             "type":"Wireframe",
@@ -607,51 +671,51 @@
 {
                 "pageName":"7.2限时特惠详情页",
                 "type":"Wireframe",
-                "url":"7_2限时特惠详情页.html"},
+                "url":"7_2限时特惠详情页_1.html"},
 {
                 "pageName":"7.3农场店铺页",
                 "type":"Wireframe",
-                "url":"7_3农场店铺页.html"},
+                "url":"7_3农场店铺页_1.html"},
 {
                 "pageName":"7.4优品购物车",
                 "type":"Wireframe",
-                "url":"7_4优品购物车.html"},
+                "url":"7_4优品购物车_1.html"},
 {
                 "pageName":"7.5确认订单(优品)",
                 "type":"Wireframe",
-                "url":"7_5确认订单_优品_.html",
+                "url":"7_5确认订单_优品__1.html",
                 "children":[{
                     "pageName":"4.1.1.3订单支付页",
                     "type":"Wireframe",
-                    "url":"4_1_1_3订单支付页.html"},
+                    "url":"4_1_1_3订单支付页_1.html"},
 {
                     "pageName":"7.5.1支付成功",
                     "type":"Wireframe",
-                    "url":"7_5_1支付成功.html"},
+                    "url":"7_5_1支付成功_1.html"},
 {
                     "pageName":"2.2.2.3选择地址",
                     "type":"Wireframe",
-                    "url":"2_2_2_3选择地址_1.html",
+                    "url":"2_2_2_3选择地址_2.html",
                     "children":[{
                         "pageName":"2.2.2.4收货地址新增/编辑",
                         "type":"Wireframe",
-                        "url":"2_2_2_4收货地址新增_编辑_1.html"}]},
+                        "url":"2_2_2_4收货地址新增_编辑_2.html"}]},
 {
                     "pageName":"2.2.2.5宅配商品清单",
                     "type":"Wireframe",
-                    "url":"2_2_2_5宅配商品清单.html"}]},
+                    "url":"2_2_2_5宅配商品清单_1.html"}]},
 {
                 "pageName":"7.6我的订单（优品）",
                 "type":"Wireframe",
-                "url":"7_6我的订单（优品）.html",
+                "url":"7_6我的订单（优品）_1.html",
                 "children":[{
                     "pageName":"7.6.1物流跟踪",
                     "type":"Wireframe",
-                    "url":"7_6_1物流跟踪.html"}]},
+                    "url":"7_6_1物流跟踪_1.html"}]},
 {
                 "pageName":"7.7商品详情",
                 "type":"Wireframe",
-                "url":"7_7商品详情.html"}]},
+                "url":"7_7商品详情_1.html"}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",
@@ -695,7 +759,7 @@
 {
                 "pageName":"4.1.1.3订单支付页",
                 "type":"Wireframe",
-                "url":"4_1_1_3订单支付页_1.html"},
+                "url":"4_1_1_3订单支付页_2.html"},
 {
                 "pageName":"4.1.1.4支付成功",
                 "type":"Wireframe",

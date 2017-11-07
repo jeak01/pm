@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_4收货地址新增_编辑.html",
-  "generationDate":new Date(1509969919140.33),
+  "generationDate":new Date(1510019199334.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"ade4ccd680a242b2919e1df025d512a3",
+    "packageId":"572648050fab421f921be618a06db650",
     "type":"Axure:Page",
     "name":"2.2.2.4收货地址新增/编辑",
     "notes":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_0810.html",
-  "generationDate":new Date(1509969955478.54),
+  "generationDate":new Date(1510019236897.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1308,7 +1308,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"d1b6c16043ad4e3090c984c061f67e37",
           "label":"",
@@ -1349,7 +1349,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"37aa0adc1703417b8fa5202f18356d82",
           "label":"",
@@ -2249,7 +2249,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"4a4c642f94104023b04dea074b4b400a",
           "label":"",
@@ -4902,7 +4902,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u231.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",

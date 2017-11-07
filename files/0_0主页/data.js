@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_0主页.html",
-  "generationDate":new Date(1509969914733.39),
+  "generationDate":new Date(1510019201530.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1220,7 +1220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"6315cb4a4eab4ecdb69c98e382ca4985",
           "label":"",
@@ -1261,7 +1261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"02790c8390c94419b5aea1f997d934d9",
           "label":"",
@@ -3763,7 +3763,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u54.png"}},
+                    "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
                   "id":"4bcf0963a0794636af31c0a9a280929b",
                   "label":"搜索框",
@@ -5264,7 +5264,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u227.png"}},
+                    "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
 {
                   "id":"3d7ef65e1cc242c4bece107486b69f54",
                   "label":"",
@@ -5307,7 +5307,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u229.png"}},
+                    "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
 {
                   "id":"bc9edf4fa1294cc399ee4055562727d4",
                   "label":"",
@@ -5342,7 +5342,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u231.png"}},
+                    "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
 {
                   "id":"82223d65f6044e65a707ce848238a004",
                   "label":"",
@@ -5917,7 +5917,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"08bd4a74bb214619b89c05276c1e5d0a",
           "label":"",
@@ -6028,7 +6028,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u22.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u22.png"}},
 {
           "id":"9a1fc35c3e7e4b00a3438abece045f01",
           "label":"",

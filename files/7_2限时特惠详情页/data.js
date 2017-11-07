@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_2限时特惠详情页.html",
-  "generationDate":new Date(1509969934642.66),
+  "generationDate":new Date(1510019198293.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"afb732f0eac24904853a532b3fb33c08",
+    "packageId":"e2b1150c527c4a38918d5a7e74fc5ea2",
     "type":"Axure:Page",
     "name":"7.2限时特惠详情页",
     "notes":{
@@ -1235,7 +1235,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_2配送套餐/u43.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

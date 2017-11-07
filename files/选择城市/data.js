@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择城市.html",
-  "generationDate":new Date(1509969948476.87),
+  "generationDate":new Date(1510019230835.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -284,7 +284,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"2042734c6674459b9f98a4c96068aa73",
           "label":"",

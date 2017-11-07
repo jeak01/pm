@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_2支付成功.html",
-  "generationDate":new Date(1509969912531.93),
+  "generationDate":new Date(1510019196902.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -362,10 +362,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.0农场专题",
+                      "description":"在 当前窗口 打开 6.0农场专题（弃用）",
                       "target":{
                         "targetType":"page",
-                        "url":"6_0农场专题.html",
+                        "url":"6_0农场专题（弃用）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

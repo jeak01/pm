@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_2配送套餐.html",
-  "generationDate":new Date(1509969932575.28),
+  "generationDate":new Date(1510019217805.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -219,7 +219,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u8.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u8.png"}},
 {
           "id":"44e2583c23004088aeeaba4045a1e66b",
           "label":"",
@@ -851,7 +851,7 @@
                           "actions":[]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_2配送套餐/u43.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
 {
                   "id":"a79c71a7d5dc439e9017997c0fff8493",
                   "label":"",

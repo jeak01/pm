@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0905.html",
-  "generationDate":new Date(1509969949791.75),
+  "generationDate":new Date(1510019231997.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1236,7 +1236,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"d1b6c16043ad4e3090c984c061f67e37",
           "label":"",
@@ -1277,7 +1277,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"37aa0adc1703417b8fa5202f18356d82",
           "label":"",
@@ -4161,7 +4161,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/7_0农产优品/u21.jpg"}},
+                            "normal~":"images/7_0农产优品（1_0不用做）/u21.jpg"}},
 {
                           "id":"dff09c18b9b14dc7a17bc92673be34bf",
                           "label":"",
@@ -4325,7 +4325,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/7_0农产优品/u29.png"}},
+                            "normal~":"images/7_0农产优品（1_0不用做）/u29.png"}},
 {
                           "id":"f36fd29e0e9444c287f868ad6b2b3af9",
                           "label":"",
@@ -4561,7 +4561,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/7_0农产优品/u41.jpg"}},
+                            "normal~":"images/7_0农产优品（1_0不用做）/u41.jpg"}},
 {
                           "id":"5c0f8949b7cd473a84784d15cb5e0b31",
                           "label":"",
@@ -8396,7 +8396,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u227.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -8439,7 +8439,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u229.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -8474,7 +8474,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u231.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

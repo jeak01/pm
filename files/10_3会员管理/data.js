@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_3会员管理.html",
-  "generationDate":new Date(1509969938330.11),
+  "generationDate":new Date(1510019222215.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1110,7 +1110,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"fcacb6998c094f229cd8f37dcfa63fe6",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功_2.html",
-  "generationDate":new Date(1509969932828.45),
+  "generationDate":new Date(1510019218085.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -338,7 +338,7 @@
                       "description":"在 当前窗口 打开 6.0农场专题",
                       "target":{
                         "targetType":"page",
-                        "url":"6_0农场专题_1.html",
+                        "url":"6_0农场专题.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

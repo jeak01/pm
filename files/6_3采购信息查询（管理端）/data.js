@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3采购信息查询（管理端）.html",
-  "generationDate":new Date(1509969933040.59),
+  "generationDate":new Date(1510019197543.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"644cb0f86c9d40e58b7900a51b036df5",
+    "packageId":"5fe718d6185d4c0badd67ddb3c34b73e",
     "type":"Axure:Page",
     "name":"6.3采购信息查询（管理端）",
     "notes":{
@@ -347,7 +347,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_2登录/u14.png"}},
+            "normal~":"images/6_3采购信息查询（管理端）/u13.png"}},
 {
           "id":"ea7d0895e6724336994709debca3406c",
           "label":"",

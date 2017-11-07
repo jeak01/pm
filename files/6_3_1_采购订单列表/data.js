@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3_1_采购订单列表.html",
-  "generationDate":new Date(1509969933365.81),
+  "generationDate":new Date(1510019197659.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"df827961c0414103a6ead134c58b05a8",
+    "packageId":"3a6f327b4cd248f6878e1cb3123d2708",
     "type":"Axure:Page",
     "name":"6.3.1 采购订单列表",
     "notes":{
@@ -1570,7 +1570,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"effb9af5a9174abe8d89c9540bd35ef1",
           "label":"",

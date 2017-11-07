@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1509969912914.18),
+  "generationDate":new Date(1510019197305.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -765,7 +765,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":13,
+              "x":14,
               "y":240},
             "size":{
               "width":161,
@@ -784,7 +784,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":13,
+                  "x":14,
                   "y":240},
                 "size":{
                   "width":161,
@@ -843,7 +843,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":13,
+              "x":14,
               "y":310},
             "size":{
               "width":161,
@@ -862,7 +862,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":13,
+                  "x":14,
                   "y":310},
                 "size":{
                   "width":161,
@@ -885,7 +885,7 @@
             "fontSize":"16px",
             "fontWeight":"700",
             "location":{
-              "x":59,
+              "x":60,
               "y":252},
             "size":{
               "width":60,
@@ -904,7 +904,7 @@
                 "fontSize":"16px",
                 "fontWeight":"700",
                 "location":{
-                  "x":59,
+                  "x":60,
                   "y":252},
                 "size":{
                   "width":60,
@@ -922,10 +922,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":40,
+              "x":72,
               "y":275},
             "size":{
-              "width":101,
+              "width":35,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -939,10 +939,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":40,
+                  "x":72,
                   "y":275},
                 "size":{
-                  "width":101,
+                  "width":35,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -959,7 +959,7 @@
             "fontSize":"16px",
             "fontWeight":"700",
             "location":{
-              "x":59,
+              "x":60,
               "y":322},
             "size":{
               "width":69,
@@ -978,7 +978,7 @@
                 "fontSize":"16px",
                 "fontWeight":"700",
                 "location":{
-                  "x":59,
+                  "x":60,
                   "y":322},
                 "size":{
                   "width":69,
@@ -1070,7 +1070,7 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":195,
+              "x":196,
               "y":343},
             "size":{
               "width":140,
@@ -1087,7 +1087,7 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":195,
+                  "x":196,
                   "y":343},
                 "size":{
                   "width":140,
@@ -1104,7 +1104,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":13,
+              "x":14,
               "y":240},
             "size":{
               "width":10,
@@ -1173,7 +1173,7 @@
                       "x":46,
                       "y":12},
                     "size":{
-                      "width":69,
+                      "width":60,
                       "height":19}},
                   "adaptiveStyles":{
 },
@@ -1197,7 +1197,7 @@
                           "x":46,
                           "y":12},
                         "size":{
-                          "width":69,
+                          "width":60,
                           "height":19}},
                       "adaptiveStyles":{
 }}],
@@ -1217,10 +1217,10 @@
                       "color":0xFF0099FF,
                       "opacity":1},
                     "location":{
-                      "x":27,
-                      "y":35},
+                      "x":58,
+                      "y":31},
                     "size":{
-                      "width":107,
+                      "width":35,
                       "height":14}},
                   "adaptiveStyles":{
 },
@@ -1239,10 +1239,10 @@
                           "color":0xFF0099FF,
                           "opacity":1},
                         "location":{
-                          "x":27,
-                          "y":35},
+                          "x":58,
+                          "y":31},
                         "size":{
-                          "width":107,
+                          "width":35,
                           "height":14}},
                       "adaptiveStyles":{
 }}],
@@ -1408,7 +1408,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":13,
+              "x":14,
               "y":310},
             "size":{
               "width":10,
@@ -1560,7 +1560,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":13,
+              "x":14,
               "y":240},
             "size":{
               "width":161,
@@ -1612,7 +1612,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":13,
+              "x":14,
               "y":310},
             "size":{
               "width":161,
@@ -1855,7 +1855,7 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":211,
+              "x":212,
               "y":275},
             "size":{
               "width":107,
@@ -1872,7 +1872,7 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":211,
+                  "x":212,
                   "y":275},
                 "size":{
                   "width":107,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_0发现.html",
-  "generationDate":new Date(1509969923017.92),
+  "generationDate":new Date(1510019209375.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -225,7 +225,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_0发现/u8.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u213.png"}},
 {
           "id":"4b20d456b2154174b1bee76d0ec9b860",
           "label":"",
@@ -309,7 +309,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"b75ed85748bd4fc8ad75189b2be770b9",
           "label":"",
@@ -350,7 +350,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u54.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
 {
           "id":"afaef68ebc9043d090a7485d0e8dbd6e",
           "label":"",
@@ -4032,7 +4032,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u227.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -4075,7 +4075,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u229.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -4110,7 +4110,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u231.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

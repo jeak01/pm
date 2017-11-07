@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_3订单支付页.html",
-  "generationDate":new Date(1509969935600.3),
+  "generationDate":new Date(1510019199129.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"fa130a7826a64fc598dc63b20a18487a",
+    "packageId":"be5bc63e89a7435a93a6301b19e4d59e",
     "type":"Axure:Page",
     "name":"4.1.1.3订单支付页",
     "notes":{
@@ -972,7 +972,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值_2.html",
+                        "url":"3_0会员充值.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

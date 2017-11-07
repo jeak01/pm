@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3_1_1文章详情.html",
-  "generationDate":new Date(1509969929229.05),
+  "generationDate":new Date(1510019214995.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -104,7 +104,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_3_1文章列表/u2.png"}},
+            "normal~":"images/7_3农场店铺页/u2.png"}},
 {
           "id":"48b24337312a47d68105518e1f4e6c3a",
           "label":"",

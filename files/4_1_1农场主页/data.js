@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1农场主页.html",
-  "generationDate":new Date(1509969923936.52),
+  "generationDate":new Date(1510019210333.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5466,7 +5466,7 @@
                               "description":"在 当前窗口 打开 7.7商品详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_7商品详情.html",
+                                "url":"7_7商品详情_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true},
@@ -5497,7 +5497,7 @@
                               "description":"在 当前窗口 打开 7.7商品详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_7商品详情.html",
+                                "url":"7_7商品详情_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true}]},
@@ -6960,7 +6960,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u227.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -7003,7 +7003,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u229.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -7038,7 +7038,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u231.png"}},
+                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

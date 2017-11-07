@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1509969956485.21),
+  "generationDate":new Date(1510019237858.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -291,7 +291,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u18.png"}},
+            "normal~":"images/7_3农场店铺页/u6.png"}},
 {
           "id":"7df562a8daec436eae140ee906e4fa26",
           "label":"",
@@ -324,7 +324,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u18.png"}},
+            "normal~":"images/7_3农场店铺页/u6.png"}},
 {
           "id":"da6b20f39507454a98dc26233e7722b5",
           "label":"",
@@ -357,7 +357,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u22.png"}},
+            "normal~":"images/7_3农场店铺页/u10.png"}},
 {
           "id":"e03ad03a8e6849298ee168df9b69dc4f",
           "label":"",
@@ -431,7 +431,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"a848e210655b4b0093cab41c3d42a9b6",
           "label":"",
@@ -505,7 +505,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"6869c294c8cb473c8be0f8dbcafbd00a",
           "label":"",
@@ -579,7 +579,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u52.png"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
           "id":"c5af0d3c2b6e47e7baae66d6be66e107",
           "label":"",

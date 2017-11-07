@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0购买宅配套餐（1024）.html",
-  "generationDate":new Date(1509969941597.29),
+  "generationDate":new Date(1510019225012.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -9326,7 +9326,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u52.png"}},
+                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
                   "id":"dd545e0883934f9491f11e06e4a47627",
                   "label":"",
@@ -9406,7 +9406,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u52.png"}},
+                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
 {
                   "id":"f13f0098d988455da197245e915b2358",
                   "label":"",

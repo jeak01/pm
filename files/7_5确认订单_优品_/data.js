@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5确认订单_优品_.html",
-  "generationDate":new Date(1509969935447.19),
+  "generationDate":new Date(1510019199002.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"9cb67a601f6e40e8b5a38fadb9c48904",
+    "packageId":"76190fdbe98c4876bdb7beefde71dde8",
     "type":"Axure:Page",
     "name":"7.5确认订单(优品)",
     "notes":{
@@ -350,7 +350,7 @@
                       "description":"在 当前窗口 打开 2.2.2.3选择地址",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_2_3选择地址_1.html",
+                        "url":"2_2_2_3选择地址.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3876,7 +3876,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_2_2确认订单/u108.png"}}]}]}]}},
+                    "normal~":"images/7_5确认订单_优品_/u193.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

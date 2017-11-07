@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_2确认订单.html",
-  "generationDate":new Date(1509969927262.74),
+  "generationDate":new Date(1510019213284.85),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2075,7 +2075,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_2_2确认订单/u108.png"}}]}]},
+                    "normal~":"images/7_5确认订单_优品_/u193.png"}}]}]},
 {
           "id":"c46fe622a38c48729a82ec21c2012aac",
           "label":"卡券面板",

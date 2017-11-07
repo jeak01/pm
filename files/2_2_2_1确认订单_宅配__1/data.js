@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_1确认订单_宅配__1.html",
-  "generationDate":new Date(1509969918901.17),
+  "generationDate":new Date(1510019205214.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -464,7 +464,7 @@
                       "description":"在 当前窗口 打开 2.2.2.3选择地址",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_2_3选择地址.html",
+                        "url":"2_2_2_3选择地址_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

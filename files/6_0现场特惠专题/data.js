@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0现场特惠专题.html",
-  "generationDate":new Date(1509969940371.47),
+  "generationDate":new Date(1510019223969.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -225,7 +225,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题/u8.png"}},
+            "normal~":"images/6_0农场专题（弃用）/u8.png"}},
 {
           "id":"f3ef48c76f1c4d48a857addd398e74fa",
           "label":"",

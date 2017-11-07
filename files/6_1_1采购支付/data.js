@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_1采购支付.html",
-  "generationDate":new Date(1509969911645.33),
+  "generationDate":new Date(1510019196075.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -231,7 +231,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u14.png"}},
+            "normal~":"images/6_1现场特惠卖单/u8.png"}},
 {
           "id":"4bab04e0ec654c43a31a3ec420d11ba0",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情.html",
-  "generationDate":new Date(1509969936708.03),
+  "generationDate":new Date(1510019200049.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"0bcb36a32b29440689253fe4df8f6e40",
+    "packageId":"c06394a53bdc4345a0a7d44d99d0bdb7",
     "type":"Axure:Page",
     "name":"7.7商品详情",
     "notes":{
@@ -582,7 +582,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品/u41.jpg"}},
+            "normal~":"images/7_0农产优品（1_0不用做）/u41.jpg"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",
@@ -840,7 +840,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_2配送套餐/u43.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

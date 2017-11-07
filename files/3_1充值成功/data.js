@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功.html",
-  "generationDate":new Date(1509969913051.27),
+  "generationDate":new Date(1510019197378.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -295,56 +295,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"2ddd15c445c548298a3876d21f53282d",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":56,
-              "y":180},
-            "size":{
-              "width":117,
-              "height":40},
-            "cornerRadiusTopLeft":"5"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"324249df972247b2ac1c3f14b218acb2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":56,
-                  "y":180},
-                "size":{
-                  "width":117,
-                  "height":40},
-                "cornerRadiusTopLeft":"5"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.0农场专题",
-                      "target":{
-                        "targetType":"page",
-                        "url":"6_0农场专题.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/6_1_2支付成功/u14.png"}},
-{
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
           "type":"buttonShape",
@@ -355,7 +305,7 @@
               "fillType":"solid",
               "color":0xFFDDDDDD},
             "location":{
-              "x":182,
+              "x":120,
               "y":180},
             "size":{
               "width":117,
@@ -375,7 +325,7 @@
                   "fillType":"solid",
                   "color":0xFFDDDDDD},
                 "location":{
-                  "x":182,
+                  "x":120,
                   "y":180},
                 "size":{
                   "width":117,
@@ -479,15 +429,11 @@
       "scriptId":"u12"},
     "74ea836ace594e7f8266b376b214c455":{
       "scriptId":"u13"},
-    "2ddd15c445c548298a3876d21f53282d":{
-      "scriptId":"u14"},
-    "324249df972247b2ac1c3f14b218acb2":{
-      "scriptId":"u15"},
     "289aab97651f4349a5ed7c0adb8488b1":{
-      "scriptId":"u16"},
+      "scriptId":"u14"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"},
+      "scriptId":"u15"},
     "346faa3338144a17af6b8a4b55967099":{
-      "scriptId":"u18"},
+      "scriptId":"u16"},
     "2ab064b315864e59953f0407f728539d":{
-      "scriptId":"u19"}}});
+      "scriptId":"u17"}}});
