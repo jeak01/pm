@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_3选择地址.html",
-  "generationDate":new Date(1510040672050.27),
+  "generationDate":new Date(1510045385416.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1057,7 +1057,42 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u51.png"}}]}},
+            "normal~":"images/2_2_3_4选择地址/u51.png"}},
+{
+          "id":"7e385b544435477f87dbd22f5e71ef13",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "location":{
+              "x":213,
+              "y":130},
+            "size":{
+              "width":45,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fbfb6e8ee30b49a89e13664582c5df04",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "location":{
+                  "x":213,
+                  "y":130},
+                "size":{
+                  "width":45,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1166,4 +1201,8 @@
     "b3fa7ba83b2443478af334395fedd3ed":{
       "scriptId":"u51"},
     "58296abe975a479a8e17382aad4c4150":{
-      "scriptId":"u52"}}});
+      "scriptId":"u52"},
+    "7e385b544435477f87dbd22f5e71ef13":{
+      "scriptId":"u53"},
+    "fbfb6e8ee30b49a89e13664582c5df04":{
+      "scriptId":"u54"}}});
