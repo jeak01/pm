@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_4账单.html",
-  "generationDate":new Date(1510045382896.3),
+  "generationDate":new Date(1510060659789.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -309,7 +309,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"842816a110754e2884a816c075b37714",
           "label":"",

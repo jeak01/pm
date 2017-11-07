@@ -17,6 +17,10 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"0.2登录",
+            "type":"Wireframe",
+            "url":"0_2登录.html"},
+{
             "pageName":"1.0农旅卡主题页（极简）",
             "type":"Wireframe",
             "url":"1_0农旅卡主题页（极简）.html",
@@ -97,13 +101,13 @@
                         "type":"Wireframe",
                         "url":"2_2_2_2订单提交成功.html"},
 {
-                        "pageName":"2.2.3.4选择地址",
+                        "pageName":"2.2.2.3选择地址",
                         "type":"Wireframe",
-                        "url":"2_2_3_4选择地址.html",
+                        "url":"2_2_2_3选择地址.html",
                         "children":[{
-                            "pageName":"2.2.3.5收货地址新增/编辑",
+                            "pageName":"2.2.2.4收货地址新增/编辑",
                             "type":"Wireframe",
-                            "url":"2_2_3_5收货地址新增_编辑.html"}]}]},
+                            "url":"2_2_2_4收货地址新增_编辑.html"}]}]},
 {
                     "pageName":"2.2.3.1确认订单（农旅）",
                     "type":"Wireframe",
@@ -129,21 +133,21 @@
                 "type":"Wireframe",
                 "url":"2_3我的订单.html",
                 "children":[{
-                    "pageName":"2.3.1订单详情（单品）",
+                    "pageName":"2.3.1订单详情（宅配）",
                     "type":"Wireframe",
-                    "url":"2_3_1订单详情（单品）.html",
+                    "url":"2_3_1订单详情（宅配）.html",
                     "children":[{
-                        "pageName":"2.3.1.1物流跟踪",
+                        "pageName":"2.3.1.1物流跟踪（弃用）",
                         "type":"Wireframe",
-                        "url":"2_3_1_1物流跟踪.html"}]},
-{
-                    "pageName":"2.3.2订单详情（蔬菜宅配）",
-                    "type":"Wireframe",
-                    "url":"2_3_2订单详情（蔬菜宅配）.html"}]},
+                        "url":"2_3_1_1物流跟踪（弃用）.html"}]}]},
 {
                 "pageName":"2.4个人资料",
                 "type":"Wireframe",
                 "url":"2_4个人资料.html"},
+{
+                "pageName":"2.4.1 实名认证",
+                "type":"Wireframe",
+                "url":"2_4_1_实名认证.html"},
 {
                 "pageName":"2.5意见反馈",
                 "type":"Wireframe",
@@ -163,7 +167,19 @@
                 "children":[{
                     "pageName":"2.7.1 收货地址新增/编辑",
                     "type":"Wireframe",
-                    "url":"2_7_1_收货地址新增_编辑.html"}]}]},
+                    "url":"2_7_1_收货地址新增_编辑.html"}]},
+{
+                "pageName":"2.8我的账户",
+                "type":"Wireframe",
+                "url":"2_8我的账户.html",
+                "children":[{
+                    "pageName":"2.8.1资金账单",
+                    "type":"Wireframe",
+                    "url":"2_8_1资金账单.html"},
+{
+                    "pageName":"2.8.2 设置支付密码",
+                    "type":"Wireframe",
+                    "url":"2_8_2_设置支付密码.html"}]}]},
 {
             "pageName":"6.0农场专题（弃用）",
             "type":"Wireframe",
@@ -251,19 +267,19 @@
 {
                     "pageName":"2.2.2.3选择地址",
                     "type":"Wireframe",
-                    "url":"2_2_2_3选择地址.html",
+                    "url":"2_2_2_3选择地址_1.html",
                     "children":[{
                         "pageName":"2.2.2.4收货地址新增/编辑",
                         "type":"Wireframe",
-                        "url":"2_2_2_4收货地址新增_编辑.html"}]},
+                        "url":"2_2_2_4收货地址新增_编辑_1.html"}]},
 {
                     "pageName":"2.2.2.5宅配商品清单",
                     "type":"Wireframe",
                     "url":"2_2_2_5宅配商品清单.html"}]},
 {
-                "pageName":"7.6我的订单（优品）",
+                "pageName":"7.6订单详情（优品）",
                 "type":"Wireframe",
-                "url":"7_6我的订单（优品）.html",
+                "url":"7_6订单详情（优品）.html",
                 "children":[{
                     "pageName":"7.6.1物流跟踪",
                     "type":"Wireframe",
@@ -307,7 +323,7 @@
 {
             "pageName":"0.2登录",
             "type":"Wireframe",
-            "url":"0_2登录.html"},
+            "url":"0_2登录_1.html"},
 {
             "pageName":"1.0农旅卡主题页",
             "type":"Wireframe",
@@ -391,11 +407,11 @@
 {
                         "pageName":"2.2.2.3选择地址",
                         "type":"Wireframe",
-                        "url":"2_2_2_3选择地址_1.html",
+                        "url":"2_2_2_3选择地址_2.html",
                         "children":[{
                             "pageName":"2.2.2.4收货地址新增/编辑",
                             "type":"Wireframe",
-                            "url":"2_2_2_4收货地址新增_编辑_1.html"}]}]},
+                            "url":"2_2_2_4收货地址新增_编辑_2.html"}]}]},
 {
                     "pageName":"2.2.3.1确认订单（农旅）",
                     "type":"Wireframe",
@@ -423,15 +439,15 @@
                 "children":[{
                     "pageName":"2.3.1订单详情（单品）",
                     "type":"Wireframe",
-                    "url":"2_3_1订单详情（单品）_1.html",
+                    "url":"2_3_1订单详情（单品）.html",
                     "children":[{
                         "pageName":"2.3.1.1物流跟踪",
                         "type":"Wireframe",
-                        "url":"2_3_1_1物流跟踪_1.html"}]},
+                        "url":"2_3_1_1物流跟踪.html"}]},
 {
                     "pageName":"2.3.2订单详情（蔬菜宅配）",
                     "type":"Wireframe",
-                    "url":"2_3_2订单详情（蔬菜宅配）_1.html"},
+                    "url":"2_3_2订单详情（蔬菜宅配）.html"},
 {
                     "pageName":"2.3.3待支付订单",
                     "type":"Wireframe",
@@ -463,15 +479,15 @@
 {
                 "pageName":"2.8我的账户",
                 "type":"Wireframe",
-                "url":"2_8我的账户.html",
+                "url":"2_8我的账户_1.html",
                 "children":[{
                     "pageName":"2.8.1资金账单",
                     "type":"Wireframe",
-                    "url":"2_8_1资金账单.html"},
+                    "url":"2_8_1资金账单_1.html"},
 {
                     "pageName":"2.8.2 设置支付密码",
                     "type":"Wireframe",
-                    "url":"2_8_2_设置支付密码.html"}]},
+                    "url":"2_8_2_设置支付密码_1.html"}]},
 {
                 "pageName":"2.9设置",
                 "type":"Wireframe",
@@ -679,11 +695,11 @@
 {
                     "pageName":"2.2.2.3选择地址",
                     "type":"Wireframe",
-                    "url":"2_2_2_3选择地址_2.html",
+                    "url":"2_2_2_3选择地址_3.html",
                     "children":[{
                         "pageName":"2.2.2.4收货地址新增/编辑",
                         "type":"Wireframe",
-                        "url":"2_2_2_4收货地址新增_编辑_2.html"}]},
+                        "url":"2_2_2_4收货地址新增_编辑_3.html"}]},
 {
                     "pageName":"2.2.2.5宅配商品清单",
                     "type":"Wireframe",
@@ -691,7 +707,7 @@
 {
                 "pageName":"7.6我的订单（优品）",
                 "type":"Wireframe",
-                "url":"7_6我的订单（优品）_1.html",
+                "url":"7_6我的订单（优品）.html",
                 "children":[{
                     "pageName":"7.6.1物流跟踪",
                     "type":"Wireframe",

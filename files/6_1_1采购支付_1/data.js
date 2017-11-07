@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_1采购支付_1.html",
-  "generationDate":new Date(1510045400805.23),
+  "generationDate":new Date(1510060677506.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u0.png"}},
+            "normal~":"images/0_2登录/u0.png"}},
 {
           "id":"fff60701c84b40baa1598e2ea1921069",
           "label":"",
@@ -689,7 +689,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"f8651b141f1a47a7a2f658b7dab81555",
           "label":"",

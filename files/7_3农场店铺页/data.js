@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_3农场店铺页.html",
-  "generationDate":new Date(1510045384457.34),
+  "generationDate":new Date(1510060660851.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -332,7 +332,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"13d530f5626e4165838739058906f6d4",
           "label":"",
@@ -408,7 +408,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"88d61bbbfe9b4c9a8a28b431955ba7e1",
           "label":"",
@@ -1365,7 +1365,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u21.jpg"}},
+            "normal~":"images/7_3农场店铺页/u62.jpg"}},
 {
           "id":"42c73b5d8df54081a53a89c9fad2ba30",
           "label":"",
@@ -2499,7 +2499,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u41.jpg"}},
+            "normal~":"images/7_3农场店铺页/u114.jpg"}},
 {
           "id":"10d46a550df04b779498a31809fa02ce",
           "label":"",

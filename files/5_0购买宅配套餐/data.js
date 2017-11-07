@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_0购买宅配套餐.html",
-  "generationDate":new Date(1510045398492.69),
+  "generationDate":new Date(1510060675103.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -284,7 +284,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"bd5f884312124d1c9fad363a1dfc97fb",
                   "label":"",
@@ -411,7 +411,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"106eb0b700c64f86b36971b90bd0efb1",
                   "label":"",
@@ -1820,7 +1820,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"2cea959dd2794ec8a8bf028288de54fb",
                   "label":"",
@@ -2033,7 +2033,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+                    "normal~":"images/7_3农场店铺页/u14.png"}},
 {
                   "id":"dd545e0883934f9491f11e06e4a47627",
                   "label":"",
@@ -2113,7 +2113,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+                    "normal~":"images/7_3农场店铺页/u14.png"}},
 {
                   "id":"9db7344bcf704e25a306f08e9dc227ff",
                   "label":"",
@@ -5605,7 +5605,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"cf18de628a754ac9988e0554d89e7286",
                   "label":"",
@@ -5846,7 +5846,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u42.png"}},
 {
                   "id":"c54f673790c94423b40c36804ad818e1",
                   "label":"",
@@ -5905,7 +5905,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u154.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u136.png"}},
 {
                   "id":"e4eabe61fd68440c81622e178037d9e6",
                   "label":"提示文字",

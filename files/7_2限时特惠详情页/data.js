@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_2限时特惠详情页.html",
-  "generationDate":new Date(1510045384234.19),
+  "generationDate":new Date(1510060660580.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -12,7 +12,7 @@
     "type":"Axure:Page",
     "name":"7.2限时特惠详情页",
     "notes":{
-},
+      "默认":"<p><span>1.活动商品详情页，和正常商品详情页区别的地方在于主图下的红条以及底部悬浮操作栏中没有加入购物车按钮。</span></p><p><span>2.正常商品详情页请参考“7.7商品详情”</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -287,7 +287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",

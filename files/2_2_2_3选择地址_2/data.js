@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_3选择地址_2.html",
-  "generationDate":new Date(1510045403421.97),
+  "generationDate":new Date(1510060667458.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"4daa276362fd43099c385106234acec3",
+    "packageId":"9020c9ccf4f641faa3e36a0bcd0c4b95",
     "type":"Axure:Page",
     "name":"2.2.2.3选择地址",
     "notes":{
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"9dd3a4d7023b4b5e970ecc4abb7feb96",
           "label":"",
@@ -170,7 +170,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"36b8c2b5dd47426b8fcafe0b7f0a4186",
           "label":"",
@@ -234,7 +234,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"21125b77727b46c8acb895c818cba8e5",
           "label":"",
@@ -298,7 +298,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"1a89c629c6fc4dc29412d5703fbe81cb",
           "label":"",
@@ -362,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"521476071c034ab38614c540c6588e32",
           "label":"",
@@ -458,10 +458,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.5确认订单(优品)",
+                      "description":"在 当前窗口 打开 2.2.2.1确认订单(宅配)",
                       "target":{
                         "targetType":"page",
-                        "url":"7_5确认订单_优品__1.html",
+                        "url":"2_2_2_1确认订单_宅配__1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1057,7 +1057,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u51.png"}}]}},
+            "normal~":"images/2_2_2_3选择地址/u51.png"}}]}},
   "masters":{
 },
   "objectPaths":{

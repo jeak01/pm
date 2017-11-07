@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场特惠卖单.html",
-  "generationDate":new Date(1510045382545.07),
+  "generationDate":new Date(1510060659479.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u0.png"}},
+            "normal~":"images/0_2登录/u0.png"}},
 {
           "id":"8ed99c1dbc444592a4ad86d7587d0df8",
           "label":"",

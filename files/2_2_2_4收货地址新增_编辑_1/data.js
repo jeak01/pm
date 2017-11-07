@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_4收货地址新增_编辑_1.html",
-  "generationDate":new Date(1510045391187.82),
+  "generationDate":new Date(1510060661845.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"ade4ccd680a242b2919e1df025d512a3",
+    "packageId":"572648050fab421f921be618a06db650",
     "type":"Axure:Page",
     "name":"2.2.2.4收货地址新增/编辑",
     "notes":{
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"f2f879668fb5468aa991f832fb695c0a",
           "label":"",
@@ -649,7 +649,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_3_5收货地址新增_编辑/u31.png"}}]}},
+            "normal~":"images/2_2_2_4收货地址新增_编辑/u31.png"}}]}},
   "masters":{
 },
   "objectPaths":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情.html",
-  "generationDate":new Date(1510045386270.55),
+  "generationDate":new Date(1510060662533.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -12,7 +12,7 @@
     "type":"Axure:Page",
     "name":"7.7商品详情",
     "notes":{
-},
+      "默认":"<p><span>1107更新：</span></p><p><span>1.底部悬浮操作栏中，购物车文字改为：加入购物车（10）。括号中的数字为购物车中的商品总数量</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -338,7 +338,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",
@@ -582,7 +582,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u41.jpg"}},
+            "normal~":"images/7_3农场店铺页/u114.jpg"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",

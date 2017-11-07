@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0727.html",
-  "generationDate":new Date(1510045418213.17),
+  "generationDate":new Date(1510060697703.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -248,7 +248,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"ff308dfbdd084dbe8a05a07c5e863d0e",
           "label":"",
@@ -414,7 +414,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"fcaedf909f23435aa332e87df49dc7a7",
           "label":"",
@@ -983,7 +983,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"7a549e07a46e4f66a10f46e21a9c447c",
           "label":"",

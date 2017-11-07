@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_1订单详情（单品）.html",
-  "generationDate":new Date(1510045381399.3),
+  "generationDate":new Date(1510060668411.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"65f09d93e8404997b56c0c2df8ce126c",
+    "packageId":"3b3a02b41b8f451dae748cb45732633b",
     "type":"Axure:Page",
     "name":"2.3.1订单详情（单品）",
     "notes":{
@@ -92,7 +92,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"54215657aa204d649cbe67344ec0084d",
           "label":"",
@@ -137,7 +137,7 @@
                       "description":"在 当前窗口 打开 2.3我的订单",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3我的订单.html",
+                        "url":"2_3我的订单_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -214,7 +214,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1订单详情（单品）/u8.png"}},
+            "normal~":"images/2_3_1订单详情（宅配）/u8.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
@@ -331,7 +331,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
                   "id":"4bdaf3a37ac64ce390539e49e8b16206",
                   "label":"",
@@ -513,7 +513,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"b83fb0e072064b058c1609d19c308866",
           "label":"",

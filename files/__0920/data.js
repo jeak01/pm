@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0920.html",
-  "generationDate":new Date(1510045411015.03),
+  "generationDate":new Date(1510060689117.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1316,7 +1316,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u110.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u102.png"}},
 {
                   "id":"d7ef3fc174b44c86b35606f1c4ab4afd",
                   "label":"",
@@ -1347,7 +1347,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u112.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u104.png"}},
 {
                   "id":"82989db285d44a8dbf2f4a677322124f",
                   "label":"",
@@ -1406,7 +1406,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u106.png"}},
 {
                   "id":"ad9205dcbf304e6282c6d1910c4a3cd7",
                   "label":"",
@@ -1745,7 +1745,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]},
+                    "normal~":"images/2_3_1_1物流跟踪（弃用）/u49.jpg"}}]},
 {
               "id":"dd18dd9967fc418c8080ec952eb60e48",
               "label":"状态4",
@@ -2445,7 +2445,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"47fcc3bd897f4905883ba86b05f3361a",
           "label":"",
@@ -2611,7 +2611,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"6315cb4a4eab4ecdb69c98e382ca4985",
           "label":"",
@@ -2685,7 +2685,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u56.png"}},
+            "normal~":"images/0_2登录/u2.png"}},
 {
           "id":"d3517f2c81b3402390f86655926d1779",
           "label":"",
@@ -6282,7 +6282,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
+                      "normal~":"images/0_0主页/u227.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -6325,7 +6325,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
+                      "normal~":"images/0_0主页/u229.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -6360,7 +6360,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
+                      "normal~":"images/0_0主页/u231.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表.html",
-  "generationDate":new Date(1510045420083.41),
+  "generationDate":new Date(1510060699949.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -86,7 +86,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"55299690e49545a192f0b731f464d86d",
           "label":"",
@@ -1342,7 +1342,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+              "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",

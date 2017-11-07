@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障_1.html",
-  "generationDate":new Date(1510045393640.46),
+  "generationDate":new Date(1510060670149.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -257,7 +257,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}}]}]},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}}]}]},
 {
           "id":"c0b5dd23a2304b05adbaf878c59dc420",
           "label":"",

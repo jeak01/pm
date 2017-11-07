@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_3订单支付页_2.html",
-  "generationDate":new Date(1510045406421.97),
+  "generationDate":new Date(1510060684055.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -548,7 +548,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
@@ -1026,7 +1026,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u49.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{

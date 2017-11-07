@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_1资金账单.html",
-  "generationDate":new Date(1510045393003.03),
+  "generationDate":new Date(1510060659047.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"6537888706b84a7e8fd0f18f8270395d",
+    "packageId":"b9b46922f9d64bd59a5ffda55d6150fc",
     "type":"Axure:Page",
     "name":"2.8.1资金账单",
     "notes":{
@@ -871,7 +871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
           "id":"c7de0949b7ea4a22b05d41c801dc3322",
           "label":"",
@@ -908,7 +908,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
           "id":"4776c170cea244cf8c9f71e229429d3b",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_0发现.html",
-  "generationDate":new Date(1510045394087.76),
+  "generationDate":new Date(1510060670614.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -225,7 +225,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u213.png"}},
+            "normal~":"images/4_0发现/u8.png"}},
 {
           "id":"4b20d456b2154174b1bee76d0ec9b860",
           "label":"",
@@ -309,7 +309,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"b75ed85748bd4fc8ad75189b2be770b9",
           "label":"",
@@ -4032,7 +4032,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
+                      "normal~":"images/0_0主页/u227.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -4075,7 +4075,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
+                      "normal~":"images/0_0主页/u229.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -4110,7 +4110,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
+                      "normal~":"images/0_0主页/u231.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_8服务条款_1.html",
-  "generationDate":new Date(1510045389663.81),
+  "generationDate":new Date(1510060665963.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

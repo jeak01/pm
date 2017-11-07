@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_0主页.html",
-  "generationDate":new Date(1510045387147.13),
+  "generationDate":new Date(1510060663354.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -354,7 +354,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]},
+                    "normal~":"images/2_3_1_1物流跟踪（弃用）/u49.jpg"}}]},
 {
               "id":"dd18dd9967fc418c8080ec952eb60e48",
               "label":"状态4",
@@ -1054,7 +1054,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"47fcc3bd897f4905883ba86b05f3361a",
           "label":"",
@@ -1220,7 +1220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"6315cb4a4eab4ecdb69c98e382ca4985",
           "label":"",
@@ -1294,7 +1294,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u56.png"}},
+            "normal~":"images/0_2登录/u2.png"}},
 {
           "id":"d3517f2c81b3402390f86655926d1779",
           "label":"",
@@ -1844,7 +1844,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u68.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u62.png"}},
 {
           "id":"6e26fe6c42bb4df3b6099bb3abd6ee36",
           "label":"",
@@ -1877,7 +1877,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u70.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u64.png"}},
 {
           "id":"4c9c0d189a8a465eb971c2a86d240e29",
           "label":"",
@@ -1971,7 +1971,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u74.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u68.png"}},
 {
           "id":"d8e1d05e29d4435a98d48f39438a5c11",
           "label":"",
@@ -2047,7 +2047,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u78.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u72.png"}},
 {
           "id":"73f897e8380249129cb36c4fb9e6b544",
           "label":"",
@@ -2092,7 +2092,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u80.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u74.png"}},
 {
           "id":"d137ab96d41746f4a25f72ae17c118b4",
           "label":"",
@@ -2168,7 +2168,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u84.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u78.png"}},
 {
           "id":"84339f1b017847b1ba6edc3251ba0ae0",
           "label":"",
@@ -4795,7 +4795,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u110.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u102.png"}},
 {
                   "id":"d7ef3fc174b44c86b35606f1c4ab4afd",
                   "label":"",
@@ -4826,7 +4826,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u112.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u104.png"}},
 {
                   "id":"82989db285d44a8dbf2f4a677322124f",
                   "label":"",
@@ -4885,7 +4885,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u106.png"}},
 {
                   "id":"ad9205dcbf304e6282c6d1910c4a3cd7",
                   "label":"",
@@ -5264,7 +5264,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
+                    "normal~":"images/0_0主页/u227.png"}},
 {
                   "id":"3d7ef65e1cc242c4bece107486b69f54",
                   "label":"",
@@ -5307,7 +5307,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
+                    "normal~":"images/0_0主页/u229.png"}},
 {
                   "id":"bc9edf4fa1294cc399ee4055562727d4",
                   "label":"",
@@ -5342,7 +5342,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
+                    "normal~":"images/0_0主页/u231.png"}},
 {
                   "id":"82223d65f6044e65a707ce848238a004",
                   "label":"",
@@ -5646,7 +5646,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u42.png"}},
 {
                   "id":"87abf2b358504a81b551df62dbbb2a6c",
                   "label":"",
@@ -5705,7 +5705,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u154.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u136.png"}},
 {
                   "id":"63a9b123ea864812acde5cfcada97152",
                   "label":"提示文字",
@@ -5793,7 +5793,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/u249.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u123.png"}},
 {
                   "id":"a00b98c55d0443efae9c9aa1e0159c7b",
                   "label":"",

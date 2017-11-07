@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_5订单详情.html",
-  "generationDate":new Date(1510045406568.07),
+  "generationDate":new Date(1510060684267.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -92,7 +92,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"54215657aa204d649cbe67344ec0084d",
           "label":"",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_6我的订单（优品）/u49.png"}},
+            "normal~":"images/7_6订单详情（优品）/u14.png"}},
 {
           "id":"68ef18cb6a774090bbffc4333869ab66",
           "label":"",
@@ -369,7 +369,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/7_6我的订单（优品）/u59_line.png"}},
+            "line~":"images/7_6订单详情（优品）/u59_line.png"}},
 {
           "id":"ec166e24a8ec4adb87faef19fe727f15",
           "label":"",
@@ -402,7 +402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1订单详情（单品）/u8.png"}},
+            "normal~":"images/2_3_1订单详情（宅配）/u8.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
@@ -758,7 +758,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
                   "id":"4bdaf3a37ac64ce390539e49e8b16206",
                   "label":"",
@@ -912,7 +912,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"b83fb0e072064b058c1609d19c308866",
           "label":"",
@@ -1409,7 +1409,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u41.jpg"}}]}},
+            "normal~":"images/7_3农场店铺页/u114.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{

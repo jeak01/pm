@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_3选择地址.html",
-  "generationDate":new Date(1510045385416.98),
+  "generationDate":new Date(1510060657125.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"27b8c14261a54cce943e9a41b1c74a15",
+    "packageId":"3aa272c7fada4e98a88686566c611b2b",
     "type":"Axure:Page",
     "name":"2.2.2.3选择地址",
     "notes":{
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"9dd3a4d7023b4b5e970ecc4abb7feb96",
           "label":"",
@@ -170,7 +170,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"36b8c2b5dd47426b8fcafe0b7f0a4186",
           "label":"",
@@ -234,7 +234,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"21125b77727b46c8acb895c818cba8e5",
           "label":"",
@@ -298,7 +298,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"1a89c629c6fc4dc29412d5703fbe81cb",
           "label":"",
@@ -362,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"521476071c034ab38614c540c6588e32",
           "label":"",
@@ -458,10 +458,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.5确认订单(优品)",
+                      "description":"在 当前窗口 打开 2.2.2.1确认订单(宅配)",
                       "target":{
                         "targetType":"page",
-                        "url":"7_5确认订单_优品_.html",
+                        "url":"2_2_2_1确认订单_宅配_.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1057,9 +1057,9 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u51.png"}},
+            "normal~":"images/2_2_2_3选择地址/u51.png"}},
 {
-          "id":"7e385b544435477f87dbd22f5e71ef13",
+          "id":"030bfaa1adda43caa98268f51dc43a92",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -1075,7 +1075,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"fbfb6e8ee30b49a89e13664582c5df04",
+              "id":"a5d50946312d41bfb5d5b7ae26f7f2d2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -1202,7 +1202,7 @@
       "scriptId":"u51"},
     "58296abe975a479a8e17382aad4c4150":{
       "scriptId":"u52"},
-    "7e385b544435477f87dbd22f5e71ef13":{
+    "030bfaa1adda43caa98268f51dc43a92":{
       "scriptId":"u53"},
-    "fbfb6e8ee30b49a89e13664582c5df04":{
+    "a5d50946312d41bfb5d5b7ae26f7f2d2":{
       "scriptId":"u54"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_12企业服务.html",
-  "generationDate":new Date(1510045393356.27),
+  "generationDate":new Date(1510060669885.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -92,7 +92,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"9667912a23724d2db152fe4e4f21f0ec",
           "label":"",

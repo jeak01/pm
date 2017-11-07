@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0蔬菜宅配（1012）.html",
-  "generationDate":new Date(1510045409528.04),
+  "generationDate":new Date(1510060687413.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -89,7 +89,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"71c113e775a643a2b236441c73204123",
                   "label":"",
@@ -216,7 +216,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"e7931e41ba2c4ebdb54479b744a2de86",
                   "label":"",
@@ -390,7 +390,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"c3b4c9e0daea4dc0b5c3ec46ed7036f2",
                   "label":"",
@@ -661,7 +661,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
                           "id":"dbffc8ec28864532833cb8391ea9068f",
                           "label":"",
@@ -700,7 +700,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
                           "id":"31ebc692fe7943b3b3f7286574e4032d",
                           "label":"",
@@ -2690,7 +2690,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"6dadc4d08d6b4fae8cef39ad1c4083bc",
                   "label":"",
@@ -6905,7 +6905,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"81073116e1bd4f85a7179a46941265cb",
                   "label":"",
@@ -7032,7 +7032,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"1689b1f29d4f4ddaa566829e8026c602",
                   "label":"",
@@ -7206,7 +7206,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"7cf4ae044e974cd68d2b7d5974972ff4",
                   "label":"",
@@ -7524,7 +7524,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"e884e9d692094f0c939d47bbea9e60da",
                   "label":"",
@@ -7919,7 +7919,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"bd5f884312124d1c9fad363a1dfc97fb",
                   "label":"",
@@ -8046,7 +8046,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"1a95d033573648819c26033425c5cca5",
                   "label":"",
@@ -8220,7 +8220,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"106eb0b700c64f86b36971b90bd0efb1",
                   "label":"",
@@ -8479,7 +8479,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"672c96796842453d8b69cfd7223c1dfd",
                   "label":"",
@@ -9729,7 +9729,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"2cea959dd2794ec8a8bf028288de54fb",
                   "label":"",
@@ -9942,7 +9942,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+                    "normal~":"images/7_3农场店铺页/u14.png"}},
 {
                   "id":"dd545e0883934f9491f11e06e4a47627",
                   "label":"",
@@ -10022,7 +10022,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+                    "normal~":"images/7_3农场店铺页/u14.png"}},
 {
                   "id":"0aa26c0f0aaf44f1803be4f870c388f4",
                   "label":"",
@@ -10063,7 +10063,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"03790b2a7c9549fd8d0bb2e9dabefb7c",
                   "label":"",
@@ -10237,7 +10237,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"8b89028f5d9b44d79eb86714028a25db",
                   "label":"",
@@ -14026,7 +14026,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"cf18de628a754ac9988e0554d89e7286",
                   "label":"",
@@ -14267,7 +14267,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u42.png"}},
 {
                   "id":"c54f673790c94423b40c36804ad818e1",
                   "label":"",
@@ -14326,7 +14326,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u154.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u136.png"}},
 {
                   "id":"e4eabe61fd68440c81622e178037d9e6",
                   "label":"提示文字",

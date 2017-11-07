@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_5完善信息.html",
-  "generationDate":new Date(1510045378646.47),
+  "generationDate":new Date(1510060655286.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -306,7 +306,7 @@
             "fontSize":"11px",
             "location":{
               "x":34,
-              "y":360},
+              "y":279},
             "size":{
               "width":292,
               "height":28}},
@@ -323,7 +323,7 @@
                 "fontSize":"11px",
                 "location":{
                   "x":34,
-                  "y":360},
+                  "y":279},
                 "size":{
                   "width":292,
                   "height":28}},
@@ -522,7 +522,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":20,
-              "y":310},
+              "y":229},
             "size":{
               "width":320,
               "height":40},
@@ -550,7 +550,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":20,
-                  "y":310},
+                  "y":229},
                 "size":{
                   "width":320,
                   "height":40},
@@ -705,7 +705,7 @@
             "verticalAlignment":"middle",
             "location":{
               "x":56,
-              "y":276},
+              "y":195},
             "size":{
               "width":228,
               "height":14}},
@@ -723,7 +723,7 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":56,
-                  "y":276},
+                  "y":195},
                 "size":{
                   "width":228,
                   "height":14}},
@@ -738,7 +738,7 @@
           "style":{
             "location":{
               "x":155,
-              "y":271},
+              "y":190},
             "size":{
               "width":129,
               "height":24}},

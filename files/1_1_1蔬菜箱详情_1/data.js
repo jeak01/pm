@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_1蔬菜箱详情_1.html",
-  "generationDate":new Date(1510045388254.87),
+  "generationDate":new Date(1510060664495.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -234,7 +234,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}}]}]},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}}]}]},
 {
           "id":"695f5c81161848a2b1998bdcd2c9add5",
           "label":"",
@@ -261,7 +261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"5660280881834dd591e3530cd97b477d",
           "label":"",
@@ -551,7 +551,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}}]}]}]}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

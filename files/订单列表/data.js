@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表.html",
-  "generationDate":new Date(1510045415788.55),
+  "generationDate":new Date(1510060694714.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -92,7 +92,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"4a528dd320764523b31951041a737b03",
           "label":"",

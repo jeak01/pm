@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1选择指定农场_1.html",
-  "generationDate":new Date(1510045388137.79),
+  "generationDate":new Date(1510060664373.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"bf69f17d6a6545d8bee46524fc793515",
           "label":"",

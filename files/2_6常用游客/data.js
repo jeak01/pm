@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_6常用游客.html",
-  "generationDate":new Date(1510045381887.63),
+  "generationDate":new Date(1510060658568.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"d20cf8b7d60a41168602ba2846ab2f49",
           "label":"",
@@ -219,7 +219,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"2c7c6653a95649a7a6cc3d819219fb84",
           "label":"",
@@ -457,7 +457,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"27217f23470e407d86cf9d09db72d451",
           "label":"",
@@ -647,7 +647,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_4选择地址/u6.png"}},
+            "normal~":"images/2_2_2_3选择地址/u6.png"}},
 {
           "id":"4784bfbcbc6642aea8d7c9c6fafeebdd",
           "label":"",

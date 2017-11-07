@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_2发票信息.html",
-  "generationDate":new Date(1510045385316.91),
+  "generationDate":new Date(1510060661699.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"f2f879668fb5468aa991f832fb695c0a",
           "label":"",
@@ -500,7 +500,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_3_5收货地址新增_编辑/u31.png"}},
+            "normal~":"images/2_2_2_4收货地址新增_编辑/u31.png"}},
 {
           "id":"eb3feb4fcb5b4bc084728f1118a64bc0",
           "label":"",

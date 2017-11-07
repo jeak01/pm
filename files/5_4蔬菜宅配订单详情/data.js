@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_4蔬菜宅配订单详情.html",
-  "generationDate":new Date(1510045399331.25),
+  "generationDate":new Date(1510060675906.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -92,7 +92,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"54215657aa204d649cbe67344ec0084d",
           "label":"",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1订单详情（单品）/u8.png"}},
+            "normal~":"images/2_3_1订单详情（宅配）/u8.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
@@ -499,7 +499,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
                   "id":"4bdaf3a37ac64ce390539e49e8b16206",
                   "label":"",
@@ -1089,7 +1089,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_6我的订单（优品）/u49.png"}},
+            "normal~":"images/7_6订单详情（优品）/u14.png"}},
 {
           "id":"40460546848240ae80de3babf671c2ee",
           "label":"",
@@ -1245,7 +1245,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/7_6我的订单（优品）/u59_line.png"}},
+            "line~":"images/7_6订单详情（优品）/u59_line.png"}},
 {
           "id":"3ff8ae17360a413897813be1dfa0b7c2",
           "label":"",

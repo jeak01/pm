@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0电子收银台（1017）.html",
-  "generationDate":new Date(1510045408779.54),
+  "generationDate":new Date(1510060686738.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u0.png"}},
+            "normal~":"images/0_2登录/u0.png"}},
 {
           "id":"11cba25a54af4671a1fb36f3b289a27a",
           "label":"",

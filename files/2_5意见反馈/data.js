@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_5意见反馈.html",
-  "generationDate":new Date(1510045381792.56),
+  "generationDate":new Date(1510060658492.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -12,7 +12,7 @@
     "type":"Axure:Page",
     "name":"2.5意见反馈",
     "notes":{
-},
+      "默认":"<p><span>1107更新：</span></p><p><span>1.更新了客服电话正确号码：400-800-6011</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -243,7 +243,7 @@
               "x":21,
               "y":92},
             "size":{
-              "width":137,
+              "width":143,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -259,7 +259,7 @@
                   "x":21,
                   "y":92},
                 "size":{
-                  "width":137,
+                  "width":143,
                   "height":16}},
               "adaptiveStyles":{
 }}],

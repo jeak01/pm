@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_1支付成功_1.html",
-  "generationDate":new Date(1510045403348.93),
+  "generationDate":new Date(1510060680809.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -119,7 +119,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -383,7 +383,7 @@
                               "description":"在 当前窗口 打开 7.6我的订单（优品）",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_6我的订单（优品）_1.html",
+                                "url":"7_6我的订单（优品）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

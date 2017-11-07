@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_2_设置支付密码.html",
-  "generationDate":new Date(1510045393047.06),
+  "generationDate":new Date(1510060659092.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8,7 +8,7 @@
 "payFrom",
 "nc"],
   "page":{
-    "packageId":"f4f66358fef24ea4a23f0c136e4b5ef4",
+    "packageId":"99dd3fafd2fa433a8a6f5e16e16d6061",
     "type":"Axure:Page",
     "name":"2.8.2 设置支付密码",
     "notes":{
@@ -272,6 +272,10 @@
           "styleType":"textBox",
           "visible":true,
           "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
             "location":{
               "x":80,
               "y":96},
@@ -359,6 +363,10 @@
           "styleType":"textBox",
           "visible":true,
           "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
             "location":{
               "x":80,
               "y":57},

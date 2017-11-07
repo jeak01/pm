@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1510045421579.41),
+  "generationDate":new Date(1510060701945.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -86,7 +86,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -1374,7 +1374,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+              "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",

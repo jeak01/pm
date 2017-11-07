@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1电子收银台.html",
-  "generationDate":new Date(1510045408572.41),
+  "generationDate":new Date(1510060686472.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u0.png"}},
+            "normal~":"images/0_2登录/u0.png"}},
 {
           "id":"11cba25a54af4671a1fb36f3b289a27a",
           "label":"",
@@ -675,7 +675,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
 {
           "id":"a09007e666ae41b88e397bc3010fd3e0",
           "label":"",
@@ -780,7 +780,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
 {
           "id":"f076f50668254be988acd30d0c82098d",
           "label":"",
@@ -936,7 +936,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
 {
           "id":"c7e16420cbb84319ae940990e0e744e3",
           "label":"",
@@ -1196,7 +1196,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
 {
           "id":"a6888c6d95ab478ebba557c286395728",
           "label":"",

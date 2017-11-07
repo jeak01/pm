@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"购买配送次数.html",
-  "generationDate":new Date(1510045411683.48),
+  "generationDate":new Date(1510060689799.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -251,7 +251,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -372,7 +372,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
@@ -840,7 +840,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u49.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u57.png"}},
 {
           "id":"4dcac2896f854bbe9242c98e9841a9f2",
           "label":"",
@@ -986,7 +986,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u49.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u57.png"}},
 {
           "id":"b5b26086be0f473b9f7a8a4cec6dac13",
           "label":"",
@@ -1516,7 +1516,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u49.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u57.png"}},
 {
           "id":"8efb37e86ff74399af429e0d96c70f53",
           "label":"",
@@ -1631,7 +1631,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
 {
           "id":"19feb49ea15e460aaba15d50bfac1424",
           "label":"",
@@ -1787,7 +1787,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u31.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
 {
           "id":"1c57bab0ff444758a9b1263e2881be72",
           "label":"",
@@ -2012,7 +2012,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
                   "id":"6ecde4b5615941e7aec564a2a74c7992",
                   "label":"",
@@ -3220,7 +3220,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u106.png"}},
 {
                   "id":"b789aac8e3ba4562b2c98c419b029e67",
                   "label":"",
@@ -3453,7 +3453,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}}]}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u49.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{

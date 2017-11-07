@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_5订单详情.html",
-  "generationDate":new Date(1510045397324.91),
+  "generationDate":new Date(1510060673978.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -92,7 +92,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -213,7 +213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_6我的订单（优品）/u49.png"}},
+            "normal~":"images/7_6订单详情（优品）/u14.png"}},
 {
           "id":"3703b5f6d0b84adc8afeabae91ee724e",
           "label":"",
@@ -369,7 +369,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/7_6我的订单（优品）/u59_line.png"}},
+            "line~":"images/7_6订单详情（优品）/u59_line.png"}},
 {
           "id":"a3f8cf7b31b8432a9bd391fcf41a3a22",
           "label":"",
@@ -1089,7 +1089,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",

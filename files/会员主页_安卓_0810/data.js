@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_0810.html",
-  "generationDate":new Date(1510045419495.02),
+  "generationDate":new Date(1510060699291.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1142,7 +1142,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"c90c8b744af940c0867c366ab9ad0d1b",
           "label":"",
@@ -1308,7 +1308,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"d1b6c16043ad4e3090c984c061f67e37",
           "label":"",
@@ -1382,7 +1382,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u56.png"}},
+            "normal~":"images/0_2登录/u2.png"}},
 {
           "id":"976b5e1007594f03816d6167932123a5",
           "label":"",
@@ -2249,7 +2249,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品（1_0不用做）/u217.png"}},
+            "normal~":"images/7_3农场店铺页/u14.png"}},
 {
           "id":"4a4c642f94104023b04dea074b4b400a",
           "label":"",
@@ -4902,7 +4902,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
+                      "normal~":"images/0_0主页/u231.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",

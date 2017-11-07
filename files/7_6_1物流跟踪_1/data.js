@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_6_1物流跟踪_1.html",
-  "generationDate":new Date(1510045404190.49),
+  "generationDate":new Date(1510060681656.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -71,7 +71,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u0.png"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u0.png"}},
 {
           "id":"8effa8839c60485b9023b142ddad9503",
           "label":"",
@@ -369,7 +369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u16.png"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u16.png"}},
 {
           "id":"4feebd831bb9493dac2717288090247d",
           "label":"",
@@ -492,7 +492,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
 {
           "id":"2defbad40925484a9bcd205f53ab8b24",
           "label":"",
@@ -767,7 +767,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
 {
           "id":"e08e80206b28493eaaea6b65ea9b9604",
           "label":"",
@@ -814,7 +814,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
 {
           "id":"399ecd04c8d04d69af234dbb612b610f",
           "label":"",
@@ -836,7 +836,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/2_3_1_1物流跟踪/u40_line.png"}},
+            "line~":"images/2_3_1_1物流跟踪（弃用）/u40_line.png"}},
 {
           "id":"31d6e1b2fac64affba49136a26c08afa",
           "label":"",
@@ -959,7 +959,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
 {
           "id":"87066851806744b28685630cd2ab7496",
           "label":"",
@@ -1006,7 +1006,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u47.png"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u47.png"}},
 {
           "id":"c044d87f2e9c4ff392cca0ff22eb1ecb",
           "label":"",
@@ -1039,7 +1039,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u49.jpg"}},
 {
           "id":"abe9c17293404479b2701c1cb42abbc3",
           "label":"",

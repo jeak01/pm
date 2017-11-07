@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3我的订单_1.html",
-  "generationDate":new Date(1510045391949.33),
+  "generationDate":new Date(1510060668317.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -92,7 +92,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"4a528dd320764523b31951041a737b03",
           "label":"",
@@ -334,7 +334,7 @@
                       "description":"在 当前窗口 打开 2.3.2订单详情（蔬菜宅配）",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3_2订单详情（蔬菜宅配）_1.html",
+                        "url":"2_3_2订单详情（蔬菜宅配）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1057,12 +1057,12 @@
                       "description":"在 当前窗口 打开 2.3.1订单详情（单品）",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3_1订单详情（单品）_1.html",
+                        "url":"2_3_1订单详情（单品）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_3我的订单/u51.png"}},
+            "normal~":"images/2_3我的订单_1/u51.png"}},
 {
           "id":"03c655301dc944aaaa691b9dfb8108d8",
           "label":"",
@@ -1450,12 +1450,12 @@
                       "description":"在 当前窗口 打开 2.3.1订单详情（单品）",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3_1订单详情（单品）_1.html",
+                        "url":"2_3_1订单详情（单品）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_3我的订单/u51.png"}},
+            "normal~":"images/2_3我的订单_1/u51.png"}},
 {
           "id":"090caf6a9b57441d9e0a7a6da05e57d4",
           "label":"",

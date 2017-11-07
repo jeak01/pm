@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_0农旅卡主题页（极简）.html",
-  "generationDate":new Date(1510045375996.7),
+  "generationDate":new Date(1510060652406.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -12,7 +12,7 @@
     "type":"Axure:Page",
     "name":"1.0农旅卡主题页（极简）",
     "notes":{
-},
+      "默认":"<p><span>1107更新：</span></p><p><span>1.新增点击上面的立即购卡按钮会有提示登录的弹窗</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -327,13 +327,19 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.2订单支付页",
-                      "target":{
-                        "targetType":"page",
-                        "url":"1_2订单支付页.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
+                      "action":"fadeWidget",
+                      "description":"显示 提示窗2 灯箱效果",
+                      "objectsToFades":[{
+                          "objectPath":["75e45a0b2fca4c1d834583aa193e7688"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"lightbox",
+                              "lightbox":{
+                                "r":47,
+                                "g":79,
+                                "b":79,
+                                "a":155}}}}]}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/1_0农旅卡主题页（极简）/u12.png"}},
@@ -349,7 +355,7 @@
               "y":213},
             "size":{
               "width":360,
-              "height":1527},
+              "height":1427},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFFFFF}},
@@ -368,7 +374,7 @@
                   "y":213},
                 "size":{
                   "width":360,
-                  "height":1527},
+                  "height":1427},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFFFFF}},
@@ -635,7 +641,7 @@
           "style":{
             "location":{
               "x":166,
-              "y":722},
+              "y":676.213195800781},
             "size":{
               "width":30,
               "height":30},
@@ -653,7 +659,7 @@
               "style":{
                 "location":{
                   "x":166,
-                  "y":722},
+                  "y":676.213195800781},
                 "size":{
                   "width":30,
                   "height":30},
@@ -673,7 +679,7 @@
             "fontSize":"28px",
             "location":{
               "x":171,
-              "y":720},
+              "y":674},
             "size":{
               "width":17,
               "height":33}},
@@ -690,7 +696,7 @@
                 "fontSize":"28px",
                 "location":{
                   "x":171,
-                  "y":720},
+                  "y":674},
                 "size":{
                   "width":17,
                   "height":33}},
@@ -707,7 +713,7 @@
           "style":{
             "location":{
               "x":51,
-              "y":732},
+              "y":686.213195800781},
             "size":{
               "width":110,
               "height":10}},
@@ -726,7 +732,7 @@
           "style":{
             "location":{
               "x":199,
-              "y":732},
+              "y":686.213195800781},
             "size":{
               "width":110,
               "height":10}},
@@ -745,7 +751,7 @@
           "style":{
             "location":{
               "x":84,
-              "y":763},
+              "y":717.213195800781},
             "size":{
               "width":193,
               "height":28}},
@@ -761,7 +767,7 @@
               "style":{
                 "location":{
                   "x":84,
-                  "y":763},
+                  "y":717.213195800781},
                 "size":{
                   "width":193,
                   "height":28}},
@@ -778,7 +784,7 @@
           "style":{
             "location":{
               "x":30,
-              "y":812},
+              "y":766},
             "size":{
               "width":300,
               "height":112}},
@@ -794,7 +800,7 @@
               "style":{
                 "location":{
                   "x":30,
-                  "y":812},
+                  "y":766},
                 "size":{
                   "width":300,
                   "height":112}},
@@ -811,7 +817,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":942},
+              "y":896.213195800781},
             "size":{
               "width":360,
               "height":170}},
@@ -827,7 +833,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":942},
+                  "y":896.213195800781},
                 "size":{
                   "width":360,
                   "height":170}},
@@ -844,7 +850,7 @@
           "style":{
             "location":{
               "x":166,
-              "y":1152},
+              "y":1106.21313476563},
             "size":{
               "width":30,
               "height":30},
@@ -862,7 +868,7 @@
               "style":{
                 "location":{
                   "x":166,
-                  "y":1152},
+                  "y":1106.21313476563},
                 "size":{
                   "width":30,
                   "height":30},
@@ -882,7 +888,7 @@
             "fontSize":"28px",
             "location":{
               "x":171,
-              "y":1150},
+              "y":1104},
             "size":{
               "width":17,
               "height":33}},
@@ -899,7 +905,7 @@
                 "fontSize":"28px",
                 "location":{
                   "x":171,
-                  "y":1150},
+                  "y":1104},
                 "size":{
                   "width":17,
                   "height":33}},
@@ -916,7 +922,7 @@
           "style":{
             "location":{
               "x":51,
-              "y":1162},
+              "y":1116.21313476563},
             "size":{
               "width":110,
               "height":10}},
@@ -935,7 +941,7 @@
           "style":{
             "location":{
               "x":199,
-              "y":1162},
+              "y":1116.21313476563},
             "size":{
               "width":110,
               "height":10}},
@@ -954,7 +960,7 @@
           "style":{
             "location":{
               "x":96,
-              "y":1193},
+              "y":1147.21313476563},
             "size":{
               "width":169,
               "height":28}},
@@ -970,7 +976,7 @@
               "style":{
                 "location":{
                   "x":96,
-                  "y":1193},
+                  "y":1147.21313476563},
                 "size":{
                   "width":169,
                   "height":28}},
@@ -987,7 +993,7 @@
           "style":{
             "location":{
               "x":30,
-              "y":1242},
+              "y":1196},
             "size":{
               "width":300,
               "height":48}},
@@ -1003,7 +1009,7 @@
               "style":{
                 "location":{
                   "x":30,
-                  "y":1242},
+                  "y":1196},
                 "size":{
                   "width":300,
                   "height":48}},
@@ -1020,7 +1026,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":1300},
+              "y":1254.21313476563},
             "size":{
               "width":238,
               "height":93},
@@ -1040,7 +1046,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":1300},
+                  "y":1254.21313476563},
                 "size":{
                   "width":238,
                   "height":93},
@@ -1061,7 +1067,7 @@
           "style":{
             "location":{
               "x":238,
-              "y":1300},
+              "y":1254.21313476563},
             "size":{
               "width":122,
               "height":93},
@@ -1081,7 +1087,7 @@
               "style":{
                 "location":{
                   "x":238,
-                  "y":1300},
+                  "y":1254.21313476563},
                 "size":{
                   "width":122,
                   "height":93},
@@ -1102,7 +1108,7 @@
           "style":{
             "location":{
               "x":1,
-              "y":1397},
+              "y":1351.21313476563},
             "size":{
               "width":236,
               "height":94},
@@ -1122,7 +1128,7 @@
               "style":{
                 "location":{
                   "x":1,
-                  "y":1397},
+                  "y":1351.21313476563},
                 "size":{
                   "width":236,
                   "height":94},
@@ -1143,7 +1149,7 @@
           "style":{
             "location":{
               "x":239,
-              "y":1394},
+              "y":1348.21313476563},
             "size":{
               "width":118,
               "height":94},
@@ -1163,7 +1169,7 @@
               "style":{
                 "location":{
                   "x":239,
-                  "y":1394},
+                  "y":1348.21313476563},
                 "size":{
                   "width":118,
                   "height":94},
@@ -1175,144 +1181,6 @@
 }}],
           "images":{
             "normal~":"images/1_0农旅卡主题页（极简）/u58.png"}},
-{
-          "id":"622efb2ad82e4ad9ae0301f93662aed4",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFFF9900},
-            "location":{
-              "x":37,
-              "y":1636},
-            "size":{
-              "width":269,
-              "height":40},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"5"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"7d3232eaa3004eb4a9fc4b48d1249079",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFFFF,
-                  "opacity":1},
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFFF9900},
-                "location":{
-                  "x":37,
-                  "y":1636},
-                "size":{
-                  "width":269,
-                  "height":40},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"5"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1选择指定农场",
-                      "target":{
-                        "targetType":"page",
-                        "url":"1_1选择指定农场.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u60.png"}},
-{
-          "id":"4f2e6126749a4b59ad36f3bfb628484d",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":40,
-              "y":1522},
-            "size":{
-              "width":145,
-              "height":74}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"d9ac9a5c4a6b4b07bd8e34c0dc87c90e",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":40,
-                  "y":1522},
-                "size":{
-                  "width":145,
-                  "height":74}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"83908b448db6461a9eac622d0621b545",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":209,
-              "y":1522},
-            "size":{
-              "width":97,
-              "height":74}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"8c649b68285243cf9d70a40527a0db26",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":209,
-                  "y":1522},
-                "size":{
-                  "width":97,
-                  "height":74}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
 {
           "id":"e2440da4a163495dbb1fa6faef7865d5",
           "label":"",
@@ -1398,7 +1266,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u68.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u62.png"}},
 {
           "id":"5ae0908599da43e985dc5b6535ee7546",
           "label":"",
@@ -1431,7 +1299,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u70.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u64.png"}},
 {
           "id":"b2b3a816998f43a59d96b8f232bdd20c",
           "label":"",
@@ -1525,7 +1393,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u74.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u68.png"}},
 {
           "id":"ee2d0f454598493bbbfc303a6aef0bb3",
           "label":"",
@@ -1601,7 +1469,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u78.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u72.png"}},
 {
           "id":"cae4d2f4c48b4a798a9740ba4531177f",
           "label":"",
@@ -1646,7 +1514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u80.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u74.png"}},
 {
           "id":"5aa35b77aaf2493a81a2faf8a0355b31",
           "label":"",
@@ -1722,7 +1590,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u84.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u78.png"}},
 {
           "id":"606212b529cb49e5b1652abfae7dbfbd",
           "label":"",
@@ -1780,62 +1648,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"ca2c856827fc4aee9ead4f6e84dd2931",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF0099FF,
-              "opacity":1},
-            "location":{
-              "x":228,
-              "y":1686},
-            "size":{
-              "width":78,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"d3d4c9e16ecb44e4a8ec951d20b00a69",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF0099FF,
-                  "opacity":1},
-                "location":{
-                  "x":228,
-                  "y":1686},
-                "size":{
-                  "width":78,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.1.1激活农旅卡",
-                      "target":{
-                        "targetType":"page",
-                        "url":"2_1_1激活农旅卡.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"928251ed1eef49968ad7fa58d0337f2a",
           "label":"",
           "type":"dynamicPanel",
@@ -1843,15 +1655,15 @@
           "visible":true,
           "style":{
             "location":{
-              "x":0,
-              "y":1720},
+              "x":1,
+              "y":1580},
             "size":{
               "width":10,
               "height":10}},
           "adaptiveStyles":{
 },
           "fixedHorizontal":"left",
-          "fixedMarginHorizontal":0,
+          "fixedMarginHorizontal":1,
           "fixedVertical":"bottom",
           "fixedMarginVertical":0,
           "fixedKeepInFront":true,
@@ -1890,7 +1702,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
                   "id":"d8467a577c094e888b8d8079d7b07608",
                   "label":"",
@@ -1919,7 +1731,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u93.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u85.png"}},
 {
                   "id":"2b6118b255f94f09b7ce5a5b6f62c235",
                   "label":"",
@@ -1983,7 +1795,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u95.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u87.png"}},
 {
                   "id":"e8470b4de31d4751a6a77748e6d81b97",
                   "label":"",
@@ -2018,7 +1830,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u97.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u89.png"}},
 {
                   "id":"70c09018f7324667b696ecd8a1a57a45",
                   "label":"",
@@ -2053,7 +1865,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u99.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
                   "id":"e1dfb73bfda9407facce549e58cd8ff2",
                   "label":"",
@@ -2125,7 +1937,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u99.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
 {
                   "id":"d1d24a8362ea4a4f9490009824223f11",
                   "label":"",
@@ -2239,8 +2051,8 @@
           "visible":false,
           "style":{
             "location":{
-              "x":30,
-              "y":1411},
+              "x":29.5,
+              "y":353},
             "size":{
               "width":10,
               "height":10},
@@ -2287,7 +2099,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u110.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u102.png"}},
 {
                   "id":"27a21510deb14d55a080c47d247b4e69",
                   "label":"",
@@ -2318,7 +2130,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u112.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u104.png"}},
 {
                   "id":"d7d14b9539ed42c281d1f2626e0f2a4b",
                   "label":"",
@@ -2377,7 +2189,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
+                    "normal~":"images/1_0农旅卡主题页（极简）/u106.png"}},
 {
                   "id":"4a1135faef524756ab308dab644b17a2",
                   "label":"",
@@ -2416,49 +2228,6 @@
                   "images":{
                     "normal~":"resources/images/transparent.gif"}}]}]},
 {
-          "id":"cdc9e14a926443a8bc6e84d15a045a20",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF666666,
-              "opacity":1},
-            "location":{
-              "x":40,
-              "y":1610},
-            "size":{
-              "width":225,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"8b117f5769644cad82e4df4c41d16363",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF666666,
-                  "opacity":1},
-                "location":{
-                  "x":40,
-                  "y":1610},
-                "size":{
-                  "width":225,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"a9c7cb62e26d433cbec1498cb70a4b05",
           "label":"",
           "type":"buttonShape",
@@ -2473,8 +2242,8 @@
               "fillType":"solid",
               "color":0xFFFF9900},
             "location":{
-              "x":45,
-              "y":666},
+              "x":45.5,
+              "y":1490},
             "size":{
               "width":269,
               "height":40},
@@ -2500,8 +2269,8 @@
                   "fillType":"solid",
                   "color":0xFFFF9900},
                 "location":{
-                  "x":45,
-                  "y":666},
+                  "x":45.5,
+                  "y":1490},
                 "size":{
                   "width":269,
                   "height":40},
@@ -2527,7 +2296,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u60.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u110.png"}},
 {
           "id":"e3087d90720d44c186322f6e9e0b10e6",
           "label":"",
@@ -2562,7 +2331,292 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"75e45a0b2fca4c1d834583aa193e7688",
+          "label":"提示窗2",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":30,
+              "y":312},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":30,
+          "fixedVertical":"middle",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"506fb836a75046b9b492c05ff970bfdb",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"6371821c0fa8479f999d2264383dabc4",
+                  "label":"",
+                  "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":300,
+                      "height":170}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5c5c0ebf830f4f1991788df25e5288fb",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":300,
+                          "height":170}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/1_0农旅卡主题页（极简）/u115.png"}},
+{
+                  "id":"ab3935cf1baa4809ba9086206b1c2b1b",
+                  "label":"",
+                  "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"16px",
+                    "size":{
+                      "width":300,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"15a4ae15ee1e411fbc0a77a6edc9ac62",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"16px",
+                        "size":{
+                          "width":300,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/1_0农旅卡主题页（极简）/u104.png"}},
+{
+                  "id":"6bb26678cd844cf188dd669d2fd76024",
+                  "label":"",
+                  "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":260,
+                      "y":0},
+                    "size":{
+                      "width":40,
+                      "height":40},
+                    "borderWidth":"-1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e7eb0703116e4739bb8dfa7beed245e5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":260,
+                          "y":0},
+                        "size":{
+                          "width":40,
+                          "height":40},
+                        "borderWidth":"-1",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 提示窗2",
+                              "objectsToFades":[{
+                                  "objectPath":["75e45a0b2fca4c1d834583aa193e7688"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/1_0农旅卡主题页（极简）/u106.png"}},
+{
+                  "id":"ff4f3d6ce4014323bb56512abf292ee6",
+                  "label":"",
+                  "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"16px",
+                    "location":{
+                      "x":59,
+                      "y":80},
+                    "size":{
+                      "width":182,
+                      "height":34}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5898a15c90234ed7875d0dd653c8ea99",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"16px",
+                        "location":{
+                          "x":59,
+                          "y":80},
+                        "size":{
+                          "width":182,
+                          "height":34}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"763baef8cbe6451bb5cdb411d1b200cc",
+                  "label":"",
+                  "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":130},
+                    "size":{
+                      "width":150,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"22da877ec87a472ea9630d95fec2bb3a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":130},
+                        "size":{
+                          "width":150,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 提示窗2",
+                              "objectsToFades":[{
+                                  "objectPath":["75e45a0b2fca4c1d834583aa193e7688"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/1_0农旅卡主题页（极简）/u123.png"}},
+{
+                  "id":"62e282a9951d4e0b9dd4930d99ca41a6",
+                  "label":"",
+                  "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":150,
+                      "y":130},
+                    "size":{
+                      "width":150,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f4aac4112c1b4bbe8f509ee26d9f8d49",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"75e45a0b2fca4c1d834583aa193e7688",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":150,
+                          "y":130},
+                        "size":{
+                          "width":150,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 0.2登录",
+                              "target":{
+                                "targetType":"page",
+                                "url":"0_2登录.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/1_0农旅卡主题页（极简）/u123.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2686,131 +2740,137 @@
       "scriptId":"u58"},
     "84c6404d0bdc4c2eb13b49ce0c6294fa":{
       "scriptId":"u59"},
-    "622efb2ad82e4ad9ae0301f93662aed4":{
-      "scriptId":"u60"},
-    "7d3232eaa3004eb4a9fc4b48d1249079":{
-      "scriptId":"u61"},
-    "4f2e6126749a4b59ad36f3bfb628484d":{
-      "scriptId":"u62"},
-    "d9ac9a5c4a6b4b07bd8e34c0dc87c90e":{
-      "scriptId":"u63"},
-    "83908b448db6461a9eac622d0621b545":{
-      "scriptId":"u64"},
-    "8c649b68285243cf9d70a40527a0db26":{
-      "scriptId":"u65"},
     "e2440da4a163495dbb1fa6faef7865d5":{
-      "scriptId":"u66"},
+      "scriptId":"u60"},
     "67bd8f30ee354f2893a2c2fa30687487":{
-      "scriptId":"u67"},
+      "scriptId":"u61"},
     "6314ad18114c4b1997999ec582333a14":{
-      "scriptId":"u68"},
+      "scriptId":"u62"},
     "2c65d4f790c64fabbfe0ebc668d791b6":{
-      "scriptId":"u69"},
+      "scriptId":"u63"},
     "5ae0908599da43e985dc5b6535ee7546":{
-      "scriptId":"u70"},
+      "scriptId":"u64"},
     "359ecc426dd14b278c300ccabbc89a49":{
-      "scriptId":"u71"},
+      "scriptId":"u65"},
     "b2b3a816998f43a59d96b8f232bdd20c":{
-      "scriptId":"u72"},
+      "scriptId":"u66"},
     "af12be803331405baee069011cf04357":{
-      "scriptId":"u73"},
+      "scriptId":"u67"},
     "77966d3198aa4fbe9ff4c8a3e3c148f9":{
-      "scriptId":"u74"},
+      "scriptId":"u68"},
     "d83192d91c3b4a5caf8b00bf3d851212":{
-      "scriptId":"u75"},
+      "scriptId":"u69"},
     "ee2d0f454598493bbbfc303a6aef0bb3":{
-      "scriptId":"u76"},
+      "scriptId":"u70"},
     "0365244008464e1d828066a3263ca34b":{
-      "scriptId":"u77"},
+      "scriptId":"u71"},
     "51b5b8eeb1d64fb0aa95b9f76f8018ae":{
-      "scriptId":"u78"},
+      "scriptId":"u72"},
     "71d8b66c9c1248c486d0934547cd0f22":{
-      "scriptId":"u79"},
+      "scriptId":"u73"},
     "cae4d2f4c48b4a798a9740ba4531177f":{
-      "scriptId":"u80"},
+      "scriptId":"u74"},
     "6cde4a6a899d4373804ff52aa194f3c4":{
-      "scriptId":"u81"},
+      "scriptId":"u75"},
     "5aa35b77aaf2493a81a2faf8a0355b31":{
-      "scriptId":"u82"},
+      "scriptId":"u76"},
     "a000e478e42d4c8fb2691d7af3c0db52":{
-      "scriptId":"u83"},
+      "scriptId":"u77"},
     "8ef29e5ffed0419496bd7a513ab17b9e":{
-      "scriptId":"u84"},
+      "scriptId":"u78"},
     "2faf38ff0e784b0a8e9300563169578b":{
-      "scriptId":"u85"},
+      "scriptId":"u79"},
     "606212b529cb49e5b1652abfae7dbfbd":{
-      "scriptId":"u86"},
+      "scriptId":"u80"},
     "ea393443cebf4878873f5c216ae15bfd":{
-      "scriptId":"u87"},
-    "ca2c856827fc4aee9ead4f6e84dd2931":{
-      "scriptId":"u88"},
-    "d3d4c9e16ecb44e4a8ec951d20b00a69":{
-      "scriptId":"u89"},
+      "scriptId":"u81"},
     "928251ed1eef49968ad7fa58d0337f2a":{
-      "scriptId":"u90"},
+      "scriptId":"u82"},
     "e9a58d0d626b400d846463cfd5b2f88f":{
-      "scriptId":"u91"},
+      "scriptId":"u83"},
     "2c9e5791e29d4932a5298f52e40dd759":{
-      "scriptId":"u92"},
+      "scriptId":"u84"},
     "d8467a577c094e888b8d8079d7b07608":{
-      "scriptId":"u93"},
+      "scriptId":"u85"},
     "d94854bef56244d19b330b746986dcbf":{
-      "scriptId":"u94"},
+      "scriptId":"u86"},
     "2b6118b255f94f09b7ce5a5b6f62c235":{
-      "scriptId":"u95"},
+      "scriptId":"u87"},
     "ad7d5f358bb0412f94c256673463610a":{
-      "scriptId":"u96"},
+      "scriptId":"u88"},
     "e8470b4de31d4751a6a77748e6d81b97":{
-      "scriptId":"u97"},
+      "scriptId":"u89"},
     "35ae9270805e4a4eb4431f11f21b997c":{
-      "scriptId":"u98"},
+      "scriptId":"u90"},
     "70c09018f7324667b696ecd8a1a57a45":{
-      "scriptId":"u99"},
+      "scriptId":"u91"},
     "79d3d18554cc4731a4478bbc0a4560d1":{
-      "scriptId":"u100"},
+      "scriptId":"u92"},
     "e1dfb73bfda9407facce549e58cd8ff2":{
-      "scriptId":"u101"},
+      "scriptId":"u93"},
     "f55c53db1eb84d2284fed91f752ae761":{
-      "scriptId":"u102"},
+      "scriptId":"u94"},
     "75e6545546c7435f9699619a1a3edde6":{
-      "scriptId":"u103"},
+      "scriptId":"u95"},
     "751b4d8d42f440c4927633baeb39e29b":{
-      "scriptId":"u104"},
+      "scriptId":"u96"},
     "d1d24a8362ea4a4f9490009824223f11":{
-      "scriptId":"u105"},
+      "scriptId":"u97"},
     "00f68fb0d0b2413cbf66dc29ff3456d0":{
-      "scriptId":"u106"},
+      "scriptId":"u98"},
     "68b7842636b642989f715a9f4be9050b":{
-      "scriptId":"u107"},
+      "scriptId":"u99"},
     "ca3e1e1393c1425d8db7f6061d791180":{
-      "scriptId":"u108"},
+      "scriptId":"u100"},
     "e97cfc71cd804b65b7c1b586cc723f69":{
-      "scriptId":"u109"},
+      "scriptId":"u101"},
     "d958a3b7b1d8446c983107ff62da87c9":{
-      "scriptId":"u110"},
+      "scriptId":"u102"},
     "551ead1d11de4e379b9611d51a255e81":{
-      "scriptId":"u111"},
+      "scriptId":"u103"},
     "27a21510deb14d55a080c47d247b4e69":{
-      "scriptId":"u112"},
+      "scriptId":"u104"},
     "56e9a7e761d24150a52d12e5371e19a0":{
-      "scriptId":"u113"},
+      "scriptId":"u105"},
     "d7d14b9539ed42c281d1f2626e0f2a4b":{
-      "scriptId":"u114"},
+      "scriptId":"u106"},
     "c793a0e5a1b0448ba4edec156fa776ec":{
-      "scriptId":"u115"},
+      "scriptId":"u107"},
     "4a1135faef524756ab308dab644b17a2":{
-      "scriptId":"u116"},
+      "scriptId":"u108"},
     "6dd97d96e4394cfdb219721f3ab897e8":{
-      "scriptId":"u117"},
-    "cdc9e14a926443a8bc6e84d15a045a20":{
-      "scriptId":"u118"},
-    "8b117f5769644cad82e4df4c41d16363":{
-      "scriptId":"u119"},
+      "scriptId":"u109"},
     "a9c7cb62e26d433cbec1498cb70a4b05":{
-      "scriptId":"u120"},
+      "scriptId":"u110"},
     "3b32a460d2f4404f8476d99f9ac205e8":{
-      "scriptId":"u121"},
+      "scriptId":"u111"},
     "e3087d90720d44c186322f6e9e0b10e6":{
-      "scriptId":"u122"},
+      "scriptId":"u112"},
     "f87fb518ea644ba8b3fcba829bf68fe1":{
-      "scriptId":"u123"}}});
+      "scriptId":"u113"},
+    "75e45a0b2fca4c1d834583aa193e7688":{
+      "scriptId":"u114"},
+    "6371821c0fa8479f999d2264383dabc4":{
+      "scriptId":"u115"},
+    "5c5c0ebf830f4f1991788df25e5288fb":{
+      "scriptId":"u116"},
+    "ab3935cf1baa4809ba9086206b1c2b1b":{
+      "scriptId":"u117"},
+    "15a4ae15ee1e411fbc0a77a6edc9ac62":{
+      "scriptId":"u118"},
+    "6bb26678cd844cf188dd669d2fd76024":{
+      "scriptId":"u119"},
+    "e7eb0703116e4739bb8dfa7beed245e5":{
+      "scriptId":"u120"},
+    "ff4f3d6ce4014323bb56512abf292ee6":{
+      "scriptId":"u121"},
+    "5898a15c90234ed7875d0dd653c8ea99":{
+      "scriptId":"u122"},
+    "763baef8cbe6451bb5cdb411d1b200cc":{
+      "scriptId":"u123"},
+    "22da877ec87a472ea9630d95fec2bb3a":{
+      "scriptId":"u124"},
+    "62e282a9951d4e0b9dd4930d99ca41a6":{
+      "scriptId":"u125"},
+    "f4aac4112c1b4bbe8f509ee26d9f8d49":{
+      "scriptId":"u126"}}});

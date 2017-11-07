@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页_1.html",
-  "generationDate":new Date(1510045389841.93),
+  "generationDate":new Date(1510060666153.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1418,7 +1418,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页_1/u98.png"}},
+            "normal~":"images/2_0个人中心主页/u57.png"}},
 {
           "id":"42939e0d934a4cdeb70f4d41ced31c71",
           "label":"",
@@ -1486,7 +1486,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u32.png"}},
+            "normal~":"images/2_0个人中心主页/u61.png"}},
 {
           "id":"3d51e8c91267446390b19564ff5ed2f3",
           "label":"",
@@ -1619,7 +1619,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u37.png"}},
+            "normal~":"images/2_0个人中心主页/u67.png"}},
 {
           "id":"fc8396790eb146ee82b12a4387691233",
           "label":"",
@@ -1778,7 +1778,7 @@
                       "description":"在 当前窗口 打开 2.8我的账户",
                       "target":{
                         "targetType":"page",
-                        "url":"2_8我的账户.html",
+                        "url":"2_8我的账户_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2488,7 +2488,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u172.png"}},
+                      "normal~":"images/0_0主页/u227.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -2531,7 +2531,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u174.png"}},
+                      "normal~":"images/0_0主页/u229.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -2566,7 +2566,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/7_0农产优品（1_0不用做）/u176.png"}},
+                      "normal~":"images/0_0主页/u231.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

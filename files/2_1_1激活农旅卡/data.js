@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1激活农旅卡.html",
-  "generationDate":new Date(1510045379316.91),
+  "generationDate":new Date(1510060655900),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -12,7 +12,7 @@
     "type":"Axure:Page",
     "name":"2.1.1激活农旅卡",
     "notes":{
-},
+      "默认":"<p><span>1.若进入此页面时，用户已登录，则去掉手机号，图形验证码，短信验证码三栏。</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",

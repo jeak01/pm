@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_5_3宅配信息.html",
-  "generationDate":new Date(1510045400267.87),
+  "generationDate":new Date(1510060676874.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -474,7 +474,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"9f7666e1f07a4f289799b3b8cec0c4d9",
           "label":"",
@@ -1009,7 +1009,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
           "id":"5243e4be88584111ba3e1d83cb0a0dbe",
           "label":"",
@@ -1046,7 +1046,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
           "id":"c57d561ac1cb441684d3a450a0350e85",
           "label":"",

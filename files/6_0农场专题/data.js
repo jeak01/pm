@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0农场专题.html",
-  "generationDate":new Date(1510045400463),
+  "generationDate":new Date(1510060677030.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -288,7 +288,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪/u49.jpg"}},
+            "normal~":"images/2_3_1_1物流跟踪（弃用）/u49.jpg"}},
 {
           "id":"4496a15f9d9a45d2880775af406e18c1",
           "label":"",

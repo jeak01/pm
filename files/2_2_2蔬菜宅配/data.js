@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2蔬菜宅配.html",
-  "generationDate":new Date(1510045410383.61),
+  "generationDate":new Date(1510060688482.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4069,7 +4069,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"81073116e1bd4f85a7179a46941265cb",
                   "label":"",
@@ -4196,7 +4196,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"1689b1f29d4f4ddaa566829e8026c602",
                   "label":"",
@@ -4370,7 +4370,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"7cf4ae044e974cd68d2b7d5974972ff4",
                   "label":"",
@@ -4848,7 +4848,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u42.png"}},
 {
                   "id":"c54f673790c94423b40c36804ad818e1",
                   "label":"",
@@ -4907,7 +4907,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u154.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u136.png"}},
 {
                   "id":"e4eabe61fd68440c81622e178037d9e6",
                   "label":"提示文字",
@@ -5001,7 +5001,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"71c113e775a643a2b236441c73204123",
                   "label":"",
@@ -5128,7 +5128,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"e7931e41ba2c4ebdb54479b744a2de86",
                   "label":"",
@@ -5302,7 +5302,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_8我的账户/u16.png"}},
+                    "normal~":"images/2_8我的账户/u12.png"}},
 {
                   "id":"c3b4c9e0daea4dc0b5c3ec46ed7036f2",
                   "label":"",
@@ -5573,7 +5573,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
                           "id":"dbffc8ec28864532833cb8391ea9068f",
                           "label":"",
@@ -5612,7 +5612,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+                            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
                           "id":"31ebc692fe7943b3b3f7286574e4032d",
                           "label":"",

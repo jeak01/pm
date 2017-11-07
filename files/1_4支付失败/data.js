@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_4支付失败.html",
-  "generationDate":new Date(1510045378565.41),
+  "generationDate":new Date(1510060655228.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -12,7 +12,7 @@
     "type":"Axure:Page",
     "name":"1.4支付失败",
     "notes":{
-},
+      "默认":"<p><span>1107更新：</span></p><p><span>1.把原来取消的按钮文字改成：返回“农旅卡主题页”，并跳转至主题页</span></p><p><span>2.两个按钮的位置交换一下。</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -119,7 +119,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -282,28 +282,13 @@
           "visible":true,
           "style":{
             "location":{
-              "x":182,
+              "x":61,
               "y":210},
             "size":{
               "width":10,
               "height":10}},
           "adaptiveStyles":{
 },
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.3.3待支付订单",
-                      "target":{
-                        "targetType":"page",
-                        "url":"2_3_3待支付订单.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "scrollbars":"none",
           "fitToContent":true,
           "propagate":false,
@@ -346,6 +331,21 @@
                         "cornerRadiusTopLeft":"5"},
                       "adaptiveStyles":{
 }}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 1.0农旅卡主题页（极简）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"1_0农旅卡主题页（极简）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
                   "images":{
                     "normal~":"images/1_3支付成功/u15.png"}}]}]},
 {
@@ -388,7 +388,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u114.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u106.png"}},
 {
           "id":"ac9734797b9d42eb86b3c13617264312",
           "label":"",
@@ -439,7 +439,7 @@
               "fillType":"solid",
               "color":0xFF0099FF},
             "location":{
-              "x":50,
+              "x":188,
               "y":210},
             "size":{
               "width":122,
@@ -466,7 +466,7 @@
                   "fillType":"solid",
                   "color":0xFF0099FF},
                 "location":{
-                  "x":50,
+                  "x":188,
                   "y":210},
                 "size":{
                   "width":122,

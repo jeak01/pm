@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1选择指定农场.html",
-  "generationDate":new Date(1510045376763.21),
+  "generationDate":new Date(1510060653113.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -12,7 +12,7 @@
     "type":"Axure:Page",
     "name":"1.1选择指定农场",
     "notes":{
-},
+      "默认":"<p><span>1.入驻农场多后，暂定指定农场方法：第一步在农场列表选择农场，第二步显示该农场礼包信息并进行确认。（1107）</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -98,7 +98,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"bf69f17d6a6545d8bee46524fc793515",
           "label":"",
@@ -5123,7 +5123,7 @@
               "x":49,
               "y":312},
             "size":{
-              "width":291,
+              "width":301,
               "height":65}},
           "adaptiveStyles":{
 },

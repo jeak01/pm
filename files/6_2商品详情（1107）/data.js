@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_2商品详情（1107）.html",
-  "generationDate":new Date(1510045405537.38),
+  "generationDate":new Date(1510060683127.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -586,7 +586,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u91.png"}},
+            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
 {
           "id":"0c52acd833b443ecb0c33bc10ebbf0dc",
           "label":"",
