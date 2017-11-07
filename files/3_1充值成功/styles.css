@@ -188,24 +188,3 @@
   width:113px;
   word-wrap:break-word;
 }
-#u16 {
-  position:absolute;
-  left:0px;
-  top:270px;
-  width:360px;
-  height:70px;
-}
-#u16_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:360px;
-  height:70px;
-}
-#u17 {
-  position:absolute;
-  left:2px;
-  top:27px;
-  width:356px;
-  word-wrap:break-word;
-}

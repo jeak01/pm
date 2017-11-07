@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功.html",
-  "generationDate":new Date(1510019644867.61),
+  "generationDate":new Date(1510028739933.85),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -349,55 +349,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u15.png"}},
-{
-          "id":"346faa3338144a17af6b8a4b55967099",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":270},
-            "size":{
-              "width":360,
-              "height":70}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"2ab064b315864e59953f0407f728539d",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":270},
-                "size":{
-                  "width":360,
-                  "height":70}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.2商品详情（1107）",
-                      "target":{
-                        "targetType":"page",
-                        "url":"6_2商品详情（1107）.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/1_3支付成功/u17.png"}}]}},
+            "normal~":"images/1_3支付成功/u15.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -432,8 +384,4 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u14"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u15"},
-    "346faa3338144a17af6b8a4b55967099":{
-      "scriptId":"u16"},
-    "2ab064b315864e59953f0407f728539d":{
-      "scriptId":"u17"}}});
+      "scriptId":"u15"}}});

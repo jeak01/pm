@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1510019644793.56),
+  "generationDate":new Date(1510028739862.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -959,10 +959,10 @@
             "fontSize":"16px",
             "fontWeight":"700",
             "location":{
-              "x":60,
-              "y":322},
+              "x":44,
+              "y":325},
             "size":{
-              "width":69,
+              "width":96,
               "height":19}},
           "adaptiveStyles":{
 },
@@ -978,10 +978,10 @@
                 "fontSize":"16px",
                 "fontWeight":"700",
                 "location":{
-                  "x":60,
-                  "y":322},
+                  "x":44,
+                  "y":325},
                 "size":{
-                  "width":69,
+                  "width":96,
                   "height":19}},
               "adaptiveStyles":{
 }}],
@@ -996,10 +996,10 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":40,
+              "x":52,
               "y":344},
             "size":{
-              "width":118,
+              "width":84,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1013,10 +1013,10 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":40,
+                  "x":52,
                   "y":344},
                 "size":{
-                  "width":118,
+                  "width":84,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1408,8 +1408,8 @@
           "visible":false,
           "style":{
             "location":{
-              "x":14,
-              "y":310},
+              "x":449,
+              "y":269},
             "size":{
               "width":10,
               "height":10},
@@ -1612,8 +1612,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":14,
-              "y":310},
+              "x":360,
+              "y":358},
             "size":{
               "width":161,
               "height":60}},
@@ -2084,7 +2084,64 @@
                             "fadeType":"hide",
                             "options":{
                               "showType":"none"}}}]}]}]}},
-          "tabbable":true}]}},
+          "tabbable":true},
+{
+          "id":"1e708b3e0db241d89224c84d25ff85b6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":105,
+              "y":310},
+            "size":{
+              "width":70,
+              "height":19},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a162152afd804c1980da4008f8a98b82",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":105,
+                  "y":310},
+                "size":{
+                  "width":70,
+                  "height":19},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/3_0会员充值/u96.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2279,4 +2336,8 @@
     "ff9a2010595542efb1c4b1a5218c5bcc":{
       "scriptId":"u94"},
     "b7ad22c6ae4445b6a4d47bd2b6d3a12b":{
-      "scriptId":"u95"}}});
+      "scriptId":"u95"},
+    "1e708b3e0db241d89224c84d25ff85b6":{
+      "scriptId":"u96"},
+    "a162152afd804c1980da4008f8a98b82":{
+      "scriptId":"u97"}}});

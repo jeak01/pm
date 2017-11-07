@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场特惠卖单.html",
-  "generationDate":new Date(1510019643607.77),
+  "generationDate":new Date(1510028739368.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -482,7 +482,7 @@
           "style":{
             "location":{
               "x":193,
-              "y":228},
+              "y":220},
             "size":{
               "width":26,
               "height":16}},
@@ -498,7 +498,7 @@
               "style":{
                 "location":{
                   "x":193,
-                  "y":228},
+                  "y":220},
                 "size":{
                   "width":26,
                   "height":16}},
@@ -2474,7 +2474,72 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u127.png"}}]}},
+            "normal~":"images/6_1现场特惠卖单/u127.png"}},
+{
+          "id":"8c7879cb08d74fa2bbc2007f3a56a868",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":195,
+              "y":237},
+            "size":{
+              "width":22,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"24d2d208266e4c53b849bcc9d8eac49a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":195,
+                  "y":237},
+                "size":{
+                  "width":22,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e1871a54a0dd4f11b6fbae9a2c9c271b",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":193,
+              "y":238},
+            "size":{
+              "width":33,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/6_1现场特惠卖单/u133_line.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2739,4 +2804,10 @@
     "6a6b4ab605b748579a068c09c8b81d79":{
       "scriptId":"u129"},
     "b28751e4919242439335f17f30add530":{
-      "scriptId":"u130"}}});
+      "scriptId":"u130"},
+    "8c7879cb08d74fa2bbc2007f3a56a868":{
+      "scriptId":"u131"},
+    "24d2d208266e4c53b849bcc9d8eac49a":{
+      "scriptId":"u132"},
+    "e1871a54a0dd4f11b6fbae9a2c9c271b":{
+      "scriptId":"u133"}}});

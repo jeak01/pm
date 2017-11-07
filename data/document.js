@@ -189,22 +189,6 @@
                     "type":"Wireframe",
                     "url":"6_1_4账单.html"}]},
 {
-                "pageName":"2.2.2.1确认订单",
-                "type":"Wireframe",
-                "url":"2_2_2_1确认订单.html",
-                "children":[{
-                    "pageName":"1.2订单支付页",
-                    "type":"Wireframe",
-                    "url":"1_2订单支付页_1.html"},
-{
-                    "pageName":"2.2.2.2支付成功",
-                    "type":"Wireframe",
-                    "url":"2_2_2_2支付成功.html"},
-{
-                    "pageName":"2.3.1订单详情",
-                    "type":"Wireframe",
-                    "url":"2_3_1订单详情.html"}]},
-{
                 "pageName":"3.0会员充值",
                 "type":"Wireframe",
                 "url":"3_0会员充值.html",
@@ -343,7 +327,7 @@
 {
                 "pageName":"1.2订单支付页",
                 "type":"Wireframe",
-                "url":"1_2订单支付页_2.html"},
+                "url":"1_2订单支付页_1.html"},
 {
                 "pageName":"1.3支付成功",
                 "type":"Wireframe",
