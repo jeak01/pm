@@ -245,6 +245,10 @@
                     "type":"Wireframe",
                     "url":"7_5_1支付成功.html"},
 {
+                    "pageName":"7.5.2发票信息",
+                    "type":"Wireframe",
+                    "url":"7_5_2发票信息.html"},
+{
                     "pageName":"2.2.2.3选择地址",
                     "type":"Wireframe",
                     "url":"2_2_2_3选择地址.html",

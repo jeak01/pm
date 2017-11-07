@@ -2169,3 +2169,12 @@
   width:146px;
   word-wrap:break-word;
 }
+#u195 {
+  position:absolute;
+  left:0px;
+  top:444px;
+  width:360px;
+  height:38px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

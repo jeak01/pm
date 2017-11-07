@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5确认订单_优品_.html",
-  "generationDate":new Date(1510028741574.94),
+  "generationDate":new Date(1510040671687.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3876,7 +3876,37 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/7_5确认订单_优品_/u193.png"}}]}]}]}},
+                    "normal~":"images/7_5确认订单_优品_/u193.png"}}]}]},
+{
+          "id":"c493a4f16e3546f8956cc37882377890",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":444},
+            "size":{
+              "width":360,
+              "height":38}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 7.5.2发票信息",
+                      "target":{
+                        "targetType":"page",
+                        "url":"7_5_2发票信息.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -4269,4 +4299,6 @@
     "3f94fd6ca8064decae0e9fd8a9665604":{
       "scriptId":"u193"},
     "7eec1edd30a74c5f97be7b81acf10a40":{
-      "scriptId":"u194"}}});
+      "scriptId":"u194"},
+    "c493a4f16e3546f8956cc37882377890":{
+      "scriptId":"u195"}}});
