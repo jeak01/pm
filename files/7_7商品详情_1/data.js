@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情_1.html",
-  "generationDate":new Date(1510019220765.84),
+  "generationDate":new Date(1510019674232.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -65,7 +65,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u26.png"}},
+            "normal~":"images/7_2限时特惠详情页/u2.png"}},
 {
           "id":"37dc69d67e394d7c9aa70a0f2fe15ff7",
           "label":"",
@@ -467,7 +467,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"3442dcf864574d40b3f4a09debee2259",
           "label":"",
@@ -508,7 +508,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"9d7890b6cde1427881b7e4ee839a7ad0",
           "label":"",
@@ -549,7 +549,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"d38fcd7d323f4a108e45116661230bb5",
           "label":"",

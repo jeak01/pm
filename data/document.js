@@ -189,10 +189,6 @@
                     "type":"Wireframe",
                     "url":"6_1_4账单.html"}]},
 {
-                "pageName":"6.2商品详情",
-                "type":"Wireframe",
-                "url":"6_2商品详情.html"},
-{
                 "pageName":"2.2.2.1确认订单",
                 "type":"Wireframe",
                 "url":"2_2_2_1确认订单.html",
@@ -745,6 +741,10 @@
         "type":"Folder",
         "url":"",
         "children":[{
+            "pageName":"6.2商品详情（1107）",
+            "type":"Wireframe",
+            "url":"6_2商品详情（1107）.html"},
+{
             "pageName":"4.1.1农场主页（1106）",
             "type":"Wireframe",
             "url":"4_1_1农场主页（1106）.html",

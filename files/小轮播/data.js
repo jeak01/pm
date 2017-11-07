@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1510019239277.17),
+  "generationDate":new Date(1510019699486.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -215,7 +215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"1095b6aaa09a4e79b08c8cb1c8292c95",
           "label":"",
@@ -256,7 +256,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"c46432eebce64b69a48af648b4a0350e",
           "label":"",
@@ -297,7 +297,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"851e42ba5cfc4b229c75b3321f254661",
           "label":"",

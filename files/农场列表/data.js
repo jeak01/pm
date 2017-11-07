@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表.html",
-  "generationDate":new Date(1510019232824.87),
+  "generationDate":new Date(1510019691414.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -176,7 +176,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"1735d451609c461cbca800f807245f9e",
           "label":"",

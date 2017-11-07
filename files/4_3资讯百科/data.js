@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3资讯百科.html",
-  "generationDate":new Date(1510019214382.58),
+  "generationDate":new Date(1510019665694.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

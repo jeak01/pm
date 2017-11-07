@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_1选择城市.html",
-  "generationDate":new Date(1510019201848.23),
+  "generationDate":new Date(1510019650218.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1510019237858.23),
+  "generationDate":new Date(1510019698100.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -176,7 +176,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"c6de04125e7d408e9d117072f7138636",
           "label":"",
@@ -217,7 +217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"f18f47d8b945460f98de5e1f4b9182c4",
           "label":"",
@@ -258,7 +258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_2商品详情/u47.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"d2414ef6bbe340479493dab369a6c50b",
           "label":"",
