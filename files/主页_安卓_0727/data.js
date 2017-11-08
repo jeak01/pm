@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0727.html",
-  "generationDate":new Date(1510060697703.32),
+  "generationDate":new Date(1510142179954.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"2bca464474904d95a68f2c6dfad5c105",
     "type":"Axure:Page",
@@ -909,7 +910,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"d5001257abe3470c832a742cdf760be1",
           "label":"",
@@ -3560,7 +3561,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",

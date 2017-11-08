@@ -1,14 +1,15 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3_1_采购订单列表.html",
-  "generationDate":new Date(1510060660371.98),
+  "generationDate":new Date(1510142158094.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
-    "packageId":"3a6f327b4cd248f6878e1cb3123d2708",
+    "packageId":"df827961c0414103a6ead134c58b05a8",
     "type":"Axure:Page",
     "name":"6.3.1 采购订单列表",
     "notes":{
@@ -237,7 +238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u8.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u8.png"}},
 {
           "id":"6a463b315e3c4bb2b3a116b98ac53a14",
           "label":"",
@@ -276,7 +277,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u10.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u10.png"}},
 {
           "id":"a0081c6de2224c5e9cd81532e029e77f",
           "label":"",
@@ -315,7 +316,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u10.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u10.png"}},
 {
           "id":"29611f37c0ac450483e6686f17a832de",
           "label":"",
@@ -360,7 +361,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u14.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u14.png"}},
 {
           "id":"c64e4ee2ab6e41afa1afde841da6e305",
           "label":"",
@@ -1486,7 +1487,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u67.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u67.png"}},
 {
           "id":"5ccf6658cc224f3fa2e22d24f5f34a7c",
           "label":"",
@@ -1570,7 +1571,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"effb9af5a9174abe8d89c9540bd35ef1",
           "label":"",
@@ -1625,7 +1626,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u73.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u73.png"}},
 {
           "id":"08d9c64732e24e028eeb6e162bd3343e",
           "label":"",

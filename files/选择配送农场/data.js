@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择配送农场.html",
-  "generationDate":new Date(1510060689562.9),
+  "generationDate":new Date(1510142171672.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"f123dcea9a0d485baea309c6599cf004",
     "type":"Axure:Page",
@@ -1071,7 +1072,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"dce7feaac41b426d9966888614330022",
           "label":"",

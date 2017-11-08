@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1510060701609.93),
+  "generationDate":new Date(1510142183554.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"2fffebb8ead745c4939525caf0367a00",
     "type":"Axure:Page",

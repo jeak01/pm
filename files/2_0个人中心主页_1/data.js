@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页_1.html",
-  "generationDate":new Date(1510060666153.04),
+  "generationDate":new Date(1510142142634.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"17a21c73e2394e36bfc4afe4f637f5bf",
     "type":"Axure:Page",
@@ -1808,7 +1809,7 @@
                       "description":"在 当前窗口 打开 2.10优惠卡券",
                       "target":{
                         "targetType":"page",
-                        "url":"2_10优惠卡券.html",
+                        "url":"2_10优惠卡券_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2381,7 +2382,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",

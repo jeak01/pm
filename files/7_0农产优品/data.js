@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_0农产优品.html",
-  "generationDate":new Date(1510060679241.73),
+  "generationDate":new Date(1510142158852.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"38798d2d1cb94489a345e84d6cb2f489",
     "type":"Axure:Page",
@@ -4020,7 +4021,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"9bf2e42f3c454850a287e0dbcbbc5616",
           "label":"",
@@ -4307,7 +4308,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",

@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_4个人资料_1.html",
-  "generationDate":new Date(1510060668785.79),
+  "generationDate":new Date(1510142145459.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"96af6f2d46f14ba1a12f6d772753a951",
     "type":"Axure:Page",

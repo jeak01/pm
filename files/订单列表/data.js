@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表.html",
-  "generationDate":new Date(1510060694714.33),
+  "generationDate":new Date(1510142176507),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"680cd2f73e39425d84cfa21b771d0d5d",
     "type":"Axure:Page",
@@ -221,7 +222,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"fd52a68d6a274608b097c117535bbead",
           "label":"",
@@ -262,7 +263,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"c1510f8dea5740acab80fe6a40f0c8f0",
           "label":"",
@@ -303,7 +304,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"15bfd199c91542e9a3e3ab16166e20c2",
           "label":"",

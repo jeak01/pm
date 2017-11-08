@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0919.html",
-  "generationDate":new Date(1510060692021.54),
+  "generationDate":new Date(1510142174108.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"8f2c71dfa7744743b7cf6552f6bfe1a1",
     "type":"Axure:Page",
@@ -1284,7 +1285,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"37aa0adc1703417b8fa5202f18356d82",
           "label":"",
@@ -1857,7 +1858,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+                    "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
                   "id":"4bcf0963a0794636af31c0a9a280929b",
                   "label":"搜索框",
@@ -8312,7 +8313,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",

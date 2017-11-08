@@ -1,14 +1,15 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3_2_采购订单详情.html",
-  "generationDate":new Date(1510060660464.04),
+  "generationDate":new Date(1510142158183.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
-    "packageId":"43037e19adca406194a8562247c69d27",
+    "packageId":"e6d26a4567eb466d93a0149e0b14bb0c",
     "type":"Axure:Page",
     "name":"6.3.2 采购订单详情",
     "notes":{
@@ -282,7 +283,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_1_1采购支付/u20_line.png"}},
+            "line~":"images/6_1_1确认订单（现场）/u18_line.png"}},
 {
           "id":"0a43ae38b07e45c1a15ddd54bdd71882",
           "label":"",
@@ -473,7 +474,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_1_1采购支付/u20_line.png"}},
+            "line~":"images/6_1_1确认订单（现场）/u18_line.png"}},
 {
           "id":"cc8d0175558448f5afe304f59485ab40",
           "label":"",
@@ -545,7 +546,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3采购订单详情/u38.png"}},
+            "normal~":"images/6_3_2_订单详情（现场管理）/u8.png"}},
 {
           "id":"97a48ecbe6f74739aa887a3b812aee5b",
           "label":"",

@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1农场列表.html",
-  "generationDate":new Date(1510060670885.19),
+  "generationDate":new Date(1510142148483.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"cd10cc9bc3544536bfe8dec9cdacb825",
     "type":"Axure:Page",
@@ -459,7 +460,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"8a26748c07d84c978e77d1a6796ec710",
           "label":"",
@@ -3065,7 +3066,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",

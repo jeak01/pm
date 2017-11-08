@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值_2.html",
-  "generationDate":new Date(1510060677947.87),
+  "generationDate":new Date(1510142157655.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"9d322d841e984a0fa22ea0ff65340c19",
     "type":"Axure:Page",
@@ -891,7 +892,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"124c0771f75841bfa049e53e77612c74",
           "label":"",
@@ -930,7 +931,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"6eee8ca9f47341d9b449c526c9b83fe8",
           "label":"",
@@ -969,7 +970,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"28e45aa42f814375915df95287053cea",
           "label":"",
@@ -1249,7 +1250,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"3c259acc8a67447da1c7930ff17b6e97",
                   "label":"",
@@ -1401,7 +1402,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"f4e89c0271e9445d9478eda420973759",
                   "label":"",
@@ -1553,7 +1554,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"add70cb8d62f4b6183736da816aa657f",
                   "label":"",
@@ -1842,7 +1843,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"c609c043c5c844158cb99c69fa043834",
           "label":"",
@@ -1974,7 +1975,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"acfbdc0bd32c42bf9896b3478d61ce78",
                   "label":"",
@@ -2358,7 +2359,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",

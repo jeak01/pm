@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功（农旅）.html",
-  "generationDate":new Date(1510060694513.2),
+  "generationDate":new Date(1510142176340.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"2aaa88c95a5d49188f01e78a80c62b75",
     "type":"Axure:Page",

@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_1优游权益门票_1.html",
-  "generationDate":new Date(1510060687870.48),
+  "generationDate":new Date(1510142168472.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"b61e260c337940f09d551381324d2275",
     "type":"Axure:Page",

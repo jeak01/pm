@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（农旅）.html",
-  "generationDate":new Date(1510060694359.1),
+  "generationDate":new Date(1510142176161.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"941cc44099da438c9d9e7368394547c3",
     "type":"Axure:Page",
@@ -936,7 +937,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1采购支付/u50.png"}}]}},
+            "normal~":"images/4_1_1_3订单支付页/u43.png"}}]}},
   "masters":{
 },
   "objectPaths":{

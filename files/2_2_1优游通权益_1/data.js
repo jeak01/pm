@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_1优游通权益_1.html",
-  "generationDate":new Date(1510060666946.56),
+  "generationDate":new Date(1510142143483),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"8694d8d441a44c4fbc051977ad3c89e5",
     "type":"Axure:Page",

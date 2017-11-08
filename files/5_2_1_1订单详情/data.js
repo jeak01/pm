@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_2_1_1订单详情.html",
-  "generationDate":new Date(1510060685207.71),
+  "generationDate":new Date(1510142165352.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"8451a0c834b544f0b1adc8c10b287104",
     "type":"Axure:Page",
@@ -1042,7 +1043,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3采购订单详情/u17.png"}},
+            "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",

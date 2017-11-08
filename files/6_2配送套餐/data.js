@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_2配送套餐.html",
-  "generationDate":new Date(1510060677776.76),
+  "generationDate":new Date(1510142157495.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"3fdc08c8eab64c969de96de98772459c",
     "type":"Axure:Page",
@@ -851,7 +852,7 @@
                           "actions":[]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u54.png"}},
 {
                   "id":"a79c71a7d5dc439e9017997c0fff8493",
                   "label":"",

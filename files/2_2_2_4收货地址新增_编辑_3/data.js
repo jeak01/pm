@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_4收货地址新增_编辑_3.html",
-  "generationDate":new Date(1510060681029.92),
+  "generationDate":new Date(1510142160532.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"425dbba9de344f93a6f6e992ce5d7e47",
     "type":"Axure:Page",

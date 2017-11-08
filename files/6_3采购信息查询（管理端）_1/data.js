@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3采购信息查询（管理端）_1.html",
-  "generationDate":new Date(1510060678345.14),
+  "generationDate":new Date(1510142157967.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"644cb0f86c9d40e58b7900a51b036df5",
     "type":"Axure:Page",
@@ -342,7 +343,7 @@
                       "description":"在 当前窗口 打开 6.3.1 采购订单列表",
                       "target":{
                         "targetType":"page",
-                        "url":"6_3_1_采购订单列表_1.html",
+                        "url":"6_3_1_采购订单列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

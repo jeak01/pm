@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_3订单支付页.html",
-  "generationDate":new Date(1510060673685.05),
+  "generationDate":new Date(1510142152226.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"8e0822a93fda40edac9c30f7a9165ae6",
     "type":"Axure:Page",
@@ -796,7 +797,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1采购支付/u44.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u37.png"}},
 {
           "id":"c89274dce63947b78c88f7e8bf883bbb",
           "label":"",
@@ -893,7 +894,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1采购支付/u50.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u43.png"}},
 {
           "id":"fa0d98604ba340bf8a4de902318002e3",
           "label":"",

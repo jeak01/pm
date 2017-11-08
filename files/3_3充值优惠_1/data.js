@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_3充值优惠_1.html",
-  "generationDate":new Date(1510060670202.73),
+  "generationDate":new Date(1510142147026.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"5c86ecc3bf604b8cbddac604a843dedc",
     "type":"Axure:Page",
@@ -301,7 +302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_3充值优惠/u12.png"}},
+            "normal~":"images/3_3充值优惠_1/u12.png"}},
 {
           "id":"fbb29378085d47959e4ffc9207d0e72d",
           "label":"",

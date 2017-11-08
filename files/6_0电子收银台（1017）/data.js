@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0电子收银台（1017）.html",
-  "generationDate":new Date(1510060686738.73),
+  "generationDate":new Date(1510142167182.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"47ee75f5296c4a9e809ebd5f8b41ed0c",
     "type":"Axure:Page",
@@ -376,7 +377,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"fd612832831b47659fa573e859272de2",
           "label":"",
@@ -415,7 +416,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"1c6415f2f7ef4204843f17a27cf2ed10",
           "label":"",
@@ -692,7 +693,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"db0b48cb51324adb8c847e777ee4a498",
           "label":"",

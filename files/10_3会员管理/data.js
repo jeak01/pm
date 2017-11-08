@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_3会员管理.html",
-  "generationDate":new Date(1510060682908.18),
+  "generationDate":new Date(1510142162819.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"fa9860123bcd41ab8b9225ea33741d84",
     "type":"Axure:Page",
@@ -1110,7 +1111,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"fcacb6998c094f229cd8f37dcfa63fe6",
           "label":"",

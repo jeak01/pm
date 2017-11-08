@@ -179,7 +179,11 @@
 {
                     "pageName":"2.8.2 设置支付密码",
                     "type":"Wireframe",
-                    "url":"2_8_2_设置支付密码.html"}]}]},
+                    "url":"2_8_2_设置支付密码.html"}]},
+{
+                "pageName":"2.10优惠卡券",
+                "type":"Wireframe",
+                "url":"2_10优惠卡券.html"}]},
 {
             "pageName":"6.0农场专题（弃用）",
             "type":"Wireframe",
@@ -189,49 +193,49 @@
                 "type":"Wireframe",
                 "url":"6_1现场特惠卖单.html",
                 "children":[{
-                    "pageName":"6.1.1采购支付",
+                    "pageName":"6.1.1确认订单（现场）",
                     "type":"Wireframe",
-                    "url":"6_1_1采购支付.html"},
+                    "url":"6_1_1确认订单（现场）.html"},
 {
                     "pageName":"6.1.2支付成功",
                     "type":"Wireframe",
                     "url":"6_1_2支付成功.html"},
 {
-                    "pageName":"6.1.3采购订单详情",
+                    "pageName":"6.1.3订单详情（现场）",
                     "type":"Wireframe",
-                    "url":"6_1_3采购订单详情.html"},
+                    "url":"6_1_3订单详情（现场）.html"},
 {
-                    "pageName":"6.1.4账单",
+                    "pageName":"4.1.1.3订单支付页",
                     "type":"Wireframe",
-                    "url":"6_1_4账单.html"}]},
+                    "url":"4_1_1_3订单支付页.html"},
 {
-                "pageName":"3.0会员充值",
-                "type":"Wireframe",
-                "url":"3_0会员充值.html",
-                "children":[{
-                    "pageName":"3.1充值成功",
+                    "pageName":"3.0会员充值",
                     "type":"Wireframe",
-                    "url":"3_1充值成功.html"},
+                    "url":"3_0会员充值.html",
+                    "children":[{
+                        "pageName":"3.1充值成功",
+                        "type":"Wireframe",
+                        "url":"3_1充值成功.html"},
 {
-                    "pageName":"3.2会员保障",
-                    "type":"Wireframe",
-                    "url":"3_2会员保障.html"},
+                        "pageName":"3.2会员保障",
+                        "type":"Wireframe",
+                        "url":"3_2会员保障.html"},
 {
-                    "pageName":"3.3充值优惠",
-                    "type":"Wireframe",
-                    "url":"3_3充值优惠.html"}]}]},
+                        "pageName":"3.3充值优惠",
+                        "type":"Wireframe",
+                        "url":"3_3充值优惠.html"}]}]}]},
 {
             "pageName":"6.3采购信息查询（管理端）",
             "type":"Wireframe",
             "url":"6_3采购信息查询（管理端）.html",
             "children":[{
-                "pageName":"6.3.1 采购订单列表",
+                "pageName":"6.3.1 订单列表（现场管理）",
                 "type":"Wireframe",
-                "url":"6_3_1_采购订单列表.html"},
+                "url":"6_3_1_订单列表（现场管理）.html"},
 {
-                "pageName":"6.3.2 采购订单详情",
+                "pageName":"6.3.2 订单详情（现场管理）",
                 "type":"Wireframe",
-                "url":"6_3_2_采购订单详情.html"}]},
+                "url":"6_3_2_订单详情（现场管理）.html"}]},
 {
             "pageName":"7.0农产优品（1.0不用做）",
             "type":"Wireframe",
@@ -255,7 +259,7 @@
                 "children":[{
                     "pageName":"4.1.1.3订单支付页",
                     "type":"Wireframe",
-                    "url":"4_1_1_3订单支付页.html"},
+                    "url":"4_1_1_3订单支付页_1.html"},
 {
                     "pageName":"7.5.1支付成功",
                     "type":"Wireframe",
@@ -495,7 +499,7 @@
 {
                 "pageName":"2.10优惠卡券",
                 "type":"Wireframe",
-                "url":"2_10优惠卡券.html"},
+                "url":"2_10优惠卡券_1.html"},
 {
                 "pageName":"2.11系统消息",
                 "type":"Wireframe",
@@ -615,7 +619,7 @@
                 "children":[{
                     "pageName":"6.1.1采购支付",
                     "type":"Wireframe",
-                    "url":"6_1_1采购支付_1.html"},
+                    "url":"6_1_1采购支付.html"},
 {
                     "pageName":"6.1.2支付成功",
                     "type":"Wireframe",
@@ -623,11 +627,11 @@
 {
                     "pageName":"6.1.3采购订单详情",
                     "type":"Wireframe",
-                    "url":"6_1_3采购订单详情_1.html"},
+                    "url":"6_1_3采购订单详情.html"},
 {
                     "pageName":"6.1.4账单",
                     "type":"Wireframe",
-                    "url":"6_1_4账单_1.html"}]},
+                    "url":"6_1_4账单.html"}]},
 {
                 "pageName":"6.2配送套餐",
                 "type":"Wireframe",
@@ -655,11 +659,11 @@
             "children":[{
                 "pageName":"6.3.1 采购订单列表",
                 "type":"Wireframe",
-                "url":"6_3_1_采购订单列表_1.html"},
+                "url":"6_3_1_采购订单列表.html"},
 {
                 "pageName":"6.3.2 采购订单详情",
                 "type":"Wireframe",
-                "url":"6_3_2_采购订单详情_1.html"}]},
+                "url":"6_3_2_采购订单详情.html"}]},
 {
             "pageName":"7.0农产优品",
             "type":"Wireframe",
@@ -687,7 +691,7 @@
                 "children":[{
                     "pageName":"4.1.1.3订单支付页",
                     "type":"Wireframe",
-                    "url":"4_1_1_3订单支付页_1.html"},
+                    "url":"4_1_1_3订单支付页_2.html"},
 {
                     "pageName":"7.5.1支付成功",
                     "type":"Wireframe",
@@ -763,7 +767,7 @@
 {
                 "pageName":"4.1.1.3订单支付页",
                 "type":"Wireframe",
-                "url":"4_1_1_3订单支付页_2.html"},
+                "url":"4_1_1_3订单支付页_3.html"},
 {
                 "pageName":"4.1.1.4支付成功",
                 "type":"Wireframe",
@@ -997,7 +1001,8 @@
     "status":"",
     "package":"",
     "payfrom":"",
-    "nc":""},
+    "nc":"",
+    "carnum":""},
   "defaultAdaptiveView":{
     "name":"",
     "size":{

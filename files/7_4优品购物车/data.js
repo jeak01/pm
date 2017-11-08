@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_4优品购物车.html",
-  "generationDate":new Date(1510060661029.42),
+  "generationDate":new Date(1510142135689.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"46a8e242b97342a5a5031aace32ee698",
     "type":"Axure:Page",
@@ -191,7 +192,7 @@
             "normal~":"images/2_3_1订单详情（宅配）/u50.png"}},
 {
           "id":"89be600ea8634193b927e162cf2f391c",
-          "label":"",
+          "label":"编辑完成",
           "type":"buttonShape",
           "styleType":"paragraph",
           "visible":true,
@@ -2217,6 +2218,164 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
+                    "normal~":"resources/images/transparent.gif"}}]},
+{
+              "id":"59fb2a9ec4c746c890766ce94920c1d0",
+              "label":"状态2",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5e68364764ed45f9a89b36ffe38bbf2c",
+                  "label":"",
+                  "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":360,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"beb1f6f51c574d7ea2be7becb06396a6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":360,
+                          "height":50}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u73.png"}},
+{
+                  "id":"7212ee0a5212491da94baa008b46f161",
+                  "label":"",
+                  "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000},
+                    "location":{
+                      "x":240,
+                      "y":0},
+                    "size":{
+                      "width":120,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f9b7b9f13b374d8d9785597d94720373",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000},
+                        "location":{
+                          "x":240,
+                          "y":0},
+                        "size":{
+                          "width":120,
+                          "height":50}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/6_0农场专题（弃用）/u87.png"}},
+{
+                  "id":"bedb9de2ce1b44c8b0f642367e9a0645",
+                  "label":"",
+                  "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                  "type":"radioButton",
+                  "styleType":"radioButton",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":10,
+                      "y":17},
+                    "size":{
+                      "width":21,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"565778ccedb04b449d1b3d9c5dc09604",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":10,
+                          "y":17},
+                        "size":{
+                          "width":21,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}]},
+{
+                  "id":"eace28bd61734ace8498f13e94cf8e3e",
+                  "label":"",
+                  "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"11px",
+                    "location":{
+                      "x":31,
+                      "y":18},
+                    "size":{
+                      "width":23,
+                      "height":14}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"34f9f4dd76f14b74bc80d9cadcfb7aa4",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"41982289423143d4b50c0edca0bd0861",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"11px",
+                        "location":{
+                          "x":31,
+                          "y":18},
+                        "size":{
+                          "width":23,
+                          "height":14}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
                     "normal~":"resources/images/transparent.gif"}}]}]},
 {
           "id":"79ed3dc68262450cb688cd2bd30370e2",
@@ -2359,6 +2518,210 @@
                         "url":"4_1_1农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"9cc942a389364cba9052616713593f8d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":41,
+              "height":41},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d92de4ec5e4f4ef9b3b99f3e9bb55b40",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":41,
+                  "height":41},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+{
+          "id":"1b276c6e8dbf474b9e09850081f23788",
+          "label":"编辑按钮",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":0},
+            "size":{
+              "width":60,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"设置 (动态面板) to 状态2",
+                      "panelsToStates":[{
+                          "panelPath":["41982289423143d4b50c0edca0bd0861"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 编辑完成 = &quot;完成&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ff5592e5d21448e9aa5333410bb057ac"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"完成",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"隐藏 编辑按钮",
+                      "objectsToFades":[{
+                          "objectPath":["1b276c6e8dbf474b9e09850081f23788"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"显示 完成按钮",
+                      "objectsToFades":[{
+                          "objectPath":["551efa9f7cf44d38953923d90f812888"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"551efa9f7cf44d38953923d90f812888",
+          "label":"完成按钮",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":300,
+              "y":0},
+            "size":{
+              "width":60,
+              "height":40},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"设置 (动态面板) to 状态1",
+                      "panelsToStates":[{
+                          "panelPath":["41982289423143d4b50c0edca0bd0861"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 文字于 编辑完成 = &quot;编辑&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ff5592e5d21448e9aa5333410bb057ac"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"编辑",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"隐藏 完成按钮",
+                      "objectsToFades":[{
+                          "objectPath":["551efa9f7cf44d38953923d90f812888"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"显示 编辑按钮",
+                      "objectsToFades":[{
+                          "objectPath":["1b276c6e8dbf474b9e09850081f23788"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -2601,15 +2964,39 @@
       "scriptId":"u117"},
     "7f6a3b336be741978613349ce3963109":{
       "scriptId":"u118"},
-    "79ed3dc68262450cb688cd2bd30370e2":{
+    "5e68364764ed45f9a89b36ffe38bbf2c":{
       "scriptId":"u119"},
-    "f895682fdfcd49208a75b7813883b680":{
+    "beb1f6f51c574d7ea2be7becb06396a6":{
       "scriptId":"u120"},
-    "c4de913ef683471393d973448a761271":{
+    "7212ee0a5212491da94baa008b46f161":{
       "scriptId":"u121"},
-    "b5392a9f1d594e7ca4a236b05b381971":{
+    "f9b7b9f13b374d8d9785597d94720373":{
       "scriptId":"u122"},
-    "054bbf8498ac424b83e3cae01cbe0f26":{
+    "bedb9de2ce1b44c8b0f642367e9a0645":{
       "scriptId":"u123"},
+    "565778ccedb04b449d1b3d9c5dc09604":{
+      "scriptId":"u124"},
+    "eace28bd61734ace8498f13e94cf8e3e":{
+      "scriptId":"u125"},
+    "34f9f4dd76f14b74bc80d9cadcfb7aa4":{
+      "scriptId":"u126"},
+    "79ed3dc68262450cb688cd2bd30370e2":{
+      "scriptId":"u127"},
+    "f895682fdfcd49208a75b7813883b680":{
+      "scriptId":"u128"},
+    "c4de913ef683471393d973448a761271":{
+      "scriptId":"u129"},
+    "b5392a9f1d594e7ca4a236b05b381971":{
+      "scriptId":"u130"},
+    "054bbf8498ac424b83e3cae01cbe0f26":{
+      "scriptId":"u131"},
     "4f2f5974a5fa4716ad2f53997f25ba86":{
-      "scriptId":"u124"}}});
+      "scriptId":"u132"},
+    "9cc942a389364cba9052616713593f8d":{
+      "scriptId":"u133"},
+    "d92de4ec5e4f4ef9b3b99f3e9bb55b40":{
+      "scriptId":"u134"},
+    "1b276c6e8dbf474b9e09850081f23788":{
+      "scriptId":"u135"},
+    "551efa9f7cf44d38953923d90f812888":{
+      "scriptId":"u136"}}});

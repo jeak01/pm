@@ -1,14 +1,15 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_3采购订单详情.html",
-  "generationDate":new Date(1510060659728.55),
+  "generationDate":new Date(1510142157307.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
-    "packageId":"8a56f59369124ac5bca547917473b650",
+    "packageId":"02b9295ba402454694e5aa532bba644e",
     "type":"Axure:Page",
     "name":"6.1.3采购订单详情",
     "notes":{
@@ -373,7 +374,7 @@
                               "description":"在 当前窗口 打开 6.1现场特惠卖单",
                               "target":{
                                 "targetType":"page",
-                                "url":"6_1现场特惠卖单.html",
+                                "url":"6_1现场特惠卖单_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -411,7 +412,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3采购订单详情/u17.png"}},
+            "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",
@@ -435,10 +436,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
+                      "description":"在 当前窗口 打开 0.0主页",
                       "target":{
                         "targetType":"page",
-                        "url":"6_1现场特惠卖单.html",
+                        "url":"0_0主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -537,7 +538,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_1_1采购支付/u20_line.png"}},
+            "line~":"images/6_1_1确认订单（现场）/u18_line.png"}},
 {
           "id":"97b3e771c4e84014b72ab2f5b1b97193",
           "label":"",
@@ -728,7 +729,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_1_1采购支付/u20_line.png"}},
+            "line~":"images/6_1_1确认订单（现场）/u18_line.png"}},
 {
           "id":"06f942d6d4004637a0f6fac5ffcaae60",
           "label":"",
@@ -800,7 +801,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3采购订单详情/u38.png"}},
+            "normal~":"images/6_3_2_订单详情（现场管理）/u8.png"}},
 {
           "id":"e9a55fc9e88a4faa86cf513fa987aaec",
           "label":"",

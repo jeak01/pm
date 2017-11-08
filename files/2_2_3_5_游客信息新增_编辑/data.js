@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_5_游客信息新增_编辑.html",
-  "generationDate":new Date(1510060657906.34),
+  "generationDate":new Date(1510142130627.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"3ca6c7fa3d4d45439cbe1bf0d95f6f46",
     "type":"Axure:Page",

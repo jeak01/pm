@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1510060700214),
+  "generationDate":new Date(1510142182486.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"b9a08535a65345acb47616119d99461f",
     "type":"Axure:Page",
@@ -176,7 +177,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"c6de04125e7d408e9d117072f7138636",
           "label":"",
@@ -217,7 +218,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"f18f47d8b945460f98de5e1f4b9182c4",
           "label":"",
@@ -258,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"d2414ef6bbe340479493dab369a6c50b",
           "label":"",
@@ -2542,7 +2543,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/6_1_3采购订单详情/u17.png"}},
+              "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",

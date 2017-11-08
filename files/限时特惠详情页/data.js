@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1510060691330.08),
+  "generationDate":new Date(1510142173436.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"f169d765d76b493bb98f8ffc2a99f414",
     "type":"Axure:Page",
@@ -416,7 +417,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"3442dcf864574d40b3f4a09debee2259",
           "label":"",
@@ -457,7 +458,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"9d7890b6cde1427881b7e4ee839a7ad0",
           "label":"",
@@ -498,7 +499,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"53be98881e8f423d9eb2a5f625217141",
           "label":"",
@@ -539,7 +540,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u24.png"}},
+            "normal~":"images/7_2限时特惠详情页/u18.png"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",
@@ -699,7 +700,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u32.png"}},
+            "normal~":"images/7_2限时特惠详情页/u26.png"}},
 {
           "id":"5c9dff48e37e4d1190116ec3f0351a8d",
           "label":"",
@@ -1235,7 +1236,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u54.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

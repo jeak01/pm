@@ -1,18 +1,19 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页.html",
-  "generationDate":new Date(1510060655692.85),
+  "generationDate":new Date(1510142127508.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"63ad4bca343540bf97b39536bf9bf051",
     "type":"Axure:Page",
     "name":"2.0个人中心主页",
     "notes":{
-      "默认":"<p><span>1107更新：</span></p><p><span>1.新增“我的账户”功能</span></p><p><span>2.个人中心页中显示的用户名，在未绑定微信前使用手机号，绑定微信后使用微信昵称。</span></p>"},
+      "默认":"<p><span>1107更新：</span></p><p><span>1.新增“我的账户”功能</span></p><p><span>2.个人中心页中显示的用户名，在未绑定微信前使用手机号，绑定微信后使用微信昵称。</span></p><p><span>&nbsp;</span></p><p><span>1108更新：</span></p><p><span>1.新增优惠卡券入口</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -260,7 +261,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":240},
+              "y":280},
             "size":{
               "width":360,
               "height":40},
@@ -279,7 +280,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":240},
+                  "y":280},
                 "size":{
                   "width":360,
                   "height":40},
@@ -299,7 +300,7 @@
           "style":{
             "location":{
               "x":54,
-              "y":252},
+              "y":292},
             "size":{
               "width":53,
               "height":16}},
@@ -315,7 +316,7 @@
               "style":{
                 "location":{
                   "x":54,
-                  "y":252},
+                  "y":292},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -332,7 +333,7 @@
           "style":{
             "location":{
               "x":326,
-              "y":248},
+              "y":288},
             "size":{
               "width":25,
               "height":25},
@@ -352,7 +353,7 @@
               "style":{
                 "location":{
                   "x":326,
-                  "y":248},
+                  "y":288},
                 "size":{
                   "width":25,
                   "height":25},
@@ -373,7 +374,7 @@
           "style":{
             "location":{
               "x":19,
-              "y":248},
+              "y":288},
             "size":{
               "width":25,
               "height":25},
@@ -392,7 +393,7 @@
               "style":{
                 "location":{
                   "x":19,
-                  "y":248},
+                  "y":288},
                 "size":{
                   "width":25,
                   "height":25},
@@ -412,7 +413,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":279},
+              "y":319},
             "size":{
               "width":360,
               "height":40},
@@ -431,7 +432,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":279},
+                  "y":319},
                 "size":{
                   "width":360,
                   "height":40},
@@ -451,7 +452,7 @@
           "style":{
             "location":{
               "x":54,
-              "y":291},
+              "y":331},
             "size":{
               "width":53,
               "height":16}},
@@ -467,7 +468,7 @@
               "style":{
                 "location":{
                   "x":54,
-                  "y":291},
+                  "y":331},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -484,7 +485,7 @@
           "style":{
             "location":{
               "x":326,
-              "y":287},
+              "y":327},
             "size":{
               "width":25,
               "height":25},
@@ -504,7 +505,7 @@
               "style":{
                 "location":{
                   "x":326,
-                  "y":287},
+                  "y":327},
                 "size":{
                   "width":25,
                   "height":25},
@@ -525,7 +526,7 @@
           "style":{
             "location":{
               "x":19,
-              "y":287},
+              "y":327},
             "size":{
               "width":25,
               "height":25},
@@ -544,7 +545,7 @@
               "style":{
                 "location":{
                   "x":19,
-                  "y":287},
+                  "y":327},
                 "size":{
                   "width":25,
                   "height":25},
@@ -789,7 +790,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":331},
+              "y":371},
             "size":{
               "width":360,
               "height":40},
@@ -808,7 +809,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":331},
+                  "y":371},
                 "size":{
                   "width":360,
                   "height":40},
@@ -843,7 +844,7 @@
           "style":{
             "location":{
               "x":54,
-              "y":343},
+              "y":383},
             "size":{
               "width":53,
               "height":16}},
@@ -859,7 +860,7 @@
               "style":{
                 "location":{
                   "x":54,
-                  "y":343},
+                  "y":383},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -876,7 +877,7 @@
           "style":{
             "location":{
               "x":326,
-              "y":339},
+              "y":379},
             "size":{
               "width":25,
               "height":25},
@@ -896,7 +897,7 @@
               "style":{
                 "location":{
                   "x":326,
-                  "y":339},
+                  "y":379},
                 "size":{
                   "width":25,
                   "height":25},
@@ -917,7 +918,7 @@
           "style":{
             "location":{
               "x":19,
-              "y":339},
+              "y":379},
             "size":{
               "width":25,
               "height":25},
@@ -936,7 +937,7 @@
               "style":{
                 "location":{
                   "x":19,
-                  "y":339},
+                  "y":379},
                 "size":{
                   "width":25,
                   "height":25},
@@ -956,7 +957,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":370},
+              "y":410},
             "size":{
               "width":360,
               "height":40},
@@ -975,7 +976,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":370},
+                  "y":410},
                 "size":{
                   "width":360,
                   "height":40},
@@ -1010,7 +1011,7 @@
           "style":{
             "location":{
               "x":54,
-              "y":382},
+              "y":422},
             "size":{
               "width":53,
               "height":16}},
@@ -1026,7 +1027,7 @@
               "style":{
                 "location":{
                   "x":54,
-                  "y":382},
+                  "y":422},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -1043,7 +1044,7 @@
           "style":{
             "location":{
               "x":326,
-              "y":378},
+              "y":418},
             "size":{
               "width":25,
               "height":25},
@@ -1063,7 +1064,7 @@
               "style":{
                 "location":{
                   "x":326,
-                  "y":378},
+                  "y":418},
                 "size":{
                   "width":25,
                   "height":25},
@@ -1084,7 +1085,7 @@
           "style":{
             "location":{
               "x":19,
-              "y":378},
+              "y":418},
             "size":{
               "width":25,
               "height":25},
@@ -1103,7 +1104,7 @@
               "style":{
                 "location":{
                   "x":19,
-                  "y":378},
+                  "y":418},
                 "size":{
                   "width":25,
                   "height":25},
@@ -1123,7 +1124,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":277},
+              "y":317},
             "size":{
               "width":360,
               "height":42}},
@@ -1153,7 +1154,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":240},
+              "y":280},
             "size":{
               "width":360,
               "height":42}},
@@ -1518,6 +1519,188 @@
                         "url":"2_2我的农旅卡.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"beb3d113d2414266b678a0485ce1f7e4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":242},
+            "size":{
+              "width":360,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2153319d7fc4743b1dad14bc995dad3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":242},
+                "size":{
+                  "width":360,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_2农场体验游详情/u36.png"}},
+{
+          "id":"a72fd1359ff3466188a07b9f6dd2da2b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":54,
+              "y":254},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dec3d5da62894bcc8a7bc64750a01819",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":54,
+                  "y":254},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"74a876f5d94b42afbf5043a4e30f75f6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":326,
+              "y":250},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dfa8a17057314c23bef2ab03514042f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":326,
+                  "y":250},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
+{
+          "id":"3b2cbf1ee2e34d7c8c6ad1e47653d21e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":19,
+              "y":250},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6269375e387f44cc8166945d4c64b508",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":19,
+                  "y":250},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/2_0个人中心主页/u18.png"}},
+{
+          "id":"3a11b35c4be2475f9cc7288ee9296d53",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":242},
+            "size":{
+              "width":360,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.10优惠卡券",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_10优惠卡券.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -1669,4 +1852,22 @@
     "3d51e8c91267446390b19564ff5ed2f3":{
       "scriptId":"u72"},
     "d5cc9b1b1bca4622a01e1721a786a269":{
-      "scriptId":"u73"}}});
+      "scriptId":"u73"},
+    "beb3d113d2414266b678a0485ce1f7e4":{
+      "scriptId":"u74"},
+    "c2153319d7fc4743b1dad14bc995dad3":{
+      "scriptId":"u75"},
+    "a72fd1359ff3466188a07b9f6dd2da2b":{
+      "scriptId":"u76"},
+    "dec3d5da62894bcc8a7bc64750a01819":{
+      "scriptId":"u77"},
+    "74a876f5d94b42afbf5043a4e30f75f6":{
+      "scriptId":"u78"},
+    "dfa8a17057314c23bef2ab03514042f9":{
+      "scriptId":"u79"},
+    "3b2cbf1ee2e34d7c8c6ad1e47653d21e":{
+      "scriptId":"u80"},
+    "6269375e387f44cc8166945d4c64b508":{
+      "scriptId":"u81"},
+    "3a11b35c4be2475f9cc7288ee9296d53":{
+      "scriptId":"u82"}}});

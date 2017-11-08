@@ -1,14 +1,15 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_1采购支付.html",
-  "generationDate":new Date(1510060659596.47),
+  "generationDate":new Date(1510142157131.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
-    "packageId":"bb39c900b40648688be8200760bef242",
+    "packageId":"ad601912e6334128a8e5d9b1f5e454c5",
     "type":"Axure:Page",
     "name":"6.1.1采购支付",
     "notes":{
@@ -432,7 +433,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_1_1采购支付/u20_line.png"}},
+            "line~":"images/6_1_1确认订单（现场）/u18_line.png"}},
 {
           "id":"4dd6a9b18f714af395bca1784ff0d2ca",
           "label":"",
@@ -623,7 +624,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_1_1采购支付/u20_line.png"}},
+            "line~":"images/6_1_1确认订单（现场）/u18_line.png"}},
 {
           "id":"7fabd8d27d934146885d05c634cca273",
           "label":"",
@@ -854,7 +855,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1采购支付/u44.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u37.png"}},
 {
           "id":"a032431009204fd88939fe4795493193",
           "label":"",
@@ -951,7 +952,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1采购支付/u50.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u43.png"}},
 {
           "id":"b7703b0f06cf4ca7bb4df28add51762c",
           "label":"",
@@ -1078,7 +1079,7 @@
                       "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值.html",
+                        "url":"3_0会员充值_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1126,7 +1127,7 @@
                       "description":"在 当前窗口 打开 6.1.2支付成功",
                       "target":{
                         "targetType":"page",
-                        "url":"6_1_2支付成功.html",
+                        "url":"6_1_2支付成功_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

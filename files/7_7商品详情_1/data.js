@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情_1.html",
-  "generationDate":new Date(1510060681750.4),
+  "generationDate":new Date(1510142161303.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"0bcb36a32b29440689253fe4df8f6e40",
     "type":"Axure:Page",
@@ -467,7 +468,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"3442dcf864574d40b3f4a09debee2259",
           "label":"",
@@ -508,7 +509,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"9d7890b6cde1427881b7e4ee839a7ad0",
           "label":"",
@@ -549,7 +550,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"d38fcd7d323f4a108e45116661230bb5",
           "label":"",
@@ -728,7 +729,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_7商品详情/u35.png"}},
+            "normal~":"images/7_7商品详情/u22.png"}},
 {
           "id":"450fa25d7b6449e1923e4e00704547db",
           "label":"",
@@ -840,7 +841,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u54.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",
@@ -976,7 +977,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/7_7商品详情/u46.png"}}]}]},
+                    "normal~":"images/7_7商品详情/购物车_u31.png"}}]}]},
 {
           "id":"9b7707437101418eae12e96b22ce0704",
           "label":"",

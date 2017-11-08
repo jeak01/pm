@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_4支付失败_1.html",
-  "generationDate":new Date(1510060665509.61),
+  "generationDate":new Date(1510142141946.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"6257ea11ce0c4562afbe89ca25dff2f1",
     "type":"Axure:Page",

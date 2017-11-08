@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_4蔬菜宅配订单详情.html",
-  "generationDate":new Date(1510060675906.51),
+  "generationDate":new Date(1510142155426.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"b0c3cc8b4f5343f6a25c8a9ff95b3102",
     "type":"Axure:Page",
@@ -890,7 +891,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3采购订单详情/u17.png"}},
+            "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
           "id":"591ce7cf3b8c4a9d87f6e86b2dcb484f",
           "label":"",
@@ -1089,7 +1090,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_6订单详情（优品）/u14.png"}},
+            "normal~":"images/6_1_3订单详情（现场）/u25.png"}},
 {
           "id":"40460546848240ae80de3babf671c2ee",
           "label":"",
@@ -1245,7 +1246,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/7_6订单详情（优品）/u59_line.png"}},
+            "line~":"images/6_1_3订单详情（现场）/u35_line.png"}},
 {
           "id":"3ff8ae17360a413897813be1dfa0b7c2",
           "label":"",

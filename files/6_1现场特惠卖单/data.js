@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场特惠卖单.html",
-  "generationDate":new Date(1510060659479.39),
+  "generationDate":new Date(1510142133180.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"f4d0f62879a84aad9ac45d0f1866d076",
     "type":"Axure:Page",
@@ -2121,10 +2122,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 6.1.1采购支付",
+                              "description":"在 当前窗口 打开 6.1.1确认订单（现场）",
                               "target":{
                                 "targetType":"page",
-                                "url":"6_1_1采购支付.html",
+                                "url":"6_1_1确认订单（现场）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -2212,10 +2213,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.1.4账单",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"6_1_4账单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1510060696479.51),
+  "generationDate":new Date(1510142178300.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"84f0159b3bae4518800cde1f2937a138",
     "type":"Axure:Page",
@@ -3449,7 +3450,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"4d6bd3a263fe4645a9b474669693046d",
           "label":"",
@@ -3731,7 +3732,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"b7f155757800405f98f3a2e19819a135",
                     "label":"",

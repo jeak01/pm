@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_2_设置支付密码_1.html",
-  "generationDate":new Date(1510060669423.22),
+  "generationDate":new Date(1510142146195.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"f4f66358fef24ea4a23f0c136e4b5ef4",
     "type":"Axure:Page",

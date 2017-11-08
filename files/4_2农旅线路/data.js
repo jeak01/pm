@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2农旅线路.html",
-  "generationDate":new Date(1510060672113.01),
+  "generationDate":new Date(1510142149945.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"26d138d8368340a48e8e7d2a0ed830c0",
     "type":"Axure:Page",
@@ -85,7 +86,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/游记_u0.png"}},
+            "normal~":"images/2_10优惠卡券/游记_u129.png"}},
 {
           "id":"a67d88d547b74bb0babc67c81f016e0b",
           "label":"休闲",
@@ -138,7 +139,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/游记_u0.png"}},
+            "normal~":"images/2_10优惠卡券/游记_u129.png"}},
 {
           "id":"7c12933d0bc24405a612b2201ed1f9d0",
           "label":"",
@@ -6564,7 +6565,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"8a26748c07d84c978e77d1a6796ec710",
           "label":"",
@@ -7426,7 +7427,7 @@
                               "compress":false}}}]}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/4_2农旅线路/u347.png"}},
+            "normal~":"images/2_10优惠卡券/u133.png"}},
 {
           "id":"14ceb3a88e1d4dfe8178fb8631206dd2",
           "label":"",
@@ -7506,7 +7507,7 @@
                               "compress":false}}}]}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/4_2农旅线路/u347.png"}},
+            "normal~":"images/2_10优惠卡券/u133.png"}},
 {
           "id":"b238bab745f547a0b5f07e3eb7eb803a",
           "label":"",
@@ -7607,7 +7608,7 @@
                               "compress":false}}}]}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/4_2农旅线路/u347.png"}},
+            "normal~":"images/2_10优惠卡券/u133.png"}},
 {
           "id":"87050eb878a94315b447e5652bd74d1c",
           "label":"体验",
@@ -7660,7 +7661,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/游记_u0.png"}}]}},
+            "normal~":"images/2_10优惠卡券/游记_u129.png"}}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -7898,7 +7899,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/6_1_3采购订单详情/u17.png"}},
+                      "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",

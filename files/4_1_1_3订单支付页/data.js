@@ -1,14 +1,15 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_3订单支付页.html",
-  "generationDate":new Date(1510060661555.77),
+  "generationDate":new Date(1510142133948.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
-    "packageId":"be5bc63e89a7435a93a6301b19e4d59e",
+    "packageId":"df570d333fa84c73998a0994b1db4f6c",
     "type":"Axure:Page",
     "name":"4.1.1.3订单支付页",
     "notes":{
@@ -542,10 +543,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.5.1支付成功",
+                              "description":"在 当前窗口 打开 6.1.2支付成功",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_5_1支付成功.html",
+                                "url":"6_1_2支付成功.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -748,7 +749,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1采购支付/u44.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u37.png"}},
 {
           "id":"c89274dce63947b78c88f7e8bf883bbb",
           "label":"",
@@ -845,7 +846,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_1采购支付/u50.png"}},
+            "normal~":"images/4_1_1_3订单支付页/u43.png"}},
 {
           "id":"fa0d98604ba340bf8a4de902318002e3",
           "label":"",

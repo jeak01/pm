@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1_1选择指定农场.html",
-  "generationDate":new Date(1510060656343.3),
+  "generationDate":new Date(1510142128285.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"f4ac9e96e69045189ae33a4b183a9f78",
     "type":"Axure:Page",

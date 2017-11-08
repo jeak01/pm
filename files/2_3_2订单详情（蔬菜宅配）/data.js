@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_2订单详情（蔬菜宅配）.html",
-  "generationDate":new Date(1510060668587.66),
+  "generationDate":new Date(1510142145209.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"e396ec90e5fc4659871ea7cffbf58383",
     "type":"Axure:Page",

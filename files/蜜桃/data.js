@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"蜜桃.html",
-  "generationDate":new Date(1510060695762.03),
+  "generationDate":new Date(1510142177562.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"4bc470f260e2404696dd514209132d22",
     "type":"Axure:Page",
@@ -494,7 +495,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"3442dcf864574d40b3f4a09debee2259",
           "label":"",
@@ -535,7 +536,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"9d7890b6cde1427881b7e4ee839a7ad0",
           "label":"",
@@ -576,7 +577,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_2限时特惠详情页/u18.png"}},
+            "normal~":"images/4_2_1线路详情/u135.png"}},
 {
           "id":"d38fcd7d323f4a108e45116661230bb5",
           "label":"",
@@ -755,7 +756,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_7商品详情/u35.png"}},
+            "normal~":"images/7_7商品详情/u22.png"}},
 {
           "id":"450fa25d7b6449e1923e4e00704547db",
           "label":"",
@@ -852,7 +853,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_2限时特惠详情页/u60.png"}},
+                    "normal~":"images/7_2限时特惠详情页/u54.png"}},
 {
                   "id":"0eac82c1f7774484b6dc70c95355ad41",
                   "label":"",

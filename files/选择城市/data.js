@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择城市.html",
-  "generationDate":new Date(1510060692346.75),
+  "generationDate":new Date(1510142174418.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"167e4ce7b584415bb195c4a081d08483",
     "type":"Axure:Page",
@@ -284,7 +285,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_采购订单列表/u71.png"}},
+            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
 {
           "id":"2042734c6674459b9f98a4c96068aa73",
           "label":"",

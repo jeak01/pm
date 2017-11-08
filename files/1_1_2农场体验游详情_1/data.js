@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_2农场体验游详情_1.html",
-  "generationDate":new Date(1510060664707.87),
+  "generationDate":new Date(1510142141116.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"02d728c2333c4953ae2305e9653af890",
     "type":"Axure:Page",

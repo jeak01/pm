@@ -1,18 +1,19 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1510060660003.73),
+  "generationDate":new Date(1510142134154.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"8e7dda3446034761bd31b359c1be2fbb",
     "type":"Axure:Page",
     "name":"3.0会员充值",
     "notes":{
-},
+      "默认":"<p><span>1108更新：</span></p><p><span>1.修改赠送规则</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -655,41 +656,6 @@
           "images":{
             "normal~":"images/3_0会员充值/u30.png"}},
 {
-          "id":"bd5e5aa63f244ba2a6e6a2c46028d022",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "horizontalAlignment":"center",
-            "location":{
-              "x":90,
-              "y":187},
-            "size":{
-              "width":180,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"f19d4b9430c14d7b9cdb8fc1c79ecfba",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "horizontalAlignment":"center",
-                "location":{
-                  "x":90,
-                  "y":187},
-                "size":{
-                  "width":180,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"c953a834b9394f00986c76ee7918aafa",
           "label":"",
           "type":"buttonShape",
@@ -795,7 +761,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"31b186520cef4a80aef857f13d548897",
           "label":"",
@@ -834,7 +800,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"c461c322f59043c0a98067a7fec9601c",
           "label":"",
@@ -873,7 +839,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"8f13c736ac4e4a069234f28844f66133",
           "label":"",
@@ -953,41 +919,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"5c900225335d45068ddec8dff0e579ff",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":52,
-              "y":344},
-            "size":{
-              "width":84,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"f9913131051e482ab80a553a7c329fb0",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":52,
-                  "y":344},
-                "size":{
-                  "width":84,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"eb40204786f140c49794d45ae9aafb65",
           "label":"",
           "type":"buttonShape",
@@ -1022,41 +953,6 @@
                 "size":{
                   "width":96,
                   "height":19}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"5424742c971d45129a7cfde22803725c",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":196,
-              "y":342},
-            "size":{
-              "width":149,
-              "height":28}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"da09767eeb6444f9aa33f28544577c78",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":196,
-                  "y":342},
-                "size":{
-                  "width":149,
-                  "height":28}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1118,7 +1014,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"f2441bf38e924007b9c4dc9b36dc2e66",
                   "label":"",
@@ -1270,7 +1166,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"770d83479afa4a9186244ce959c87693",
                   "label":"",
@@ -1422,7 +1318,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"fb276279b10741509fe6996017263e23",
                   "label":"",
@@ -1771,7 +1667,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u38.png"}},
+            "normal~":"images/3_0会员充值/u36.png"}},
 {
           "id":"3db92417d71640c1a461f6e3f882587e",
           "label":"",
@@ -1812,41 +1708,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"df122ef5e7d0430da8f3d081f615bfee",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":228,
-              "y":281},
-            "size":{
-              "width":73,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"26762d44aaa74dd3b79b02eab9600b3a",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":228,
-                  "y":281},
-                "size":{
-                  "width":73,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"4ae34afe9e974f22a941c51e4025b095",
           "label":"1000",
           "type":"dynamicPanel",
@@ -1854,7 +1715,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":185,
+              "x":184,
               "y":240},
             "size":{
               "width":10,
@@ -1903,7 +1764,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/3_0会员充值/u55.png"}},
+                    "normal~":"images/3_0会员充值/u49.png"}},
 {
                   "id":"6bbc6b0e58884763aa1f7f792f99fa50",
                   "label":"",
@@ -2106,7 +1967,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u94.png"}}]}},
+            "normal~":"images/3_0会员充值/u86.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2174,131 +2035,115 @@
       "scriptId":"u30"},
     "bc79bcb6076d4c95b89f0479e8ca52ff":{
       "scriptId":"u31"},
-    "bd5e5aa63f244ba2a6e6a2c46028d022":{
-      "scriptId":"u32"},
-    "f19d4b9430c14d7b9cdb8fc1c79ecfba":{
-      "scriptId":"u33"},
     "c953a834b9394f00986c76ee7918aafa":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "b0fd1b1acb10452eb2a7432fd0b1adaa":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "f710d7a017494ff0b121ad90f543d1c6":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "ff6c5c3408584a339c60d324a28cae21":{
-      "scriptId":"u37"},
+      "scriptId":"u35"},
     "53d07195161e45b19f45b340f1eb6530":{
-      "scriptId":"u38"},
+      "scriptId":"u36"},
     "2574f8b4262e45c09a257282f25f99b6":{
-      "scriptId":"u39"},
+      "scriptId":"u37"},
     "31b186520cef4a80aef857f13d548897":{
-      "scriptId":"u40"},
+      "scriptId":"u38"},
     "49555b0256804ffca8a026273c90e9b7":{
-      "scriptId":"u41"},
+      "scriptId":"u39"},
     "c461c322f59043c0a98067a7fec9601c":{
-      "scriptId":"u42"},
+      "scriptId":"u40"},
     "f535707f7cf94a2d98d3feea75e3656f":{
-      "scriptId":"u43"},
+      "scriptId":"u41"},
     "8f13c736ac4e4a069234f28844f66133":{
-      "scriptId":"u44"},
+      "scriptId":"u42"},
     "023349b50a444b2db9b8f2ce5a6e0802":{
-      "scriptId":"u45"},
+      "scriptId":"u43"},
     "0887e739c5ee4e5db9badc2340ba6e3c":{
-      "scriptId":"u46"},
+      "scriptId":"u44"},
     "06204986dc834441a75089ec17d84128":{
-      "scriptId":"u47"},
-    "5c900225335d45068ddec8dff0e579ff":{
-      "scriptId":"u48"},
-    "f9913131051e482ab80a553a7c329fb0":{
-      "scriptId":"u49"},
+      "scriptId":"u45"},
     "eb40204786f140c49794d45ae9aafb65":{
-      "scriptId":"u50"},
+      "scriptId":"u46"},
     "f1c9f4d6bf4a472b92539a60719a13d7":{
-      "scriptId":"u51"},
-    "5424742c971d45129a7cfde22803725c":{
-      "scriptId":"u52"},
-    "da09767eeb6444f9aa33f28544577c78":{
-      "scriptId":"u53"},
+      "scriptId":"u47"},
     "e909fa8a2c0048eb9690c667cf4b15ff":{
-      "scriptId":"u54"},
+      "scriptId":"u48"},
     "b14eef90aadd43fc89f2cff193ca0c66":{
-      "scriptId":"u55"},
+      "scriptId":"u49"},
     "d5dc51da2ce04c9e9868995f2b443409":{
-      "scriptId":"u56"},
+      "scriptId":"u50"},
     "f2441bf38e924007b9c4dc9b36dc2e66":{
-      "scriptId":"u57"},
+      "scriptId":"u51"},
     "6d9cda1eeaf94a1490b88619636bdf32":{
-      "scriptId":"u58"},
+      "scriptId":"u52"},
     "3d7dca29b19542299fb62dd9bc629fd9":{
-      "scriptId":"u59"},
+      "scriptId":"u53"},
     "d927b86d47644c8cb12047739b7f91a4":{
-      "scriptId":"u60"},
+      "scriptId":"u54"},
     "35769b774807460493d4c62207df571e":{
-      "scriptId":"u61"},
+      "scriptId":"u55"},
     "2f8a606cdcb040788ebf8a131472d221":{
-      "scriptId":"u62"},
+      "scriptId":"u56"},
     "52744c2ff8904ef598b3341d45aa8c31":{
-      "scriptId":"u63"},
+      "scriptId":"u57"},
     "770d83479afa4a9186244ce959c87693":{
-      "scriptId":"u64"},
+      "scriptId":"u58"},
     "f8f2f827889241d1b4f5c3268a60639b":{
-      "scriptId":"u65"},
+      "scriptId":"u59"},
     "7b4ef67b2e81498484afa02103403551":{
-      "scriptId":"u66"},
+      "scriptId":"u60"},
     "9e75228448954f768cebc388f23916bf":{
-      "scriptId":"u67"},
+      "scriptId":"u61"},
     "6e6ceb18169d43b096930d868b672483":{
-      "scriptId":"u68"},
+      "scriptId":"u62"},
     "ca3275abae9d4fe3aa462658ac1cafa7":{
-      "scriptId":"u69"},
+      "scriptId":"u63"},
     "172f89d0a4bb48b38091666f399c45bd":{
-      "scriptId":"u70"},
+      "scriptId":"u64"},
     "fb276279b10741509fe6996017263e23":{
-      "scriptId":"u71"},
+      "scriptId":"u65"},
     "e5a884472af44d128cb2cbe66f6866d9":{
-      "scriptId":"u72"},
+      "scriptId":"u66"},
     "763a60ebc7e44d89a8f188d376c76f28":{
-      "scriptId":"u73"},
+      "scriptId":"u67"},
     "a61ab592d2374adc8eaf8a48c3f05101":{
-      "scriptId":"u74"},
+      "scriptId":"u68"},
     "d093c224a3ae44f99b1a5ca499a49df3":{
-      "scriptId":"u75"},
+      "scriptId":"u69"},
     "c310d223dee949f2be4e0f575640d2fc":{
-      "scriptId":"u76"},
+      "scriptId":"u70"},
     "44d3ad2c4b464c95a1e0ea115a6a3fb3":{
-      "scriptId":"u77"},
+      "scriptId":"u71"},
     "f8e8c8d3c7d342b7b88a4c1d910e0290":{
-      "scriptId":"u78"},
+      "scriptId":"u72"},
     "9b2efd2ed0094605a1001f0183a4fa12":{
-      "scriptId":"u79"},
+      "scriptId":"u73"},
     "26044f969b8b43cdaa971aa07faf6083":{
-      "scriptId":"u80"},
+      "scriptId":"u74"},
     "8706c642df03463281873458723dd56b":{
-      "scriptId":"u81"},
+      "scriptId":"u75"},
     "3db92417d71640c1a461f6e3f882587e":{
-      "scriptId":"u82"},
+      "scriptId":"u76"},
     "4feee106a95e47a2a9fec98123be70e0":{
-      "scriptId":"u83"},
-    "df122ef5e7d0430da8f3d081f615bfee":{
-      "scriptId":"u84"},
-    "26762d44aaa74dd3b79b02eab9600b3a":{
-      "scriptId":"u85"},
+      "scriptId":"u77"},
     "4ae34afe9e974f22a941c51e4025b095":{
-      "scriptId":"u86"},
+      "scriptId":"u78"},
     "1a6fcb3d6b844c53a20619718b54345b":{
-      "scriptId":"u87"},
+      "scriptId":"u79"},
     "58cbed072f964854a3b58091dc29b098":{
-      "scriptId":"u88"},
+      "scriptId":"u80"},
     "6bbc6b0e58884763aa1f7f792f99fa50":{
-      "scriptId":"u89"},
+      "scriptId":"u81"},
     "3ff8acf5448b4e0c8e2dc4cd88874fcd":{
-      "scriptId":"u90"},
+      "scriptId":"u82"},
     "3d7d74b05cbd4fc29dc3c19fc8ebc2b0":{
-      "scriptId":"u91"},
+      "scriptId":"u83"},
     "ff9a2010595542efb1c4b1a5218c5bcc":{
-      "scriptId":"u92"},
+      "scriptId":"u84"},
     "b7ad22c6ae4445b6a4d47bd2b6d3a12b":{
-      "scriptId":"u93"},
+      "scriptId":"u85"},
     "1e708b3e0db241d89224c84d25ff85b6":{
-      "scriptId":"u94"},
+      "scriptId":"u86"},
     "a162152afd804c1980da4008f8a98b82":{
-      "scriptId":"u95"}}});
+      "scriptId":"u87"}}});

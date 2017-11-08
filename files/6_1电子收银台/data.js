@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1电子收银台.html",
-  "generationDate":new Date(1510060686472.55),
+  "generationDate":new Date(1510142166750.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"ef19d954e6fc408f98aecf90f416173c",
     "type":"Axure:Page",

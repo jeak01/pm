@@ -1,12 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅结合.html",
-  "generationDate":new Date(1510060662826.61),
+  "generationDate":new Date(1510142138689.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
-"nc"],
+"nc",
+"carNum"],
   "page":{
     "packageId":"79c9c80512d14313a048d77f29da8767",
     "type":"Axure:Page",
