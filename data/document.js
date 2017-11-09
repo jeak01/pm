@@ -379,7 +379,11 @@
 {
                 "pageName":"1.8服务条款",
                 "type":"Wireframe",
-                "url":"1_8服务条款_1.html"}]},
+                "url":"1_8服务条款_1.html"},
+{
+                "pageName":"1.9订单详情（农旅卡）",
+                "type":"Wireframe",
+                "url":"1_9订单详情（农旅卡）.html"}]},
 {
             "pageName":"2.0个人中心主页",
             "type":"Wireframe",

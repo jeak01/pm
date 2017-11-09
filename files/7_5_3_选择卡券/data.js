@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_3_选择卡券.html",
-  "generationDate":new Date(1510193068483.07),
+  "generationDate":new Date(1510228758091.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1217,9 +1217,12 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示/隐藏部件",
-                      "objectsToFades":[]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
           "tabbable":true},
 {
           "id":"4874d3fcef0f4d2f99bcda9eaad4376c",
@@ -1243,9 +1246,12 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示/隐藏部件",
-                      "objectsToFades":[]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
           "tabbable":true},
 {
           "id":"eb717626666849018f2f894b06abbe39",
@@ -1269,9 +1275,12 @@
                   "description":"用例 1",
                   "isNewIfGroup":false,
                   "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示/隐藏部件",
-                      "objectsToFades":[]}]}]}},
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
           "tabbable":true},
 {
           "id":"557f31591a3249ebb8a852f5871949df",

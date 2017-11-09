@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_1支付成功.html",
-  "generationDate":new Date(1510193068266.93),
+  "generationDate":new Date(1510228757912.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -13,7 +13,7 @@
     "type":"Axure:Page",
     "name":"7.5.1支付成功",
     "notes":{
-},
+      "默认":"<p><span>1109更新：</span></p><p><span>1.改动页头名字为支付成功</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",

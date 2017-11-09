@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_6_1_游客信息新增_编辑_1.html",
-  "generationDate":new Date(1510193075923.54),
+  "generationDate":new Date(1510228765002.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
