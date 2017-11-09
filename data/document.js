@@ -269,6 +269,10 @@
                     "type":"Wireframe",
                     "url":"7_5_2发票信息.html"},
 {
+                    "pageName":"7.5.3 选择卡券",
+                    "type":"Wireframe",
+                    "url":"7_5_3_选择卡券.html"},
+{
                     "pageName":"2.2.2.3选择地址",
                     "type":"Wireframe",
                     "url":"2_2_2_3选择地址_1.html",
