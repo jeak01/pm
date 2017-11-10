@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1510228789653.92),
+  "generationDate":new Date(1510283381238.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4019,7 +4019,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_5订单详情/u72.png"}},
+                    "normal~":"images/4_2_5订单详情/u58.png"}},
 {
                   "id":"3029440b95194a3cbe1f333d024d8d6d",
                   "label":"爆款路线子类",

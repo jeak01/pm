@@ -169,7 +169,7 @@
 }
 #u14 {
   position:absolute;
-  left:119px;
+  left:191px;
   top:180px;
   width:119px;
   height:40px;
@@ -234,5 +234,26 @@
   left:2px;
   top:27px;
   width:356px;
+  word-wrap:break-word;
+}
+#u19 {
+  position:absolute;
+  left:53px;
+  top:180px;
+  width:117px;
+  height:40px;
+}
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:117px;
+  height:40px;
+}
+#u20 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:113px;
   word-wrap:break-word;
 }

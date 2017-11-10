@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_4支付成功.html",
-  "generationDate":new Date(1510228769602.56),
+  "generationDate":new Date(1510283362853.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -400,7 +400,40 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u15.png"}}]}},
+            "normal~":"images/1_3支付成功/u15.png"}},
+{
+          "id":"81ab9aa222b5413f9924485782896633",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":260},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bdfb2ec95c7b44248e9d3dc0b24c1732",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":260},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -439,4 +472,8 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u16"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"}}});
+      "scriptId":"u17"},
+    "81ab9aa222b5413f9924485782896633":{
+      "scriptId":"u18"},
+    "bdfb2ec95c7b44248e9d3dc0b24c1732":{
+      "scriptId":"u19"}}});

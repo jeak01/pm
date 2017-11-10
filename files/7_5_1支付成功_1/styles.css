@@ -254,3 +254,24 @@
   width:113px;
   word-wrap:break-word;
 }
+#u20 {
+  position:absolute;
+  left:0px;
+  top:260px;
+  width:360px;
+  height:70px;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:70px;
+}
+#u21 {
+  position:absolute;
+  left:2px;
+  top:27px;
+  width:356px;
+  word-wrap:break-word;
+}

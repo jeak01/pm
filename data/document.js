@@ -625,9 +625,9 @@
                 "type":"Wireframe",
                 "url":"6_1现场特惠卖单_1.html",
                 "children":[{
-                    "pageName":"6.1.1采购支付",
+                    "pageName":"6.1.1确认订单（现场）",
                     "type":"Wireframe",
-                    "url":"6_1_1采购支付.html"},
+                    "url":"6_1_1确认订单（现场）_1.html"},
 {
                     "pageName":"6.1.2支付成功",
                     "type":"Wireframe",

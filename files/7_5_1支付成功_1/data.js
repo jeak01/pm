@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_1支付成功_1.html",
-  "generationDate":new Date(1510228775326.38),
+  "generationDate":new Date(1510283368351.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -420,9 +420,6 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFDDDDDD},
                     "size":{
                       "width":117,
                       "height":40},
@@ -438,9 +435,6 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFDDDDDD},
                         "size":{
                           "width":117,
                           "height":40},
@@ -463,7 +457,40 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
+                    "normal~":"images/6_1_2支付成功/u14.png"}}]}]},
+{
+          "id":"eb90b142e93b42ee8678748f16d73799",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":260},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fbc54beb1c924bd59b61d3a2e2b81c72",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":260},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -506,4 +533,8 @@
     "0da88205f8474eec93f35ff4fbd81f64":{
       "scriptId":"u18"},
     "386b4dc9d2344be2b34ab0dbed357195":{
-      "scriptId":"u19"}}});
+      "scriptId":"u19"},
+    "eb90b142e93b42ee8678748f16d73799":{
+      "scriptId":"u20"},
+    "fbc54beb1c924bd59b61d3a2e2b81c72":{
+      "scriptId":"u21"}}});

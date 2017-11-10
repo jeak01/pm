@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场特惠卖单_1.html",
-  "generationDate":new Date(1510228772717.64),
+  "generationDate":new Date(1510283365838.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2276,10 +2276,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 6.1.1采购支付",
+                              "description":"在 当前窗口 打开 6.1.1确认订单（现场）",
                               "target":{
                                 "targetType":"page",
-                                "url":"6_1_1采购支付.html",
+                                "url":"6_1_1确认订单（现场）_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

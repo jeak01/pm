@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_3支付成功.html",
-  "generationDate":new Date(1510228771447.79),
+  "generationDate":new Date(1510283364594.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -369,10 +369,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
+                      "description":"在 当前窗口 打开 1.9订单详情（农旅卡）",
                       "target":{
                         "targetType":"page",
-                        "url":"0_0主页.html",
+                        "url":"1_9订单详情（农旅卡）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -521,7 +521,40 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]},
+{
+          "id":"746c265864bb48aebc720809eadac31e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":260},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"86bd5ad3b7c244728a6547114a8afcda",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":260},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -566,4 +599,8 @@
     "3c0c70fb9a424a1bb4f04ede0d901c66":{
       "scriptId":"u19"},
     "a096680bbe55419a91e6a12da7c31010":{
-      "scriptId":"u20"}}});
+      "scriptId":"u20"},
+    "746c265864bb48aebc720809eadac31e":{
+      "scriptId":"u21"},
+    "86bd5ad3b7c244728a6547114a8afcda":{
+      "scriptId":"u22"}}});

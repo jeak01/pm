@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_3支付成功_1.html",
-  "generationDate":new Date(1510228761646.26),
+  "generationDate":new Date(1510283355701.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -324,7 +324,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":119,
+              "x":191,
               "y":180},
             "size":{
               "width":119,
@@ -422,7 +422,42 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_3支付成功/u17.png"}}]}},
+            "normal~":"images/1_3支付成功/u17.png"}},
+{
+          "id":"400269b4ce7e41f693ddec1bdba272b0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":53,
+              "y":180},
+            "size":{
+              "width":117,
+              "height":40},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9a62f621cdb74085910ca3d2e58665d8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":53,
+                  "y":180},
+                "size":{
+                  "width":117,
+                  "height":40},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/6_1_2支付成功/u14.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -463,4 +498,8 @@
     "85301a4ee18f489f95129a184fb08531":{
       "scriptId":"u17"},
     "d61bd538abd3427b8c16e68f47863ee8":{
-      "scriptId":"u18"}}});
+      "scriptId":"u18"},
+    "400269b4ce7e41f693ddec1bdba272b0":{
+      "scriptId":"u19"},
+    "9a62f621cdb74085910ca3d2e58665d8":{
+      "scriptId":"u20"}}});

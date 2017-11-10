@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_0购买宅配套餐.html",
-  "generationDate":new Date(1510228770874.41),
+  "generationDate":new Date(1510283363992.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -250,7 +250,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单/u116.png"}},
+                    "normal~":"images/4_2_2确认订单/u110.png"}},
 {
                   "id":"aeece36ebbcf4b7fbfb5947d76d3df89",
                   "label":"",

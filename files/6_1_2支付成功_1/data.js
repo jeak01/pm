@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_2支付成功_1.html",
-  "generationDate":new Date(1510228772916.77),
+  "generationDate":new Date(1510283366029.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -336,10 +336,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
+                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
                       "target":{
                         "targetType":"page",
-                        "url":"0_0主页.html",
+                        "url":"6_1现场特惠卖单_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -400,7 +400,40 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u15.png"}}]}},
+            "normal~":"images/1_3支付成功/u15.png"}},
+{
+          "id":"6469bcb0f8734cda8a9393b8984f7c9e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":260},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c8f6bb1655d144f1a866813dfd09b4f8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":260},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -439,4 +472,8 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u16"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"}}});
+      "scriptId":"u17"},
+    "6469bcb0f8734cda8a9393b8984f7c9e":{
+      "scriptId":"u18"},
+    "c8f6bb1655d144f1a866813dfd09b4f8":{
+      "scriptId":"u19"}}});

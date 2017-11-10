@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1510228792066.53),
+  "generationDate":new Date(1510283383458.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1997,7 +1997,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_5订单详情/u72.png"}},
+                    "normal~":"images/4_2_5订单详情/u58.png"}},
 {
                   "id":"b5e24405d0764010956a0b56323cc609",
                   "label":"爆款路线子类",
