@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_5意见反馈_1.html",
-  "generationDate":new Date(1510283358821),
+  "generationDate":new Date(1510558347876.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -244,7 +244,7 @@
               "x":21,
               "y":92},
             "size":{
-              "width":137,
+              "width":143,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -260,7 +260,7 @@
                   "x":21,
                   "y":92},
                 "size":{
-                  "width":137,
+                  "width":143,
                   "height":16}},
               "adaptiveStyles":{
 }}],

@@ -327,11 +327,11 @@
             "children":[{
                 "pageName":"0.1选择城市",
                 "type":"Wireframe",
-                "url":"0_1选择城市.html"}]},
+                "url":"0_1选择城市.html"},
 {
-            "pageName":"0.2登录",
-            "type":"Wireframe",
-            "url":"0_2登录_1.html"},
+                "pageName":"0.2登录",
+                "type":"Wireframe",
+                "url":"0_2登录_1.html"}]},
 {
             "pageName":"1.0农旅卡主题页",
             "type":"Wireframe",
@@ -617,33 +617,21 @@
                 "type":"Wireframe",
                 "url":"5_5_3宅配信息.html"}]},
 {
-            "pageName":"6.0农场专题",
+            "pageName":"6.1现场特惠卖单",
             "type":"Wireframe",
-            "url":"6_0农场专题.html",
+            "url":"6_1现场特惠卖单_1.html",
             "children":[{
-                "pageName":"6.1现场特惠卖单",
+                "pageName":"6.1.1确认订单（现场）",
                 "type":"Wireframe",
-                "url":"6_1现场特惠卖单_1.html",
-                "children":[{
-                    "pageName":"6.1.1确认订单（现场）",
-                    "type":"Wireframe",
-                    "url":"6_1_1确认订单（现场）_1.html"},
+                "url":"6_1_1确认订单（现场）_1.html"},
 {
-                    "pageName":"6.1.2支付成功",
-                    "type":"Wireframe",
-                    "url":"6_1_2支付成功_1.html"},
-{
-                    "pageName":"6.1.3采购订单详情",
-                    "type":"Wireframe",
-                    "url":"6_1_3采购订单详情.html"},
-{
-                    "pageName":"6.1.4账单",
-                    "type":"Wireframe",
-                    "url":"6_1_4账单.html"}]},
-{
-                "pageName":"6.2配送套餐",
+                "pageName":"6.1.2支付成功",
                 "type":"Wireframe",
-                "url":"6_2配送套餐.html"},
+                "url":"6_1_2支付成功_1.html"},
+{
+                "pageName":"6.1.3采购订单详情",
+                "type":"Wireframe",
+                "url":"6_1_3采购订单详情.html"},
 {
                 "pageName":"3.0会员充值",
                 "type":"Wireframe",

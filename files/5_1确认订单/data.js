@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_1确认订单.html",
-  "generationDate":new Date(1510283364420.61),
+  "generationDate":new Date(1510558356275.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -13,7 +13,7 @@
     "type":"Axure:Page",
     "name":"5.1确认订单",
     "notes":{
-},
+      "默认":"<p><span>网页名应为：</span><span>5.1</span><span> 确认订单（</span><span>蔬菜宅配套餐</span><span>）</span></p>"},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",

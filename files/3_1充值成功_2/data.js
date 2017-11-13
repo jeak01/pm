@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功_2.html",
-  "generationDate":new Date(1510283366515),
+  "generationDate":new Date(1510558358490.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -336,10 +336,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.0农场专题",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"6_0农场专题.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -440,10 +439,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.2配送套餐",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"6_2配送套餐.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
