@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_5宅配商品清单_1.html",
-  "generationDate":new Date(1510559567566.1),
+  "generationDate":new Date(1510565070566.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -9,7 +9,7 @@
 "nc",
 "carNum"],
   "page":{
-    "packageId":"3a008cfc4fa24e62817c4cbe84594e92",
+    "packageId":"b640c95e8a064a42814f64d0fe0bfce6",
     "type":"Axure:Page",
     "name":"2.2.2.5宅配商品清单",
     "notes":{

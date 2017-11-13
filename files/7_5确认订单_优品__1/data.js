@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5确认订单_优品__1.html",
-  "generationDate":new Date(1510559567043.76),
+  "generationDate":new Date(1510565082860.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2952,7 +2952,7 @@
                       "description":"在 当前窗口 打开 2.2.2.5宅配商品清单",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_2_5宅配商品清单_1.html",
+                        "url":"2_2_2_5宅配商品清单_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

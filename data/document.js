@@ -423,7 +423,11 @@
                         "children":[{
                             "pageName":"2.2.2.4收货地址新增/编辑",
                             "type":"Wireframe",
-                            "url":"2_2_2_4收货地址新增_编辑_2.html"}]}]},
+                            "url":"2_2_2_4收货地址新增_编辑_2.html"}]},
+{
+                        "pageName":"2.2.2.5宅配商品清单",
+                        "type":"Wireframe",
+                        "url":"2_2_2_5宅配商品清单_1.html"}]},
 {
                     "pageName":"2.2.3.1确认订单（农旅）",
                     "type":"Wireframe",
@@ -567,7 +571,11 @@
 {
                     "pageName":"4.2.5订单详情",
                     "type":"Wireframe",
-                    "url":"4_2_5订单详情.html"}]},
+                    "url":"4_2_5订单详情.html"},
+{
+                    "pageName":"4.2.6农场定位地图",
+                    "type":"Wireframe",
+                    "url":"4_2_6农场定位地图.html"}]},
 {
                 "pageName":"4.3资讯百科",
                 "type":"Wireframe",
@@ -703,7 +711,7 @@
 {
                     "pageName":"2.2.2.5宅配商品清单",
                     "type":"Wireframe",
-                    "url":"2_2_2_5宅配商品清单_1.html"}]},
+                    "url":"2_2_2_5宅配商品清单_2.html"}]},
 {
                 "pageName":"7.6我的订单（优品）",
                 "type":"Wireframe",
