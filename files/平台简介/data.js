@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台简介.html",
-  "generationDate":new Date(1510565101017.48),
+  "generationDate":new Date(1510881782189.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -216,7 +216,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"1095b6aaa09a4e79b08c8cb1c8292c95",
           "label":"",
@@ -257,7 +257,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"c46432eebce64b69a48af648b4a0350e",
           "label":"",
@@ -298,7 +298,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"23065884de784e58aeb400ee415bf9fe",
           "label":"",

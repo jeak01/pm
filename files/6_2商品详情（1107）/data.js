@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_2商品详情（1107）.html",
-  "generationDate":new Date(1510565085300.2),
+  "generationDate":new Date(1510881738341.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -716,7 +716,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"a6aa61528c65446084e4554d6ed0d549",
           "label":"",
@@ -757,7 +757,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"fea9ebcb9fdb4ce9a40c18bf40fd5a64",
           "label":"",
@@ -798,7 +798,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"6787793519fe4efc97850080a26f86e6",
           "label":"",

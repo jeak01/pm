@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"特色活动0726.html",
-  "generationDate":new Date(1510565100810.34),
+  "generationDate":new Date(1510881781569.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -177,7 +177,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"069ccd3a3cfc4c3a9951728774eb0829",
           "label":"",
@@ -218,7 +218,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"a30b731ebf054e97bbcbee6f4be22911",
           "label":"",
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"1735d451609c461cbca800f807245f9e",
           "label":"",

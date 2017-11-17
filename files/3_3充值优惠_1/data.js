@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_3充值优惠_1.html",
-  "generationDate":new Date(1510565073332.2),
+  "generationDate":new Date(1510881721123.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -220,7 +220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_3充值优惠/u8.png"}},
+            "normal~":"images/3_3充值优惠_1/u8.png"}},
 {
           "id":"01d37d12acf848bca9a40a222e9170e8",
           "label":"",

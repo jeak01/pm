@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_0810.html",
-  "generationDate":new Date(1510565100469.11),
+  "generationDate":new Date(1510881781009.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3320,7 +3320,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u86.jpg"}},
+            "normal~":"images/4_3_1_1文章详情/u38.jpg"}},
 {
           "id":"92dca0a267614dcca6023b2aceb6f120",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1510565101354.68),
+  "generationDate":new Date(1510881782919.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -177,7 +177,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"c6de04125e7d408e9d117072f7138636",
           "label":"",
@@ -218,7 +218,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"f18f47d8b945460f98de5e1f4b9182c4",
           "label":"",
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_1线路详情/u135.png"}},
+            "normal~":"images/4_2_1线路详情/u108.png"}},
 {
           "id":"d2414ef6bbe340479493dab369a6c50b",
           "label":"",

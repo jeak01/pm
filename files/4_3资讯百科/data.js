@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3资讯百科.html",
-  "generationDate":new Date(1510565077749.42),
+  "generationDate":new Date(1510881727049.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -590,7 +590,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_2_1线路详情/u96.jpg"}}]},
+                    "normal~":"images/4_3资讯百科/u21.jpg"}}]},
 {
               "id":"046ce99b3ddd4e43a631296057da07b6",
               "label":"状态2",
