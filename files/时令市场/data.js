@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1510881756811.87),
+  "generationDate":new Date(1510913088440.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

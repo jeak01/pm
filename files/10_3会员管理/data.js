@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_3会员管理.html",
-  "generationDate":new Date(1510881737976.37),
+  "generationDate":new Date(1510913080991.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -172,11 +172,11 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":148,
-              "y":11},
+              "x":132,
+              "y":14},
             "size":{
-              "width":65,
-              "height":19}},
+              "width":97,
+              "height":9}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -193,11 +193,11 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":148,
-                  "y":11},
+                  "x":132,
+                  "y":14},
                 "size":{
-                  "width":65,
-                  "height":19}},
+                  "width":97,
+                  "height":9}},
               "adaptiveStyles":{
 }}],
           "images":{

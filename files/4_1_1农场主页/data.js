@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1农场主页.html",
-  "generationDate":new Date(1510881723024.45),
+  "generationDate":new Date(1510913066713.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -6594,7 +6594,7 @@
               "x":110,
               "y":98},
             "size":{
-              "width":184,
+              "width":123,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -6611,7 +6611,7 @@
                   "x":110,
                   "y":98},
                 "size":{
-                  "width":184,
+                  "width":123,
                   "height":14}},
               "adaptiveStyles":{
 }}],

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_2登录_1.html",
-  "generationDate":new Date(1510881714103.53),
+  "generationDate":new Date(1510913058810.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -348,41 +348,6 @@
           "images":{
             "normal~":"images/0_2登录/u14.png"}},
 {
-          "id":"41343d7e78594ef1bd6243a79670099e",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":274,
-              "y":405},
-            "size":{
-              "width":45,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"15d81e4496704720a0bb55c7a71939f2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":274,
-                  "y":405},
-                "size":{
-                  "width":45,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"f2d6b7f0293d47d5b8529b2be1aac26f",
           "label":"",
           "type":"imageMapRegion",
@@ -659,31 +624,27 @@
       "scriptId":"u14"},
     "41f9259124694124af65f7df54069230":{
       "scriptId":"u15"},
-    "41343d7e78594ef1bd6243a79670099e":{
-      "scriptId":"u16"},
-    "15d81e4496704720a0bb55c7a71939f2":{
-      "scriptId":"u17"},
     "f2d6b7f0293d47d5b8529b2be1aac26f":{
-      "scriptId":"u18"},
+      "scriptId":"u16"},
     "7feae42305af4eeb969acff335ec209f":{
-      "scriptId":"u19"},
+      "scriptId":"u17"},
     "bc467ca481f94fc3a34c3972171fd9c2":{
-      "scriptId":"u20"},
+      "scriptId":"u18"},
     "5350f93f31d74ad084845e92c62bb347":{
-      "scriptId":"u21"},
+      "scriptId":"u19"},
     "ca22a9ea4faa4effa36bd464dcbe486b":{
-      "scriptId":"u22"},
+      "scriptId":"u20"},
     "25f77614243c4b428653e4224fa0fa75":{
-      "scriptId":"u23"},
+      "scriptId":"u21"},
     "84854935ee2e4b65986f459355ddac57":{
-      "scriptId":"u24"},
+      "scriptId":"u22"},
     "57921a59335d498ca519c0a9e278edd8":{
-      "scriptId":"u25"},
+      "scriptId":"u23"},
     "f4762c14b4dc4293a5f60af05887543c":{
-      "scriptId":"u26"},
+      "scriptId":"u24"},
     "c78d3de155fc426aadd33e124af8e6ba":{
-      "scriptId":"u27"},
+      "scriptId":"u25"},
     "f783774c6ef24e7c92d4b97392e422d7":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "3fbf408d85cc42f49941b30bdb20a8e1":{
-      "scriptId":"u29"}}});
+      "scriptId":"u27"}}});
