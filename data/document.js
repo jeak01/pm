@@ -461,9 +461,9 @@
                         "type":"Wireframe",
                         "url":"2_3_1_1物流跟踪.html"}]},
 {
-                    "pageName":"2.3.2订单详情（蔬菜宅配）",
+                    "pageName":"2.3.2订单详情（弃用）",
                     "type":"Wireframe",
-                    "url":"2_3_2订单详情（蔬菜宅配）.html"},
+                    "url":"2_3_2订单详情（弃用）.html"},
 {
                     "pageName":"2.3.3待支付订单",
                     "type":"Wireframe",

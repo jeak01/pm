@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"优游农旅卡.html",
-  "generationDate":new Date(1510913057728.79),
+  "generationDate":new Date(1511146694856.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

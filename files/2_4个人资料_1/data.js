@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_4个人资料_1.html",
-  "generationDate":new Date(1510913064132.05),
+  "generationDate":new Date(1511146701023.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -281,7 +281,7 @@
           "style":{
             "location":{
               "x":17,
-              "y":61},
+              "y":100},
             "size":{
               "width":53,
               "height":16}},
@@ -297,7 +297,7 @@
               "style":{
                 "location":{
                   "x":17,
-                  "y":61},
+                  "y":100},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -615,7 +615,7 @@
           "style":{
             "location":{
               "x":80,
-              "y":63},
+              "y":102},
             "size":{
               "width":78,
               "height":16}},
@@ -631,7 +631,7 @@
               "style":{
                 "location":{
                   "x":80,
-                  "y":63},
+                  "y":102},
                 "size":{
                   "width":78,
                   "height":16}},
@@ -648,7 +648,7 @@
           "style":{
             "location":{
               "x":17,
-              "y":100},
+              "y":62},
             "size":{
               "width":53,
               "height":16}},
@@ -664,7 +664,7 @@
               "style":{
                 "location":{
                   "x":17,
-                  "y":100},
+                  "y":62},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -681,7 +681,7 @@
           "style":{
             "location":{
               "x":80,
-              "y":100},
+              "y":62},
             "size":{
               "width":53,
               "height":16}},
@@ -697,7 +697,7 @@
               "style":{
                 "location":{
                   "x":80,
-                  "y":100},
+                  "y":62},
                 "size":{
                   "width":53,
                   "height":16}},
