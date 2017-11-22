@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0电子收银台（1017）.html",
-  "generationDate":new Date(1511146718396.82),
+  "generationDate":new Date(1511314391327.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

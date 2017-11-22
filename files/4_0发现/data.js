@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_0发现.html",
-  "generationDate":new Date(1511146702978.63),
+  "generationDate":new Date(1511314375224.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1325,7 +1325,7 @@
               "x":20,
               "y":510},
             "size":{
-              "width":125,
+              "width":182,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1342,7 +1342,7 @@
                   "x":20,
                   "y":510},
                 "size":{
-                  "width":125,
+                  "width":182,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -3688,7 +3688,181 @@
                       "height":63}},
                   "adaptiveStyles":{
 },
-                  "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"}]}]}]}},
+                  "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"}]}]},
+{
+          "id":"720be552973c461d83f6a7d520c563b2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":330,
+              "y":58},
+            "size":{
+              "width":23,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2f91201af57c4c19862a71c082a93da2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":330,
+                  "y":58},
+                "size":{
+                  "width":23,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 4.1农场列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"4_1农场列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"521137d06a584961a7896c436f980e6f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":330,
+              "y":354},
+            "size":{
+              "width":23,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"53ea49e15ba1498abfe1d5556427ffc9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":330,
+                  "y":354},
+                "size":{
+                  "width":23,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 4.2农旅线路",
+                      "target":{
+                        "targetType":"page",
+                        "url":"4_2农旅线路.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e4df0ef8f31b4bc588d7cff03e8aed7c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":323,
+              "y":1202},
+            "size":{
+              "width":23,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6833d59b016e408f9aaf5b907ff2cef3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":323,
+                  "y":1202},
+                "size":{
+                  "width":23,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 4.3资讯百科",
+                      "target":{
+                        "targetType":"page",
+                        "url":"4_3资讯百科.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -4758,4 +4932,16 @@
       "e89d265e971e4db3a287a12f25c2f503":{
         "scriptId":"u218"},
       "8de9a287ce1540abbcb6ec1b3c3a6254":{
-        "scriptId":"u219"}}}});
+        "scriptId":"u219"}},
+    "720be552973c461d83f6a7d520c563b2":{
+      "scriptId":"u220"},
+    "2f91201af57c4c19862a71c082a93da2":{
+      "scriptId":"u221"},
+    "521137d06a584961a7896c436f980e6f":{
+      "scriptId":"u222"},
+    "53ea49e15ba1498abfe1d5556427ffc9":{
+      "scriptId":"u223"},
+    "e4df0ef8f31b4bc588d7cff03e8aed7c":{
+      "scriptId":"u224"},
+    "6833d59b016e408f9aaf5b907ff2cef3":{
+      "scriptId":"u225"}}});

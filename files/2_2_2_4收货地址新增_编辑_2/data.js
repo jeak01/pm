@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_4收货地址新增_编辑_2.html",
-  "generationDate":new Date(1511146699447.55),
+  "generationDate":new Date(1511314371272.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
