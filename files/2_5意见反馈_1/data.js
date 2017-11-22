@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_5意见反馈_1.html",
-  "generationDate":new Date(1511314373107.68),
+  "generationDate":new Date(1511350144384.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"ddd38d0da5e64b6a90e15ec35bea54fb",
     "type":"Axure:Page",

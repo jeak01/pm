@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_1_1物流跟踪（弃用）.html",
-  "generationDate":new Date(1511314359950.94),
+  "generationDate":new Date(1511350122724.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"8ebf8fc4cf364a7fa4fe60a88940d70b",
     "type":"Axure:Page",

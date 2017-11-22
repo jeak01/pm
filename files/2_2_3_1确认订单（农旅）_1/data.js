@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_1确认订单（农旅）_1.html",
-  "generationDate":new Date(1511314371865.86),
+  "generationDate":new Date(1511350142700.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"e4f34e9fa0764deb981ee7f0a5023b05",
     "type":"Axure:Page",

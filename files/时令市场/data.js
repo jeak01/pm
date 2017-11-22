@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1511314395718.71),
+  "generationDate":new Date(1511350170427.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"1d11542002914501848254865cb4e91a",
     "type":"Axure:Page",

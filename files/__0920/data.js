@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0920.html",
-  "generationDate":new Date(1511314393726.38),
+  "generationDate":new Date(1511350168634.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"5567972d80344a53a4b9e674c91f62f7",
     "type":"Axure:Page",

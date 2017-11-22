@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1511314404148.31),
+  "generationDate":new Date(1511350177842.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"b9a08535a65345acb47616119d99461f",
     "type":"Axure:Page",

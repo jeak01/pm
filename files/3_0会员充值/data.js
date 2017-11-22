@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1511314362648.73),
+  "generationDate":new Date(1511350125498.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"8e7dda3446034761bd31b359c1be2fbb",
     "type":"Axure:Page",

@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台简介.html",
-  "generationDate":new Date(1511314403774.06),
+  "generationDate":new Date(1511350177533.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"8521f0ab463f48db983b8d17c2065e67",
     "type":"Axure:Page",

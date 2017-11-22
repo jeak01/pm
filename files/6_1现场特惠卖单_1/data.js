@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1现场特惠卖单_1.html",
-  "generationDate":new Date(1511314382471.9),
+  "generationDate":new Date(1511350157501.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"1a27263223b14aa4ab1ebc8160b192fb",
     "type":"Axure:Page",
@@ -2422,7 +2423,22 @@
                         "targetType":"page",
                         "url":"3_0会员充值.html",
                         "includeVariables":true},
-                      "linkType":"current"}]}]}},
+                      "linkType":"current"},
+{
+                      "action":"setFunction",
+                      "description":"设置 值于 recharge = &quot;spot&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"recharge"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"spot",
+                                "stos":[]}]}]}}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/6_1现场特惠卖单/u127.png"}},

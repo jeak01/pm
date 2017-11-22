@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1激活农旅卡.html",
-  "generationDate":new Date(1511314357391.24),
+  "generationDate":new Date(1511350119825.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"2531748e939d4b48b7fce744237ad26f",
     "type":"Axure:Page",

@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0727.html",
-  "generationDate":new Date(1511314401664.66),
+  "generationDate":new Date(1511350175927.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"2bca464474904d95a68f2c6dfad5c105",
     "type":"Axure:Page",

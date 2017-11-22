@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功_1.html",
-  "generationDate":new Date(1511314374366.52),
+  "generationDate":new Date(1511350147469.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"2d6b6bc21c4942f7abbd01cedef9c110",
     "type":"Axure:Page",
@@ -32,7 +33,72 @@
     "adaptiveStyles":{
 },
     "interactionMap":{
-},
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1<br> (If 值于 recharge 等于 &quot;normal&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"recharge"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"normal",
+                "stos":[]}},
+            "actions":[{
+                "action":"setPanelState",
+                "description":"设置 (动态面板) to 状态1",
+                "panelsToStates":[{
+                    "panelPath":["71621c570f00413c81f0dfb786978b26"],
+                    "stateInfo":{
+                      "setStateType":"diagram",
+                      "stateNumber":1,
+                      "stateValue":{
+                        "exprType":"stringLiteral",
+                        "value":"1",
+                        "stos":[]},
+                      "loop":false,
+                      "showWhenSet":false,
+                      "options":{
+                        "compress":false}}}]}]},
+{
+            "description":"用例 2<br> (Else If 值于 recharge 等于 &quot;spot&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"recharge"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"spot",
+                "stos":[]}},
+            "actions":[{
+                "action":"setPanelState",
+                "description":"设置 (动态面板) to 状态2",
+                "panelsToStates":[{
+                    "panelPath":["71621c570f00413c81f0dfb786978b26"],
+                    "stateInfo":{
+                      "setStateType":"diagram",
+                      "stateNumber":2,
+                      "stateValue":{
+                        "exprType":"stringLiteral",
+                        "value":"1",
+                        "stos":[]},
+                      "loop":false,
+                      "showWhenSet":false,
+                      "options":{
+                        "compress":false}}}]}]}]}},
     "diagram":{
       "objects":[{
           "id":"51c8fa84a4664c7dab516ee1a5ba4ce6",
@@ -296,111 +362,298 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"2ddd15c445c548298a3876d21f53282d",
+          "id":"71621c570f00413c81f0dfb786978b26",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
           "visible":true,
           "style":{
             "location":{
               "x":56,
               "y":180},
             "size":{
-              "width":117,
-              "height":40},
-            "cornerRadiusTopLeft":"5"},
+              "width":10,
+              "height":10}},
           "adaptiveStyles":{
 },
-          "objects":[{
-              "id":"324249df972247b2ac1c3f14b218acb2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":56,
-                  "y":180},
-                "size":{
-                  "width":117,
-                  "height":40},
-                "cornerRadiusTopLeft":"5"},
-              "adaptiveStyles":{
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"09692f3176c644babf94b69573574b8a",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"2ddd15c445c548298a3876d21f53282d",
+                  "label":"",
+                  "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"324249df972247b2ac1c3f14b218acb2",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
-                      "target":{
-                        "targetType":"page",
-                        "url":"0_0主页.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/6_1_2支付成功/u14.png"}},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 0.0主页",
+                              "target":{
+                                "targetType":"page",
+                                "url":"0_0主页.html",
+                                "includeVariables":true},
+                              "linkType":"current"},
 {
-          "id":"289aab97651f4349a5ed7c0adb8488b1",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFDDDDDD},
-            "location":{
-              "x":182,
-              "y":180},
-            "size":{
-              "width":117,
-              "height":40},
-            "cornerRadiusTopLeft":"5"},
-          "adaptiveStyles":{
+                              "action":"setFunction",
+                              "description":"设置 值于 recharge = &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"recharge"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/6_1_2支付成功/u14.png"}},
+{
+                  "id":"289aab97651f4349a5ed7c0adb8488b1",
+                  "label":"",
+                  "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "location":{
+                      "x":126,
+                      "y":0},
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
 },
-          "objects":[{
-              "id":"4d46d80498124e46925b84e20ce00b81",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFDDDDDD},
-                "location":{
-                  "x":182,
-                  "y":180},
-                "size":{
-                  "width":117,
-                  "height":40},
-                "cornerRadiusTopLeft":"5"},
-              "adaptiveStyles":{
+                  "objects":[{
+                      "id":"4d46d80498124e46925b84e20ce00b81",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "location":{
+                          "x":126,
+                          "y":0},
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 3.0会员充值",
-                      "target":{
-                        "targetType":"page",
-                        "url":"3_0会员充值_1.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/1_3支付成功/u15.png"}}]}},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 3.0会员充值",
+                              "target":{
+                                "targetType":"page",
+                                "url":"3_0会员充值_1.html",
+                                "includeVariables":true},
+                              "linkType":"current"},
+{
+                              "action":"setFunction",
+                              "description":"设置 值于 recharge = &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"recharge"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/1_3支付成功/u15.png"}}]},
+{
+              "id":"eefef442aed34ddc96a4301a3be934af",
+              "label":"状态2",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"246c56ac33d1498197462f68bac3c688",
+                  "label":"",
+                  "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3eb332773ed14e56aa3c027467498267",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 链接",
+                              "target":{
+                                "targetType":"page",
+                                "includeVariables":true},
+                              "linkType":"current"},
+{
+                              "action":"setFunction",
+                              "description":"设置 值于 recharge = &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"recharge"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/6_1_2支付成功/u14.png"}},
+{
+                  "id":"99b3e01b77554150ba30e1f703af5a77",
+                  "label":"",
+                  "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "location":{
+                      "x":126,
+                      "y":0},
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"999cb1dd67764b11a41052db501140ce",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"71621c570f00413c81f0dfb786978b26",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "location":{
+                          "x":126,
+                          "y":0},
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 6.1现场特惠卖单",
+                              "target":{
+                                "targetType":"page",
+                                "url":"6_1现场特惠卖单_1.html",
+                                "includeVariables":true},
+                              "linkType":"current"},
+{
+                              "action":"setFunction",
+                              "description":"设置 值于 recharge = &quot;&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"recharge"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -432,11 +685,21 @@
       "scriptId":"u12"},
     "74ea836ace594e7f8266b376b214c455":{
       "scriptId":"u13"},
-    "2ddd15c445c548298a3876d21f53282d":{
+    "71621c570f00413c81f0dfb786978b26":{
       "scriptId":"u14"},
-    "324249df972247b2ac1c3f14b218acb2":{
+    "2ddd15c445c548298a3876d21f53282d":{
       "scriptId":"u15"},
-    "289aab97651f4349a5ed7c0adb8488b1":{
+    "324249df972247b2ac1c3f14b218acb2":{
       "scriptId":"u16"},
+    "289aab97651f4349a5ed7c0adb8488b1":{
+      "scriptId":"u17"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"}}});
+      "scriptId":"u18"},
+    "246c56ac33d1498197462f68bac3c688":{
+      "scriptId":"u19"},
+    "3eb332773ed14e56aa3c027467498267":{
+      "scriptId":"u20"},
+    "99b3e01b77554150ba30e1f703af5a77":{
+      "scriptId":"u21"},
+    "999cb1dd67764b11a41052db501140ce":{
+      "scriptId":"u22"}}});

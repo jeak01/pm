@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_10优惠卡券_1.html",
-  "generationDate":new Date(1511314373901.21),
+  "generationDate":new Date(1511350145224.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"8ca213689a22405dbc3120d8fdca44c3",
     "type":"Axure:Page",

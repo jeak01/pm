@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_7合作农场列表.html",
-  "generationDate":new Date(1511314356430.6),
+  "generationDate":new Date(1511350119234.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"a2c7de5022b8487c9d1b52039d87739d",
     "type":"Axure:Page",

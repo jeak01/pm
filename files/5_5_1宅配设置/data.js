@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_5_1宅配设置.html",
-  "generationDate":new Date(1511314381972.57),
+  "generationDate":new Date(1511350156983.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"dee5629ec0eb43a7af43f1c9c9b82b5f",
     "type":"Axure:Page",

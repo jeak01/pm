@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_6农场定位地图.html",
-  "generationDate":new Date(1511314378985.59),
+  "generationDate":new Date(1511350154650.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"0143fe81fe0047f08c60564d3cad964f",
     "type":"Axure:Page",

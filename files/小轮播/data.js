@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1511314405527.23),
+  "generationDate":new Date(1511350179043.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"202c3c5ac9fd4da6bd1c561758315aac",
     "type":"Axure:Page",

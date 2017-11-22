@@ -185,6 +185,22 @@
                 "type":"Wireframe",
                 "url":"2_10优惠卡券.html"}]},
 {
+            "pageName":"3.0会员充值",
+            "type":"Wireframe",
+            "url":"3_0会员充值.html",
+            "children":[{
+                "pageName":"3.1充值成功",
+                "type":"Wireframe",
+                "url":"3_1充值成功.html"},
+{
+                "pageName":"3.2会员保障",
+                "type":"Wireframe",
+                "url":"3_2会员保障.html"},
+{
+                "pageName":"3.3充值优惠",
+                "type":"Wireframe",
+                "url":"3_3充值优惠.html"}]},
+{
             "pageName":"6.0农场专题（弃用）",
             "type":"Wireframe",
             "url":"6_0农场专题（弃用）.html",
@@ -207,23 +223,7 @@
 {
                     "pageName":"4.1.1.3订单支付页",
                     "type":"Wireframe",
-                    "url":"4_1_1_3订单支付页.html"},
-{
-                    "pageName":"3.0会员充值",
-                    "type":"Wireframe",
-                    "url":"3_0会员充值.html",
-                    "children":[{
-                        "pageName":"3.1充值成功",
-                        "type":"Wireframe",
-                        "url":"3_1充值成功.html"},
-{
-                        "pageName":"3.2会员保障",
-                        "type":"Wireframe",
-                        "url":"3_2会员保障.html"},
-{
-                        "pageName":"3.3充值优惠",
-                        "type":"Wireframe",
-                        "url":"3_3充值优惠.html"}]}]}]},
+                    "url":"4_1_1_3订单支付页.html"}]}]},
 {
             "pageName":"6.3采购信息查询（管理端）",
             "type":"Wireframe",
@@ -317,7 +317,7 @@
             "type":"Wireframe",
             "url":"关于我们.html"}]},
 {
-        "pageName":"0919",
+        "pageName":"完整版",
         "type":"Folder",
         "url":"",
         "children":[{
@@ -639,23 +639,7 @@
 {
                 "pageName":"6.1.3采购订单详情",
                 "type":"Wireframe",
-                "url":"6_1_3采购订单详情.html"},
-{
-                "pageName":"3.0会员充值",
-                "type":"Wireframe",
-                "url":"3_0会员充值_2.html",
-                "children":[{
-                    "pageName":"3.1充值成功",
-                    "type":"Wireframe",
-                    "url":"3_1充值成功_2.html"},
-{
-                    "pageName":"3.2会员保障",
-                    "type":"Wireframe",
-                    "url":"3_2会员保障_2.html"},
-{
-                    "pageName":"3.3充值优惠",
-                    "type":"Wireframe",
-                    "url":"3_3充值优惠_2.html"}]}]},
+                "url":"6_1_3采购订单详情.html"}]},
 {
             "pageName":"6.3采购信息查询（管理端）",
             "type":"Wireframe",
@@ -1014,7 +998,8 @@
     "package":"",
     "payfrom":"",
     "nc":"",
-    "carnum":""},
+    "carnum":"",
+    "recharge":""},
   "defaultAdaptiveView":{
     "name":"",
     "size":{

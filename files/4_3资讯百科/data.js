@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3资讯百科.html",
-  "generationDate":new Date(1511314379546.96),
+  "generationDate":new Date(1511350154936.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"05be92d07e6d49ff8089b199b0250263",
     "type":"Axure:Page",

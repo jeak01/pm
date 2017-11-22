@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_0农场专题（弃用）.html",
-  "generationDate":new Date(1511314361494.97),
+  "generationDate":new Date(1511350126348.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"962ed914fdb34c5e9867cbdcf9a60706",
     "type":"Axure:Page",

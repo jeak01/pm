@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜宅配.html",
-  "generationDate":new Date(1511314393925.52),
+  "generationDate":new Date(1511350168867.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"9f527a182f21478fbc13e4e5c8cf4595",
     "type":"Axure:Page",

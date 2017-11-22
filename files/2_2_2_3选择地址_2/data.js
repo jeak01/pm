@@ -1,13 +1,14 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_3选择地址_2.html",
-  "generationDate":new Date(1511314371205.42),
+  "generationDate":new Date(1511350141789.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom",
 "nc",
-"carNum"],
+"carNum",
+"recharge"],
   "page":{
     "packageId":"9020c9ccf4f641faa3e36a0bcd0c4b95",
     "type":"Axure:Page",
