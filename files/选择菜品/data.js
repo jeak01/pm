@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择菜品.html",
-  "generationDate":new Date(1511350169779.02),
+  "generationDate":new Date(1511507047401.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
