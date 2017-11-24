@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1511507048399.34),
+  "generationDate":new Date(1511510296274.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
