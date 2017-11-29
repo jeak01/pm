@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_1确认订单（农旅）.html",
-  "generationDate":new Date(1511510265611.81),
+  "generationDate":new Date(1511949004999.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -653,7 +653,7 @@
                       "description":"在 当前窗口 打开 2.2.3.4修改游客信息",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_3_4修改游客信息.html",
+                        "url":"2_2_3_4修改游客信息_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
