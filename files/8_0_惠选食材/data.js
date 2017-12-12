@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"8_0_惠选食材.html",
-  "generationDate":new Date(1511949037144.06),
+  "generationDate":new Date(1513048613907.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2387,7 +2387,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"c88b682d12f149f796416b934136b185",
           "label":"",
@@ -2457,7 +2457,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"936d11455e164e2cb6c81243d61fe50d",
           "label":"",
@@ -2527,7 +2527,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"be647aebee48448a9ab47bed864e279e",
           "label":"",
@@ -2597,7 +2597,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"47346cca5cd049d789effe990e95356e",
           "label":"",
@@ -2667,7 +2667,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"371948b6f8a6421abd47ba7859d2fe60",
           "label":"",
@@ -2737,7 +2737,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"33f0276fc3ec44a892bea610ac8f76c6",
           "label":"",

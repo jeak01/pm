@@ -297,26 +297,6 @@
                 "type":"Wireframe",
                 "url":"7_7商品详情.html"}]}]},
 {
-        "pageName":"PC",
-        "type":"Folder",
-        "url":"",
-        "children":[{
-            "pageName":"首页",
-            "type":"Wireframe",
-            "url":"首页.html"},
-{
-            "pageName":"优游农旅卡",
-            "type":"Wireframe",
-            "url":"优游农旅卡.html"},
-{
-            "pageName":"农旅结合",
-            "type":"Wireframe",
-            "url":"农旅结合.html"},
-{
-            "pageName":"关于我们",
-            "type":"Wireframe",
-            "url":"关于我们.html"}]},
-{
         "pageName":"完整版",
         "type":"Folder",
         "url":"",
@@ -757,6 +737,18 @@
                 "type":"Wireframe",
                 "url":"8_1惠选农旅.html"}]},
 {
+            "pageName":"9 订单模块",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"9.0 确认订单模板",
+                "type":"Wireframe",
+                "url":"9_0_确认订单模板.html"},
+{
+                "pageName":"9.1订单详情模板",
+                "type":"Wireframe",
+                "url":"9_1订单详情模板.html"}]},
+{
             "pageName":"10 供应商",
             "type":"Folder",
             "url":"",
@@ -783,259 +775,7 @@
 {
                     "pageName":"10.4更多功能",
                     "type":"Wireframe",
-                    "url":"10_4更多功能.html"}]}]}]},
-{
-        "pageName":"备份",
-        "type":"Folder",
-        "url":"",
-        "children":[{
-            "pageName":"6.2商品详情（1107）",
-            "type":"Wireframe",
-            "url":"6_2商品详情（1107）.html"},
-{
-            "pageName":"4.1.1农场主页（1106）",
-            "type":"Wireframe",
-            "url":"4_1_1农场主页（1106）.html",
-            "children":[{
-                "pageName":"4.1.1.1商品详情",
-                "type":"Wireframe",
-                "url":"4_1_1_1商品详情.html"},
-{
-                "pageName":"4.1.1.2确认订单",
-                "type":"Wireframe",
-                "url":"4_1_1_2确认订单.html"},
-{
-                "pageName":"4.1.1.3订单支付页",
-                "type":"Wireframe",
-                "url":"4_1_1_3订单支付页_3.html"},
-{
-                "pageName":"4.1.1.4支付成功",
-                "type":"Wireframe",
-                "url":"4_1_1_4支付成功.html"},
-{
-                "pageName":"4.1.1.5订单详情",
-                "type":"Wireframe",
-                "url":"4_1_1_5订单详情.html"}]},
-{
-            "pageName":"5.5宅配选菜（1106）",
-            "type":"Wireframe",
-            "url":"5_5宅配选菜（1106）.html"},
-{
-            "pageName":"6.0现场特惠专题",
-            "type":"Wireframe",
-            "url":"6_0现场特惠专题.html"},
-{
-            "pageName":"2.2.1优游权益门票",
-            "type":"Wireframe",
-            "url":"2_2_1优游权益门票.html",
-            "children":[{
-                "pageName":"5.2.1.1订单详情",
-                "type":"Wireframe",
-                "url":"5_2_1_1订单详情.html"}]},
-{
-            "pageName":"2.0购买宅配套餐（1024）",
-            "type":"Wireframe",
-            "url":"2_0购买宅配套餐（1024）.html"},
-{
-            "pageName":"6.1电子收银台",
-            "type":"Wireframe",
-            "url":"6_1电子收银台.html"},
-{
-            "pageName":"10.3文章列表",
-            "type":"Wireframe",
-            "url":"10_3文章列表.html"},
-{
-            "pageName":"6.0电子收银台（1017）",
-            "type":"Wireframe",
-            "url":"6_0电子收银台（1017）.html"},
-{
-            "pageName":"2.0蔬菜宅配（1012）",
-            "type":"Wireframe",
-            "url":"2_0蔬菜宅配（1012）.html"},
-{
-            "pageName":"2.2.1优游权益门票",
-            "type":"Wireframe",
-            "url":"2_2_1优游权益门票_1.html",
-            "children":[{
-                "pageName":"2.2.1.1订单详情",
-                "type":"Wireframe",
-                "url":"2_2_1_1订单详情.html"}]},
-{
-            "pageName":"2.2.2蔬菜宅配",
-            "type":"Wireframe",
-            "url":"2_2_2蔬菜宅配.html"},
-{
-            "pageName":"主页0920",
-            "type":"Wireframe",
-            "url":"__0920.html"},
-{
-            "pageName":"蔬菜宅配",
-            "type":"Wireframe",
-            "url":"蔬菜宅配.html",
-            "children":[{
-                "pageName":"蔬菜宅配",
-                "type":"Wireframe",
-                "url":"蔬菜宅配_1.html"},
-{
-                "pageName":"选择配送农场",
-                "type":"Wireframe",
-                "url":"选择配送农场.html"},
-{
-                "pageName":"购买配送次数",
-                "type":"Wireframe",
-                "url":"购买配送次数.html"},
-{
-                "pageName":"支付成功",
-                "type":"Wireframe",
-                "url":"支付成功.html"},
-{
-                "pageName":"选择菜品",
-                "type":"Wireframe",
-                "url":"选择菜品.html"},
-{
-                "pageName":"确认订单",
-                "type":"Wireframe",
-                "url":"确认订单.html",
-                "children":[{
-                    "pageName":"订单提交成功",
-                    "type":"Wireframe",
-                    "url":"订单提交成功.html"}]},
-{
-                "pageName":"蔬菜宅配服务说明",
-                "type":"Wireframe",
-                "url":"蔬菜宅配服务说明.html"}]},
-{
-            "pageName":"时令市场",
-            "type":"Wireframe",
-            "url":"时令市场.html",
-            "children":[{
-                "pageName":"商品列表",
-                "type":"Wireframe",
-                "url":"商品列表.html"},
-{
-                "pageName":"限时特惠详情页",
-                "type":"Wireframe",
-                "url":"限时特惠详情页.html"}]},
-{
-            "pageName":"主页0919",
-            "type":"Wireframe",
-            "url":"__0919.html",
-            "children":[{
-                "pageName":"选择城市",
-                "type":"Wireframe",
-                "url":"选择城市.html"}]},
-{
-            "pageName":"主页（0907）",
-            "type":"Wireframe",
-            "url":"主页（0907）.html"},
-{
-            "pageName":"主页0905",
-            "type":"Wireframe",
-            "url":"__0905.html"},
-{
-            "pageName":"订单确认页",
-            "type":"Wireframe",
-            "url":"订单确认页.html",
-            "children":[{
-                "pageName":"订单支付页（农旅）",
-                "type":"Wireframe",
-                "url":"订单支付页（农旅）.html"},
-{
-                "pageName":"订单支付页（蔬果）",
-                "type":"Wireframe",
-                "url":"订单支付页（蔬果）.html"},
-{
-                "pageName":"支付成功（农旅）",
-                "type":"Wireframe",
-                "url":"支付成功（农旅）.html"},
-{
-                "pageName":"支付成功（蔬果）",
-                "type":"Wireframe",
-                "url":"支付成功（蔬果）.html"}]},
-{
-            "pageName":"订单列表",
-            "type":"Wireframe",
-            "url":"订单列表.html"},
-{
-            "pageName":"农场列表",
-            "type":"Wireframe",
-            "url":"农场列表.html",
-            "children":[{
-                "pageName":"农场详情",
-                "type":"Wireframe",
-                "url":"农场详情.html"}]},
-{
-            "pageName":"商品列表",
-            "type":"Wireframe",
-            "url":"商品列表_1.html",
-            "children":[{
-                "pageName":"蜜桃",
-                "type":"Wireframe",
-                "url":"蜜桃.html"},
-{
-                "pageName":"柠檬",
-                "type":"Wireframe",
-                "url":"柠檬.html"},
-{
-                "pageName":"选择配送农场",
-                "type":"Wireframe",
-                "url":"选择配送农场_1.html"},
-{
-                "pageName":"定时配送",
-                "type":"Wireframe",
-                "url":"定时配送.html"},
-{
-                "pageName":"商品详情",
-                "type":"Wireframe",
-                "url":"商品详情.html"}]},
-{
-            "pageName":"蔬果宅配",
-            "type":"Wireframe",
-            "url":"蔬果宅配.html"},
-{
-            "pageName":"主页(安卓)0725",
-            "type":"Wireframe",
-            "url":"主页_安卓_0725.html"},
-{
-            "pageName":"主页(安卓)0727",
-            "type":"Wireframe",
-            "url":"主页_安卓_0727.html"},
-{
-            "pageName":"主页(安卓)0801",
-            "type":"Wireframe",
-            "url":"主页_安卓_0801.html"},
-{
-            "pageName":"主页(安卓)0807",
-            "type":"Wireframe",
-            "url":"主页_安卓_0807.html"},
-{
-            "pageName":"会员主页(安卓)0810",
-            "type":"Wireframe",
-            "url":"会员主页_安卓_0810.html"},
-{
-            "pageName":"特色活动0726",
-            "type":"Wireframe",
-            "url":"特色活动0726.html"},
-{
-            "pageName":"平台简介",
-            "type":"Wireframe",
-            "url":"平台简介.html"},
-{
-            "pageName":"文章列表",
-            "type":"Wireframe",
-            "url":"文章列表.html"},
-{
-            "pageName":"体验路线列表",
-            "type":"Wireframe",
-            "url":"体验路线列表.html"},
-{
-            "pageName":"备用部件",
-            "type":"Wireframe",
-            "url":"备用部件.html",
-            "children":[{
-                "pageName":"小轮播",
-                "type":"Wireframe",
-                "url":"小轮播.html"}]}]}]},
+                    "url":"10_4更多功能.html"}]}]}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",

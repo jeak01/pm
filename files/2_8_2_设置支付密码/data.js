@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_2_设置支付密码.html",
-  "generationDate":new Date(1511949007193.69),
+  "generationDate":new Date(1513048586814.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

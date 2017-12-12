@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"8_1惠选农旅.html",
-  "generationDate":new Date(1511949037465.55),
+  "generationDate":new Date(1513048614258),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3043,7 +3043,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"095a55fdb4fa4072bd1c52dcef835948",
           "label":"",
@@ -3078,7 +3078,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"4ef3a2e9328645a3821598b8788e82a1",
           "label":"",
@@ -3113,7 +3113,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"ad96169df3444f7ca50b1f3578d85a22",
           "label":"",
@@ -3148,7 +3148,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"2d8c96d7fb8e40ee90c27bae2df9b60a",
           "label":"",
@@ -3183,7 +3183,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}}]}},
+            "normal~":"images/8_0_惠选食材/u114.png"}}]}},
   "masters":{
 },
   "objectPaths":{
