@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_5意见反馈.html",
-  "generationDate":new Date(1513578486384.12),
+  "generationDate":new Date(1513578753697.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,11 +10,11 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"8a80c46effe5416c9d3651848a14a20b",
+    "packageId":"ddd38d0da5e64b6a90e15ec35bea54fb",
     "type":"Axure:Page",
     "name":"2.5意见反馈",
     "notes":{
-      "默认":"<p><span>1107更新：</span></p><p><span>1.更新了客服电话正确号码：400-800-6011</span></p>"},
+},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"199cf5432b0e4723a08edcb0c3abf599",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"e9badd81215044e1921cba99800583e6",
           "label":"",

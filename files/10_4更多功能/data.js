@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_4更多功能.html",
-  "generationDate":new Date(1513578508625.21),
+  "generationDate":new Date(1513578766088.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -354,7 +354,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}},
+            "normal~":"images/2_0个人中心主页/u24.png"}},
 {
           "id":"f09347bb411043818d661d21644e4834",
           "label":"",
@@ -506,7 +506,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}},
+            "normal~":"images/2_0个人中心主页/u24.png"}},
 {
           "id":"3f9494c56f0842a98a979ee951c1e806",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"8_0_惠选食材.html",
-  "generationDate":new Date(1513578507350.37),
+  "generationDate":new Date(1513578764834.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"8acdaacb8dcf4639b0f098e03f73f264",
           "label":"",
@@ -734,7 +734,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题（弃用）/u40.jpg"}},
+            "normal~":"images/7_0农产优品/u109.jpg"}},
 {
           "id":"5f628dca56074d07be2805cf0e7e2b6f",
           "label":"",
@@ -974,7 +974,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题（弃用）/u54.jpg"}},
+            "normal~":"images/7_0农产优品/u121.jpg"}},
 {
           "id":"e8c88ea413894175860de473b6418452",
           "label":"",
@@ -1214,7 +1214,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题（弃用）/u82.jpg"}},
+            "normal~":"images/7_0农产优品/u133.jpg"}},
 {
           "id":"82be4f82d3af4e2fa1034142cd6ba0e2",
           "label":"",
@@ -1454,7 +1454,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_0农场专题（弃用）/u68.jpg"}},
+            "normal~":"images/7_0农产优品/u145.jpg"}},
 {
           "id":"fef57a4a630f4caea70151ae17eb111c",
           "label":"",
@@ -1649,7 +1649,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情_1.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1679,7 +1679,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情_1.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1709,7 +1709,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情_1.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1739,7 +1739,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情_1.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1769,7 +1769,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情_1.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1799,7 +1799,7 @@
                       "description":"在 当前窗口 打开 7.7商品详情",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情_1.html",
+                        "url":"7_7商品详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1835,7 +1835,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u6.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"09c080ba62724758b27a5dd6f298b2f0",
           "label":"",
@@ -1868,7 +1868,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u6.png"}},
+            "normal~":"images/7_1优品列表/u18.png"}},
 {
           "id":"c500e3b5d72a445e9ae75124921c00f7",
           "label":"",
@@ -1901,7 +1901,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u10.png"}},
+            "normal~":"images/7_1优品列表/u22.png"}},
 {
           "id":"b0165aa25a034939b65e11d17ce63dcb",
           "label":"",
@@ -1975,7 +1975,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u14.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"3283006cc4d34abcbb6944ee8cbf68ee",
           "label":"",
@@ -2051,7 +2051,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u14.png"}},
+            "normal~":"images/0_0主页/u52.png"}},
 {
           "id":"41e3053edc8a4b93880a05ab4eed0997",
           "label":"",
@@ -2129,7 +2129,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u22.png"}},
+            "normal~":"images/7_1优品列表/u34.png"}},
 {
           "id":"28e9432c9d5c447e891add10a105ba0e",
           "label":"",
@@ -2174,7 +2174,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u22.png"}},
+            "normal~":"images/7_1优品列表/u34.png"}},
 {
           "id":"f8fbb23c0de64c7582718abb3ce4d8d8",
           "label":"购物车入口",
@@ -2201,7 +2201,7 @@
                       "description":"在 当前窗口 打开 7.4优品购物车",
                       "target":{
                         "targetType":"page",
-                        "url":"7_4优品购物车_1.html",
+                        "url":"7_4优品购物车.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2247,7 +2247,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_3农场店铺页/u119.png"}},
+                    "normal~":"images/7_1优品列表/u137.png"}},
 {
                   "id":"357ab9dec7904008bf3d24192ac5a86d",
                   "label":"",
@@ -2290,7 +2290,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_3农场店铺页/u121.png"}},
+                    "normal~":"images/7_1优品列表/u139.png"}},
 {
                   "id":"99fc48cd0ff14c7f903daa14cc1db1b2",
                   "label":"",
@@ -2352,7 +2352,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_3农场店铺页/u124.png"}}]}]},
+                    "normal~":"images/7_1优品列表/u142.png"}}]}]},
 {
           "id":"8d191c009df84947956f17f43cc3c970",
           "label":"",
@@ -2387,7 +2387,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"c88b682d12f149f796416b934136b185",
           "label":"",
@@ -2457,7 +2457,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"936d11455e164e2cb6c81243d61fe50d",
           "label":"",
@@ -2527,7 +2527,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"be647aebee48448a9ab47bed864e279e",
           "label":"",
@@ -2597,7 +2597,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"47346cca5cd049d789effe990e95356e",
           "label":"",
@@ -2667,7 +2667,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"371948b6f8a6421abd47ba7859d2fe60",
           "label":"",
@@ -2737,7 +2737,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"33f0276fc3ec44a892bea610ac8f76c6",
           "label":"",

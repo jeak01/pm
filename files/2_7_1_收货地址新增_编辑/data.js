@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_7_1_收货地址新增_编辑.html",
-  "generationDate":new Date(1513578486617.28),
+  "generationDate":new Date(1513578753936.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"9b8742e8d4a949c7b5383e8b3c45e24f",
+    "packageId":"acc09c34e3444fa0820f6b7f8d410345",
     "type":"Axure:Page",
     "name":"2.7.1 收货地址新增/编辑",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"f2f879668fb5468aa991f832fb695c0a",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"a04c7bdf863f464383d9bd914f5d74f3",
           "label":"",
@@ -227,7 +227,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"9623ddff63f64590acbf0b83f45c5ab3",
           "label":"",
@@ -314,7 +314,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"cfd636ecef1e48a19bce106ee2ee48da",
           "label":"",
@@ -401,7 +401,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"0b0e33ed8607467cb27097db93b3f041",
           "label":"",
@@ -488,7 +488,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"081ab159ef3044cfbdbffc88783f954f",
           "label":"",

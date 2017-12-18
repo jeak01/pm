@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_3_4修改游客信息.html",
-  "generationDate":new Date(1513578485736.69),
+  "generationDate":new Date(1513578752615.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"8cf0805253114145878e510acbc95934",
+    "packageId":"32e1f88acf8e40b8b90cb90615c56798",
     "type":"Axure:Page",
     "name":"2.2.3.4修改游客信息",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"9dd3a4d7023b4b5e970ecc4abb7feb96",
           "label":"",
@@ -911,7 +911,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"ecd04649331b42b4a256f461c76b1664",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_1_1物流跟踪.html",
-  "generationDate":new Date(1513578496111.89),
+  "generationDate":new Date(1513578753228.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -73,7 +73,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u0.png"}},
+            "normal~":"images/2_3_1_1物流跟踪/u0.png"}},
 {
           "id":"8effa8839c60485b9023b142ddad9503",
           "label":"",
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"f17c39d40d664bc38bc0854691e47254",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"c4eea6f4a5a148cbb19a450b74112e3f",
           "label":"",
@@ -371,7 +371,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u16.png"}},
+            "normal~":"images/2_3_1_1物流跟踪/u16.png"}},
 {
           "id":"4feebd831bb9493dac2717288090247d",
           "label":"",
@@ -494,7 +494,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
 {
           "id":"2defbad40925484a9bcd205f53ab8b24",
           "label":"",
@@ -769,7 +769,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
 {
           "id":"e08e80206b28493eaaea6b65ea9b9604",
           "label":"",
@@ -816,7 +816,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
 {
           "id":"399ecd04c8d04d69af234dbb612b610f",
           "label":"",
@@ -838,7 +838,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/2_3_1_1物流跟踪（弃用）/u40_line.png"}},
+            "line~":"images/2_3_1_1物流跟踪/u40_line.png"}},
 {
           "id":"31d6e1b2fac64affba49136a26c08afa",
           "label":"",
@@ -961,7 +961,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u22.png"}},
+            "normal~":"images/2_3_1_1物流跟踪/u22.png"}},
 {
           "id":"87066851806744b28685630cd2ab7496",
           "label":"",
@@ -1008,7 +1008,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u47.png"}},
+            "normal~":"images/2_3_1_1物流跟踪/u47.png"}},
 {
           "id":"c044d87f2e9c4ff392cca0ff22eb1ecb",
           "label":"",
@@ -1041,7 +1041,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1_1物流跟踪（弃用）/u49.jpg"}}]}},
+            "normal~":"images/0_0主页/u7.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{

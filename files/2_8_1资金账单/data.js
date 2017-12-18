@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_1资金账单.html",
-  "generationDate":new Date(1513578486802.43),
+  "generationDate":new Date(1513578754101.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"b9b46922f9d64bd59a5ffda55d6150fc",
+    "packageId":"6537888706b84a7e8fd0f18f8270395d",
     "type":"Axure:Page",
     "name":"2.8.1资金账单",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"c9b8c954a8c84478b2a04ffada24a179",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"8a4c72278c44474fb0d70a081c1d9436",
           "label":"",
@@ -873,7 +873,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u28.png"}},
 {
           "id":"c7de0949b7ea4a22b05d41c801dc3322",
           "label":"",
@@ -910,7 +910,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u28.png"}},
 {
           "id":"4776c170cea244cf8c9f71e229429d3b",
           "label":"",

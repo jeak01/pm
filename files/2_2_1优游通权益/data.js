@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_1优游通权益.html",
-  "generationDate":new Date(1513578484649.99),
+  "generationDate":new Date(1513578751201.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"59d7a78e7e794631912a0afdbd72fe37",
+    "packageId":"8694d8d441a44c4fbc051977ad3c89e5",
     "type":"Axure:Page",
     "name":"2.2.1优游通权益",
     "notes":{
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"a3f462388bc34eb0a6bd092c958ebb72",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"6597debb8d3047d98133264a098e1e7d",
           "label":"",

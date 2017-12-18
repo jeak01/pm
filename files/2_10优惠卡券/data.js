@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_10优惠卡券.html",
-  "generationDate":new Date(1513578487022.57),
+  "generationDate":new Date(1513578754416.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"a1bc5ab30b08493f986237489d4d1b68",
+    "packageId":"8ca213689a22405dbc3120d8fdca44c3",
     "type":"Axure:Page",
     "name":"2.10优惠卡券",
     "notes":{
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"9667912a23724d2db152fe4e4f21f0ec",
           "label":"",
@@ -2786,7 +2786,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"61351f57e7b943ff9a178f5f51e066b1",
           "label":"游记",

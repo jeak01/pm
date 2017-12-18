@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"8_1惠选农旅.html",
-  "generationDate":new Date(1513578507583.52),
+  "generationDate":new Date(1513578765087.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"732c76b2c5cd4378aee5a070c1824b0f",
           "label":"",
@@ -2368,7 +2368,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_7合作农场列表_1/u82.png"}},
+                    "normal~":"images/1_7合作农场列表/u82.png"}},
 {
                   "id":"a7bc11ad6b4f4705bb521e95d141d5aa",
                   "label":"",
@@ -2403,7 +2403,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+                    "normal~":"images/0_0主页/top_u160.png"}},
 {
                   "id":"84cbcab79de9439fae4aa6039211c13c",
                   "label":"",
@@ -2487,7 +2487,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+                    "normal~":"images/0_0主页/top_u160.png"}},
 {
                   "id":"cd369a94fc8b46aba991c64fe2efcf1b",
                   "label":"",
@@ -2563,7 +2563,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+                    "normal~":"images/0_0主页/top_u160.png"}},
 {
                   "id":"274c6ffec9694047b0c5b6222e9144f1",
                   "label":"",
@@ -2639,7 +2639,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+                    "normal~":"images/0_0主页/top_u160.png"}},
 {
                   "id":"91e41919130c4aa488137a57da2f756b",
                   "label":"",
@@ -2715,7 +2715,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+                    "normal~":"images/0_0主页/top_u160.png"}},
 {
                   "id":"9ac2235acdb64211b69749770f3178e1",
                   "label":"",
@@ -2791,7 +2791,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+                    "normal~":"images/0_0主页/top_u160.png"}},
 {
                   "id":"ba6f97d8b2b9412199ee67019be6f62c",
                   "label":"",
@@ -2867,7 +2867,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+                    "normal~":"images/0_0主页/top_u160.png"}},
 {
                   "id":"5589c5537b744a72a592ce2154d396c1",
                   "label":"",
@@ -3043,7 +3043,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"095a55fdb4fa4072bd1c52dcef835948",
           "label":"",
@@ -3078,7 +3078,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"4ef3a2e9328645a3821598b8788e82a1",
           "label":"",
@@ -3113,7 +3113,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"ad96169df3444f7ca50b1f3578d85a22",
           "label":"",
@@ -3148,7 +3148,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}},
+            "normal~":"images/8_0_惠选食材/u114.png"}},
 {
           "id":"2d8c96d7fb8e40ee90c27bae2df9b60a",
           "label":"",
@@ -3183,7 +3183,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/首页/u4.png"}}]}},
+            "normal~":"images/8_0_惠选食材/u114.png"}}]}},
   "masters":{
 },
   "objectPaths":{

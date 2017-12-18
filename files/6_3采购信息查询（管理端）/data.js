@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3采购信息查询（管理端）.html",
-  "generationDate":new Date(1513578488258.39),
+  "generationDate":new Date(1513578761619.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"5fe718d6185d4c0badd67ddb3c34b73e",
+    "packageId":"644cb0f86c9d40e58b7900a51b036df5",
     "type":"Axure:Page",
     "name":"6.3采购信息查询（管理端）",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"013d3f74e67b4295b693b855f5f9bfcf",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"4e7b819e9e8e44a1bc337df879ea9bf0",
           "label":"",
@@ -341,10 +341,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.3.1 订单列表（现场管理）",
+                      "description":"在 当前窗口 打开 6.3.1 采购订单列表",
                       "target":{
                         "targetType":"page",
-                        "url":"6_3_1_订单列表（现场管理）.html",
+                        "url":"6_3_1_采购订单列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

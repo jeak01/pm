@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_3选择地址_1.html",
-  "generationDate":new Date(1513578489677.37),
+  "generationDate":new Date(1513578763891.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"27b8c14261a54cce943e9a41b1c74a15",
+    "packageId":"4daa276362fd43099c385106234acec3",
     "type":"Axure:Page",
     "name":"2.2.2.3选择地址",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"9dd3a4d7023b4b5e970ecc4abb7feb96",
           "label":"",
@@ -779,7 +779,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"0fd32577c6e74925abc207b37d7101e0",
           "label":"",
@@ -1059,42 +1059,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_2_2_3选择地址/u51.png"}},
-{
-          "id":"7e385b544435477f87dbd22f5e71ef13",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":213,
-              "y":130},
-            "size":{
-              "width":45,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"fbfb6e8ee30b49a89e13664582c5df04",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":213,
-                  "y":130},
-                "size":{
-                  "width":45,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"images/2_2_2_3选择地址/u51.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1203,8 +1168,4 @@
     "b3fa7ba83b2443478af334395fedd3ed":{
       "scriptId":"u51"},
     "58296abe975a479a8e17382aad4c4150":{
-      "scriptId":"u52"},
-    "7e385b544435477f87dbd22f5e71ef13":{
-      "scriptId":"u53"},
-    "fbfb6e8ee30b49a89e13664582c5df04":{
-      "scriptId":"u54"}}});
+      "scriptId":"u52"}}});

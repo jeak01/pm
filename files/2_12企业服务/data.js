@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_12企业服务.html",
-  "generationDate":new Date(1513578497320.69),
+  "generationDate":new Date(1513578754567.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"9667912a23724d2db152fe4e4f21f0ec",
           "label":"",
@@ -182,7 +182,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"c8d08d730fdd44cc9b501251f9dd47a1",
           "label":"",
@@ -252,7 +252,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u8.png"}},
+            "normal~":"images/2_0个人中心主页/u12.png"}},
 {
           "id":"078d936f8a88427d8164574f6524aab9",
           "label":"",
@@ -320,7 +320,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u8.png"}},
+            "normal~":"images/2_0个人中心主页/u12.png"}},
 {
           "id":"6c0cf49b93464f049bfe776d5f1a8966",
           "label":"",
@@ -388,7 +388,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u8.png"}},
+            "normal~":"images/2_0个人中心主页/u12.png"}},
 {
           "id":"2208771a0f714243ab957eb7e3afaff4",
           "label":"",
@@ -456,7 +456,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u8.png"}},
+            "normal~":"images/2_0个人中心主页/u12.png"}},
 {
           "id":"75c60cc9bd964f3b86a748cd7846daf5",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_8服务条款.html",
-  "generationDate":new Date(1513578483766.31),
+  "generationDate":new Date(1513578750114.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"13e3aee6e1f74bcf8592740beb5d58c5",
+    "packageId":"7db736f873134b379e47665ddbe94dc5",
     "type":"Axure:Page",
     "name":"1.8服务条款",
     "notes":{
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"4484357dbed94b3d9058dc8f3ab201a4",
           "label":"",
@@ -116,7 +116,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"5322e00bd8654fe693b5019af4fb73f2",
           "label":"",

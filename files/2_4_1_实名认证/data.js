@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_4_1_实名认证.html",
-  "generationDate":new Date(1513578486310.07),
+  "generationDate":new Date(1513578753629.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"2413f65a95234b808524c2fae55f4ee9",
+    "packageId":"1433976cc6cc43a89f4d5535652f4447",
     "type":"Axure:Page",
     "name":"2.4.1 实名认证",
     "notes":{
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"199cf5432b0e4723a08edcb0c3abf599",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"e9badd81215044e1921cba99800583e6",
           "label":"",
@@ -233,7 +233,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"83f808eae28344d3abae94ea812c9b86",
           "label":"",
@@ -272,7 +272,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"25f875e6863b4823a04a630d6ece200d",
           "label":"",
@@ -378,10 +378,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.4个人资料",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"2_4个人资料.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

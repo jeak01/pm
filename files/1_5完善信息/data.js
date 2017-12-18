@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_5完善信息.html",
-  "generationDate":new Date(1513578483461.1),
+  "generationDate":new Date(1513578749833.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"e7a37b74c486411ab596a84951c6b5ee",
+    "packageId":"9d36dbf5a5464a46bb695b4d10820eed",
     "type":"Axure:Page",
     "name":"1.5完善信息",
     "notes":{
@@ -209,7 +209,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"6be807e30780489aaedb715efeccca58",
           "label":"",
@@ -258,7 +258,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"9caeea11103b4a71ad1d2b6b3af5d573",
           "label":"",
@@ -308,7 +308,7 @@
             "fontSize":"11px",
             "location":{
               "x":34,
-              "y":279},
+              "y":360},
             "size":{
               "width":292,
               "height":28}},
@@ -325,7 +325,7 @@
                 "fontSize":"11px",
                 "location":{
                   "x":34,
-                  "y":279},
+                  "y":360},
                 "size":{
                   "width":292,
                   "height":28}},
@@ -342,7 +342,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":90},
+              "y":93},
             "size":{
               "width":360,
               "height":40},
@@ -361,7 +361,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":90},
+                  "y":93},
                 "size":{
                   "width":360,
                   "height":40},
@@ -371,7 +371,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"48cb4998cd644d4d8f9bb6c0e3efd317",
           "label":"",
@@ -381,7 +381,7 @@
           "style":{
             "location":{
               "x":80,
-              "y":98},
+              "y":101},
             "size":{
               "width":270,
               "height":25}},
@@ -396,7 +396,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":129},
+              "y":132},
             "size":{
               "width":360,
               "height":40},
@@ -415,7 +415,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":129},
+                  "y":132},
                 "size":{
                   "width":360,
                   "height":40},
@@ -425,7 +425,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"d28b7085a3a04f1797ad4b6ae930e242",
           "label":"",
@@ -435,7 +435,7 @@
           "style":{
             "location":{
               "x":80,
-              "y":137},
+              "y":140},
             "size":{
               "width":270,
               "height":25}},
@@ -450,7 +450,7 @@
           "style":{
             "location":{
               "x":17,
-              "y":104},
+              "y":107},
             "size":{
               "width":53,
               "height":16}},
@@ -466,7 +466,7 @@
               "style":{
                 "location":{
                   "x":17,
-                  "y":104},
+                  "y":107},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -483,7 +483,7 @@
           "style":{
             "location":{
               "x":17,
-              "y":140},
+              "y":143},
             "size":{
               "width":53,
               "height":16}},
@@ -499,7 +499,7 @@
               "style":{
                 "location":{
                   "x":17,
-                  "y":140},
+                  "y":143},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -524,7 +524,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":20,
-              "y":229},
+              "y":310},
             "size":{
               "width":320,
               "height":40},
@@ -552,7 +552,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":20,
-                  "y":229},
+                  "y":310},
                 "size":{
                   "width":320,
                   "height":40},
@@ -617,7 +617,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"c235b8a71e0c4246b7315f2a181e64d1",
           "label":"",
@@ -706,8 +706,8 @@
             "fontSize":"11px",
             "verticalAlignment":"middle",
             "location":{
-              "x":56,
-              "y":195},
+              "x":56.5,
+              "y":276},
             "size":{
               "width":228,
               "height":14}},
@@ -724,8 +724,8 @@
                 "fontSize":"11px",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":56,
-                  "y":195},
+                  "x":56.5,
+                  "y":276},
                 "size":{
                   "width":228,
                   "height":14}},
@@ -740,7 +740,7 @@
           "style":{
             "location":{
               "x":155,
-              "y":190},
+              "y":271},
             "size":{
               "width":129,
               "height":24}},

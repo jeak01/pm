@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_2订单详情（弃用）.html",
-  "generationDate":new Date(1513578496193.94),
+  "generationDate":new Date(1513578753330.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"54215657aa204d649cbe67344ec0084d",
           "label":"",
@@ -143,7 +143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"0537fa734f214518b09113054f8164bd",
           "label":"",
@@ -215,7 +215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3_1订单详情（宅配）/u8.png"}},
+            "normal~":"images/2_3_1订单详情（单品）/u8.png"}},
 {
           "id":"e7e89fbd006a460d98787ac14fed2027",
           "label":"",
@@ -501,7 +501,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+                    "normal~":"images/0_0主页/top_u44.png"}},
 {
                   "id":"4bdaf3a37ac64ce390539e49e8b16206",
                   "label":"",
@@ -581,7 +581,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}},
+                    "normal~":"images/1_9订单详情（农旅卡）/u34.png"}},
 {
                   "id":"10b030cb4eb646c18366e6dcc6d1de51",
                   "label":"",
@@ -603,10 +603,9 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 2.5意见反馈",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"2_5意见反馈.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true}]}]},
@@ -683,7 +682,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"b83fb0e072064b058c1609d19c308866",
           "label":"",
@@ -899,7 +898,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_3_3订单详情（农旅）/u48.png"}},
+            "normal~":"images/0_0主页/u223.png"}},
 {
           "id":"b851d16fb041435fbd7c1d094f28f8c2",
           "label":"",
@@ -923,10 +922,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.0个人中心主页",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"2_0个人中心主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

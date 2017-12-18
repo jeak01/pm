@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3_1_采购订单列表.html",
-  "generationDate":new Date(1513578504217.29),
+  "generationDate":new Date(1513578761721.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"62d59d0b3ee14c60913203d2869d01e3",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"1adc14db10cf4dad9fca806c318b52eb",
           "label":"",
@@ -239,7 +239,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_订单列表（现场管理）/u8.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u8.png"}},
 {
           "id":"6a463b315e3c4bb2b3a116b98ac53a14",
           "label":"",
@@ -278,7 +278,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_订单列表（现场管理）/u10.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u10.png"}},
 {
           "id":"a0081c6de2224c5e9cd81532e029e77f",
           "label":"",
@@ -317,7 +317,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_订单列表（现场管理）/u10.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u10.png"}},
 {
           "id":"29611f37c0ac450483e6686f17a832de",
           "label":"",
@@ -362,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_订单列表（现场管理）/u14.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u14.png"}},
 {
           "id":"c64e4ee2ab6e41afa1afde841da6e305",
           "label":"",
@@ -1488,7 +1488,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_订单列表（现场管理）/u67.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u67.png"}},
 {
           "id":"5ccf6658cc224f3fa2e22d24f5f34a7c",
           "label":"",
@@ -1572,7 +1572,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_订单列表（现场管理）/u71.png"}},
+            "normal~":"images/0_0主页/u54.png"}},
 {
           "id":"effb9af5a9174abe8d89c9540bd35ef1",
           "label":"",
@@ -1627,7 +1627,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_1_订单列表（现场管理）/u73.png"}},
+            "normal~":"images/6_3_1_采购订单列表/u73.png"}},
 {
           "id":"08d9c64732e24e028eeb6e162bd3343e",
           "label":"",

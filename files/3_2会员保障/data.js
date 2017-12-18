@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障.html",
-  "generationDate":new Date(1513578487308.76),
+  "generationDate":new Date(1513578754867.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"451da071143f4afa9cdb9c7ba7dd9af4",
+    "packageId":"a56d04347f284fa29d6d645928c5fa48",
     "type":"Axure:Page",
     "name":"3.2会员保障",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"e799989fe0b4400cbcfe23cd55d23bd5",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"fa66b8ee73174277a1325ee150d67e1b",
           "label":"",
@@ -259,7 +259,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}}]}]},
+                    "normal~":"images/0_0主页/top_u44.png"}}]}]},
 {
           "id":"c0b5dd23a2304b05adbaf878c59dc420",
           "label":"",

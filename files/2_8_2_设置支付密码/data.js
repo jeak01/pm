@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_2_设置支付密码.html",
-  "generationDate":new Date(1513578486855.47),
+  "generationDate":new Date(1513578754149.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"99dd3fafd2fa433a8a6f5e16e16d6061",
+    "packageId":"f4f66358fef24ea4a23f0c136e4b5ef4",
     "type":"Axure:Page",
     "name":"2.8.2 设置支付密码",
     "notes":{
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"26d4e3fc84b14efa82ff9993440e21c9",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"636b5ae278b84f9e940512a50abe1b43",
           "label":"",
@@ -233,7 +233,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"85c01dd985dd4b39a80f1431fdde0dfa",
           "label":"",
@@ -274,10 +274,6 @@
           "styleType":"textBox",
           "visible":true,
           "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC,
-              "opacity":1},
             "location":{
               "x":80,
               "y":96},
@@ -324,7 +320,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"9afd9ca29aec4b8182fd133e7704a245",
           "label":"",
@@ -365,10 +361,6 @@
           "styleType":"textBox",
           "visible":true,
           "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC,
-              "opacity":1},
             "location":{
               "x":80,
               "y":57},

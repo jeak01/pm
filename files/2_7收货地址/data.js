@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_7收货地址.html",
-  "generationDate":new Date(1513578486563.24),
+  "generationDate":new Date(1513578753877.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"2ba22b8b336845b2a5171546f1c78f71",
+    "packageId":"8cef5e649e0a4bfea194b8e7e9477d4c",
     "type":"Axure:Page",
     "name":"2.7收货地址",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"345d1c8b1e31427dba05566cad85ae51",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"fce0340facb841939891147e6105ceb4",
           "label":"",
@@ -725,39 +725,6 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"1af637830ea342729afa73fcdad3c3a6",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":230,
-              "y":131},
-            "size":{
-              "width":53,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"dc5d5cc6f1fc4bbe8024a3e20f405ac5",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":230,
-                  "y":131},
-                "size":{
-                  "width":53,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
@@ -829,8 +796,4 @@
     "6d5c3af30d34437fbb6e2a99ddaeee07":{
       "scriptId":"u32"},
     "4fad3f1a97604822ba1c01be5d70bf70":{
-      "scriptId":"u33"},
-    "1af637830ea342729afa73fcdad3c3a6":{
-      "scriptId":"u34"},
-    "dc5d5cc6f1fc4bbe8024a3e20f405ac5":{
-      "scriptId":"u35"}}});
+      "scriptId":"u33"}}});

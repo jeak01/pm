@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_2菜品列表.html",
-  "generationDate":new Date(1513578508338.02),
+  "generationDate":new Date(1513578765818.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -409,7 +409,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u8.png"}},
+            "normal~":"images/6_1现场特惠卖单/u16.png"}},
 {
           "id":"a5c3ab6129204250a1469a6a6e0566a0",
           "label":"",
@@ -613,7 +613,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u8.png"}},
+            "normal~":"images/6_1现场特惠卖单/u16.png"}},
 {
           "id":"331f01d597ab4e10bbf0df1b2d77d828",
           "label":"",
@@ -817,7 +817,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u8.png"}},
+            "normal~":"images/6_1现场特惠卖单/u16.png"}},
 {
           "id":"41f8a983c0cd4da0ae03bc4f47a9946c",
           "label":"",
@@ -1021,7 +1021,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u8.png"}},
+            "normal~":"images/6_1现场特惠卖单/u16.png"}},
 {
           "id":"c87e1ccb5c1d4280b8008d0da7328dad",
           "label":"",
@@ -1210,7 +1210,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u8.png"}},
+            "normal~":"images/6_1现场特惠卖单/u16.png"}},
 {
           "id":"6c0d1a8843264e0b83f07b9dac4a0fee",
           "label":"",
@@ -1399,7 +1399,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1现场特惠卖单/u8.png"}},
+            "normal~":"images/6_1现场特惠卖单/u16.png"}},
 {
           "id":"a99d1144c9eb4d8db16c48f52a9a7ba3",
           "label":"",

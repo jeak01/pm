@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_2登录.html",
-  "generationDate":new Date(1513578480943.23),
+  "generationDate":new Date(1513578747436.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"6334bf68d69b4843802ca360a3d1c3f2",
+    "packageId":"380fcef89eda4a41837b1fe827e9462b",
     "type":"Axure:Page",
     "name":"0.2登录",
     "notes":{
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_2登录/u2.png"}},
+            "normal~":"images/0_0主页/u56.png"}},
 {
           "id":"60fb413c57634c95be5989033edac766",
           "label":"",
@@ -346,6 +346,23 @@
                   "height":40}},
               "adaptiveStyles":{
 }}],
+          "images":{
+            "normal~":"images/0_2登录/u14.png"}},
+{
+          "id":"f2d6b7f0293d47d5b8529b2be1aac26f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":57,
+              "y":43},
+            "size":{
+              "width":233,
+              "height":67}},
+          "adaptiveStyles":{
+},
           "interactionMap":{
             "onClick":{
               "description":"OnClick",
@@ -354,50 +371,13 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.0农旅卡主题页（极简）",
+                      "description":"在 当前窗口 打开 0.0主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_0农旅卡主题页（极简）.html",
+                        "url":"0_0主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/0_2登录/u14.png"}},
-{
-          "id":"41343d7e78594ef1bd6243a79670099e",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "location":{
-              "x":274,
-              "y":405},
-            "size":{
-              "width":45,
-              "height":14}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"15d81e4496704720a0bb55c7a71939f2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "location":{
-                  "x":274,
-                  "y":405},
-                "size":{
-                  "width":45,
-                  "height":14}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
+          "tabbable":true},
 {
           "id":"7feae42305af4eeb969acff335ec209f",
           "label":"",
@@ -510,7 +490,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_2登录/u21.png"}},
+            "normal~":"images/0_2登录/u20.png"}},
 {
           "id":"84854935ee2e4b65986f459355ddac57",
           "label":"",
@@ -609,7 +589,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_2登录/u27.png"}}]}},
+            "normal~":"images/0_2登录/u26.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -645,29 +625,27 @@
       "scriptId":"u14"},
     "41f9259124694124af65f7df54069230":{
       "scriptId":"u15"},
-    "41343d7e78594ef1bd6243a79670099e":{
+    "f2d6b7f0293d47d5b8529b2be1aac26f":{
       "scriptId":"u16"},
-    "15d81e4496704720a0bb55c7a71939f2":{
-      "scriptId":"u17"},
     "7feae42305af4eeb969acff335ec209f":{
-      "scriptId":"u18"},
+      "scriptId":"u17"},
     "bc467ca481f94fc3a34c3972171fd9c2":{
-      "scriptId":"u19"},
+      "scriptId":"u18"},
     "5350f93f31d74ad084845e92c62bb347":{
-      "scriptId":"u20"},
+      "scriptId":"u19"},
     "ca22a9ea4faa4effa36bd464dcbe486b":{
-      "scriptId":"u21"},
+      "scriptId":"u20"},
     "25f77614243c4b428653e4224fa0fa75":{
-      "scriptId":"u22"},
+      "scriptId":"u21"},
     "84854935ee2e4b65986f459355ddac57":{
-      "scriptId":"u23"},
+      "scriptId":"u22"},
     "57921a59335d498ca519c0a9e278edd8":{
-      "scriptId":"u24"},
+      "scriptId":"u23"},
     "f4762c14b4dc4293a5f60af05887543c":{
-      "scriptId":"u25"},
+      "scriptId":"u24"},
     "c78d3de155fc426aadd33e124af8e6ba":{
-      "scriptId":"u26"},
+      "scriptId":"u25"},
     "f783774c6ef24e7c92d4b97392e422d7":{
-      "scriptId":"u27"},
+      "scriptId":"u26"},
     "3fbf408d85cc42f49941b30bdb20a8e1":{
-      "scriptId":"u28"}}});
+      "scriptId":"u27"}}});

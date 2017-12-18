@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5确认订单_优品_.html",
-  "generationDate":new Date(1513578489244.08),
+  "generationDate":new Date(1513578763436.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,11 +10,11 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"76190fdbe98c4876bdb7beefde71dde8",
+    "packageId":"9cb67a601f6e40e8b5a38fadb9c48904",
     "type":"Axure:Page",
     "name":"7.5确认订单(优品)",
     "notes":{
-      "默认":"<p><span>1108更新：</span></p><p><span>1.增加了点击优惠卡券后的效果</span></p>"},
+},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -396,7 +396,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u139.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u133.png"}},
 {
           "id":"7f8f7e7a3aae47edb8e277b590acc84d",
           "label":"",
@@ -534,7 +534,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u35.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u129.png"}},
 {
           "id":"4988e77ab7354f698af43264ca42884b",
           "label":"",
@@ -634,7 +634,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u40.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u22.png"}},
 {
                   "id":"bd81b8a80f124b5689314b3e35402738",
                   "label":"",
@@ -663,7 +663,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u42.png"}},
+                    "normal~":"images/0_0主页/u243.png"}},
 {
                   "id":"38cac6f18df14e3eb9e08fdef10471a3",
                   "label":"",
@@ -698,7 +698,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u42.png"}},
+                    "normal~":"images/0_0主页/u243.png"}},
 {
                   "id":"f82ac4ad05f64f68aec6ea11925c9eb2",
                   "label":"",
@@ -737,7 +737,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u28.png"}},
 {
                   "id":"b13df10763554f4ba7f14cda6c79c4d4",
                   "label":"",
@@ -776,7 +776,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u28.png"}},
 {
                   "id":"438bc51d5b2a46ad877f6aa08427cd30",
                   "label":"",
@@ -854,7 +854,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u34.png"}},
 {
                   "id":"27ac6ca6e9d84d788b3acc863189c079",
                   "label":"",
@@ -889,7 +889,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u34.png"}},
 {
                   "id":"c05cbc976aef444eb95858611cb478a3",
                   "label":"",
@@ -924,7 +924,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u34.png"}},
 {
                   "id":"043ba1e7b14347869fcd6cff2dbdfe40",
                   "label":"",
@@ -959,7 +959,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u34.png"}},
 {
                   "id":"8f0f55daf233498c85df775b273f2aea",
                   "label":"",
@@ -994,7 +994,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u34.png"}},
 {
                   "id":"86553a4aaa33470ba0eb04cb01bed868",
                   "label":"",
@@ -1029,7 +1029,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u34.png"}},
 {
                   "id":"888645ce9f2944eda871e8cda04fc532",
                   "label":"",
@@ -1072,7 +1072,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u64.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u46.png"}},
 {
                   "id":"7e97c125470e4912ac7f7914888d0315",
                   "label":"",
@@ -1115,7 +1115,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"662eea8da5984fc79165f7686d57df40",
                   "label":"",
@@ -1150,7 +1150,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"70d9c3c3ef3440c5ab94ac2ef44f2372",
                   "label":"",
@@ -1191,7 +1191,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"3ea5d18e31f8404880035caeb014797e",
                   "label":"",
@@ -1232,7 +1232,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"67bc3ac40ad04dde9ea561e38b169cd7",
                   "label":"",
@@ -1273,7 +1273,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"37f60a2cb9c64303887c1c85eed04689",
                   "label":"",
@@ -1314,7 +1314,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"ef4611113e99406bac9fbe04d62f364b",
                   "label":"",
@@ -1363,7 +1363,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u78.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
 {
                   "id":"ad34e6860bb9420e98d51d275ef0a989",
                   "label":"",
@@ -1412,7 +1412,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"3269b6e5a3b84cd0aeaf0c3c044989ec",
                   "label":"",
@@ -1453,7 +1453,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"ac38872c67594306b4e6bac31ead142a",
                   "label":"",
@@ -1488,7 +1488,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"50acd98e3baf4d28a37e87f4359bd8d0",
                   "label":"",
@@ -1529,7 +1529,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"80acf568e7b74e109a9680dc5e1ad474",
                   "label":"",
@@ -1570,7 +1570,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"212679fde85f4e00b581b1662c1a1cbb",
                   "label":"",
@@ -1605,7 +1605,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"4959a50872ca4f578f10a53039e16ced",
                   "label":"",
@@ -1654,7 +1654,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u78.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
 {
                   "id":"3ef8c8ffe7e14e1c88e22e544d24664a",
                   "label":"",
@@ -1703,7 +1703,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"57e61245f5724510824e79ba72f383ea",
                   "label":"",
@@ -1744,7 +1744,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"95f382afea18458d9b678836c783bbc6",
                   "label":"",
@@ -1779,7 +1779,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"436a55c7bd784a45ba84ef7510fcd2dc",
                   "label":"",
@@ -1820,7 +1820,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"0c969f1a395b41dd970cff9e37f97c06",
                   "label":"",
@@ -1861,7 +1861,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"72b4432a35764f08b4870c5d15a838a7",
                   "label":"",
@@ -1896,7 +1896,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"71a14ad572b34e88b3378fc679f06914",
                   "label":"",
@@ -1945,7 +1945,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u78.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
 {
                   "id":"f6a6a2031f664d178e08c55bac790064",
                   "label":"",
@@ -1994,7 +1994,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"eff8b7ea367f4af59c1e122c024034b6",
                   "label":"",
@@ -2035,7 +2035,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"0793cbbc7a6b4b1ea03ff339924a9282",
                   "label":"",
@@ -2070,7 +2070,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"21638230cfe046aea6d8014ceff2f492",
                   "label":"",
@@ -2111,7 +2111,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"5bc80d214ac5499598b408418cbb5127",
                   "label":"",
@@ -2152,7 +2152,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"5fc1183cbe9940fb885d30f59194f199",
                   "label":"",
@@ -2187,7 +2187,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"dfb92675687d46009829950476f0465e",
                   "label":"",
@@ -2236,7 +2236,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u78.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u60.png"}},
 {
                   "id":"79bf25c23eca4b79ba5afa1529458118",
                   "label":"",
@@ -2285,7 +2285,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"1dd3fe715d964bdaaee6f576a5105c05",
                   "label":"",
@@ -2326,7 +2326,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"4f7cede3bb054040b94399902cb80643",
                   "label":"",
@@ -2361,7 +2361,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"7630d6299bb143feb0c1b39b835379b4",
                   "label":"",
@@ -2402,7 +2402,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"bced575cc6e749d6a69b9120801c63d6",
                   "label":"",
@@ -2443,7 +2443,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u70.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u52.png"}},
 {
                   "id":"8c5b5adfa7244c559e75b3a138274d82",
                   "label":"",
@@ -2478,7 +2478,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u66.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u48.png"}},
 {
                   "id":"dce3643377d440f6a44937e9f90c389c",
                   "label":"",
@@ -2521,7 +2521,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u134.png"}},
+                    "normal~":"images/2_2_2_1确认订单_宅配_/u116.png"}},
 {
                   "id":"9ec3923b38844afb843a2420c9291a83",
                   "label":"",
@@ -2580,7 +2580,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u136.png"}},
+                    "normal~":"images/0_0主页/u245.png"}},
 {
                   "id":"0dab739198aa47ac9719e3b1bea6a7a4",
                   "label":"",
@@ -2684,7 +2684,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u149.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u143.png"}},
 {
           "id":"90912baa341b4e98bed3a57edda77e56",
           "label":"",
@@ -2885,7 +2885,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/2_2_2_1确认订单_宅配_/u161_line.png"}},
+            "line~":"images/2_2_2_1确认订单_宅配_/u155_line.png"}},
 {
           "id":"1764d762fd584bc78a6bbab6f92f30f2",
           "label":"",
@@ -2953,7 +2953,7 @@
                       "description":"在 当前窗口 打开 2.2.2.5宅配商品清单",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_2_5宅配商品清单.html",
+                        "url":"2_2_2_5宅配商品清单_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -2995,7 +2995,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u121.png"}},
 {
           "id":"e54e38e8645a4eddb309613f2512abfa",
           "label":"",
@@ -3100,7 +3100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u121.png"}},
 {
           "id":"ffccfce758ed400ba819f0943911bb81",
           "label":"",
@@ -3205,7 +3205,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u121.png"}},
 {
           "id":"ad54bd3e1e63456e80136db99a2cb4de",
           "label":"",
@@ -3361,7 +3361,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u121.png"}},
 {
           "id":"4f8b32e384154f2fbb7a4a7607cbf39b",
           "label":"",
@@ -3474,7 +3474,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u121.png"}},
 {
           "id":"512dedcdd3604fe084c891609c641849",
           "label":"",
@@ -3620,7 +3620,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u21.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u121.png"}},
 {
           "id":"2918bd39f38d4082b802d4899a3b362b",
           "label":"",
@@ -3789,7 +3789,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_1确认订单（农旅）/u73.png"}},
+                    "normal~":"images/2_2_3_1确认订单（农旅）/u67.png"}},
 {
                   "id":"bfee875fbd484e05b1eee457d7276d99",
                   "label":"",
@@ -3873,72 +3873,12 @@
                               "description":"在 当前窗口 打开 4.1.1.3订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"4_1_1_3订单支付页_1.html",
+                                "url":"4_1_1_3订单支付页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_1_1确认订单（现场）/u26.png"}}]}]},
-{
-          "id":"c493a4f16e3546f8956cc37882377890",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":444},
-            "size":{
-              "width":360,
-              "height":38}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.5.2发票信息",
-                      "target":{
-                        "targetType":"page",
-                        "url":"7_5_2发票信息.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true},
-{
-          "id":"774d66f22895472ba264686d5fbe7175",
-          "label":"",
-          "type":"imageMapRegion",
-          "styleType":"imageMapRegion",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":355},
-            "size":{
-              "width":360,
-              "height":38}},
-          "adaptiveStyles":{
-},
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.5.3 选择卡券",
-                      "target":{
-                        "targetType":"page",
-                        "url":"7_5_3_选择卡券.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true}]}},
+                    "normal~":"images/4_2_2确认订单/u67.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -4331,8 +4271,4 @@
     "3f94fd6ca8064decae0e9fd8a9665604":{
       "scriptId":"u193"},
     "7eec1edd30a74c5f97be7b81acf10a40":{
-      "scriptId":"u194"},
-    "c493a4f16e3546f8956cc37882377890":{
-      "scriptId":"u195"},
-    "774d66f22895472ba264686d5fbe7175":{
-      "scriptId":"u196"}}});
+      "scriptId":"u194"}}});

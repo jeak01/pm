@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_9设置（弃用）.html",
-  "generationDate":new Date(1513578497023.5),
+  "generationDate":new Date(1513578754209.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"199cf5432b0e4723a08edcb0c3abf599",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"e9badd81215044e1921cba99800583e6",
           "label":"",
@@ -346,7 +346,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}},
+            "normal~":"images/2_0个人中心主页/u24.png"}},
 {
           "id":"be15d2d0b1264440b3167bea18390102",
           "label":"",
@@ -498,7 +498,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}},
+            "normal~":"images/2_0个人中心主页/u24.png"}},
 {
           "id":"eb8f23dcd8994ffeb6f650152de6ec4d",
           "label":"",
@@ -650,7 +650,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}}]}},
+            "normal~":"images/2_0个人中心主页/u24.png"}}]}},
   "masters":{
 },
   "objectPaths":{

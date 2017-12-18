@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_1蔬菜箱详情.html",
-  "generationDate":new Date(1513578482015.12),
+  "generationDate":new Date(1513578748438.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"032724e5c6494c2c8bb1439850075096",
+    "packageId":"01a4e23f2d194b3d944284227c427aca",
     "type":"Axure:Page",
     "name":"1.1.1蔬菜箱详情",
     "notes":{
@@ -236,7 +236,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}}]}]},
+                    "normal~":"images/0_0主页/top_u44.png"}}]}]},
 {
           "id":"695f5c81161848a2b1998bdcd2c9add5",
           "label":"",
@@ -263,7 +263,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"5660280881834dd591e3530cd97b477d",
           "label":"",
@@ -312,7 +312,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"08de5fd0645a49ea95183955e65457b2",
           "label":"",
@@ -324,7 +324,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":144,
+              "x":143.5,
               "y":9},
             "size":{
               "width":73,
@@ -343,7 +343,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":144,
+                  "x":143.5,
                   "y":9},
                 "size":{
                   "width":73,
@@ -553,7 +553,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}}]}]}]}},
+                    "normal~":"images/0_0主页/top_u44.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

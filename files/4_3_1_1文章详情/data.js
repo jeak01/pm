@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3_1_1文章详情.html",
-  "generationDate":new Date(1513578501722.63),
+  "generationDate":new Date(1513578759135.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_3农场店铺页/u2.png"}},
+            "normal~":"images/4_3_1文章列表/u2.png"}},
 {
           "id":"48b24337312a47d68105518e1f4e6c3a",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"f7f257f2bbe1412498af452a6d93096c",
           "label":"",

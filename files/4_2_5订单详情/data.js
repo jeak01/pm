@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_5订单详情.html",
-  "generationDate":new Date(1513578500985.13),
+  "generationDate":new Date(1513578758412.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -94,7 +94,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"a26fa1af76ec4e0191d3aa40c37392aa",
           "label":"",
@@ -143,7 +143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"c4448487167542c2a369b072d4da7484",
           "label":"",
@@ -215,7 +215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3订单详情（现场）/u25.png"}},
+            "normal~":"images/1_9订单详情（农旅卡）/u8.png"}},
 {
           "id":"3703b5f6d0b84adc8afeabae91ee724e",
           "label":"",
@@ -371,7 +371,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/6_1_3订单详情（现场）/u35_line.png"}},
+            "line~":"images/1_9订单详情（农旅卡）/u18_line.png"}},
 {
           "id":"a3f8cf7b31b8432a9bd391fcf41a3a22",
           "label":"",
@@ -852,7 +852,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+                    "normal~":"images/0_0主页/top_u44.png"}},
 {
                   "id":"545f63f1c29645ceb6fa263892416331",
                   "label":"",
@@ -932,7 +932,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}},
+                    "normal~":"images/1_9订单详情（农旅卡）/u34.png"}},
 {
                   "id":"07997d21e3ea48aca251e1332dd73be3",
                   "label":"",
@@ -969,7 +969,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_3_3订单详情（农旅）/u31.png"}}]}]},
+                    "normal~":"images/1_9订单详情（农旅卡）/u34.png"}}]}]},
 {
           "id":"75de5cb193924c4abcb480793686357d",
           "label":"",
@@ -1348,7 +1348,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3订单详情（现场）/u8.png"}},
+            "normal~":"images/0_0主页/u221.png"}},
 {
           "id":"651f1813b6f24bb69b06078960855039",
           "label":"",

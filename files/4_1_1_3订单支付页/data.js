@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_1_1_3订单支付页.html",
-  "generationDate":new Date(1513578488206.36),
+  "generationDate":new Date(1513578763548.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,11 +10,11 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"df570d333fa84c73998a0994b1db4f6c",
+    "packageId":"fa130a7826a64fc598dc63b20a18487a",
     "type":"Axure:Page",
     "name":"4.1.1.3订单支付页",
     "notes":{
-      "默认":"<p><span>1107更新：</span></p><p><span>1.用户设置了支付密码后，选择账户余额消费时需要输入支付密码。</span></p>"},
+},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"274b1989398e4cbf9e0b80ffb1e65608",
           "label":"",
@@ -544,10 +544,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 6.1.2支付成功",
+                              "description":"在 当前窗口 打开 7.5.1支付成功",
                               "target":{
                                 "targetType":"page",
-                                "url":"6_1_2支付成功.html",
+                                "url":"7_5_1支付成功.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -585,7 +585,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"55c86a40fa6d4150bda60ba7c580e321",
           "label":"",
@@ -594,8 +594,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":45,
-              "y":218},
+              "x":85,
+              "y":219},
             "size":{
               "width":53,
               "height":16}},
@@ -610,8 +610,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":45,
-                  "y":218},
+                  "x":85,
+                  "y":219},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -627,8 +627,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":330,
-              "y":221},
+              "x":15,
+              "y":219},
             "size":{
               "width":20,
               "height":16}},
@@ -643,8 +643,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":330,
-                  "y":221},
+                  "x":15,
+                  "y":219},
                 "size":{
                   "width":20,
                   "height":16}},
@@ -658,8 +658,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":9,
-              "y":212},
+              "x":49,
+              "y":213},
             "size":{
               "width":25,
               "height":25}},
@@ -674,8 +674,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":9,
-                  "y":212},
+                  "x":49,
+                  "y":213},
                 "size":{
                   "width":25,
                   "height":25}},
@@ -750,7 +750,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_3订单支付页/u37.png"}},
+            "normal~":"images/4_2_3订单支付页/u39.png"}},
 {
           "id":"c89274dce63947b78c88f7e8bf883bbb",
           "label":"",
@@ -759,8 +759,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":45,
-              "y":164},
+              "x":85,
+              "y":165},
             "size":{
               "width":122,
               "height":16}},
@@ -775,8 +775,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":45,
-                  "y":164},
+                  "x":85,
+                  "y":165},
                 "size":{
                   "width":122,
                   "height":16}},
@@ -792,8 +792,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":330,
-              "y":167},
+              "x":15,
+              "y":165},
             "size":{
               "width":20,
               "height":16}},
@@ -808,8 +808,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":330,
-                  "y":167},
+                  "x":15,
+                  "y":165},
                 "size":{
                   "width":20,
                   "height":16}},
@@ -823,8 +823,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":7,
-              "y":157},
+              "x":47,
+              "y":158},
             "size":{
               "width":30,
               "height":30}},
@@ -839,15 +839,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":7,
-                  "y":157},
+                  "x":47,
+                  "y":158},
                 "size":{
                   "width":30,
                   "height":30}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_1_1_3订单支付页/u43.png"}},
+            "normal~":"images/4_2_3订单支付页/u45.png"}},
 {
           "id":"fa0d98604ba340bf8a4de902318002e3",
           "label":"",
@@ -861,10 +861,10 @@
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":45,
-              "y":186},
+              "x":85,
+              "y":185},
             "size":{
-              "width":128,
+              "width":248,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -882,10 +882,10 @@
                   "color":0xFFFF0000,
                   "opacity":1},
                 "location":{
-                  "x":45,
-                  "y":186},
+                  "x":85,
+                  "y":185},
                 "size":{
-                  "width":128,
+                  "width":248,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -899,8 +899,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":278,
-              "y":184},
+              "x":318,
+              "y":185},
             "size":{
               "width":1,
               "height":16}},
@@ -915,8 +915,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":278,
-                  "y":184},
+                  "x":318,
+                  "y":185},
                 "size":{
                   "width":1,
                   "height":16}},
@@ -936,10 +936,10 @@
               "color":0xFF0099FF,
               "opacity":1},
             "location":{
-              "x":221,
+              "x":306,
               "y":165},
             "size":{
-              "width":65,
+              "width":27,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -956,10 +956,10 @@
                   "color":0xFF0099FF,
                   "opacity":1},
                 "location":{
-                  "x":221,
+                  "x":306,
                   "y":165},
                 "size":{
-                  "width":65,
+                  "width":27,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -971,111 +971,55 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 3.0会员充值",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"6ac15dc92fb844fd92ec4e1d7aa14457",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":false,
-          "style":{
-            "location":{
-              "x":0,
-              "y":260},
-            "size":{
-              "width":360,
-              "height":40},
-            "visible":false,
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"8901170879874de7832ad836c4f1e8c2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":false,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":260},
-                "size":{
-                  "width":360,
-                  "height":40},
-                "visible":false,
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFCCCCCC}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
-{
-          "id":"09706ee64bf94cafa9053a30a20d9270",
+          "id":"6dc986a671b248f389f0b04b8db01be5",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
-          "visible":false,
+          "visible":true,
           "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
             "location":{
-              "x":12,
-              "y":270},
+              "x":217,
+              "y":165},
             "size":{
               "width":53,
-              "height":16},
-            "visible":false},
+              "height":16}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"5bbdab1557354aca8528f25811b5e786",
+              "id":"e2f4f167c9c84bab9c7f62db0cc5b8e4",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
-              "visible":false,
+              "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
                 "location":{
-                  "x":12,
-                  "y":270},
+                  "x":217,
+                  "y":165},
                 "size":{
                   "width":53,
-                  "height":16},
-                "visible":false},
+                  "height":16}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"670e41f1a71d4fabb96c3eae24bc20ae",
-          "label":"",
-          "type":"textBox",
-          "styleType":"textBox",
-          "visible":false,
-          "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC,
-              "opacity":1},
-            "location":{
-              "x":80,
-              "y":267},
-            "size":{
-              "width":270,
-              "height":25},
-            "visible":false},
-          "adaptiveStyles":{
-}}]}},
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1181,13 +1125,7 @@
       "scriptId":"u49"},
     "6469d8f76ef847d680916a08f4538a79":{
       "scriptId":"u50"},
-    "6ac15dc92fb844fd92ec4e1d7aa14457":{
+    "6dc986a671b248f389f0b04b8db01be5":{
       "scriptId":"u51"},
-    "8901170879874de7832ad836c4f1e8c2":{
-      "scriptId":"u52"},
-    "09706ee64bf94cafa9053a30a20d9270":{
-      "scriptId":"u53"},
-    "5bbdab1557354aca8528f25811b5e786":{
-      "scriptId":"u54"},
-    "670e41f1a71d4fabb96c3eae24bc20ae":{
-      "scriptId":"u55"}}});
+    "e2f4f167c9c84bab9c7f62db0cc5b8e4":{
+      "scriptId":"u52"}}});

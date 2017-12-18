@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1选择指定农场.html",
-  "generationDate":new Date(1513578481846.01),
+  "generationDate":new Date(1513578748269.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,11 +10,11 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"3bc3762d6a084428806d74868a907b21",
+    "packageId":"3a70af7855344aba9b48602cf9fa9fc0",
     "type":"Axure:Page",
     "name":"1.1选择指定农场",
     "notes":{
-      "默认":"<p><span>1.入驻农场多后，暂定指定农场方法：第一步在农场列表选择农场，第二步显示该农场礼包信息并进行确认。（1107）</span></p>"},
+},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"bf69f17d6a6545d8bee46524fc793515",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"59d322316f3b4dd8a32b06600c98d7fa",
           "label":"",
@@ -161,7 +161,7 @@
             "fontSize":"18px",
             "fontWeight":"400",
             "location":{
-              "x":98,
+              "x":98.5,
               "y":9},
             "size":{
               "width":163,
@@ -180,7 +180,7 @@
                 "fontSize":"18px",
                 "fontWeight":"400",
                 "location":{
-                  "x":98,
+                  "x":98.5,
                   "y":9},
                 "size":{
                   "width":163,
@@ -5125,7 +5125,7 @@
               "x":49,
               "y":312},
             "size":{
-              "width":301,
+              "width":291,
               "height":65}},
           "adaptiveStyles":{
 },

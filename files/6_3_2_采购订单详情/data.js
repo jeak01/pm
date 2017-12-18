@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3_2_采购订单详情.html",
-  "generationDate":new Date(1513578504328.37),
+  "generationDate":new Date(1513578761825.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u2.png"}},
+            "normal~":"images/0_0主页/top_u160.png"}},
 {
           "id":"704bf8c26d774fe0ae4143254a372a9e",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"2aeff1089a414c4ca2494087e1336054",
           "label":"",
@@ -227,7 +227,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_2_订单详情（现场管理）/u8.png"}},
+            "normal~":"images/6_3_2_采购订单详情/u8.png"}},
 {
           "id":"0fe64356341b4628aa28b41f7a7db5e4",
           "label":"",
@@ -398,7 +398,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_3_2_订单详情（现场管理）/u18.png"}},
+            "normal~":"images/6_3_2_采购订单详情/u18.png"}},
 {
           "id":"e06307fb686c42798c59080c2ea09ddb",
           "label":"",
@@ -663,7 +663,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_2_2_1确认订单_宅配_/u35.png"}},
+            "normal~":"images/2_2_2_1确认订单_宅配_/u129.png"}},
 {
           "id":"c251bfd0df7d4c398f99fcfd27983f5c",
           "label":"",

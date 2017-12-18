@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_2支付成功.html",
-  "generationDate":new Date(1513578487986.21),
+  "generationDate":new Date(1513578761453.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"7fff70b20fb84beda975a32d8e1eed52",
+    "packageId":"8420bfb366d64f5bba9a204da28d62e2",
     "type":"Axure:Page",
     "name":"6.1.2支付成功",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -337,14 +337,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 链接",
+                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
                       "target":{
                         "targetType":"page",
+                        "url":"6_1现场特惠卖单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/6_1_2支付成功/u14.png"}},
+            "normal~":"images/1_3支付成功/u19.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -392,15 +393,48 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.1.3订单详情（现场）",
+                      "description":"在 当前窗口 打开 6.1.3采购订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"6_1_3订单详情（现场）.html",
+                        "url":"6_1_3采购订单详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u15.png"}}]}},
+            "normal~":"images/1_3支付成功/u15.png"}},
+{
+          "id":"6469bcb0f8734cda8a9393b8984f7c9e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":260},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c8f6bb1655d144f1a866813dfd09b4f8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":260},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -439,4 +473,8 @@
     "289aab97651f4349a5ed7c0adb8488b1":{
       "scriptId":"u16"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"}}});
+      "scriptId":"u17"},
+    "6469bcb0f8734cda8a9393b8984f7c9e":{
+      "scriptId":"u18"},
+    "c8f6bb1655d144f1a866813dfd09b4f8":{
+      "scriptId":"u19"}}});

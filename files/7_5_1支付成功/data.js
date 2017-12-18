@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_1支付成功.html",
-  "generationDate":new Date(1513578489419.2),
+  "generationDate":new Date(1513578763604.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,11 +10,11 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"bd0d3300c57a4fdfbcdc3754a493cc85",
+    "packageId":"567749517d3b468a8b943f8024b6fd2c",
     "type":"Axure:Page",
     "name":"7.5.1支付成功",
     "notes":{
-      "默认":"<p><span>1109更新：</span></p><p><span>1.改动页头名字为支付成功</span></p>"},
+},
     "style":{
       "baseStyle":"627587b6038d43cca051c114ac41ad32",
       "pageAlignment":"near",
@@ -121,7 +121,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -170,7 +170,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -382,10 +382,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.6订单详情（优品）",
+                              "description":"在 当前窗口 打开 7.6我的订单（优品）",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_6订单详情（优品）.html",
+                                "url":"7_6我的订单（优品）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -421,9 +421,6 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFDDDDDD},
                     "size":{
                       "width":117,
                       "height":40},
@@ -439,9 +436,6 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFDDDDDD},
                         "size":{
                           "width":117,
                           "height":40},
@@ -456,15 +450,48 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.3农场店铺页",
+                              "description":"在 当前窗口 打开 7.0农产优品",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_3农场店铺页.html",
+                                "url":"7_0农产优品.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
+                    "normal~":"images/1_3支付成功/u19.png"}}]}]},
+{
+          "id":"eb90b142e93b42ee8678748f16d73799",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":260},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fbc54beb1c924bd59b61d3a2e2b81c72",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":260},
+                "size":{
+                  "width":360,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u17.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -507,4 +534,8 @@
     "0da88205f8474eec93f35ff4fbd81f64":{
       "scriptId":"u18"},
     "386b4dc9d2344be2b34ab0dbed357195":{
-      "scriptId":"u19"}}});
+      "scriptId":"u19"},
+    "eb90b142e93b42ee8678748f16d73799":{
+      "scriptId":"u20"},
+    "fbc54beb1c924bd59b61d3a2e2b81c72":{
+      "scriptId":"u21"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1_1选择指定农场.html",
-  "generationDate":new Date(1513578484338.69),
+  "generationDate":new Date(1513578750909.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"f4ac9e96e69045189ae33a4b183a9f78",
+    "packageId":"a37ecbcd5ef64dd7a35f1b91923ec490",
     "type":"Axure:Page",
     "name":"2.1.1.1选择指定农场",
     "notes":{
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"bf69f17d6a6545d8bee46524fc793515",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"59d322316f3b4dd8a32b06600c98d7fa",
           "label":"",
@@ -1326,10 +1326,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3农场主页",
+                      "description":"在 当前窗口 打开 4.1.1农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3农场主页.html",
+                        "url":"4_1_1农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2173,10 +2173,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3农场主页",
+                      "description":"在 当前窗口 打开 4.1.1农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3农场主页.html",
+                        "url":"4_1_1农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3020,10 +3020,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3农场主页",
+                      "description":"在 当前窗口 打开 4.1.1农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3农场主页.html",
+                        "url":"4_1_1农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3867,10 +3867,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3农场主页",
+                      "description":"在 当前窗口 打开 4.1.1农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3农场主页.html",
+                        "url":"4_1_1农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -4714,10 +4714,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.3农场主页",
+                      "description":"在 当前窗口 打开 4.1.1农场主页",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_3农场主页.html",
+                        "url":"4_1_1农场主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -5166,10 +5166,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.1蔬菜箱详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_1蔬菜箱详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5254,10 +5253,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5284,10 +5282,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5314,10 +5311,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5344,10 +5340,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5374,10 +5369,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.1.2农场体验游详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_1_2农场体验游详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

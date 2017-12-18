@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_3支付成功.html",
-  "generationDate":new Date(1513578483355.04),
+  "generationDate":new Date(1513578749712.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"57c88b8a189d43e28acc40ea2458097d",
+    "packageId":"d91e67485a6c460fb55659de48f6a778",
     "type":"Axure:Page",
     "name":"1.3支付成功",
     "notes":{
@@ -121,7 +121,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u83.png"}},
+            "normal~":"images/0_0主页/top_u44.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -170,7 +170,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -325,7 +325,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":119,
+              "x":191,
               "y":180},
             "size":{
               "width":119,
@@ -423,7 +423,42 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_3支付成功/u17.png"}}]}},
+            "normal~":"images/1_3支付成功/u17.png"}},
+{
+          "id":"400269b4ce7e41f693ddec1bdba272b0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":53,
+              "y":180},
+            "size":{
+              "width":117,
+              "height":40},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9a62f621cdb74085910ca3d2e58665d8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":53,
+                  "y":180},
+                "size":{
+                  "width":117,
+                  "height":40},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1_3支付成功/u19.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -464,4 +499,8 @@
     "85301a4ee18f489f95129a184fb08531":{
       "scriptId":"u17"},
     "d61bd538abd3427b8c16e68f47863ee8":{
-      "scriptId":"u18"}}});
+      "scriptId":"u18"},
+    "400269b4ce7e41f693ddec1bdba272b0":{
+      "scriptId":"u19"},
+    "9a62f621cdb74085910ca3d2e58665d8":{
+      "scriptId":"u20"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_0购买宅配套餐.html",
-  "generationDate":new Date(1513578502029.82),
+  "generationDate":new Date(1513578759517.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -106,7 +106,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u2.png"}},
+            "normal~":"images/1_0农旅卡主题页/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_0农旅卡主题页（极简）/u4.png"}},
+            "normal~":"images/0_0主页/u162.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -1730,7 +1730,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/6_0农场专题（弃用）/u87.png"}}]}]},
+                    "normal~":"images/5_0购买宅配套餐/u74.png"}}]}]},
 {
           "id":"706f8418aec242f187e72ebfa162fe09",
           "label":"选择农场状态",
@@ -2035,7 +2035,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_3农场店铺页/u14.png"}},
+                    "normal~":"images/0_0主页/u52.png"}},
 {
                   "id":"dd545e0883934f9491f11e06e4a47627",
                   "label":"",
@@ -2115,7 +2115,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_3农场店铺页/u14.png"}},
+                    "normal~":"images/0_0主页/u52.png"}},
 {
                   "id":"9db7344bcf704e25a306f08e9dc227ff",
                   "label":"",
@@ -5848,7 +5848,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u42.png"}},
+                    "normal~":"images/0_0主页/u243.png"}},
 {
                   "id":"c54f673790c94423b40c36804ad818e1",
                   "label":"",
@@ -5907,7 +5907,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/2_2_2_1确认订单_宅配_/u136.png"}},
+                    "normal~":"images/0_0主页/u245.png"}},
 {
                   "id":"e4eabe61fd68440c81622e178037d9e6",
                   "label":"提示文字",
