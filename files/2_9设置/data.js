@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_9设置.html",
-  "generationDate":new Date(1513150845940.59),
+  "generationDate":new Date(1513568401179.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -650,60 +650,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页/u18.png"}},
-{
-          "id":"559b6074d976418797113a93593dab7d",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFFF0000},
-            "location":{
-              "x":30,
-              "y":290},
-            "size":{
-              "width":300,
-              "height":40},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFDDDDDD}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"1af6a62a2d3a4748b1a19f8c92e3c295",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFFFF,
-                  "opacity":1},
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFFF0000},
-                "location":{
-                  "x":30,
-                  "y":290},
-                "size":{
-                  "width":300,
-                  "height":40},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFDDDDDD}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/2_9设置/u32.png"}}]}},
+            "normal~":"images/2_0个人中心主页/u18.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -770,8 +717,4 @@
     "c4a67b64c58040faa1136cf71d98507c":{
       "scriptId":"u30"},
     "5042f012a9bf4f1b855ba536b858fd91":{
-      "scriptId":"u31"},
-    "559b6074d976418797113a93593dab7d":{
-      "scriptId":"u32"},
-    "1af6a62a2d3a4748b1a19f8c92e3c295":{
-      "scriptId":"u33"}}});
+      "scriptId":"u31"}}});

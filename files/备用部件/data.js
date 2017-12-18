@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"备用部件.html",
-  "generationDate":new Date(1511949059116.81),
+  "generationDate":new Date(1513578524934.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4649,7 +4649,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_0个人中心主页_1/u6.png"}},
+            "normal~":"images/备用部件/u223.png"}},
 {
           "id":"10d31e2ae63c4eec86a46e2927412341",
           "label":"",

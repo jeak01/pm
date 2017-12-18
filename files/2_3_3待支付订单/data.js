@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_3待支付订单.html",
-  "generationDate":new Date(1513150845267.14),
+  "generationDate":new Date(1513578496323.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -960,7 +960,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3我的订单_1/u83.png"}},
+            "normal~":"images/2_3我的订单_1/u84.png"}},
 {
           "id":"60c85993698f4e658261bf6c66f2ffdf",
           "label":"",
@@ -1013,7 +1013,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/2_3我的订单_1/u85.png"}},
+            "normal~":"images/2_3我的订单_1/u86.png"}},
 {
           "id":"c8bfce43f18b4603aba97ce72f85fc21",
           "label":"",
@@ -1056,7 +1056,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_3我的订单_1/u87.png"}},
+            "normal~":"images/2_3我的订单_1/u88.png"}},
 {
           "id":"2550a8e2c9cc476bb87d0bbed180ed57",
           "label":"排序",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_4个人资料_1.html",
-  "generationDate":new Date(1513150845367.21),
+  "generationDate":new Date(1513578496418.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -567,8 +567,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":17,
-              "y":244},
+              "x":13.5,
+              "y":298},
             "size":{
               "width":333,
               "height":36}},
@@ -583,8 +583,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":17,
-                  "y":244},
+                  "x":13.5,
+                  "y":298},
                 "size":{
                   "width":333,
                   "height":36}},
@@ -705,7 +705,40 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b5d9a710751b47eab801a79e95455909",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":13.5,
+              "y":344},
+            "size":{
+              "width":333,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4da28397f5514d7fbef9abfc59644a05",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":13.5,
+                  "y":344},
+                "size":{
+                  "width":333,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/2_4个人资料/u28.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -780,4 +813,8 @@
     "5eb47f833fd34b26856529a88bf274ea":{
       "scriptId":"u34"},
     "089d0d1d11f3415f9e0c2845ac32ccad":{
-      "scriptId":"u35"}}});
+      "scriptId":"u35"},
+    "b5d9a710751b47eab801a79e95455909":{
+      "scriptId":"u36"},
+    "4da28397f5514d7fbef9abfc59644a05":{
+      "scriptId":"u37"}}});
