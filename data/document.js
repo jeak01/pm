@@ -483,7 +483,11 @@
 {
                     "pageName":"10.4更多功能",
                     "type":"Wireframe",
-                    "url":"10_4更多功能.html"}]}]}]}]},
+                    "url":"10_4更多功能.html"},
+{
+                    "pageName":"10.5 现场买单统计",
+                    "type":"Wireframe",
+                    "url":"10_5_现场买单统计.html"}]}]}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",
