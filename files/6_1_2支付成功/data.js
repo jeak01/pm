@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_2支付成功.html",
-  "generationDate":new Date(1513755107654.39),
+  "generationDate":new Date(1513765781591.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -337,10 +337,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
+                      "description":"在 当前窗口 打开 6.1现场特惠买单",
                       "target":{
                         "targetType":"page",
-                        "url":"6_1现场特惠卖单.html",
+                        "url":"6_1现场特惠买单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

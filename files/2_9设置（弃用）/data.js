@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_9设置（弃用）.html",
-  "generationDate":new Date(1513755097670.76),
+  "generationDate":new Date(1513765770862.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

@@ -349,9 +349,9 @@
             "type":"Folder",
             "url":"",
             "children":[{
-                "pageName":"6.1现场特惠卖单",
+                "pageName":"6.1现场特惠买单",
                 "type":"Wireframe",
-                "url":"6_1现场特惠卖单.html",
+                "url":"6_1现场特惠买单.html",
                 "children":[{
                     "pageName":"6.1.1确认订单（现场）",
                     "type":"Wireframe",
@@ -365,17 +365,17 @@
                     "type":"Wireframe",
                     "url":"6_1_3采购订单详情.html"}]},
 {
-                "pageName":"6.3采购信息查询（管理端）",
+                "pageName":"6.3供应商登录（管理端）",
                 "type":"Wireframe",
-                "url":"6_3采购信息查询（管理端）.html",
+                "url":"6_3供应商登录（管理端）.html",
                 "children":[{
-                    "pageName":"6.3.1 采购订单列表",
+                    "pageName":"6.3.1 现场买单订单列表",
                     "type":"Wireframe",
-                    "url":"6_3_1_采购订单列表.html"},
+                    "url":"6_3_1_现场买单订单列表.html"},
 {
-                    "pageName":"6.3.2 采购订单详情",
+                    "pageName":"6.3.2 现场买单订单详情",
                     "type":"Wireframe",
-                    "url":"6_3_2_采购订单详情.html"}]}]},
+                    "url":"6_3_2_现场买单订单详情.html"}]}]},
 {
             "pageName":"7 农产优品",
             "type":"Folder",
