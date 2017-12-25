@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_2_1菜品详情.html",
-  "generationDate":new Date(1513765789294.16),
+  "generationDate":new Date(1514172296436.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -634,7 +634,7 @@
               "y":451},
             "size":{
               "width":360,
-              "height":190},
+              "height":199},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFCCCCCC}},
@@ -653,7 +653,7 @@
                   "y":451},
                 "size":{
                   "width":360,
-                  "height":190},
+                  "height":199},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFCCCCCC}},
@@ -661,70 +661,6 @@
 }}],
           "images":{
             "normal~":"images/10_2_1菜品详情/u30.png"}},
-{
-          "id":"5b4376989e3042f98c45813f224b3a6d",
-          "label":"",
-          "type":"textArea",
-          "styleType":"textArea",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":12,
-              "y":461},
-            "size":{
-              "width":337,
-              "height":170}},
-          "adaptiveStyles":{
-}},
-{
-          "id":"3da24d987e814243863b7ac0f9190f4f",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"11px",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF666666,
-              "opacity":1},
-            "location":{
-              "x":12,
-              "y":432},
-            "size":{
-              "width":45,
-              "height":14},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"32b02d8a3a4c40c2977d00b0159e4198",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"11px",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF666666,
-                  "opacity":1},
-                "location":{
-                  "x":12,
-                  "y":432},
-                "size":{
-                  "width":45,
-                  "height":14},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFCCCCCC}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
 {
           "id":"69aab9c61a0f47e7af336b174dc923ab",
           "label":"",
@@ -773,7 +709,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/10_2_1菜品详情/u35.png"}},
+            "normal~":"images/10_2_1菜品详情/u32.png"}},
 {
           "id":"03fd1f3872084a93ac81e5d2b863144f",
           "label":"",
@@ -830,7 +766,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/10_2_1菜品详情/u37.png"}}]}},
+            "normal~":"images/10_2_1菜品详情/u34.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -898,17 +834,11 @@
       "scriptId":"u30"},
     "1331c0435b084b7bb7bd7d6dbdde7877":{
       "scriptId":"u31"},
-    "5b4376989e3042f98c45813f224b3a6d":{
-      "scriptId":"u32"},
-    "3da24d987e814243863b7ac0f9190f4f":{
-      "scriptId":"u33"},
-    "32b02d8a3a4c40c2977d00b0159e4198":{
-      "scriptId":"u34"},
     "69aab9c61a0f47e7af336b174dc923ab":{
-      "scriptId":"u35"},
+      "scriptId":"u32"},
     "c36f64a2c52447a5929392305edc1809":{
-      "scriptId":"u36"},
+      "scriptId":"u33"},
     "03fd1f3872084a93ac81e5d2b863144f":{
-      "scriptId":"u37"},
+      "scriptId":"u34"},
     "0d1c095de48c429e8dfa8c9d6551826d":{
-      "scriptId":"u38"}}});
+      "scriptId":"u35"}}});
