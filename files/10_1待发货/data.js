@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_1待发货.html",
-  "generationDate":new Date(1514253000884.52),
+  "generationDate":new Date(1514253440121.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -474,13 +474,18 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"fadeWidget",
-                      "description":"显示 物流信息",
+                      "description":"显示 物流信息 灯箱效果",
                       "objectsToFades":[{
                           "objectPath":["6f1af6e2a5014db1829f1866e0481531"],
                           "fadeInfo":{
                             "fadeType":"show",
                             "options":{
-                              "showType":"none"}}}]}]}]}},
+                              "showType":"lightbox",
+                              "lightbox":{
+                                "r":47,
+                                "g":79,
+                                "b":79,
+                                "a":155}}}}]}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/10_1待发货/u20.png"}},
@@ -782,13 +787,18 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"fadeWidget",
-                      "description":"显示 物流信息",
+                      "description":"显示 物流信息 灯箱效果",
                       "objectsToFades":[{
                           "objectPath":["6f1af6e2a5014db1829f1866e0481531"],
                           "fadeInfo":{
                             "fadeType":"show",
                             "options":{
-                              "showType":"none"}}}]}]}]}},
+                              "showType":"lightbox",
+                              "lightbox":{
+                                "r":47,
+                                "g":79,
+                                "b":79,
+                                "a":155}}}}]}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/10_1待发货/u20.png"}},
@@ -1090,13 +1100,18 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"fadeWidget",
-                      "description":"显示 物流信息",
+                      "description":"显示 物流信息 灯箱效果",
                       "objectsToFades":[{
                           "objectPath":["6f1af6e2a5014db1829f1866e0481531"],
                           "fadeInfo":{
                             "fadeType":"show",
                             "options":{
-                              "showType":"none"}}}]}]}]}},
+                              "showType":"lightbox",
+                              "lightbox":{
+                                "r":47,
+                                "g":79,
+                                "b":79,
+                                "a":155}}}}]}]}]}},
           "tabbable":true,
           "images":{
             "normal~":"images/10_1待发货/u20.png"}},
