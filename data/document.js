@@ -31,7 +31,11 @@
 {
                     "pageName":"0.2登录",
                     "type":"Wireframe",
-                    "url":"0_2登录.html"}]},
+                    "url":"0_2登录.html"},
+{
+                    "pageName":"0.3 搜索页",
+                    "type":"Wireframe",
+                    "url":"0_3_搜索页.html"}]},
 {
                 "pageName":"1.0农旅卡主题页",
                 "type":"Wireframe",
