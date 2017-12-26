@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_4_1_实名认证.html",
-  "generationDate":new Date(1514253428447.44),
+  "generationDate":new Date(1514274936933.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -203,10 +203,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":-9.5,
+              "x":-10,
               "y":50},
             "size":{
-              "width":360,
+              "width":370,
               "height":40},
             "borderFill":{
               "fillType":"solid",
@@ -222,10 +222,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":-9.5,
+                  "x":-10,
                   "y":50},
                 "size":{
-                  "width":360,
+                  "width":370,
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
@@ -233,7 +233,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u167.png"}},
+            "normal~":"images/2_4_1_实名认证/u8.png"}},
 {
           "id":"83f808eae28344d3abae94ea812c9b86",
           "label":"",
@@ -242,10 +242,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":-9.5,
+              "x":-10,
               "y":89},
             "size":{
-              "width":360,
+              "width":370,
               "height":40},
             "borderFill":{
               "fillType":"solid",
@@ -261,10 +261,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":-9.5,
+                  "x":-10,
                   "y":89},
                 "size":{
-                  "width":360,
+                  "width":370,
                   "height":40},
                 "borderFill":{
                   "fillType":"solid",
@@ -272,7 +272,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u167.png"}},
+            "normal~":"images/2_4_1_实名认证/u8.png"}},
 {
           "id":"25f875e6863b4823a04a630d6ece200d",
           "label":"",
@@ -394,10 +394,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":70.5,
+              "x":72,
               "y":57},
             "size":{
-              "width":270,
+              "width":278,
               "height":25}},
           "adaptiveStyles":{
 }},
@@ -409,10 +409,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":70.5,
+              "x":72,
               "y":96},
             "size":{
-              "width":270,
+              "width":278,
               "height":25}},
           "adaptiveStyles":{
 }}]}},

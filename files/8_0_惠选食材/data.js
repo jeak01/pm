@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"8_0_惠选食材.html",
-  "generationDate":new Date(1514253439317.66),
+  "generationDate":new Date(1514274966316.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2129,7 +2129,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u34.png"}},
+            "normal~":"images/7_1优品列表/u32.png"}},
 {
           "id":"28e9432c9d5c447e891add10a105ba0e",
           "label":"",
@@ -2174,7 +2174,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u34.png"}},
+            "normal~":"images/7_1优品列表/u32.png"}},
 {
           "id":"f8fbb23c0de64c7582718abb3ce4d8d8",
           "label":"购物车入口",
@@ -2247,7 +2247,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_1优品列表/u137.png"}},
+                    "normal~":"images/7_1优品列表/u135.png"}},
 {
                   "id":"357ab9dec7904008bf3d24192ac5a86d",
                   "label":"",
@@ -2290,7 +2290,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_1优品列表/u139.png"}},
+                    "normal~":"images/7_1优品列表/u137.png"}},
 {
                   "id":"99fc48cd0ff14c7f903daa14cc1db1b2",
                   "label":"",
@@ -2352,7 +2352,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_1优品列表/u142.png"}}]}]},
+                    "normal~":"images/7_1优品列表/u140.png"}}]}]},
 {
           "id":"8d191c009df84947956f17f43cc3c970",
           "label":"",

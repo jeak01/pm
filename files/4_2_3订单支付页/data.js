@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_3订单支付页.html",
-  "generationDate":new Date(1514253432730.28),
+  "generationDate":new Date(1514274950361.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -554,54 +554,6 @@
                   "images":{
                     "normal~":"images/1_2订单支付页/u30.png"}}]}]},
 {
-          "id":"187c6386f9bd413fa78927d551b38b43",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":0,
-              "y":263},
-            "size":{
-              "width":360,
-              "height":117}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"aa06561164504c4fa4093d97773641de",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":0,
-                  "y":263},
-                "size":{
-                  "width":360,
-                  "height":117}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 3.0会员充值",
-                      "target":{
-                        "targetType":"page",
-                        "url":"3_0会员充值.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/0_0主页/u7.jpg"}},
-{
           "id":"c54b3fdbbdfd456eb53c9d8e25b925f5",
           "label":"",
           "type":"buttonShape",
@@ -798,7 +750,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_3订单支付页/u39.png"}},
+            "normal~":"images/4_2_3订单支付页/u37.png"}},
 {
           "id":"c89274dce63947b78c88f7e8bf883bbb",
           "label":"",
@@ -895,7 +847,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_3订单支付页/u45.png"}},
+            "normal~":"images/4_2_3订单支付页/u43.png"}},
 {
           "id":"fa0d98604ba340bf8a4de902318002e3",
           "label":"",
@@ -1068,7 +1020,94 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1d9eaa66c6e743d5876e40570daa06f4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":290},
+            "size":{
+              "width":370,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d6fa5c4af962466bb43f8a63adf586ed",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":290},
+                "size":{
+                  "width":370,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/2_4_1_实名认证/u8.png"}},
+{
+          "id":"d60e4b21f49242b7a55d94c4fedfaba4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":18,
+              "y":301},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"223a84d0be014f9db348796dbd659606",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":18,
+                  "y":301},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fc17980ae4bc488e952f747688d0b075",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":82,
+              "y":297},
+            "size":{
+              "width":278,
+              "height":25}},
+          "adaptiveStyles":{
+}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1126,59 +1165,65 @@
       "scriptId":"u25"},
     "db55f0e465e743a09184c68c5f230a1a":{
       "scriptId":"u26"},
-    "187c6386f9bd413fa78927d551b38b43":{
-      "scriptId":"u27"},
-    "aa06561164504c4fa4093d97773641de":{
-      "scriptId":"u28"},
     "c54b3fdbbdfd456eb53c9d8e25b925f5":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "8016a30f438e4854b1d75cdf7021d380":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "55c86a40fa6d4150bda60ba7c580e321":{
-      "scriptId":"u31"},
+      "scriptId":"u29"},
     "d8772a028cc24f60ada9cdad5fb67621":{
-      "scriptId":"u32"},
+      "scriptId":"u30"},
     "bfed07bcd88a4151a46869d027a9a721":{
-      "scriptId":"u33"},
+      "scriptId":"u31"},
     "0bee9925fe1c4c759281f93a0df40391":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "1ed5f645f2a049eabd26a97b843d3012":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "93065ef544f44defa5b2e959944b830d":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "913fccb622074bc4a88d3b2d06914f9e":{
-      "scriptId":"u37"},
+      "scriptId":"u35"},
     "10f5dd7fe6bf4781adfe6c2f1fe0e7db":{
-      "scriptId":"u38"},
+      "scriptId":"u36"},
     "7d600d475d31480a9e26ad8372b4d812":{
-      "scriptId":"u39"},
+      "scriptId":"u37"},
     "7d44b69422484f16b9979948c6accbfc":{
-      "scriptId":"u40"},
+      "scriptId":"u38"},
     "c89274dce63947b78c88f7e8bf883bbb":{
-      "scriptId":"u41"},
+      "scriptId":"u39"},
     "d16ff79db8944de3ae8a73516c535bd4":{
-      "scriptId":"u42"},
+      "scriptId":"u40"},
     "7cfd7b70eb834e34b8b8770b47139f92":{
-      "scriptId":"u43"},
+      "scriptId":"u41"},
     "adb6f159e9ae4837a5f5c122c02a7411":{
-      "scriptId":"u44"},
+      "scriptId":"u42"},
     "b7f3ff1424f441199a047c0e723c68ab":{
-      "scriptId":"u45"},
+      "scriptId":"u43"},
     "5e0b7fd9be10442da4d4bc7039e4fd91":{
-      "scriptId":"u46"},
+      "scriptId":"u44"},
     "fa0d98604ba340bf8a4de902318002e3":{
-      "scriptId":"u47"},
+      "scriptId":"u45"},
     "542b35696a5c44f3b9686b0483b70f6d":{
-      "scriptId":"u48"},
+      "scriptId":"u46"},
     "01f3990ddc6f44b2895e6fcdac012ce1":{
-      "scriptId":"u49"},
+      "scriptId":"u47"},
     "abaa82aed1da49689dde29756eaef9e2":{
-      "scriptId":"u50"},
+      "scriptId":"u48"},
     "f93fd0e9fcae493195f297200f33d5c5":{
-      "scriptId":"u51"},
+      "scriptId":"u49"},
     "6469d8f76ef847d680916a08f4538a79":{
-      "scriptId":"u52"},
+      "scriptId":"u50"},
     "6dc986a671b248f389f0b04b8db01be5":{
-      "scriptId":"u53"},
+      "scriptId":"u51"},
     "e2f4f167c9c84bab9c7f62db0cc5b8e4":{
-      "scriptId":"u54"}}});
+      "scriptId":"u52"},
+    "1d9eaa66c6e743d5876e40570daa06f4":{
+      "scriptId":"u53"},
+    "d6fa5c4af962466bb43f8a63adf586ed":{
+      "scriptId":"u54"},
+    "d60e4b21f49242b7a55d94c4fedfaba4":{
+      "scriptId":"u55"},
+    "223a84d0be014f9db348796dbd659606":{
+      "scriptId":"u56"},
+    "fc17980ae4bc488e952f747688d0b075":{
+      "scriptId":"u57"}}});
