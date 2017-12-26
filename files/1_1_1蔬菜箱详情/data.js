@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1_1蔬菜箱详情.html",
-  "generationDate":new Date(1514172269044.19),
+  "generationDate":new Date(1514252951983.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -312,7 +312,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u162.png"}},
+            "normal~":"images/0_0主页/u226.png"}},
 {
           "id":"08de5fd0645a49ea95183955e65457b2",
           "label":"",

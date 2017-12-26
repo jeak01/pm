@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3供应商登录（管理端）.html",
-  "generationDate":new Date(1514172289224.06),
+  "generationDate":new Date(1514252995151.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"013d3f74e67b4295b693b855f5f9bfcf",
           "label":"",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u162.png"}},
+            "normal~":"images/0_0主页/u226.png"}},
 {
           "id":"4e7b819e9e8e44a1bc337df879ea9bf0",
           "label":"",

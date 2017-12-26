@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_1_1激活农旅卡.html",
-  "generationDate":new Date(1514172273502.67),
+  "generationDate":new Date(1514252960450.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -258,7 +258,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u162.png"}},
+            "normal~":"images/0_0主页/u226.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -407,7 +407,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"ee466ecb2bd742238102295788b856bc",
           "label":"",
@@ -494,7 +494,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"2061561ab5c24ab8afc248cfddf9e438",
           "label":"",
@@ -616,7 +616,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"22c4f13a9a814370a46cc60626bd3ab6",
           "label":"",
@@ -703,7 +703,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"b7538796cbd0495d905299f3ff6f27a6",
           "label":"",
@@ -790,7 +790,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"00bb9d2122344640a76edec38d9c1283",
           "label":"",
@@ -844,7 +844,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"4efc368b50bc4b48acbcb18beb2f8aec",
           "label":"",
@@ -1019,7 +1019,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"0e416bd3b50345a2b77152efd7350202",
           "label":"",
@@ -1165,7 +1165,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u160.png"}},
+            "normal~":"images/0_0主页/u167.png"}},
 {
           "id":"ef9836c75ce749939fa9424872ab6cf1",
           "label":"",

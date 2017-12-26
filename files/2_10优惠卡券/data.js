@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_10优惠卡券.html",
-  "generationDate":new Date(1514172278207.9),
+  "generationDate":new Date(1514252976585.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2786,7 +2786,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u162.png"}},
+            "normal~":"images/0_0主页/u226.png"}},
 {
           "id":"61351f57e7b943ff9a178f5f51e066b1",
           "label":"游记",
