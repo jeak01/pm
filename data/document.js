@@ -35,7 +35,11 @@
 {
                     "pageName":"0.3 搜索页",
                     "type":"Wireframe",
-                    "url":"0_3_搜索页.html"}]},
+                    "url":"0_3_搜索页.html"},
+{
+                    "pageName":"0.4搜索结果页",
+                    "type":"Wireframe",
+                    "url":"0_4搜索结果页.html"}]},
 {
                 "pageName":"1.0农旅卡主题页",
                 "type":"Wireframe",
@@ -215,7 +219,11 @@
 {
                         "pageName":"2.8.2 设置支付密码",
                         "type":"Wireframe",
-                        "url":"2_8_2_设置支付密码.html"}]},
+                        "url":"2_8_2_设置支付密码.html"},
+{
+                        "pageName":"2.8.3验证身份",
+                        "type":"Wireframe",
+                        "url":"2_8_3验证身份.html"}]},
 {
                     "pageName":"2.9设置（弃用）",
                     "type":"Wireframe",
@@ -349,7 +357,7 @@
                     "type":"Wireframe",
                     "url":"5_5_3宅配信息.html"}]}]},
 {
-            "pageName":"6 现场卖单",
+            "pageName":"6 现场买单",
             "type":"Folder",
             "url":"",
             "children":[{
@@ -379,7 +387,15 @@
 {
                     "pageName":"6.3.2 现场买单订单详情",
                     "type":"Wireframe",
-                    "url":"6_3_2_现场买单订单详情.html"}]}]},
+                    "url":"6_3_2_现场买单订单详情.html"}]},
+{
+                "pageName":"6.4 扫码支付",
+                "type":"Wireframe",
+                "url":"6_4_扫码支付.html",
+                "children":[{
+                    "pageName":"6.4.1 订单详情（扫码支付）",
+                    "type":"Wireframe",
+                    "url":"6_4_1_订单详情（扫码支付）.html"}]}]},
 {
             "pageName":"7 农产优品",
             "type":"Folder",

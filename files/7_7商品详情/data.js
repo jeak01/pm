@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情.html",
-  "generationDate":new Date(1514277123328.71),
+  "generationDate":new Date(1514293453606.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -328,7 +328,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_0农产优品/u41.jpg"}},
+            "normal~":"images/0_4搜索结果页/u105.jpg"}},
 {
           "id":"38fabf2421c142fb9b28c119e9be36fd",
           "label":"",
@@ -345,7 +345,7 @@
               "x":162,
               "y":408},
             "size":{
-              "width":34,
+              "width":45,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -366,7 +366,7 @@
                   "x":162,
                   "y":408},
                 "size":{
-                  "width":34,
+                  "width":45,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -415,11 +415,15 @@
           "visible":true,
           "style":{
             "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF,
+              "opacity":1},
             "location":{
               "x":206,
               "y":408},
             "size":{
-              "width":25,
+              "width":45,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -432,14 +436,33 @@
               "visible":true,
               "style":{
                 "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF,
+                  "opacity":1},
                 "location":{
                   "x":206,
                   "y":408},
                 "size":{
-                  "width":25,
+                  "width":45,
                   "height":14}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 4.1.1农场主页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"4_1_1农场主页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
@@ -1157,7 +1180,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_1优品列表/u135.png"}},
+                    "normal~":"images/0_4搜索结果页/u110.png"}},
 {
                   "id":"da5e63b8dace4affa762f13618e5563f",
                   "label":"",
@@ -1200,7 +1223,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_1优品列表/u137.png"}},
+                    "normal~":"images/0_4搜索结果页/u112.png"}},
 {
                   "id":"f36e8dace41246a99fe290fcde93454f",
                   "label":"",
@@ -1262,7 +1285,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/7_1优品列表/u140.png"}}]}]}]}},
+                    "normal~":"images/0_4搜索结果页/u115.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

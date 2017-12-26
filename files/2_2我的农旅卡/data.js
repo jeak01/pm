@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2我的农旅卡.html",
-  "generationDate":new Date(1514277110259.04),
+  "generationDate":new Date(1514293440175.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1150,7 +1150,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"a013d505bde74098bb79f18e195f010a",
           "label":"",

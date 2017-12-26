@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_7合作农场列表.html",
-  "generationDate":new Date(1514277109114.27),
+  "generationDate":new Date(1514293438853.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -507,7 +507,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"8164aef97ff641f0ae7a7e3b65417127",
           "label":"",
@@ -1061,7 +1061,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"6174fe093d6244cdb61af73733e0e10f",
           "label":"",
@@ -1180,7 +1180,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"fbda3903df9744cc9d1edbf60a27e804",
           "label":"",
@@ -1299,7 +1299,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"c46984e462644fed895d0ea6dc92bfd5",
           "label":"",
@@ -1418,7 +1418,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"1cb41b52a87d43e781061dd5d59e83f5",
           "label":"",

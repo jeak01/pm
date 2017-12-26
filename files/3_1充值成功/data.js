@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功.html",
-  "generationDate":new Date(1514277113858.42),
+  "generationDate":new Date(1514293443915.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -653,7 +653,40 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功/u15.png"}}]}]}]}},
+                    "normal~":"images/1_3支付成功/u15.png"}}]}]},
+{
+          "id":"4b547a8856614df280da5caac7163332",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":380,
+              "y":84},
+            "size":{
+              "width":300,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5be0c60dd9134f24bc09de431822789e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":380,
+                  "y":84},
+                "size":{
+                  "width":300,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -702,4 +735,8 @@
     "99b3e01b77554150ba30e1f703af5a77":{
       "scriptId":"u21"},
     "999cb1dd67764b11a41052db501140ce":{
-      "scriptId":"u22"}}});
+      "scriptId":"u22"},
+    "4b547a8856614df280da5caac7163332":{
+      "scriptId":"u23"},
+    "5be0c60dd9134f24bc09de431822789e":{
+      "scriptId":"u24"}}});

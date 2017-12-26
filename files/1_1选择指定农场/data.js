@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_1选择指定农场.html",
-  "generationDate":new Date(1514277107182.99),
+  "generationDate":new Date(1514293436934.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -880,7 +880,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"bd9903b55c2749df8d0ca4c8f4375865",
           "label":"",
@@ -2026,7 +2026,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"15c5dde8bdf144c7924264207c2ee7e2",
           "label":"",
@@ -2873,7 +2873,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"8d27b7f423284694b62aa2c792cea39f",
           "label":"",
@@ -3720,7 +3720,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"701aee081cfc47da8ed04b2345ef670c",
           "label":"",
@@ -4552,7 +4552,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"cd4973d06ff64a7b976ccd7e60d2a843",
           "label":"",

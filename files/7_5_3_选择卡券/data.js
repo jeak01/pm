@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_3_选择卡券.html",
-  "generationDate":new Date(1514277122470.14),
+  "generationDate":new Date(1514293452804.46),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

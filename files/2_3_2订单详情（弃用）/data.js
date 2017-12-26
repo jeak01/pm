@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_3_2订单详情（弃用）.html",
-  "generationDate":new Date(1514277112378.44),
+  "generationDate":new Date(1514293442292.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -649,7 +649,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1选择指定农场/u42.png"}},
+            "normal~":"images/0_4搜索结果页/u143.png"}},
 {
           "id":"2fd652a27d12486da195555779da14ef",
           "label":"",

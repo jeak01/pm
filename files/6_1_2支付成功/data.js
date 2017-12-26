@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_1_2支付成功.html",
-  "generationDate":new Date(1514277120211.64),
+  "generationDate":new Date(1514293450300.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -297,56 +297,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"2ddd15c445c548298a3876d21f53282d",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":56,
-              "y":180},
-            "size":{
-              "width":117,
-              "height":40},
-            "cornerRadiusTopLeft":"5"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"324249df972247b2ac1c3f14b218acb2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":56,
-                  "y":180},
-                "size":{
-                  "width":117,
-                  "height":40},
-                "cornerRadiusTopLeft":"5"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 6.1现场特惠买单",
-                      "target":{
-                        "targetType":"page",
-                        "url":"6_1现场特惠买单.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/1_3支付成功/u19.png"}},
-{
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
           "type":"buttonShape",
@@ -357,7 +307,7 @@
               "fillType":"solid",
               "color":0xFFDDDDDD},
             "location":{
-              "x":182,
+              "x":121.5,
               "y":180},
             "size":{
               "width":117,
@@ -377,7 +327,7 @@
                   "fillType":"solid",
                   "color":0xFFDDDDDD},
                 "location":{
-                  "x":182,
+                  "x":121.5,
                   "y":180},
                 "size":{
                   "width":117,
@@ -466,15 +416,11 @@
       "scriptId":"u12"},
     "74ea836ace594e7f8266b376b214c455":{
       "scriptId":"u13"},
-    "2ddd15c445c548298a3876d21f53282d":{
-      "scriptId":"u14"},
-    "324249df972247b2ac1c3f14b218acb2":{
-      "scriptId":"u15"},
     "289aab97651f4349a5ed7c0adb8488b1":{
-      "scriptId":"u16"},
+      "scriptId":"u14"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"},
+      "scriptId":"u15"},
     "6469bcb0f8734cda8a9393b8984f7c9e":{
-      "scriptId":"u18"},
+      "scriptId":"u16"},
     "c8f6bb1655d144f1a866813dfd09b4f8":{
-      "scriptId":"u19"}}});
+      "scriptId":"u17"}}});

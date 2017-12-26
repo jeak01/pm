@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_5_现场买单统计.html",
-  "generationDate":new Date(1514277124892.75),
+  "generationDate":new Date(1514293455249.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2223,7 +2223,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/10_5_现场买单统计/u97.png"}}]}},
+            "normal~":"images/0_4搜索结果页/u11.png"}}]}},
   "masters":{
 },
   "objectPaths":{
