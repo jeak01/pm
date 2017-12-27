@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_2登录.html",
-  "generationDate":new Date(1514340711699.25),
+  "generationDate":new Date(1514369115719.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
