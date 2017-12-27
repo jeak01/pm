@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_4_扫码支付.html",
-  "generationDate":new Date(1514293450846.16),
+  "generationDate":new Date(1514340770771.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -345,10 +345,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.3我的订单",
+                      "description":"在 当前窗口 打开 2.8.1资金账单",
                       "target":{
                         "targetType":"page",
-                        "url":"2_3我的订单.html",
+                        "url":"2_8_1资金账单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
