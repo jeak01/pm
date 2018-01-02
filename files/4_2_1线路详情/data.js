@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_1线路详情.html",
-  "generationDate":new Date(1514878207014.16),
+  "generationDate":new Date(1514883159370.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -6502,7 +6502,191 @@
                                 "g":79,
                                 "b":79,
                                 "a":155}}}}]}]}]}},
-          "tabbable":true}]}},
+          "tabbable":true},
+{
+          "id":"0294c27852c54884ae75308f9fc015c2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":480,
+              "y":0},
+            "size":{
+              "width":360,
+              "height":631}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c34eb1f26c5d4993905e8c8c1388462a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":480,
+                  "y":0},
+                "size":{
+                  "width":360,
+                  "height":631}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/4_2_1线路详情/u319.jpg"}},
+{
+          "id":"59eaf978cd8d4b7c874fa46436809985",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":377,
+              "y":354},
+            "size":{
+              "width":31,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/4_2_1线路详情/u321_line.png"}},
+{
+          "id":"8669a0816a3a440886406ed94b1a30ae",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":407,
+              "y":21},
+            "size":{
+              "width":51,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/4_2_1线路详情/u322_line.png"}},
+{
+          "id":"ed4de339d1ad425c8a7b4a8a4906f517",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":401,
+              "y":27},
+            "size":{
+              "width":10,
+              "height":334}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/4_2_1线路详情/u323_line.png"}},
+{
+          "id":"b928f26a57524e16878acf3c35c331bf",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF009DD9},
+            "location":{
+              "x":370,
+              "y":355},
+            "size":{
+              "width":10,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "cornerRadiusTopLeft":"20"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"985c2c7fd701437db7d443156c3c005e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF009DD9},
+                "location":{
+                  "x":370,
+                  "y":355},
+                "size":{
+                  "width":10,
+                  "height":10},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "cornerRadiusTopLeft":"20"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/4_2_1线路详情/u324.png"}},
+{
+          "id":"f0bc3f92156f4c65872b996ac873c902",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF009DD9},
+            "location":{
+              "x":451,
+              "y":21},
+            "size":{
+              "width":10,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "cornerRadiusTopLeft":"20"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2513eea68c964ccba14339b9f68417e1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF009DD9},
+                "location":{
+                  "x":451,
+                  "y":21},
+                "size":{
+                  "width":10,
+                  "height":10},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "cornerRadiusTopLeft":"20"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/4_2_1线路详情/u324.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -7143,4 +7327,22 @@
     "a7d3c8a9fd974e848ffefc3657c93b3a":{
       "scriptId":"u317"},
     "fb7b085f75344b548e8160c2a1d6eb73":{
-      "scriptId":"u318"}}});
+      "scriptId":"u318"},
+    "0294c27852c54884ae75308f9fc015c2":{
+      "scriptId":"u319"},
+    "c34eb1f26c5d4993905e8c8c1388462a":{
+      "scriptId":"u320"},
+    "59eaf978cd8d4b7c874fa46436809985":{
+      "scriptId":"u321"},
+    "8669a0816a3a440886406ed94b1a30ae":{
+      "scriptId":"u322"},
+    "ed4de339d1ad425c8a7b4a8a4906f517":{
+      "scriptId":"u323"},
+    "b928f26a57524e16878acf3c35c331bf":{
+      "scriptId":"u324"},
+    "985c2c7fd701437db7d443156c3c005e":{
+      "scriptId":"u325"},
+    "f0bc3f92156f4c65872b996ac873c902":{
+      "scriptId":"u326"},
+    "2513eea68c964ccba14339b9f68417e1":{
+      "scriptId":"u327"}}});
