@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"8_0_惠选食材.html",
-  "generationDate":new Date(1514369134738.3),
+  "generationDate":new Date(1514878229261.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"8acdaacb8dcf4639b0f098e03f73f264",
           "label":"",

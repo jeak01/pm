@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_5_3宅配信息.html",
-  "generationDate":new Date(1514369130614.57),
+  "generationDate":new Date(1514878214231.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"05460c27075f466ea0458c67b649ddad",
           "label":"",
@@ -2807,7 +2807,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u175.png"}},
+            "normal~":"images/0_0主页/u235.png"}},
 {
           "id":"44a6276ae4e84a92a5cc06c0963cd1fd",
           "label":"",

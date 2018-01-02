@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_3验证身份.html",
-  "generationDate":new Date(1514369123645.9),
+  "generationDate":new Date(1514878195062.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"908e96eef6134ff0931c9eb7faad23d2",
           "label":"",

@@ -1829,9 +1829,9 @@
 }
 #u156 {
   position:absolute;
-  left:240px;
+  left:230px;
   top:47px;
-  width:21px;
+  width:41px;
   height:13px;
   font-size:10px;
 }
@@ -1839,14 +1839,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:21px;
+  width:41px;
   height:13px;
 }
 #u157 {
   position:absolute;
   left:0px;
   top:0px;
-  width:21px;
+  width:41px;
   white-space:nowrap;
 }
 #u158 {
@@ -1961,17 +1961,17 @@
 }
 #u168 {
   position:absolute;
-  left:87px;
-  top:23px;
-  width:50px;
-  height:37px;
+  left:150px;
+  top:0px;
+  width:60px;
+  height:63px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
 #u169 {
   position:absolute;
-  left:225px;
-  top:24px;
+  left:88px;
+  top:23px;
   width:50px;
   height:37px;
   overflow:hidden;
@@ -1979,10 +1979,10 @@
 }
 #u170 {
   position:absolute;
-  left:150px;
-  top:0px;
-  width:60px;
-  height:63px;
+  left:226px;
+  top:23px;
+  width:50px;
+  height:37px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_8服务条款.html",
-  "generationDate":new Date(1514369119519.16),
+  "generationDate":new Date(1514878180456.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u167.png"}},
+            "normal~":"images/0_0主页/top_u178.png"}},
 {
           "id":"4484357dbed94b3d9058dc8f3ab201a4",
           "label":"",
@@ -116,7 +116,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"5322e00bd8654fe693b5019af4fb73f2",
           "label":"",

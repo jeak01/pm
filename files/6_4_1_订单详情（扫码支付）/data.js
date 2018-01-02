@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_4_1_订单详情（扫码支付）.html",
-  "generationDate":new Date(1514369131700.29),
+  "generationDate":new Date(1514878215880.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -143,7 +143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"c01e82b55e1f401b938965f944223d68",
           "label":"",
@@ -215,7 +215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u175.png"}},
+            "normal~":"images/0_0主页/u235.png"}},
 {
           "id":"1683e5fe38674d69812e3d9589e1e064",
           "label":"",
@@ -1274,7 +1274,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/6_1_3采购订单详情/u65.png"}}]}},
+            "normal~":"images/6_1_3采购订单详情/u66.png"}}]}},
   "masters":{
 },
   "objectPaths":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_1待发货.html",
-  "generationDate":new Date(1514369135595.87),
+  "generationDate":new Date(1514878234943.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1493,7 +1493,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/0_0主页/u162.png"}}]}]}]}},
+                    "normal~":"images/0_0主页/u158.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

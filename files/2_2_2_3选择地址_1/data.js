@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_2_2_3选择地址_1.html",
-  "generationDate":new Date(1514369133700.61),
+  "generationDate":new Date(1514878219888.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -779,7 +779,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"0fd32577c6e74925abc207b37d7101e0",
           "label":"",

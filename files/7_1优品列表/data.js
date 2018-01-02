@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_1优品列表.html",
-  "generationDate":new Date(1514369132380.74),
+  "generationDate":new Date(1514878217501.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"70996b2a32a94228bd3c10f3cf86a09d",
           "label":"",

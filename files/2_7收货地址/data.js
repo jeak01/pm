@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_7收货地址.html",
-  "generationDate":new Date(1514369123187.59),
+  "generationDate":new Date(1514878188430.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -149,7 +149,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"fce0340facb841939891147e6105ceb4",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_4搜索结果页.html",
-  "generationDate":new Date(1514369116271),
+  "generationDate":new Date(1514878173039.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -155,7 +155,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"35d4aff99c1947f0ab23441bac57f33d",
           "label":"搜索结果列表",

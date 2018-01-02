@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_4更多功能.html",
-  "generationDate":new Date(1514369136041.17),
+  "generationDate":new Date(1514878242372.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -907,10 +907,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 10.5 现场买单统计",
+                      "description":"在 当前窗口 打开 10.5 现场买单统计（弃用）",
                       "target":{
                         "targetType":"page",
-                        "url":"10_5_现场买单统计.html",
+                        "url":"10_5_现场买单统计（弃用）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_9订单详情（农旅卡）.html",
-  "generationDate":new Date(1514369119623.23),
+  "generationDate":new Date(1514878180703.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -143,7 +143,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"b10814193c8f48fd9c51f4baee7e01e2",
           "label":"",
@@ -720,7 +720,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/u175.png"}},
+            "normal~":"images/0_0主页/u235.png"}},
 {
           "id":"3aeb658a04bb44a699439ed7d7e18491",
           "label":"",

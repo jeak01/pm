@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情.html",
-  "generationDate":new Date(1514369134542.17),
+  "generationDate":new Date(1514878228631.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -256,7 +256,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u226.png"}},
+            "normal~":"images/0_0主页/u180.png"}},
 {
           "id":"0cf618c11e764d538a838af3078357ec",
           "label":"",

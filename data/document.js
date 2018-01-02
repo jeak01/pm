@@ -477,6 +477,18 @@
                 "type":"Wireframe",
                 "url":"8_1惠选农旅.html"}]},
 {
+            "pageName":"9 订单流程",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"9.0 确认订单模板",
+                "type":"Wireframe",
+                "url":"9_0_确认订单模板.html"},
+{
+                "pageName":"9.1 订单详情模板",
+                "type":"Wireframe",
+                "url":"9_1_订单详情模板.html"}]},
+{
             "pageName":"10 供应商",
             "type":"Folder",
             "url":"",
@@ -505,9 +517,17 @@
                     "type":"Wireframe",
                     "url":"10_4更多功能.html"},
 {
-                    "pageName":"10.5 现场买单统计",
+                    "pageName":"10.5 现场买单统计（弃用）",
                     "type":"Wireframe",
-                    "url":"10_5_现场买单统计.html"}]}]}]}]},
+                    "url":"10_5_现场买单统计（弃用）.html"}]}]}]},
+{
+        "pageName":"备份",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"10.5 现场买单统计的副本",
+            "type":"Wireframe",
+            "url":"10_5_现场买单统计的副本.html"}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",
