@@ -405,9 +405,9 @@
                 "type":"Wireframe",
                 "url":"7_0农产优品.html",
                 "children":[{
-                    "pageName":"7.1优品列表",
+                    "pageName":"7.1优品列表（弃用）",
                     "type":"Wireframe",
-                    "url":"7_1优品列表.html"},
+                    "url":"7_1优品列表（弃用）.html"},
 {
                     "pageName":"7.2限时特惠详情页",
                     "type":"Wireframe",

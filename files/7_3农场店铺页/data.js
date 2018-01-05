@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_3农场店铺页.html",
-  "generationDate":new Date(1515057194610.75),
+  "generationDate":new Date(1515120397615.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -79,7 +79,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/7_1优品列表/u0.png"}},
+            "normal~":"images/7_1优品列表（弃用）/u0.png"}},
 {
           "id":"20275300dcef45c6806b5cd0206286e9",
           "label":"",
