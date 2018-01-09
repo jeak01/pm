@@ -519,7 +519,35 @@
 {
                     "pageName":"10.5 现场买单统计（弃用）",
                     "type":"Wireframe",
-                    "url":"10_5_现场买单统计（弃用）.html"}]}]}]},
+                    "url":"10_5_现场买单统计（弃用）.html"}]}]},
+{
+            "pageName":"11 农旅生活卡",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"11.0 农旅生活卡",
+                "type":"Wireframe",
+                "url":"11_0_农旅生活卡.html"},
+{
+                "pageName":"11.1 绑定使用者",
+                "type":"Wireframe",
+                "url":"11_1_绑定使用者.html"},
+{
+                "pageName":"11.2 我的卡包",
+                "type":"Wireframe",
+                "url":"11_2_我的卡包.html"},
+{
+                "pageName":"11.3 已过期的卡",
+                "type":"Wireframe",
+                "url":"11_3_已过期的卡.html"},
+{
+                "pageName":"11.4 农旅生活卡权益",
+                "type":"Wireframe",
+                "url":"11_4_农旅生活卡权益.html"},
+{
+                "pageName":"11.5 权益景区列表",
+                "type":"Wireframe",
+                "url":"11_5_权益景区列表.html"}]}]},
 {
         "pageName":"备份",
         "type":"Folder",
@@ -527,7 +555,11 @@
         "children":[{
             "pageName":"10.5 现场买单统计的副本",
             "type":"Wireframe",
-            "url":"10_5_现场买单统计的副本.html"}]}]},
+            "url":"10_5_现场买单统计的副本.html"},
+{
+            "pageName":"9.1 订单详情模板（权益旅游）",
+            "type":"Wireframe",
+            "url":"9_1_订单详情模板（权益旅游）.html"}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",
