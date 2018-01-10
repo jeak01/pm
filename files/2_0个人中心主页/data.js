@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_0个人中心主页.html",
-  "generationDate":new Date(1515574080219.9),
+  "generationDate":new Date(1515574663585.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -436,7 +436,7 @@
               "x":54,
               "y":282},
             "size":{
-              "width":53,
+              "width":66,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -452,7 +452,7 @@
                   "x":54,
                   "y":282},
                 "size":{
-                  "width":53,
+                  "width":66,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -1769,10 +1769,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 5.5.3宅配信息",
+                      "description":"在 当前窗口 打开 11.2 我的卡包",
                       "target":{
                         "targetType":"page",
-                        "url":"5_5_3宅配信息.html",
+                        "url":"11_2_我的卡包.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
