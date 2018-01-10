@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_3_已过期的卡.html",
-  "generationDate":new Date(1515574679214.95),
+  "generationDate":new Date(1515574817840.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -495,6 +495,21 @@
                   "height":16}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 11.2 我的卡包",
+                      "target":{
+                        "targetType":"page",
+                        "url":"11_2_我的卡包.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
