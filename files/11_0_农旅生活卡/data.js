@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_农旅生活卡.html",
-  "generationDate":new Date(1515567734813.97),
+  "generationDate":new Date(1515574096975.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2252,7 +2252,13 @@
                                     "loop":false,
                                     "showWhenSet":false,
                                     "options":{
-                                      "compress":false}}}]}]}]}},
+                                      "compress":false}}}]},
+{
+                              "action":"scrollToWidget",
+                              "description":"滚动到 (形状) (仅垂直)",
+                              "objectPath":["c8e604711e894ce8958acf9fbe432fb4"],
+                              "options":{
+                                "direction":"vertical"}}]}]}},
                   "tabbable":true,
                   "images":{
                     "normal~":"images/11_0_农旅生活卡/u105.png"}},

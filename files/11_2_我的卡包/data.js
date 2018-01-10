@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_2_我的卡包.html",
-  "generationDate":new Date(1515567735091.16),
+  "generationDate":new Date(1515574097134.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -663,7 +663,67 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a664b8b005eb423b88b866c4a85601ed",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":17,
+              "y":51},
+            "size":{
+              "width":323,
+              "height":79}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 11.4 农旅生活卡权益",
+                      "target":{
+                        "targetType":"page",
+                        "url":"11_4_农旅生活卡权益.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"258ae7bb297041159a0ee85765ca3bde",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":19,
+              "y":140},
+            "size":{
+              "width":323,
+              "height":79}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 11.4 农旅生活卡权益",
+                      "target":{
+                        "targetType":"page",
+                        "url":"11_4_农旅生活卡权益.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
 },
   "objectPaths":{
@@ -734,4 +794,8 @@
     "43006ce36784496aa90ee13360bf4097":{
       "scriptId":"u32"},
     "e8601d367f714f15a9a55628fb47da68":{
-      "scriptId":"u33"}}});
+      "scriptId":"u33"},
+    "a664b8b005eb423b88b866c4a85601ed":{
+      "scriptId":"u34"},
+    "258ae7bb297041159a0ee85765ca3bde":{
+      "scriptId":"u35"}}});

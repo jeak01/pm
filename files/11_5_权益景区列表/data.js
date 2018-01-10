@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_5_权益景区列表.html",
-  "generationDate":new Date(1515567735414.37),
+  "generationDate":new Date(1515574097371.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -325,10 +325,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.2.1线路详情",
+                      "description":"在 当前窗口 打开 4.2.1线路详情（农旅生活卡）",
                       "target":{
                         "targetType":"page",
-                        "url":"4_2_1线路详情.html",
+                        "url":"4_2_1线路详情（农旅生活卡）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -554,10 +554,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 4.2.1线路详情",
+                      "description":"在 当前窗口 打开 4.2.1线路详情（农旅生活卡）",
                       "target":{
                         "targetType":"page",
-                        "url":"4_2_1线路详情.html",
+                        "url":"4_2_1线路详情（农旅生活卡）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
