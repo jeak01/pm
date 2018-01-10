@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_4_扫码支付.html",
-  "generationDate":new Date(1515499698750.66),
+  "generationDate":new Date(1515567727946.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

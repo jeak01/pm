@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"9_1_订单详情模板（权益旅游）.html",
-  "generationDate":new Date(1515499710901.71),
+  "generationDate":new Date(1515567736820.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -36,6 +36,39 @@
 },
     "diagram":{
       "objects":[{
+          "id":"71a739cfa4744e9598034350f9ce1300",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":618},
+            "size":{
+              "width":349,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"08a98f0f96fb4a928066bec204fc1ae7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":618},
+                "size":{
+                  "width":349,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/9_1_订单详情模板（权益旅游）/u0.png"}},
+{
           "id":"7f332817acb043719c7009dba45d8e4c",
           "label":"",
           "type":"imageBox",
@@ -69,7 +102,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/9_1_订单详情模板（权益旅游）/u0.png"}},
+            "normal~":"images/9_1_订单详情模板（权益旅游）/u2.png"}},
 {
           "id":"911dbe6269bc45408c2a90cced438b7b",
           "label":"",
@@ -110,7 +143,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/9_1_订单详情模板（权益旅游）/u2.png"}},
+            "normal~":"images/9_1_订单详情模板（权益旅游）/u4.png"}},
 {
           "id":"dcd808d5499a47e0ae61055dfdf77ef9",
           "label":"",
@@ -151,7 +184,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/9_1_订单详情模板（权益旅游）/u4.png"}},
+            "normal~":"images/9_1_订单详情模板（权益旅游）/u6.png"}},
 {
           "id":"84afac3702ee4a1cb8f406455febdebf",
           "label":"",
@@ -192,7 +225,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/9_1_订单详情模板（权益旅游）/u6.png"}},
+            "normal~":"images/9_1_订单详情模板（权益旅游）/u8.png"}},
 {
           "id":"6fdb0a2881384dda9da95bf1c36a44d2",
           "label":"",
@@ -227,7 +260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/9_1_订单详情模板（权益旅游）/u8.png"}},
+            "normal~":"images/9_1_订单详情模板（权益旅游）/u10.png"}},
 {
           "id":"a8126e2a0c69484097c5f2756395f148",
           "label":"",
@@ -486,7 +519,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/9_1_订单详情模板（权益旅游）/u22.png"}},
+            "normal~":"images/9_1_订单详情模板（权益旅游）/u24.png"}},
 {
           "id":"4f790119a309476c8bc6f120992ca589",
           "label":"",
@@ -653,75 +686,116 @@
               "adaptiveStyles":{
 }}],
           "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a4f0e91ec8b740668c6afeaded1f6cdd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":668},
+            "size":{
+              "width":208,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9cf22b757aa0483585c422777928ae37",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":668},
+                "size":{
+                  "width":208,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "7f332817acb043719c7009dba45d8e4c":{
+    "71a739cfa4744e9598034350f9ce1300":{
       "scriptId":"u0"},
-    "820160dbb17044f2a4e7f98a0e76974f":{
+    "08a98f0f96fb4a928066bec204fc1ae7":{
       "scriptId":"u1"},
-    "911dbe6269bc45408c2a90cced438b7b":{
+    "7f332817acb043719c7009dba45d8e4c":{
       "scriptId":"u2"},
-    "84d7d7330be7415fb60233fba9734fd8":{
+    "820160dbb17044f2a4e7f98a0e76974f":{
       "scriptId":"u3"},
-    "dcd808d5499a47e0ae61055dfdf77ef9":{
+    "911dbe6269bc45408c2a90cced438b7b":{
       "scriptId":"u4"},
-    "ce6636fa3eea41bfbb072da7e2a2a32f":{
+    "84d7d7330be7415fb60233fba9734fd8":{
       "scriptId":"u5"},
-    "84afac3702ee4a1cb8f406455febdebf":{
+    "dcd808d5499a47e0ae61055dfdf77ef9":{
       "scriptId":"u6"},
-    "19d40176b41e49a19c464b1203ebed4a":{
+    "ce6636fa3eea41bfbb072da7e2a2a32f":{
       "scriptId":"u7"},
-    "6fdb0a2881384dda9da95bf1c36a44d2":{
+    "84afac3702ee4a1cb8f406455febdebf":{
       "scriptId":"u8"},
-    "111d40759f5b4fb5b5fb041d66bbeb9d":{
+    "19d40176b41e49a19c464b1203ebed4a":{
       "scriptId":"u9"},
-    "a8126e2a0c69484097c5f2756395f148":{
+    "6fdb0a2881384dda9da95bf1c36a44d2":{
       "scriptId":"u10"},
-    "baf3b52bd900490da6d2c8b21379cef5":{
+    "111d40759f5b4fb5b5fb041d66bbeb9d":{
       "scriptId":"u11"},
-    "219c77775f2a44c9922cedf845bff693":{
+    "a8126e2a0c69484097c5f2756395f148":{
       "scriptId":"u12"},
-    "5f1f5417b3884a1787552687cc8f9b1a":{
+    "baf3b52bd900490da6d2c8b21379cef5":{
       "scriptId":"u13"},
-    "0583e0f38f504a5c821922fba5e79783":{
+    "219c77775f2a44c9922cedf845bff693":{
       "scriptId":"u14"},
-    "57815be3f20642ec8a3575d8c78c5873":{
+    "5f1f5417b3884a1787552687cc8f9b1a":{
       "scriptId":"u15"},
-    "5d1c575d6d624e2d95c98812f3dd9122":{
+    "0583e0f38f504a5c821922fba5e79783":{
       "scriptId":"u16"},
-    "44a15ee6f1b04c81a3e1630c59b48e73":{
+    "57815be3f20642ec8a3575d8c78c5873":{
       "scriptId":"u17"},
-    "979b100e6c514cd49d03c358b146918a":{
+    "5d1c575d6d624e2d95c98812f3dd9122":{
       "scriptId":"u18"},
-    "150e2598e1624805986cf0ab293e0267":{
+    "44a15ee6f1b04c81a3e1630c59b48e73":{
       "scriptId":"u19"},
-    "7f7c59a4992d4bf890fe21995c2c881a":{
+    "979b100e6c514cd49d03c358b146918a":{
       "scriptId":"u20"},
-    "56d13f60280549eeabbdb188bea7db2c":{
+    "150e2598e1624805986cf0ab293e0267":{
       "scriptId":"u21"},
-    "e92ad2fcd50a40cf8371571e1c203d75":{
+    "7f7c59a4992d4bf890fe21995c2c881a":{
       "scriptId":"u22"},
-    "afe2cf70971948ba9ae557566611567f":{
+    "56d13f60280549eeabbdb188bea7db2c":{
       "scriptId":"u23"},
-    "4f790119a309476c8bc6f120992ca589":{
+    "e92ad2fcd50a40cf8371571e1c203d75":{
       "scriptId":"u24"},
-    "832c653f4777471ea0210240cd549392":{
+    "afe2cf70971948ba9ae557566611567f":{
       "scriptId":"u25"},
-    "987745c95a5a4a148e51bb8135048d92":{
+    "4f790119a309476c8bc6f120992ca589":{
       "scriptId":"u26"},
-    "c4b413a984804b64b8f34c38e6afdf65":{
+    "832c653f4777471ea0210240cd549392":{
       "scriptId":"u27"},
-    "7b10cfa5cfe140248bb94e69527614a1":{
+    "987745c95a5a4a148e51bb8135048d92":{
       "scriptId":"u28"},
-    "e90a00d468674414a88c0f963efc9f75":{
+    "c4b413a984804b64b8f34c38e6afdf65":{
       "scriptId":"u29"},
-    "96cd38700a714a8aa8438a9041be4782":{
+    "7b10cfa5cfe140248bb94e69527614a1":{
       "scriptId":"u30"},
-    "d22564108f194d8b8f7dcb4b2fbe7ecb":{
+    "e90a00d468674414a88c0f963efc9f75":{
       "scriptId":"u31"},
-    "d78847cb5cca4550976d92f1d7b914c0":{
+    "96cd38700a714a8aa8438a9041be4782":{
       "scriptId":"u32"},
+    "d22564108f194d8b8f7dcb4b2fbe7ecb":{
+      "scriptId":"u33"},
+    "d78847cb5cca4550976d92f1d7b914c0":{
+      "scriptId":"u34"},
     "ad8dfd1e9e804e778cd4340d25b135ba":{
-      "scriptId":"u33"}}});
+      "scriptId":"u35"},
+    "a4f0e91ec8b740668c6afeaded1f6cdd":{
+      "scriptId":"u36"},
+    "9cf22b757aa0483585c422777928ae37":{
+      "scriptId":"u37"}}});

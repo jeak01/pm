@@ -557,6 +557,26 @@
             "type":"Wireframe",
             "url":"10_5_现场买单统计的副本.html"},
 {
+            "pageName":"4.2.3订单支付页的（农旅生活卡）",
+            "type":"Wireframe",
+            "url":"4_2_3订单支付页的（农旅生活卡）.html"},
+{
+            "pageName":"4.2.4支付成功（农旅生活卡）",
+            "type":"Wireframe",
+            "url":"4_2_4支付成功（农旅生活卡）.html"},
+{
+            "pageName":"1.6提交成功（农旅生活卡）",
+            "type":"Wireframe",
+            "url":"1_6提交成功（农旅生活卡）.html"},
+{
+            "pageName":"4.2.1线路详情（农旅生活卡）",
+            "type":"Wireframe",
+            "url":"4_2_1线路详情（农旅生活卡）.html"},
+{
+            "pageName":"4.2.2确认订单（权益旅游）",
+            "type":"Wireframe",
+            "url":"4_2_2确认订单（权益旅游）.html"},
+{
             "pageName":"9.1 订单详情模板（权益旅游）",
             "type":"Wireframe",
             "url":"9_1_订单详情模板（权益旅游）.html"}]}]},

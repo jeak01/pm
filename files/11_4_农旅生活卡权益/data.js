@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_4_农旅生活卡权益.html",
-  "generationDate":new Date(1515499710477.43),
+  "generationDate":new Date(1515567735303.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -992,10 +992,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 2.2.1优游通权益",
+                      "description":"在 当前窗口 打开 11.5 权益景区列表",
                       "target":{
                         "targetType":"page",
-                        "url":"2_2_1优游通权益.html",
+                        "url":"11_5_权益景区列表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

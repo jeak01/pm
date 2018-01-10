@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_1_绑定使用者.html",
-  "generationDate":new Date(1515499710267.29),
+  "generationDate":new Date(1515567734965.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -380,10 +380,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.6提交成功",
+                      "description":"在 当前窗口 打开 1.6提交成功（农旅生活卡）",
                       "target":{
                         "targetType":"page",
-                        "url":"1_6提交成功.html",
+                        "url":"1_6提交成功（农旅生活卡）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
