@@ -239,7 +239,15 @@
 {
                     "pageName":"2.12企业服务",
                     "type":"Wireframe",
-                    "url":"2_12企业服务.html"}]}]},
+                    "url":"2_12企业服务.html"},
+{
+                    "pageName":"2.13帮助中心",
+                    "type":"Wireframe",
+                    "url":"2_13帮助中心.html",
+                    "children":[{
+                        "pageName":"2.13.1帮助中心内容页",
+                        "type":"Wireframe",
+                        "url":"2_13_1帮助中心内容页.html"}]}]}]},
 {
             "pageName":"3 充值",
             "type":"Folder",
