@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_农旅生活卡.html",
-  "generationDate":new Date(1515739498694.87),
+  "generationDate":new Date(1515740166718.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2480,10 +2480,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 2.0个人中心主页",
+                              "description":"在 当前窗口 打开 2.1.1激活农旅卡（农旅生活卡）",
                               "target":{
                                 "targetType":"page",
-                                "url":"2_0个人中心主页.html",
+                                "url":"2_1_1激活农旅卡（农旅生活卡）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true},
