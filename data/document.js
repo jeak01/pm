@@ -573,6 +573,10 @@
             "type":"Wireframe",
             "url":"4_2_1线路详情（农旅生活卡）.html"},
 {
+            "pageName":"2.1.1激活农旅卡（农旅生活卡）",
+            "type":"Wireframe",
+            "url":"2_1_1激活农旅卡（农旅生活卡）.html"},
+{
             "pageName":"4.2.2确认订单（权益旅游）",
             "type":"Wireframe",
             "url":"4_2_2确认订单（权益旅游）.html"},
