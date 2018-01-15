@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_6农场定位地图.html",
-  "generationDate":new Date(1515743455754.16),
+  "generationDate":new Date(1515980267206.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
