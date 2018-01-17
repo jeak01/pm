@@ -1,0 +1,42 @@
+﻿$axure.loadCurrentPage({
+  "url":"11_0_2有机套餐-清远鸡.html",
+  "generationDate":new Date(1516152897525.35),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"status",
+"package",
+"payFrom",
+"nc",
+"carNum",
+"recharge"],
+  "page":{
+    "packageId":"9c09c3112fa340c2873ec6ee8e1238f0",
+    "type":"Axure:Page",
+    "name":"11.0.2有机套餐-清远鸡",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

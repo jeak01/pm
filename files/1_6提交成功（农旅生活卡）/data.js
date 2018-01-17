@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_6提交成功（农旅生活卡）.html",
-  "generationDate":new Date(1515981018390.14),
+  "generationDate":new Date(1516152900110.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -340,10 +340,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 11.4 农旅生活卡权益",
+                      "description":"在 当前窗口 打开 11.4 农旅卡权益",
                       "target":{
                         "targetType":"page",
-                        "url":"11_4_农旅生活卡权益.html",
+                        "url":"11_4_农旅卡权益.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -397,10 +397,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 11.4 农旅生活卡权益",
+                              "description":"在 当前窗口 打开 11.4 农旅卡权益",
                               "target":{
                                 "targetType":"page",
-                                "url":"11_4_农旅生活卡权益.html",
+                                "url":"11_4_农旅卡权益.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

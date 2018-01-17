@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"9_1_订单详情模板（权益旅游）.html",
-  "generationDate":new Date(1515981017607.62),
+  "generationDate":new Date(1516152899035.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -350,7 +350,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/11_4_农旅生活卡权益/u58.png"}},
+                    "normal~":"images/11_4_农旅卡权益/u58.png"}},
 {
                   "id":"96cd38700a714a8aa8438a9041be4782",
                   "label":"",
@@ -1616,7 +1616,7 @@
           "style":{
             "location":{
               "x":420,
-              "y":120},
+              "y":135},
             "size":{
               "width":118,
               "height":16}},
@@ -1632,7 +1632,7 @@
               "style":{
                 "location":{
                   "x":420,
-                  "y":120},
+                  "y":135},
                 "size":{
                   "width":118,
                   "height":16}},
@@ -1649,7 +1649,7 @@
           "style":{
             "location":{
               "x":420,
-              "y":264},
+              "y":269},
             "size":{
               "width":131,
               "height":16}},
@@ -1665,7 +1665,7 @@
               "style":{
                 "location":{
                   "x":420,
-                  "y":264},
+                  "y":269},
                 "size":{
                   "width":131,
                   "height":16}},
