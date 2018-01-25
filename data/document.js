@@ -529,33 +529,13 @@
                     "type":"Wireframe",
                     "url":"10_5_现场买单统计（弃用）.html"}]}]},
 {
-            "pageName":"11 农旅卡",
+            "pageName":"11 农旅生活卡",
             "type":"Folder",
             "url":"",
             "children":[{
-                "pageName":"11.0 农旅卡购买页",
+                "pageName":"11.0 农旅生活卡",
                 "type":"Wireframe",
-                "url":"11_0_农旅卡购买页.html",
-                "children":[{
-                    "pageName":"11.0.1农旅卡推广页",
-                    "type":"Wireframe",
-                    "url":"11_0_1农旅卡推广页.html"},
-{
-                    "pageName":"11.0.2有机套餐-清远鸡",
-                    "type":"Wireframe",
-                    "url":"11_0_2有机套餐-清远鸡.html"},
-{
-                    "pageName":"11.0.3有机套餐-土鸡蛋",
-                    "type":"Wireframe",
-                    "url":"11_0_3有机套餐-土鸡蛋.html"},
-{
-                    "pageName":"11.0.4有机套餐-有机蔬菜",
-                    "type":"Wireframe",
-                    "url":"11_0_4有机套餐-有机蔬菜.html"},
-{
-                    "pageName":"11.0.5有机农场介绍",
-                    "type":"Wireframe",
-                    "url":"11_0_5有机农场介绍.html"}]},
+                "url":"11_0_农旅生活卡.html"},
 {
                 "pageName":"11.1 绑定使用者",
                 "type":"Wireframe",
@@ -569,9 +549,9 @@
                 "type":"Wireframe",
                 "url":"11_3_已过期的卡.html"},
 {
-                "pageName":"11.4 农旅卡权益",
+                "pageName":"11.4 农旅生活卡权益",
                 "type":"Wireframe",
-                "url":"11_4_农旅卡权益.html"},
+                "url":"11_4_农旅生活卡权益.html"},
 {
                 "pageName":"11.5 权益景区列表",
                 "type":"Wireframe",
@@ -581,17 +561,29 @@
                 "type":"Folder",
                 "url":"",
                 "children":[{
-                    "pageName":"2.1.1激活农旅卡",
+                    "pageName":"2.1.1激活农旅卡（农旅生活卡）",
                     "type":"Wireframe",
-                    "url":"2_1_1激活农旅卡_1.html"},
+                    "url":"2_1_1激活农旅卡（农旅生活卡）.html"},
 {
-                    "pageName":"4.2.1线路详情（农权益预约）",
+                    "pageName":"4.2.1线路详情（农旅生活卡）",
                     "type":"Wireframe",
-                    "url":"4_2_1线路详情（农权益预约）.html"},
+                    "url":"4_2_1线路详情（农旅生活卡）.html"},
 {
                     "pageName":"9.1 订单详情模板（权益旅游）",
                     "type":"Wireframe",
-                    "url":"9_1_订单详情模板（权益旅游）.html"}]}]}]},
+                    "url":"9_1_订单详情模板（权益旅游）.html"}]}]},
+{
+            "pageName":"12 简易商城",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"12.0 商城首页",
+                "type":"Wireframe",
+                "url":"12_0_商城首页.html"},
+{
+                "pageName":"12.1 商品列表",
+                "type":"Wireframe",
+                "url":"12_1_商品列表.html"}]}]},
 {
         "pageName":"备份",
         "type":"Folder",
@@ -615,7 +607,11 @@
 {
             "pageName":"1.6提交成功（农旅生活卡）",
             "type":"Wireframe",
-            "url":"1_6提交成功（农旅生活卡）.html"}]}]},
+            "url":"1_6提交成功（农旅生活卡）.html"},
+{
+            "pageName":"7.7商品详情（简易商城）",
+            "type":"Wireframe",
+            "url":"7_7商品详情（简易商城）.html"}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",
