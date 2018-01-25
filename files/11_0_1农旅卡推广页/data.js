@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_1农旅卡推广页.html",
-  "generationDate":new Date(1516152897514.35),
+  "generationDate":new Date(1516862169365.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"3c30b3de615d4287998e4fa1572d3682",
+    "packageId":"3d63e862f918436b950fbced9c5f7ed0",
     "type":"Axure:Page",
     "name":"11.0.1农旅卡推广页",
     "notes":{

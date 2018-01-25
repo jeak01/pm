@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_农旅卡购买页.html",
-  "generationDate":new Date(1516152897453.3),
+  "generationDate":new Date(1516862169319.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1672,21 +1672,6 @@
                 "cornerRadiusTopLeft":"0"},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 11.0.2有机套餐-清远鸡",
-                      "target":{
-                        "targetType":"page",
-                        "url":"11_0_2有机套餐-清远鸡.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
             "normal~":"images/11_0_农旅卡购买页/u78.png"}},
 {
@@ -1728,21 +1713,6 @@
                 "cornerRadiusTopLeft":"0"},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 11.0.3有机套餐-土鸡蛋",
-                      "target":{
-                        "targetType":"page",
-                        "url":"11_0_3有机套餐-土鸡蛋.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
             "normal~":"images/11_0_农旅卡购买页/u78.png"}},
 {
@@ -1784,21 +1754,6 @@
                 "cornerRadiusTopLeft":"0"},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 11.0.4有机套餐-有机蔬菜",
-                      "target":{
-                        "targetType":"page",
-                        "url":"11_0_4有机套餐-有机蔬菜.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
             "normal~":"images/11_0_农旅卡购买页/u78.png"}},
 {
@@ -2525,10 +2480,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 2.1.1激活农旅卡",
+                              "description":"在 当前窗口 打开 2.1.1激活农旅卡（农旅生活卡）",
                               "target":{
                                 "targetType":"page",
-                                "url":"2_1_1激活农旅卡_1.html",
+                                "url":"2_1_1激活农旅卡（农旅生活卡）.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true},

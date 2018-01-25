@@ -529,13 +529,33 @@
                     "type":"Wireframe",
                     "url":"10_5_现场买单统计（弃用）.html"}]}]},
 {
-            "pageName":"11 农旅生活卡",
+            "pageName":"11 农旅卡",
             "type":"Folder",
             "url":"",
             "children":[{
-                "pageName":"11.0 农旅生活卡",
+                "pageName":"11.0 农旅卡购买页",
                 "type":"Wireframe",
-                "url":"11_0_农旅生活卡.html"},
+                "url":"11_0_农旅卡购买页.html",
+                "children":[{
+                    "pageName":"11.0.1农旅卡推广页",
+                    "type":"Wireframe",
+                    "url":"11_0_1农旅卡推广页.html"},
+{
+                    "pageName":"11.0.2有机套餐-清远鸡",
+                    "type":"Wireframe",
+                    "url":"11_0_2有机套餐-清远鸡.html"},
+{
+                    "pageName":"11.0.3有机套餐-土鸡蛋",
+                    "type":"Wireframe",
+                    "url":"11_0_3有机套餐-土鸡蛋.html"},
+{
+                    "pageName":"11.0.4有机套餐-有机蔬菜",
+                    "type":"Wireframe",
+                    "url":"11_0_4有机套餐-有机蔬菜.html"},
+{
+                    "pageName":"11.0.5有机农场介绍",
+                    "type":"Wireframe",
+                    "url":"11_0_5有机农场介绍.html"}]},
 {
                 "pageName":"11.1 绑定使用者",
                 "type":"Wireframe",

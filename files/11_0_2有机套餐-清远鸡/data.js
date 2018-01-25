@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_2有机套餐-清远鸡.html",
-  "generationDate":new Date(1516152897525.35),
+  "generationDate":new Date(1516862169392.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"9c09c3112fa340c2873ec6ee8e1238f0",
+    "packageId":"1c5c46b9f55c48cda34f3f299fca224c",
     "type":"Axure:Page",
     "name":"11.0.2有机套餐-清远鸡",
     "notes":{

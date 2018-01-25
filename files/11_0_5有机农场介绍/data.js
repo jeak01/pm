@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_5有机农场介绍.html",
-  "generationDate":new Date(1516152897562.37),
+  "generationDate":new Date(1516862169408.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"efa9671c8ca84acb89bc6f5e719ed217",
+    "packageId":"9087527427944345922dea2b1585dc66",
     "type":"Axure:Page",
     "name":"11.0.5有机农场介绍",
     "notes":{

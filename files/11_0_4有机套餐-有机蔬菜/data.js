@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_4有机套餐-有机蔬菜.html",
-  "generationDate":new Date(1516152897549.36),
+  "generationDate":new Date(1516862169403.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"56abbb1fe905494594414cab57f42cc6",
+    "packageId":"a10c7931efd74ac2ace403623c502b33",
     "type":"Axure:Page",
     "name":"11.0.4有机套餐-有机蔬菜",
     "notes":{

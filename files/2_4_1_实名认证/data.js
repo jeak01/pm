@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_4_1_实名认证.html",
-  "generationDate":new Date(1516861611123.51),
+  "generationDate":new Date(1516862147589.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

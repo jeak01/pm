@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_3有机套餐-土鸡蛋.html",
-  "generationDate":new Date(1516152897538.36),
+  "generationDate":new Date(1516862169397.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -10,7 +10,7 @@
 "carNum",
 "recharge"],
   "page":{
-    "packageId":"a195b8aad03c44869cc58b10fa57f4e2",
+    "packageId":"fa65668310d94f1cae2ce5c322e35c51",
     "type":"Axure:Page",
     "name":"11.0.3有机套餐-土鸡蛋",
     "notes":{
