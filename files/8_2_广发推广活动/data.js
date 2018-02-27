@@ -1,0 +1,233 @@
+﻿$axure.loadCurrentPage({
+  "url":"8_2_广发推广活动.html",
+  "generationDate":new Date(1519699233076.82),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"status",
+"package",
+"payFrom",
+"nc",
+"carNum",
+"recharge"],
+  "page":{
+    "packageId":"aa8e9e8dd3d34cca940c96526bf7c6b4",
+    "type":"Axure:Page",
+    "name":"8.2 广发推广活动",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"544ca94f636545f8bb511d0e14a77a3e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD},
+            "location":{
+              "x":0,
+              "y":-17},
+            "size":{
+              "width":360,
+              "height":1657}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"70bbc43997514f4db4ec205e730687dd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD},
+                "location":{
+                  "x":0,
+                  "y":-17},
+                "size":{
+                  "width":360,
+                  "height":1657}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/8_1惠选农旅/u0.png"}},
+{
+          "id":"92daafdf80744b6596d78ecbb9ffd981",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":360,
+              "height":463}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8d55b8739fac4092bc8e84355cffd9ee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":360,
+                  "height":463}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/8_2_广发推广活动/u2.jpg"}},
+{
+          "id":"41a256c51a2f4baaaa3729f3af19ac01",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "location":{
+              "x":46,
+              "y":500},
+            "size":{
+              "width":259,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bf60c238e4014741a95b075861510ed0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "location":{
+                  "x":46,
+                  "y":500},
+                "size":{
+                  "width":259,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ca9fdb194f864d38988c34b9d87c0d19",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":50,
+              "y":535},
+            "size":{
+              "width":160,
+              "height":35}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"886f69d63c434101a8badab76f7da0a6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"12px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF9933},
+            "location":{
+              "x":210,
+              "y":535},
+            "size":{
+              "width":80,
+              "height":35},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c3a28703387c4d468ba6bf2776cb1447",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"12px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9933},
+                "location":{
+                  "x":210,
+                  "y":535},
+                "size":{
+                  "width":80,
+                  "height":35},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/8_2_广发推广活动/u7.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "544ca94f636545f8bb511d0e14a77a3e":{
+      "scriptId":"u0"},
+    "70bbc43997514f4db4ec205e730687dd":{
+      "scriptId":"u1"},
+    "92daafdf80744b6596d78ecbb9ffd981":{
+      "scriptId":"u2"},
+    "8d55b8739fac4092bc8e84355cffd9ee":{
+      "scriptId":"u3"},
+    "41a256c51a2f4baaaa3729f3af19ac01":{
+      "scriptId":"u4"},
+    "bf60c238e4014741a95b075861510ed0":{
+      "scriptId":"u5"},
+    "ca9fdb194f864d38988c34b9d87c0d19":{
+      "scriptId":"u6"},
+    "886f69d63c434101a8badab76f7da0a6":{
+      "scriptId":"u7"},
+    "c3a28703387c4d468ba6bf2776cb1447":{
+      "scriptId":"u8"}}});

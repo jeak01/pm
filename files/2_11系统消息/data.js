@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_11系统消息.html",
-  "generationDate":new Date(1516863707537.53),
+  "generationDate":new Date(1519699214043.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
