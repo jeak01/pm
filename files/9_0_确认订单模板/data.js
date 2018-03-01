@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"9_0_确认订单模板.html",
-  "generationDate":new Date(1519785537761.35),
+  "generationDate":new Date(1519895740129.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -42,6 +42,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":0,
+              "y":47},
             "size":{
               "width":325,
               "height":947},
@@ -59,6 +62,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":0,
+                  "y":47},
                 "size":{
                   "width":325,
                   "height":947},
@@ -79,7 +85,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":1007},
+              "y":1097},
             "size":{
               "width":325,
               "height":313},
@@ -99,7 +105,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":1007},
+                  "y":1097},
                 "size":{
                   "width":325,
                   "height":313},
@@ -120,7 +126,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":239},
+              "y":286},
             "size":{
               "width":320,
               "height":40},
@@ -139,7 +145,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":239},
+                  "y":286},
                 "size":{
                   "width":320,
                   "height":40},
@@ -159,7 +165,7 @@
           "style":{
             "location":{
               "x":10,
-              "y":251},
+              "y":298},
             "size":{
               "width":53,
               "height":16}},
@@ -175,7 +181,7 @@
               "style":{
                 "location":{
                   "x":10,
-                  "y":251},
+                  "y":298},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -192,7 +198,7 @@
           "style":{
             "location":{
               "x":252,
-              "y":251},
+              "y":298},
             "size":{
               "width":41,
               "height":16}},
@@ -208,7 +214,7 @@
               "style":{
                 "location":{
                   "x":252,
-                  "y":251},
+                  "y":298},
                 "size":{
                   "width":41,
                   "height":16}},
@@ -225,7 +231,7 @@
           "style":{
             "location":{
               "x":296,
-              "y":247},
+              "y":294},
             "size":{
               "width":24,
               "height":24},
@@ -245,7 +251,7 @@
               "style":{
                 "location":{
                   "x":296,
-                  "y":247},
+                  "y":294},
                 "size":{
                   "width":24,
                   "height":24},
@@ -269,10 +275,10 @@
               "color":0xFFF1F1F1},
             "location":{
               "x":0,
-              "y":947},
+              "y":994},
             "size":{
               "width":320,
-              "height":60},
+              "height":103},
             "borderWidth":"-1"},
           "adaptiveStyles":{
 },
@@ -289,10 +295,10 @@
                   "color":0xFFF1F1F1},
                 "location":{
                   "x":0,
-                  "y":947},
+                  "y":994},
                 "size":{
                   "width":320,
-                  "height":60},
+                  "height":103},
                 "borderWidth":"-1"},
               "adaptiveStyles":{
 }}],
@@ -307,7 +313,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":957},
+              "y":1004},
             "size":{
               "width":320,
               "height":40},
@@ -326,7 +332,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":957},
+                  "y":1004},
                 "size":{
                   "width":320,
                   "height":40},
@@ -346,7 +352,7 @@
           "style":{
             "location":{
               "x":10,
-              "y":969},
+              "y":1016},
             "size":{
               "width":66,
               "height":16}},
@@ -362,7 +368,7 @@
               "style":{
                 "location":{
                   "x":10,
-                  "y":969},
+                  "y":1016},
                 "size":{
                   "width":66,
                   "height":16}},
@@ -384,7 +390,7 @@
               "opacity":1},
             "location":{
               "x":218,
-              "y":969},
+              "y":1016},
             "size":{
               "width":78,
               "height":16}},
@@ -405,7 +411,7 @@
                   "opacity":1},
                 "location":{
                   "x":218,
-                  "y":969},
+                  "y":1016},
                 "size":{
                   "width":78,
                   "height":16}},
@@ -422,7 +428,7 @@
           "style":{
             "location":{
               "x":296,
-              "y":965},
+              "y":1012},
             "size":{
               "width":24,
               "height":24},
@@ -442,7 +448,7 @@
               "style":{
                 "location":{
                   "x":296,
-                  "y":965},
+                  "y":1012},
                 "size":{
                   "width":24,
                   "height":24},
@@ -453,7 +459,339 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_1_2农场体验游详情/u40.png"}}]}},
+            "normal~":"images/1_1_2农场体验游详情/u40.png"}},
+{
+          "id":"798697e92f124680b0d5033c777e7859",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":1044},
+            "size":{
+              "width":320,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cfef1318eede4947aba29cfe79e34375",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":1044},
+                "size":{
+                  "width":320,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/9_0_确认订单模板/u4.png"}},
+{
+          "id":"eb6879c08d9746b88fd9e05f89fb27c8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":1056},
+            "size":{
+              "width":66,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bfd71f5ebad84d8e9b67aa97fa9f0477",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":1056},
+                "size":{
+                  "width":66,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5b0c0bd41dc54e4481ba13c3b3c74b1c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":1187},
+            "size":{
+              "width":200,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"666fb3be7c2342ad90f3982906accf0b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":1187},
+                "size":{
+                  "width":200,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/9_0_确认订单模板/u26.png"}},
+{
+          "id":"525229d0c27a4574844f8e7833ae27e8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "location":{
+              "x":16,
+              "y":1189},
+            "size":{
+              "width":23,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f8f1e49ba19c46e0a18b9adaa7e2ce94",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "location":{
+                  "x":16,
+                  "y":1189},
+                "size":{
+                  "width":23,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"65ebb3a3fc8c4466bf81b74b0c3d72f5",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":86,
+              "y":1051},
+            "size":{
+              "width":156,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"57810933bdaa4b22adce0cbf80870a97",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF6111},
+            "location":{
+              "x":252,
+              "y":1047},
+            "size":{
+              "width":58,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ba7b4ca307a74b409dc32b9c9757c90f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF6111},
+                "location":{
+                  "x":252,
+                  "y":1047},
+                "size":{
+                  "width":58,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/9_0_确认订单模板/u31.png"}},
+{
+          "id":"394a8dbe650f41f49ed06e0285b3930e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":355.5,
+              "y":47},
+            "size":{
+              "width":326,
+              "height":600}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"597ba93bf88f4a9794cb0b7fe18de5a6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":355.5,
+                  "y":47},
+                "size":{
+                  "width":326,
+                  "height":600}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/9_0_确认订单模板/u33.jpg"}},
+{
+          "id":"f0f72a3df05742d08093ad0da6eabbc7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "location":{
+              "x":128,
+              "y":18},
+            "size":{
+              "width":81,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"02b03aef000a4f8993eee9fd1544527a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "location":{
+                  "x":128,
+                  "y":18},
+                "size":{
+                  "width":81,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8acf8e2ef63b46e5812fe52fab6c4382",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "location":{
+              "x":430,
+              "y":11},
+            "size":{
+              "width":177,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c964ee9dbf4d448082384ba8b17c58fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "location":{
+                  "x":430,
+                  "y":11},
+                "size":{
+                  "width":177,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -500,4 +838,38 @@
     "2b8f361643df4ddbafb0e8ef05f61e28":{
       "scriptId":"u20"},
     "ca62f57036824a55ac1f9f3314016bee":{
-      "scriptId":"u21"}}});
+      "scriptId":"u21"},
+    "798697e92f124680b0d5033c777e7859":{
+      "scriptId":"u22"},
+    "cfef1318eede4947aba29cfe79e34375":{
+      "scriptId":"u23"},
+    "eb6879c08d9746b88fd9e05f89fb27c8":{
+      "scriptId":"u24"},
+    "bfd71f5ebad84d8e9b67aa97fa9f0477":{
+      "scriptId":"u25"},
+    "5b0c0bd41dc54e4481ba13c3b3c74b1c":{
+      "scriptId":"u26"},
+    "666fb3be7c2342ad90f3982906accf0b":{
+      "scriptId":"u27"},
+    "525229d0c27a4574844f8e7833ae27e8":{
+      "scriptId":"u28"},
+    "f8f1e49ba19c46e0a18b9adaa7e2ce94":{
+      "scriptId":"u29"},
+    "65ebb3a3fc8c4466bf81b74b0c3d72f5":{
+      "scriptId":"u30"},
+    "57810933bdaa4b22adce0cbf80870a97":{
+      "scriptId":"u31"},
+    "ba7b4ca307a74b409dc32b9c9757c90f":{
+      "scriptId":"u32"},
+    "394a8dbe650f41f49ed06e0285b3930e":{
+      "scriptId":"u33"},
+    "597ba93bf88f4a9794cb0b7fe18de5a6":{
+      "scriptId":"u34"},
+    "f0f72a3df05742d08093ad0da6eabbc7":{
+      "scriptId":"u35"},
+    "02b03aef000a4f8993eee9fd1544527a":{
+      "scriptId":"u36"},
+    "8acf8e2ef63b46e5812fe52fab6c4382":{
+      "scriptId":"u37"},
+    "c964ee9dbf4d448082384ba8b17c58fa":{
+      "scriptId":"u38"}}});

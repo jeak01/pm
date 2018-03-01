@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"9_1_订单详情模板（权益旅游）.html",
-  "generationDate":new Date(1519785541789.71),
+  "generationDate":new Date(1519895744456.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
