@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_10优惠卡券.html",
-  "generationDate":new Date(1519699213891.08),
+  "generationDate":new Date(1519785521158.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3201,7 +3201,63 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/2_10优惠卡券/游记_u129.png"}}]}},
+            "normal~":"images/2_10优惠卡券/游记_u129.png"}},
+{
+          "id":"6d6db8f23e90493b950f456bb8d70ba5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF00CCFF,
+              "opacity":1},
+            "location":{
+              "x":283,
+              "y":12},
+            "size":{
+              "width":66,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6b17becaf02f4199987ce27ce4682d6c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF00CCFF,
+                  "opacity":1},
+                "location":{
+                  "x":283,
+                  "y":12},
+                "size":{
+                  "width":66,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2.10.1 使用优惠码",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2_10_1_使用优惠码.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -3486,4 +3542,8 @@
     "73e6f638bbe64ed486a98a1299cb369a":{
       "scriptId":"u139"},
     "5d2b5aeca0b5482ea9a6812bc06101c1":{
-      "scriptId":"u140"}}});
+      "scriptId":"u140"},
+    "6d6db8f23e90493b950f456bb8d70ba5":{
+      "scriptId":"u141"},
+    "6b17becaf02f4199987ce27ce4682d6c":{
+      "scriptId":"u142"}}});

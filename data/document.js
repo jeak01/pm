@@ -231,7 +231,11 @@
 {
                     "pageName":"2.10优惠卡券",
                     "type":"Wireframe",
-                    "url":"2_10优惠卡券.html"},
+                    "url":"2_10优惠卡券.html",
+                    "children":[{
+                        "pageName":"2.10.1 使用优惠码",
+                        "type":"Wireframe",
+                        "url":"2_10_1_使用优惠码.html"}]},
 {
                     "pageName":"2.11系统消息",
                     "type":"Wireframe",
@@ -483,11 +487,7 @@
 {
                 "pageName":"8.1惠选农旅",
                 "type":"Wireframe",
-                "url":"8_1惠选农旅.html"},
-{
-                "pageName":"8.2 广发推广活动",
-                "type":"Wireframe",
-                "url":"8_2_广发推广活动.html"}]},
+                "url":"8_1惠选农旅.html"}]},
 {
             "pageName":"9 订单流程",
             "type":"Folder",
