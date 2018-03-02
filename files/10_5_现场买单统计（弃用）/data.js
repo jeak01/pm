@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_5_现场买单统计（弃用）.html",
-  "generationDate":new Date(1519899051626.56),
+  "generationDate":new Date(1519961230268.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

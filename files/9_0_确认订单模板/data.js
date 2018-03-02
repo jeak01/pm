@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"9_0_确认订单模板.html",
-  "generationDate":new Date(1519899050030.51),
+  "generationDate":new Date(1519961227653.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -689,11 +689,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":355.5,
+              "x":370,
               "y":47},
             "size":{
-              "width":326,
-              "height":600}},
+              "width":320,
+              "height":546}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -705,11 +705,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":355.5,
+                  "x":370,
                   "y":47},
                 "size":{
-                  "width":326,
-                  "height":600}},
+                  "width":320,
+                  "height":546}},
               "adaptiveStyles":{
 }}],
           "images":{
