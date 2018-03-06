@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_0_推广管理登录.html",
-  "generationDate":new Date(1520316902533.26),
+  "generationDate":new Date(1520320113325.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -122,7 +122,7 @@
           "style":{
             "location":{
               "x":20,
-              "y":170},
+              "y":210},
             "size":{
               "width":320,
               "height":240},
@@ -141,7 +141,7 @@
               "style":{
                 "location":{
                   "x":20,
-                  "y":170},
+                  "y":210},
                 "size":{
                   "width":320,
                   "height":240},
@@ -166,7 +166,7 @@
               "opacity":1},
             "location":{
               "x":40,
-              "y":190},
+              "y":230},
             "size":{
               "width":23,
               "height":14}},
@@ -187,7 +187,7 @@
                   "opacity":1},
                 "location":{
                   "x":40,
-                  "y":190},
+                  "y":230},
                 "size":{
                   "width":23,
                   "height":14}},
@@ -209,7 +209,7 @@
               "opacity":1},
             "location":{
               "x":40,
-              "y":249},
+              "y":289},
             "size":{
               "width":23,
               "height":14}},
@@ -230,7 +230,7 @@
                   "opacity":1},
                 "location":{
                   "x":40,
-                  "y":249},
+                  "y":289},
                 "size":{
                   "width":23,
                   "height":14}},
@@ -247,7 +247,7 @@
           "style":{
             "location":{
               "x":40,
-              "y":214},
+              "y":254},
             "size":{
               "width":279,
               "height":25}},
@@ -262,7 +262,7 @@
           "style":{
             "location":{
               "x":40,
-              "y":265},
+              "y":305},
             "size":{
               "width":279,
               "height":25}},
@@ -285,7 +285,7 @@
               "color":0xFF0099FF},
             "location":{
               "x":40,
-              "y":355},
+              "y":395},
             "size":{
               "width":279,
               "height":40}},
@@ -309,7 +309,7 @@
                   "color":0xFF0099FF},
                 "location":{
                   "x":40,
-                  "y":355},
+                  "y":395},
                 "size":{
                   "width":279,
                   "height":40}},
@@ -346,7 +346,7 @@
               "opacity":1},
             "location":{
               "x":40,
-              "y":297},
+              "y":337},
             "size":{
               "width":56,
               "height":14}},
@@ -367,7 +367,7 @@
                   "opacity":1},
                 "location":{
                   "x":40,
-                  "y":297},
+                  "y":337},
                 "size":{
                   "width":56,
                   "height":14}},
@@ -384,7 +384,7 @@
           "style":{
             "location":{
               "x":40,
-              "y":319},
+              "y":359},
             "size":{
               "width":180,
               "height":25}},
@@ -399,7 +399,7 @@
           "style":{
             "location":{
               "x":230,
-              "y":319},
+              "y":359},
             "size":{
               "width":89,
               "height":26}},
@@ -415,7 +415,7 @@
               "style":{
                 "location":{
                   "x":230,
-                  "y":319},
+                  "y":359},
                 "size":{
                   "width":89,
                   "height":26}},
@@ -435,7 +435,7 @@
               "y":24},
             "size":{
               "width":300,
-              "height":112}},
+              "height":96}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -451,11 +451,205 @@
                   "y":24},
                 "size":{
                   "width":300,
-                  "height":112}},
+                  "height":96}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"70612abff5ae4b3d83590615b326b0ca",
+          "label":"管理已",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":182,
+              "y":171},
+            "size":{
+              "width":160,
+              "height":40},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1760fd2265a349ce87574ad25f1afa42",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":182,
+                  "y":171},
+                "size":{
+                  "width":160,
+                  "height":40},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/13_0_推广管理登录/管理已_u21.png"}},
+{
+          "id":"728d2f1e03cb4009bef3b3290a056afd",
+          "label":"管理未",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD},
+            "location":{
+              "x":182,
+              "y":171},
+            "size":{
+              "width":160,
+              "height":40},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b432e1cca8964c1ab089894774e312d4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD},
+                "location":{
+                  "x":182,
+                  "y":171},
+                "size":{
+                  "width":160,
+                  "height":40},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelOrder",
+                      "description":"移动 管理已 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["70612abff5ae4b3d83590615b326b0ca"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 人员已 到底层",
+                      "panelPaths":[{
+                          "panelPath":["b1314c6055684cb08305d25bf40a8da4"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/13_0_推广管理登录/管理未_u23.png"}},
+{
+          "id":"34bd4471663544918a757ebc69085ba8",
+          "label":"人员未",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFDDDDDD},
+            "location":{
+              "x":22,
+              "y":170},
+            "size":{
+              "width":160,
+              "height":40},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"da70b22cfd2f4d21837ed477278a904b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFDDDDDD},
+                "location":{
+                  "x":22,
+                  "y":170},
+                "size":{
+                  "width":160,
+                  "height":40},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelOrder",
+                      "description":"移动 人员已 到顶层 ",
+                      "panelPaths":[{
+                          "panelPath":["b1314c6055684cb08305d25bf40a8da4"],
+                          "setOrderInfo":{
+                            "bringToFront":true}}]},
+{
+                      "action":"setPanelOrder",
+                      "description":"移动 管理已 到底层",
+                      "panelPaths":[{
+                          "panelPath":["70612abff5ae4b3d83590615b326b0ca"],
+                          "setOrderInfo":{
+                            "bringToFront":false}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/13_0_推广管理登录/管理未_u23.png"}},
+{
+          "id":"b1314c6055684cb08305d25bf40a8da4",
+          "label":"人员已",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":22,
+              "y":170},
+            "size":{
+              "width":160,
+              "height":40},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b98290c167c141789b1c0007a449092b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":22,
+                  "y":170},
+                "size":{
+                  "width":160,
+                  "height":40},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/13_0_推广管理登录/管理已_u21.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -500,4 +694,20 @@
     "54f9e30a4833414ea43470be5cd3e2ae":{
       "scriptId":"u19"},
     "97c76b2ad8f24076b61a491234936c24":{
-      "scriptId":"u20"}}});
+      "scriptId":"u20"},
+    "70612abff5ae4b3d83590615b326b0ca":{
+      "scriptId":"u21"},
+    "1760fd2265a349ce87574ad25f1afa42":{
+      "scriptId":"u22"},
+    "728d2f1e03cb4009bef3b3290a056afd":{
+      "scriptId":"u23"},
+    "b432e1cca8964c1ab089894774e312d4":{
+      "scriptId":"u24"},
+    "34bd4471663544918a757ebc69085ba8":{
+      "scriptId":"u25"},
+    "da70b22cfd2f4d21837ed477278a904b":{
+      "scriptId":"u26"},
+    "b1314c6055684cb08305d25bf40a8da4":{
+      "scriptId":"u27"},
+    "b98290c167c141789b1c0007a449092b":{
+      "scriptId":"u28"}}});

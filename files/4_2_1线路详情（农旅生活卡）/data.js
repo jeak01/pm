@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_1线路详情（农旅生活卡）.html",
-  "generationDate":new Date(1520316901728.53),
+  "generationDate":new Date(1520320112599.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
