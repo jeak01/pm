@@ -607,7 +607,47 @@
 {
                 "pageName":"12.1 商品列表",
                 "type":"Wireframe",
-                "url":"12_1_商品列表.html"}]}]},
+                "url":"12_1_商品列表.html"}]},
+{
+            "pageName":"13 推广管理",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"13.0 推广管理登录",
+                "type":"Wireframe",
+                "url":"13_0_推广管理登录.html"},
+{
+                "pageName":"13.1 团队管理主页",
+                "type":"Wireframe",
+                "url":"13_1_团队管理主页.html",
+                "children":[{
+                    "pageName":"13.1.1修改登录密码",
+                    "type":"Wireframe",
+                    "url":"13_1_1修改登录密码.html"}]},
+{
+                "pageName":"13.2 团队推广统计表",
+                "type":"Wireframe",
+                "url":"13_2_团队推广统计表.html"},
+{
+                "pageName":"13.3 成员推广统计表",
+                "type":"Wireframe",
+                "url":"13_3_成员推广统计表.html"},
+{
+                "pageName":"13.4 团队成员管理",
+                "type":"Wireframe",
+                "url":"13_4_团队成员管理.html",
+                "children":[{
+                    "pageName":"13.4.1 团队成员新增/修改",
+                    "type":"Wireframe",
+                    "url":"13_4_1_团队成员新增_修改.html"}]},
+{
+                "pageName":"13.5 个人推广主页",
+                "type":"Wireframe",
+                "url":"13_5_个人推广主页.html"},
+{
+                "pageName":"13.6 个人推广统计表",
+                "type":"Wireframe",
+                "url":"13_6_个人推广统计表.html"}]}]},
 {
         "pageName":"备份",
         "type":"Folder",
