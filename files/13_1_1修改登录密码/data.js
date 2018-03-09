@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_1_1修改登录密码.html",
-  "generationDate":new Date(1520320113532.6),
+  "generationDate":new Date(1520589964220.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -581,12 +581,13 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
             "location":{
               "x":410,
               "y":20},
             "size":{
               "width":300,
-              "height":32}},
+              "height":57}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -597,12 +598,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
                 "location":{
                   "x":410,
                   "y":20},
                 "size":{
                   "width":300,
-                  "height":32}},
+                  "height":57}},
               "adaptiveStyles":{
 }}],
           "images":{

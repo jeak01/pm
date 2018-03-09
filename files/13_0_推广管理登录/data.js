@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_0_推广管理登录.html",
-  "generationDate":new Date(1520320113325.41),
+  "generationDate":new Date(1520589963319.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -89,7 +89,7 @@
               "y":50},
             "size":{
               "width":169,
-              "height":60}},
+              "height":68}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -108,7 +108,7 @@
                   "y":50},
                 "size":{
                   "width":169,
-                  "height":60}},
+                  "height":68}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -430,12 +430,13 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
             "location":{
               "x":400,
               "y":24},
             "size":{
-              "width":300,
-              "height":96}},
+              "width":420,
+              "height":152}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -446,12 +447,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
                 "location":{
                   "x":400,
                   "y":24},
                 "size":{
-                  "width":300,
-                  "height":96}},
+                  "width":420,
+                  "height":152}},
               "adaptiveStyles":{
 }}],
           "images":{

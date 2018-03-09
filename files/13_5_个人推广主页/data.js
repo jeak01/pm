@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_5_个人推广主页.html",
-  "generationDate":new Date(1520320114233.07),
+  "generationDate":new Date(1520589965984.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1047,12 +1047,13 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
             "location":{
               "x":410,
               "y":20},
             "size":{
-              "width":300,
-              "height":64}},
+              "width":390,
+              "height":95}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1063,12 +1064,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
                 "location":{
                   "x":410,
                   "y":20},
                 "size":{
-                  "width":300,
-                  "height":64}},
+                  "width":390,
+                  "height":95}},
               "adaptiveStyles":{
 }}],
           "images":{

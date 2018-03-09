@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2_8_3验证身份.html",
-  "generationDate":new Date(1520320095433.54),
+  "generationDate":new Date(1520589924002.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

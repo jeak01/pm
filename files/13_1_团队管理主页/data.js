@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_1_团队管理主页.html",
-  "generationDate":new Date(1520320113435.48),
+  "generationDate":new Date(1520589963700.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1128,12 +1128,13 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
             "location":{
               "x":410,
               "y":34},
             "size":{
-              "width":300,
-              "height":176}},
+              "width":440,
+              "height":266}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1144,12 +1145,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
                 "location":{
                   "x":410,
                   "y":34},
                 "size":{
-                  "width":300,
-                  "height":176}},
+                  "width":440,
+                  "height":266}},
               "adaptiveStyles":{
 }}],
           "images":{

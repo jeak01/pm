@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_2_团队推广统计表.html",
-  "generationDate":new Date(1520320113688.7),
+  "generationDate":new Date(1520589964698.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1854,12 +1854,13 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
             "location":{
               "x":410,
               "y":34},
             "size":{
-              "width":300,
-              "height":144}},
+              "width":400,
+              "height":247}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1870,12 +1871,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
                 "location":{
                   "x":410,
                   "y":34},
                 "size":{
-                  "width":300,
-                  "height":144}},
+                  "width":400,
+                  "height":247}},
               "adaptiveStyles":{
 }}],
           "images":{

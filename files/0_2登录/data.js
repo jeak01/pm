@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_2登录.html",
-  "generationDate":new Date(1520320086744.6),
+  "generationDate":new Date(1520589899599.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -121,7 +121,7 @@
               "y":63},
             "size":{
               "width":113,
-              "height":30}},
+              "height":34}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -139,7 +139,7 @@
                   "y":63},
                 "size":{
                   "width":113,
-                  "height":30}},
+                  "height":34}},
               "adaptiveStyles":{
 }}],
           "images":{

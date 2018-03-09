@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_4_1_团队成员新增_修改.html",
-  "generationDate":new Date(1520320114141),
+  "generationDate":new Date(1520589965760.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -599,12 +599,13 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
             "location":{
               "x":410,
               "y":20},
             "size":{
-              "width":300,
-              "height":112}},
+              "width":400,
+              "height":152}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -615,12 +616,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
                 "location":{
                   "x":410,
                   "y":20},
                 "size":{
-                  "width":300,
-                  "height":112}},
+                  "width":400,
+                  "height":152}},
               "adaptiveStyles":{
 }}],
           "images":{

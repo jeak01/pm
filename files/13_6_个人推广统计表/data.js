@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_6_个人推广统计表.html",
-  "generationDate":new Date(1520320114348.14),
+  "generationDate":new Date(1520589966375.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1741,12 +1741,13 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
+            "fontSize":"16px",
             "location":{
               "x":410,
               "y":20},
             "size":{
-              "width":300,
-              "height":48}},
+              "width":400,
+              "height":76}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1757,12 +1758,13 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fontSize":"16px",
                 "location":{
                   "x":410,
                   "y":20},
                 "size":{
-                  "width":300,
-                  "height":48}},
+                  "width":400,
+                  "height":76}},
               "adaptiveStyles":{
 }}],
           "images":{
