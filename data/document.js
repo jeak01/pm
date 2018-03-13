@@ -603,7 +603,11 @@
             "children":[{
                 "pageName":"12.0 商城首页",
                 "type":"Wireframe",
-                "url":"12_0_商城首页.html"},
+                "url":"12_0_商城首页.html",
+                "children":[{
+                    "pageName":"12.0.1 商城首页V2",
+                    "type":"Wireframe",
+                    "url":"12_0_1_商城首页v2.html"}]},
 {
                 "pageName":"12.1 商品列表",
                 "type":"Wireframe",

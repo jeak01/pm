@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_5_权益景区列表.html",
-  "generationDate":new Date(1520925489021.84),
+  "generationDate":new Date(1520926165986.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

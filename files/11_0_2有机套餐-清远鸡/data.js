@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_2有机套餐-清远鸡.html",
-  "generationDate":new Date(1520925488318.37),
+  "generationDate":new Date(1520926165014.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

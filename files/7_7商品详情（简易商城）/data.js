@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情（简易商城）.html",
-  "generationDate":new Date(1520925494131.24),
+  "generationDate":new Date(1520926172127.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1217,7 +1217,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/12_0_商城首页/u204.png"}},
+            "normal~":"images/12_0_1_商城首页v2/u136.png"}},
 {
           "id":"d2f7df34470c4ced91c05abb9ff7c9ff",
           "label":"",
