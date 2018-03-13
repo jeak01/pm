@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"12_0_商城首页.html",
-  "generationDate":new Date(1520912130620.35),
+  "generationDate":new Date(1520925490832.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -918,7 +918,7 @@
               "x":430,
               "y":157},
             "size":{
-              "width":144,
+              "width":118,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -934,7 +934,7 @@
                   "x":430,
                   "y":157},
                 "size":{
-                  "width":144,
+                  "width":118,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -7943,21 +7943,6 @@
                           "color":0xFFFFFF}},
                       "adaptiveStyles":{
 }}],
-                  "interactionMap":{
-                    "onClick":{
-                      "description":"OnClick",
-                      "cases":[{
-                          "description":"用例 1",
-                          "isNewIfGroup":false,
-                          "actions":[{
-                              "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.5确认订单(优品)",
-                              "target":{
-                                "targetType":"page",
-                                "url":"7_5确认订单_优品_.html",
-                                "includeVariables":true},
-                              "linkType":"current"}]}]}},
-                  "tabbable":true,
                   "images":{
                     "normal~":"images/12_0_商城首页/u306.png"}},
 {
@@ -8611,21 +8596,6 @@
                                   "color":0xFFFFFF}},
                               "adaptiveStyles":{
 }}],
-                          "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"linkWindow",
-                                      "description":"在 当前窗口 打开 7.5确认订单(优品)",
-                                      "target":{
-                                        "targetType":"page",
-                                        "url":"7_5确认订单_优品_.html",
-                                        "includeVariables":true},
-                                      "linkType":"current"}]}]}},
-                          "tabbable":true,
                           "images":{
                             "normal~":"images/12_0_商城首页/u306.png"}},
 {

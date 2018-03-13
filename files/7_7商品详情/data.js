@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_7商品详情.html",
-  "generationDate":new Date(1520912113512.43),
+  "generationDate":new Date(1520925485414.44),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -601,10 +601,9 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.5确认订单(优品)",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_5确认订单_优品_.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
