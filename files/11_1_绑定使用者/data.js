@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_1_绑定使用者.html",
-  "generationDate":new Date(1520926165282.24),
+  "generationDate":new Date(1520932748565.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
