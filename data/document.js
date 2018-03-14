@@ -601,17 +601,9 @@
             "type":"Folder",
             "url":"",
             "children":[{
-                "pageName":"12.0 商城首页",
+                "pageName":"12.0 发现商城",
                 "type":"Wireframe",
-                "url":"12_0_商城首页.html",
-                "children":[{
-                    "pageName":"12.0.1 商城首页V2",
-                    "type":"Wireframe",
-                    "url":"12_0_1_商城首页v2.html"}]},
-{
-                "pageName":"12.1 商品列表",
-                "type":"Wireframe",
-                "url":"12_1_商品列表.html"}]},
+                "url":"12_0_发现商城.html"}]},
 {
             "pageName":"13 推广管理",
             "type":"Folder",
@@ -679,7 +671,15 @@
 {
             "pageName":"7.7商品详情（简易商城）",
             "type":"Wireframe",
-            "url":"7_7商品详情（简易商城）.html"}]}]},
+            "url":"7_7商品详情（简易商城）.html"},
+{
+            "pageName":"12.0 商城首页",
+            "type":"Wireframe",
+            "url":"12_0_商城首页.html"},
+{
+            "pageName":"12.1 商品列表",
+            "type":"Wireframe",
+            "url":"12_1_商品列表.html"}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",

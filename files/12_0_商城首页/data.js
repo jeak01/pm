@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"12_0_商城首页.html",
-  "generationDate":new Date(1520932750280.97),
+  "generationDate":new Date(1521011642852.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -263,7 +263,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/12_0_商城首页/u10.png"}},
+            "normal~":"images/12_0_发现商城/u330.png"}},
 {
           "id":"0b8a02258b974a97bc0fbe4261211a69",
           "label":"",
