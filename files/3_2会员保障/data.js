@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障.html",
-  "generationDate":new Date(1521082407177.13),
+  "generationDate":new Date(1521084155524.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -292,7 +292,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u62.png"}}]}},
+            "normal~":"images/3_2会员保障/u11.png"}}]}},
   "masters":{
 },
   "objectPaths":{
