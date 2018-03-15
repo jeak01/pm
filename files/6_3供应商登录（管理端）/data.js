@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3供应商登录（管理端）.html",
-  "generationDate":new Date(1521011628850.4),
+  "generationDate":new Date(1521081816656.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u0.png"}},
+            "normal~":"images/6_3供应商登录（管理端）/u0.png"}},
 {
           "id":"1d6cd7be827443c29161244055760b2d",
           "label":"",

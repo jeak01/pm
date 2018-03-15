@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"12_0_发现商城.html",
-  "generationDate":new Date(1521011639814.89),
+  "generationDate":new Date(1521081828291.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -9730,7 +9730,70 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/0_0主页/u42.png"}}]}]}]}},
+                    "normal~":"images/0_0主页/u42.png"}}]}]},
+{
+          "id":"cc88cb72d4c24ef7abe1736f61f7f7af",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":150},
+            "size":{
+              "width":360,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 3.0会员充值",
+                      "target":{
+                        "targetType":"page",
+                        "url":"3_0会员充值.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7579cbf84ef241f1adb14bdd7f8d5414",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":390,
+              "y":6},
+            "size":{
+              "width":300,
+              "height":160}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f3fb146eaded496dbf31544f847a59e3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":390,
+                  "y":6},
+                "size":{
+                  "width":300,
+                  "height":160}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -10475,4 +10538,10 @@
     "82ab7588c9d940cabbdd74bdd5c7af6d":{
       "scriptId":"u369"},
     "b2d9882c5f8b44ad9c966d91fcd6414d":{
-      "scriptId":"u370"}}});
+      "scriptId":"u370"},
+    "cc88cb72d4c24ef7abe1736f61f7f7af":{
+      "scriptId":"u371"},
+    "7579cbf84ef241f1adb14bdd7f8d5414":{
+      "scriptId":"u372"},
+    "f3fb146eaded496dbf31544f847a59e3":{
+      "scriptId":"u373"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"6_3_2_现场买单订单详情.html",
-  "generationDate":new Date(1521011629276.55),
+  "generationDate":new Date(1521081817132.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -67,7 +67,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u0.png"}},
+            "normal~":"images/6_3供应商登录（管理端）/u0.png"}},
 {
           "id":"3c6d3eb4cb6040e180fa4f94f9d288df",
           "label":"",
