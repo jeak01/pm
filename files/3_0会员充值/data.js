@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1521084155347.16),
+  "generationDate":new Date(1521084805421.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1279,7 +1279,7 @@
               "y":470},
             "size":{
               "width":360,
-              "height":260}},
+              "height":350}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1296,7 +1296,7 @@
                   "y":470},
                 "size":{
                   "width":360,
-                  "height":260}},
+                  "height":350}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1450,7 +1450,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":740},
+              "y":840},
             "size":{
               "width":359,
               "height":617}},
@@ -1466,7 +1466,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":740},
+                  "y":840},
                 "size":{
                   "width":359,
                   "height":617}},
