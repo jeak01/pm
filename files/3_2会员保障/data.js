@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_2会员保障.html",
-  "generationDate":new Date(1521094342625.09),
+  "generationDate":new Date(1521193995205.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -261,7 +261,7 @@
                   "images":{
                     "normal~":"images/0_0主页/top_u44.png"}}]}]},
 {
-          "id":"c0b5dd23a2304b05adbaf878c59dc420",
+          "id":"c04cc676a3af4c7bb303deec9d3fb460",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -271,12 +271,12 @@
               "x":0,
               "y":40},
             "size":{
-              "width":360,
-              "height":570}},
+              "width":359,
+              "height":617}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"d09b5f73ef4d43bc9392287e0ed7cb34",
+              "id":"c534e3119b1843ee996ba3a71674e4a3",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -287,12 +287,12 @@
                   "x":0,
                   "y":40},
                 "size":{
-                  "width":360,
-                  "height":570}},
+                  "width":359,
+                  "height":617}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_2会员保障/u11.png"}}]}},
+            "normal~":"images/3_0会员充值/u66.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -318,7 +318,7 @@
       "scriptId":"u9"},
     "8b8fd8d8ce184815af9fe4aa9b82a18c":{
       "scriptId":"u10"},
-    "c0b5dd23a2304b05adbaf878c59dc420":{
+    "c04cc676a3af4c7bb303deec9d3fb460":{
       "scriptId":"u11"},
-    "d09b5f73ef4d43bc9392287e0ed7cb34":{
+    "c534e3119b1843ee996ba3a71674e4a3":{
       "scriptId":"u12"}}});

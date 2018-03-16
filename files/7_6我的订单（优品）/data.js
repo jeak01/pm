@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_6我的订单（优品）.html",
-  "generationDate":new Date(1521094356787.51),
+  "generationDate":new Date(1521194010936.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2058,7 +2058,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2_5订单详情/u82.png"}},
+            "normal~":"images/2_2_3_1确认订单（农旅）/u218.png"}},
 {
           "id":"2852ea1c9fa24587abf036d8a51a6d3b",
           "label":"",

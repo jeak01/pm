@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_0_农旅卡购买页.html",
-  "generationDate":new Date(1521094360093.71),
+  "generationDate":new Date(1521194015457.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1239,7 +1239,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/11_0_农旅卡购买页/u55_line.png"}},
+            "line~":"images/2_2_3_1确认订单（农旅）/u253_line.png"}},
 {
           "id":"9cd5a8cf2dec45c39c8963dc6dc77b18",
           "label":"",
@@ -1809,7 +1809,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/11_0_农旅卡购买页/u55_line.png"}},
+            "line~":"images/2_2_3_1确认订单（农旅）/u253_line.png"}},
 {
           "id":"4b7e0cf33a3349d696e6a9785645575c",
           "label":"",
@@ -1997,7 +1997,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/11_0_农旅卡购买页/u55_line.png"}},
+            "line~":"images/2_2_3_1确认订单（农旅）/u253_line.png"}},
 {
           "id":"87068a428c0e4d8b8e5528aa89317977",
           "label":"",

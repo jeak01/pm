@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2农旅线路.html",
-  "generationDate":new Date(1521094344940.63),
+  "generationDate":new Date(1521193997752.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

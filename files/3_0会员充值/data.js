@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1521094342396.94),
+  "generationDate":new Date(1521193994978.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1473,7 +1473,50 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u66.png"}}]}},
+            "normal~":"images/3_0会员充值/u66.png"}},
+{
+          "id":"6e21267239fc4e509d92d79fcf10d72e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":184,
+              "y":796},
+            "size":{
+              "width":166,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9464c59ef0e84449a7425458aa64063c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":184,
+                  "y":796},
+                "size":{
+                  "width":166,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1612,4 +1655,8 @@
     "2f86f8aa9c5d48aabe0f932951b3aa75":{
       "scriptId":"u66"},
     "f012c0e109c54d8fada77d72bae56d4b":{
-      "scriptId":"u67"}}});
+      "scriptId":"u67"},
+    "6e21267239fc4e509d92d79fcf10d72e":{
+      "scriptId":"u68"},
+    "9464c59ef0e84449a7425458aa64063c":{
+      "scriptId":"u69"}}});

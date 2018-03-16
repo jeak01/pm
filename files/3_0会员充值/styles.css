@@ -708,7 +708,7 @@
 #u57 {
   position:absolute;
   left:2px;
-  top:55px;
+  top:47px;
   width:356px;
   word-wrap:break-word;
 }
@@ -821,4 +821,27 @@
   width:355px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u68 {
+  position:absolute;
+  left:184px;
+  top:796px;
+  width:166px;
+  height:14px;
+  font-size:11px;
+  color:#999999;
+}
+#u68_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:166px;
+  height:14px;
+}
+#u69 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:166px;
+  white-space:nowrap;
 }

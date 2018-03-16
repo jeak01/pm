@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_6_个人推广统计表.html",
-  "generationDate":new Date(1521094364253.75),
+  "generationDate":new Date(1521194020109.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
