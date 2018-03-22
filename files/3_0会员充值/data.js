@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1521193994978.9),
+  "generationDate":new Date(1521713161736.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -198,7 +198,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":290},
+              "y":280},
             "size":{
               "width":360,
               "height":40},
@@ -217,7 +217,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":290},
+                  "y":280},
                 "size":{
                   "width":360,
                   "height":40},
@@ -237,7 +237,7 @@
           "style":{
             "location":{
               "x":13,
-              "y":302},
+              "y":292},
             "size":{
               "width":15,
               "height":16}},
@@ -253,7 +253,7 @@
               "style":{
                 "location":{
                   "x":13,
-                  "y":302},
+                  "y":292},
                 "size":{
                   "width":15,
                   "height":16}},
@@ -268,7 +268,7 @@
           "style":{
             "location":{
               "x":84,
-              "y":302},
+              "y":292},
             "size":{
               "width":53,
               "height":16}},
@@ -284,7 +284,7 @@
               "style":{
                 "location":{
                   "x":84,
-                  "y":302},
+                  "y":292},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -301,7 +301,7 @@
           "style":{
             "location":{
               "x":40,
-              "y":298},
+              "y":288},
             "size":{
               "width":25,
               "height":25}},
@@ -317,7 +317,7 @@
               "style":{
                 "location":{
                   "x":40,
-                  "y":298},
+                  "y":288},
                 "size":{
                   "width":25,
                   "height":25}},
@@ -334,7 +334,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":340},
+              "y":330},
             "size":{
               "width":360,
               "height":120},
@@ -353,7 +353,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":340},
+                  "y":330},
                 "size":{
                   "width":360,
                   "height":120},
@@ -375,7 +375,7 @@
             "verticalAlignment":"middle",
             "location":{
               "x":21,
-              "y":350},
+              "y":340},
             "size":{
               "width":318,
               "height":14}},
@@ -393,7 +393,7 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":21,
-                  "y":350},
+                  "y":340},
                 "size":{
                   "width":318,
                   "height":14}},
@@ -418,7 +418,7 @@
               "color":0xFFFF0033},
             "location":{
               "x":60,
-              "y":374},
+              "y":364},
             "size":{
               "width":230,
               "height":50},
@@ -447,7 +447,7 @@
                   "color":0xFFFF0033},
                 "location":{
                   "x":60,
-                  "y":374},
+                  "y":364},
                 "size":{
                   "width":230,
                   "height":50},
@@ -487,7 +487,7 @@
               "opacity":1},
             "location":{
               "x":60,
-              "y":429},
+              "y":419},
             "size":{
               "width":137,
               "height":14}},
@@ -508,7 +508,7 @@
                   "opacity":1},
                 "location":{
                   "x":60,
-                  "y":429},
+                  "y":419},
                 "size":{
                   "width":137,
                   "height":14}},
@@ -787,7 +787,7 @@
           "visible":false,
           "style":{
             "location":{
-              "x":14,
+              "x":13,
               "y":210},
             "size":{
               "width":332,
@@ -1276,7 +1276,7 @@
             "horizontalAlignment":"left",
             "location":{
               "x":0,
-              "y":470},
+              "y":460},
             "size":{
               "width":360,
               "height":350}},
@@ -1293,7 +1293,7 @@
                 "horizontalAlignment":"left",
                 "location":{
                   "x":0,
-                  "y":470},
+                  "y":460},
                 "size":{
                   "width":360,
                   "height":350}},
@@ -1311,7 +1311,7 @@
             "fontSize":"20px",
             "location":{
               "x":120,
-              "y":486},
+              "y":476},
             "size":{
               "width":121,
               "height":24}},
@@ -1328,7 +1328,7 @@
                 "fontSize":"20px",
                 "location":{
                   "x":120,
-                  "y":486},
+                  "y":476},
                 "size":{
                   "width":121,
                   "height":24}},
@@ -1450,7 +1450,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":840},
+              "y":830},
             "size":{
               "width":359,
               "height":617}},
@@ -1466,7 +1466,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":840},
+                  "y":830},
                 "size":{
                   "width":359,
                   "height":617}},
@@ -1488,7 +1488,7 @@
               "opacity":1},
             "location":{
               "x":184,
-              "y":796},
+              "y":786},
             "size":{
               "width":166,
               "height":14}},
@@ -1509,7 +1509,7 @@
                   "opacity":1},
                 "location":{
                   "x":184,
-                  "y":796},
+                  "y":786},
                 "size":{
                   "width":166,
                   "height":14}},
