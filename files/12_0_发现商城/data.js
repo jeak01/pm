@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"12_0_发现商城.html",
-  "generationDate":new Date(1521194018306.38),
+  "generationDate":new Date(1521713217357.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1753,12 +1753,13 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
+                            "fontSize":"11px",
                             "location":{
                               "x":111,
                               "y":35},
                             "size":{
-                              "width":92,
-                              "height":16}},
+                              "width":95,
+                              "height":14}},
                           "adaptiveStyles":{
 },
                           "objects":[{
@@ -1770,12 +1771,13 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
+                                "fontSize":"11px",
                                 "location":{
                                   "x":111,
                                   "y":35},
                                 "size":{
-                                  "width":92,
-                                  "height":16}},
+                                  "width":95,
+                                  "height":14}},
                               "adaptiveStyles":{
 }}],
                           "images":{
@@ -2263,7 +2265,7 @@
                               "x":109,
                               "y":195},
                             "size":{
-                              "width":44,
+                              "width":35,
                               "height":19}},
                           "adaptiveStyles":{
 },
@@ -2285,7 +2287,7 @@
                                   "x":109,
                                   "y":195},
                                 "size":{
-                                  "width":44,
+                                  "width":35,
                                   "height":19}},
                               "adaptiveStyles":{
 }}],
@@ -2684,7 +2686,7 @@
                               "x":109,
                               "y":293},
                             "size":{
-                              "width":53,
+                              "width":35,
                               "height":19}},
                           "adaptiveStyles":{
 },
@@ -2706,7 +2708,7 @@
                                   "x":109,
                                   "y":293},
                                 "size":{
-                                  "width":53,
+                                  "width":35,
                                   "height":19}},
                               "adaptiveStyles":{
 }}],
@@ -4251,7 +4253,7 @@
                               "x":111,
                               "y":133},
                             "size":{
-                              "width":92,
+                              "width":79,
                               "height":16}},
                           "adaptiveStyles":{
 },
@@ -4268,7 +4270,7 @@
                                   "x":111,
                                   "y":133},
                                 "size":{
-                                  "width":92,
+                                  "width":79,
                                   "height":16}},
                               "adaptiveStyles":{
 }}],
@@ -4286,7 +4288,7 @@
                               "x":109,
                               "y":231},
                             "size":{
-                              "width":92,
+                              "width":79,
                               "height":16}},
                           "adaptiveStyles":{
 },
@@ -4303,7 +4305,7 @@
                                   "x":109,
                                   "y":231},
                                 "size":{
-                                  "width":92,
+                                  "width":79,
                                   "height":16}},
                               "adaptiveStyles":{
 }}],
