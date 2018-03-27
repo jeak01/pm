@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1521713161736.49),
+  "generationDate":new Date(1522117601254.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -47,7 +47,7 @@
               "color":0xFFDDDDDD},
             "size":{
               "width":360,
-              "height":1350}},
+              "height":1630}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -63,7 +63,7 @@
                   "color":0xFFDDDDDD},
                 "size":{
                   "width":360,
-                  "height":1350}},
+                  "height":1630}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -197,8 +197,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":0,
-              "y":280},
+              "x":3,
+              "y":363},
             "size":{
               "width":360,
               "height":40},
@@ -216,8 +216,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":0,
-                  "y":280},
+                  "x":3,
+                  "y":363},
                 "size":{
                   "width":360,
                   "height":40},
@@ -236,8 +236,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":13,
-              "y":292},
+              "x":16,
+              "y":375},
             "size":{
               "width":15,
               "height":16}},
@@ -252,8 +252,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":13,
-                  "y":292},
+                  "x":16,
+                  "y":375},
                 "size":{
                   "width":15,
                   "height":16}},
@@ -267,8 +267,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":84,
-              "y":292},
+              "x":87,
+              "y":375},
             "size":{
               "width":53,
               "height":16}},
@@ -283,8 +283,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":84,
-                  "y":292},
+                  "x":87,
+                  "y":375},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -300,8 +300,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":288},
+              "x":43,
+              "y":371},
             "size":{
               "width":25,
               "height":25}},
@@ -316,8 +316,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":288},
+                  "x":43,
+                  "y":371},
                 "size":{
                   "width":25,
                   "height":25}},
@@ -333,8 +333,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":0,
-              "y":330},
+              "x":3,
+              "y":413},
             "size":{
               "width":360,
               "height":120},
@@ -352,8 +352,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":0,
-                  "y":330},
+                  "x":3,
+                  "y":413},
                 "size":{
                   "width":360,
                   "height":120},
@@ -374,8 +374,8 @@
             "fontSize":"11px",
             "verticalAlignment":"middle",
             "location":{
-              "x":21,
-              "y":340},
+              "x":24,
+              "y":423},
             "size":{
               "width":318,
               "height":14}},
@@ -392,8 +392,8 @@
                 "fontSize":"11px",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":21,
-                  "y":340},
+                  "x":24,
+                  "y":423},
                 "size":{
                   "width":318,
                   "height":14}},
@@ -417,8 +417,8 @@
               "fillType":"solid",
               "color":0xFFFF0033},
             "location":{
-              "x":60,
-              "y":364},
+              "x":63,
+              "y":447},
             "size":{
               "width":230,
               "height":50},
@@ -446,8 +446,8 @@
                   "fillType":"solid",
                   "color":0xFFFF0033},
                 "location":{
-                  "x":60,
-                  "y":364},
+                  "x":63,
+                  "y":447},
                 "size":{
                   "width":230,
                   "height":50},
@@ -486,8 +486,8 @@
               "color":0xFF0099FF,
               "opacity":1},
             "location":{
-              "x":60,
-              "y":419},
+              "x":63,
+              "y":502},
             "size":{
               "width":137,
               "height":14}},
@@ -507,8 +507,8 @@
                   "color":0xFF0099FF,
                   "opacity":1},
                 "location":{
-                  "x":60,
-                  "y":419},
+                  "x":63,
+                  "y":502},
                 "size":{
                   "width":137,
                   "height":14}},
@@ -1275,8 +1275,8 @@
           "style":{
             "horizontalAlignment":"left",
             "location":{
-              "x":0,
-              "y":460},
+              "x":3,
+              "y":543},
             "size":{
               "width":360,
               "height":350}},
@@ -1292,8 +1292,8 @@
               "style":{
                 "horizontalAlignment":"left",
                 "location":{
-                  "x":0,
-                  "y":460},
+                  "x":3,
+                  "y":543},
                 "size":{
                   "width":360,
                   "height":350}},
@@ -1310,8 +1310,8 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":120,
-              "y":476},
+              "x":117.5,
+              "y":533},
             "size":{
               "width":121,
               "height":24}},
@@ -1327,8 +1327,8 @@
               "style":{
                 "fontSize":"20px",
                 "location":{
-                  "x":120,
-                  "y":476},
+                  "x":117.5,
+                  "y":533},
                 "size":{
                   "width":121,
                   "height":24}},
@@ -1449,8 +1449,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":0,
-              "y":830},
+              "x":1,
+              "y":903},
             "size":{
               "width":359,
               "height":617}},
@@ -1465,8 +1465,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":0,
-                  "y":830},
+                  "x":1,
+                  "y":903},
                 "size":{
                   "width":359,
                   "height":617}},
@@ -1487,8 +1487,8 @@
               "color":0xFF999999,
               "opacity":1},
             "location":{
-              "x":184,
-              "y":786},
+              "x":187,
+              "y":869},
             "size":{
               "width":166,
               "height":14}},
@@ -1508,15 +1508,35 @@
                   "color":0xFF999999,
                   "opacity":1},
                 "location":{
-                  "x":184,
-                  "y":786},
+                  "x":187,
+                  "y":869},
                 "size":{
                   "width":166,
                   "height":14}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"67ddfac7bcff4df38c67a265d67f0720",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":14,
+              "y":280},
+            "size":{
+              "width":331,
+              "height":60}},
+          "adaptiveStyles":{
+}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1659,4 +1679,6 @@
     "6e21267239fc4e509d92d79fcf10d72e":{
       "scriptId":"u68"},
     "9464c59ef0e84449a7425458aa64063c":{
-      "scriptId":"u69"}}});
+      "scriptId":"u69"},
+    "67ddfac7bcff4df38c67a265d67f0720":{
+      "scriptId":"u70"}}});
