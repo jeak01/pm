@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_0会员充值.html",
-  "generationDate":new Date(1522118148068.21),
+  "generationDate":new Date(1522118385651.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1536,7 +1536,42 @@
               "width":331,
               "height":60}},
           "adaptiveStyles":{
-}}]}},
+}},
+{
+          "id":"496d47ce97a7459e8715d54c46690593",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "location":{
+              "x":398,
+              "y":290},
+            "size":{
+              "width":302,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5fc6ae90a959420180740a0c67559702",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "location":{
+                  "x":398,
+                  "y":290},
+                "size":{
+                  "width":302,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1681,4 +1716,8 @@
     "9464c59ef0e84449a7425458aa64063c":{
       "scriptId":"u69"},
     "67ddfac7bcff4df38c67a265d67f0720":{
-      "scriptId":"u70"}}});
+      "scriptId":"u70"},
+    "496d47ce97a7459e8715d54c46690593":{
+      "scriptId":"u71"},
+    "5fc6ae90a959420180740a0c67559702":{
+      "scriptId":"u72"}}});
