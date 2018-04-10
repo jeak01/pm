@@ -603,7 +603,11 @@
             "children":[{
                 "pageName":"12.0 发现商城",
                 "type":"Wireframe",
-                "url":"12_0_发现商城.html"}]},
+                "url":"12_0_发现商城.html",
+                "children":[{
+                    "pageName":"7.7商品详情（发现商城）",
+                    "type":"Wireframe",
+                    "url":"7_7商品详情（发现商城）.html"}]}]},
 {
             "pageName":"13 推广管理",
             "type":"Folder",
@@ -668,10 +672,6 @@
             "pageName":"1.6提交成功（农旅生活卡）",
             "type":"Wireframe",
             "url":"1_6提交成功（农旅生活卡）.html"},
-{
-            "pageName":"7.7商品详情（发现商城）",
-            "type":"Wireframe",
-            "url":"7_7商品详情（发现商城）.html"},
 {
             "pageName":"12.0 商城首页",
             "type":"Wireframe",
