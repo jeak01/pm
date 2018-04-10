@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"12_0_商城首页.html",
-  "generationDate":new Date(1522118411796.72),
+  "generationDate":new Date(1523325447163.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -153,7 +153,7 @@
               "y":14},
             "size":{
               "width":53,
-              "height":16}},
+              "height":13}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -170,7 +170,7 @@
                   "y":14},
                 "size":{
                   "width":53,
-                  "height":16}},
+                  "height":13}},
               "adaptiveStyles":{
 }}],
           "images":{

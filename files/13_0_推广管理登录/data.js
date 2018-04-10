@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"13_0_推广管理登录.html",
-  "generationDate":new Date(1522118408417.47),
+  "generationDate":new Date(1523325442735.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -89,7 +89,7 @@
               "y":50},
             "size":{
               "width":169,
-              "height":68}},
+              "height":60}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -108,7 +108,7 @@
                   "y":50},
                 "size":{
                   "width":169,
-                  "height":68}},
+                  "height":60}},
               "adaptiveStyles":{
 }}],
           "images":{
