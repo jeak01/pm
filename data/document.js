@@ -669,9 +669,9 @@
             "type":"Wireframe",
             "url":"1_6提交成功（农旅生活卡）.html"},
 {
-            "pageName":"7.7商品详情（简易商城）",
+            "pageName":"7.7商品详情（发现商城）",
             "type":"Wireframe",
-            "url":"7_7商品详情（简易商城）.html"},
+            "url":"7_7商品详情（发现商城）.html"},
 {
             "pageName":"12.0 商城首页",
             "type":"Wireframe",

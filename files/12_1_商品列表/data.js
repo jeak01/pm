@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"12_1_商品列表.html",
-  "generationDate":new Date(1523325447479.55),
+  "generationDate":new Date(1523326193959.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -948,10 +948,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.7商品详情（简易商城）",
+                      "description":"在 当前窗口 打开 7.7商品详情（发现商城）",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情（简易商城）.html",
+                        "url":"7_7商品详情（发现商城）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -978,10 +978,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.7商品详情（简易商城）",
+                      "description":"在 当前窗口 打开 7.7商品详情（发现商城）",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情（简易商城）.html",
+                        "url":"7_7商品详情（发现商城）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1008,10 +1008,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 7.7商品详情（简易商城）",
+                      "description":"在 当前窗口 打开 7.7商品详情（发现商城）",
                       "target":{
                         "targetType":"page",
-                        "url":"7_7商品详情（简易商城）.html",
+                        "url":"7_7商品详情（发现商城）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},
