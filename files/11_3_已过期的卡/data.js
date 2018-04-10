@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"11_3_已过期的卡.html",
-  "generationDate":new Date(1523326188363.68),
+  "generationDate":new Date(1523326606462.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
